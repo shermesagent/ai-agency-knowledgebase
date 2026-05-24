@@ -10,6 +10,8 @@ The practical path to [[Superagency]] is not “let an agent do everything.” I
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024-12-19 — distinguishes predictable workflows from more open-ended agents and describes patterns such as prompt chaining, routing, parallelization, orchestrator-worker, and evaluator-optimizer loops.
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST, 2023/2024 — provides the Map, Measure, Manage, Govern loop that should wrap higher-impact agent workflows.
 - [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — reinforces that practical gains come from repeated human-AI collaboration, not blind delegation.
+- [Real AI Agents and Real Work](https://www.oneusefulthing.org/p/real-ai-agents-and-real-work), Ethan Mollick, 2025 — argues that capable agents make the race between human-centered workflow design and low-quality automated output more urgent.
+- [2025 Work Trend Index Annual Report](https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf), Microsoft, 2025 — frames agents as part of organizational redesign, not only individual productivity tools.
 
 ## Practical Examples
 - **Prompt chain:** Research question → source list → source scoring → synthesis → human edit. Useful for [[AI Research Agents]].
@@ -18,12 +20,14 @@ The practical path to [[Superagency]] is not “let an agent do everything.” I
 - **Evaluator-optimizer:** Generate a draft, score it against a rubric, revise, and surface remaining uncertainties.
 - **Orchestrator-worker:** A planning agent decomposes a task into small subtasks, delegates them, and assembles a result for human review.
 - **Human checkpoint:** Stop before publishing, sending, purchasing, deleting, grading, disciplining, or making any high-consequence decision.
+- **Agent supervisor loop:** A human defines the objective, assigns a bounded subtask to an agent, inspects artifacts and logs, and updates the workflow before broader rollout.
 
 ## Risks / Limits
 - Agentic systems can compound errors when they act on unverified intermediate outputs.
 - Tool access can create privacy, security, or financial risks if permissions are too broad.
 - More autonomy increases observability needs: logs, dry runs, approval gates, rollback plans, and incident records.
 - Many “agent” tasks are better solved with a simple checklist, script, or deterministic workflow.
+- Agents can produce “infinite PowerPoints” or plausible busywork unless the workflow includes quality criteria and a human-owned outcome.
 
 ## Related Pages
 - [[Home Server AI Agents]]
@@ -31,6 +35,8 @@ The practical path to [[Superagency]] is not “let an agent do everything.” I
 - [[Responsible Deployment Loop]]
 - [[AI Use Case Evaluation Rubric]]
 - [[AI as Copilot]]
+- [[Frontier Firm]]
+- [[AI Field Experiment Evidence]]
 
 ## Tags
 #ai-agents #practical-ai #augmentation #responsible-ai #tools

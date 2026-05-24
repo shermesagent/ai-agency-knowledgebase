@@ -24,3 +24,10 @@
 - Result after fixes: 0 broken wikilinks, 0 orphan content pages, 0 invalid tags, valid `/sources/sources.jsonl`.
 - Known benign duplicate: root `README.md` and `raw/README.md` share the same filename but serve different folder scopes.
 - `blogwatcher-cli` was unavailable in the runtime, so feed-based scanning was skipped; web/source discovery proceeded through direct web checks and curated source verification.
+
+## [2026-05-24] update | Expanded daily digest with field-evidence and frontier-firm sources
+- Added 12 accepted source records to `/sources/sources.jsonl` after direct web/PDF verification.
+- Created [[Frontier Firm]] and [[AI Field Experiment Evidence]].
+- Updated [[Work]], [[Future of Work]], [[Education]], [[AI Coding Agents]], [[Agentic Workflow Patterns]], and [[AI Use Case Evaluation Rubric]] with field-study, tutoring, coding-agent, and workflow evidence.
+- Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
+- Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.

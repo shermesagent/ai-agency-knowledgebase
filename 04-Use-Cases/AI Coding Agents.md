@@ -4,24 +4,30 @@
 AI coding agents can scaffold projects, debug, write tests, refactor, document, and operate systems when paired with version control and human review.
 
 ## Why It Matters
-This idea matters because the knowledgebase is organized around AI that expands human agency rather than treating AI as magic, inevitability, or replacement. Future daily digests should add concrete evidence, examples, critiques, and citations here.
+Coding agents are one of the most concrete places to observe augmentation: they can turn intent into tests, scaffolds, refactors, deployment checks, documentation, and debugging hypotheses. But the agency gain depends on whether developers keep architectural judgment, code ownership, review discipline, and learning rather than becoming passive approvers.
 
 ## Best Supporting Sources
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+- [Impact of Generative AI in Software Development](https://services.google.com/fh/files/misc/dora-impact-of-generative-ai-in-software-development.pdf), Google/DORA, 2025 — argues for measuring AI adoption through software-delivery outcomes, developer trust, feedback loops, and long-term improvement rather than assuming instant productivity.
+- [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024 — provides workflow patterns such as prompt chaining, routing, parallelization, and evaluator loops that can be adapted to coding agents.
+- [Navigating the Jagged Technological Frontier](https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf), Dell’Acqua et al., 2023 — reminds coding teams that AI can help strongly inside its frontier and mislead outside it.
 
 ## Practical Examples
-- Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
-- Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
+- Use agents to create failing tests first, propose a patch, run checks, and summarize the diff for human review.
+- Route low-risk maintenance tasks to AI workflows while keeping architecture, security, data migration, and user-impact decisions human-led.
+- Track cycle time, escaped defects, review burden, developer learning, and rollback frequency rather than only lines of code or tickets closed.
 
 ## Risks / Limits
 - Avoid treating one positive case study as universal proof.
 - Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
 - Update this section whenever strong counterarguments appear.
+- Agents with shell, network, or production access need least privilege, logs, dry runs, and explicit approval gates.
 
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Responsible Deployment]]
 - [[AI Use Case Evaluation Rubric]]
+- [[Agentic Workflow Patterns]]
+- [[AI Field Experiment Evidence]]
 
 ## Tags
 #ai-agents #augmentation #practical-ai
