@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Family and Personal Life]]
 
 ## Tags
-#human-agency #ai-optimism #open-question
+#human-agency #ai-optimism #research

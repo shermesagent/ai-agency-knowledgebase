@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Government and Civic Life]]
 
 ## Tags
-#governance #civic-life #open-question
+#governance #civic-life #research

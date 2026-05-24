@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Practical AI]]
 
 ## Tags
-#practical-ai #responsible-ai #frameworks
+#practical-ai #responsible-ai #tools

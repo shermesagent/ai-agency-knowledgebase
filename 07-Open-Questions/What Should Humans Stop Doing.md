@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Future of Work]]
 
 ## Tags
-#future-of-work #human-agency #open-question
+#future-of-work #human-agency #research

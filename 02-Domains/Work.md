@@ -4,24 +4,32 @@
 AI can transform work by automating routine tasks, expanding analytical capability, reducing coordination friction, and helping workers learn faster.
 
 ## Why It Matters
-This idea matters because the knowledgebase is organized around AI that expands human agency rather than treating AI as magic, inevitability, or replacement. Future daily digests should add concrete evidence, examples, critiques, and citations here.
+Work is where the agency question becomes concrete: does AI help more people do more valuable work, or does it deskill workers and concentrate returns? The answer depends on task design, organizational incentives, access, training, and governance. Brynjolfsson’s Turing Trap and Anthropic’s Economic Index are useful together because they focus attention on task-level choices between augmentation and substitution.
 
 ## Best Supporting Sources
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+- [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — argues that imitating humans can steer AI toward replacement, while augmenting humans can expand productivity and shared prosperity.
+- [The Anthropic Economic Index](https://www.anthropic.com/economic-index), Anthropic, 2025/2026 — analyzes how Claude is used across occupations and tasks, including collaboration versus delegation patterns.
+- [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — practical guide to working with AI as a thinking and production partner.
+- [Computational Power and AI](https://ainowinstitute.org/publications/compute-and-ai), AI Now Institute, 2023 — warns that infrastructure concentration shapes who benefits from AI.
 
 ## Practical Examples
-- Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
-- Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
+- Run a task inventory: label work as augment, automate, preserve-human, or prohibit-AI.
+- Use AI for first drafts, meeting synthesis, data exploration, code assistance, training simulations, and customer-response preparation with human review.
+- Create team norms for disclosure, source checking, private data, and escalation.
+- Measure value beyond speed: quality, learning, worker autonomy, customer outcomes, and error reduction.
 
 ## Risks / Limits
-- Avoid treating one positive case study as universal proof.
-- Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
-- Update this section whenever strong counterarguments appear.
+- Productivity gains may not translate into worker agency if organizations use AI mainly for surveillance, speedup, or headcount reduction.
+- AI can flatten junior learning if novices never practice underlying skills.
+- Vendor concentration can make small firms and workers dependent on opaque systems.
+- Labor impacts should be tracked at task and role levels rather than hidden behind aggregate productivity claims.
 
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]
 - [[AI Coding Agents]]
+- [[AI as Copilot]]
+- [[AI and Inequality]]
 
 ## Tags
 #future-of-work #augmentation #practical-ai

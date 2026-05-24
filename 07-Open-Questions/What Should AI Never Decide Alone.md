@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Healthcare]]
 
 ## Tags
-#responsible-ai #governance #open-question
+#responsible-ai #governance #research

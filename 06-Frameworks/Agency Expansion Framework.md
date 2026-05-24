@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Responsible Deployment Loop]]
 
 ## Tags
-#human-agency #practical-ai #frameworks
+#human-agency #practical-ai #augmentation

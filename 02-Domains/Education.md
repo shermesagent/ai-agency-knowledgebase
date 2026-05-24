@@ -4,24 +4,32 @@
 Education is one of the clearest domains for agency-amplifying AI: tutoring, feedback, lesson planning, accessibility, language support, and administrative relief.
 
 ## Why It Matters
-This idea matters because the knowledgebase is organized around AI that expands human agency rather than treating AI as magic, inevitability, or replacement. Future daily digests should add concrete evidence, examples, critiques, and citations here.
+AI can expand educational agency when it gives students more feedback and practice, gives teachers better support, and gives families access to explanations that were previously scarce. But education also concentrates risks: privacy, cheating, unequal access, overreliance, weak procurement, and tools that optimize for answer production instead of learning.
 
 ## Best Supporting Sources
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+- [Artificial Intelligence and the Future of Teaching and Learning](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf), U.S. Department of Education, 2023 — frames AI in education around teaching, learning, assessment, equity, privacy, and human judgment.
+- [Brave New Words](https://www.penguinrandomhouse.com/books/740806/brave-new-words-by-salman-khan/), Salman Khan, 2024 — optimistic practitioner account of AI tutoring as more frequent feedback and Socratic support.
+- [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — argues for learning by working with AI directly while retaining human judgment.
+- [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST — useful for school-district pilots and procurement governance.
 
 ## Practical Examples
-- Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
-- Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
+- Pilot an AI tutor for one unit with teacher-approved prompts, student reflection logs, and pre/post assessment.
+- Use AI to generate differentiated explanations, examples, and practice questions, then have teachers verify alignment and quality.
+- Teach students to ask AI for hints, counterexamples, and feedback rather than final answers.
+- Use AI to reduce administrative burden so educators can spend more time on relationships, coaching, and diagnosis.
 
 ## Risks / Limits
-- Avoid treating one positive case study as universal proof.
-- Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
-- Update this section whenever strong counterarguments appear.
+- Students can outsource cognition unless assignments reward process, defense, revision, and metacognition.
+- Tools may leak student data or create surveillance dynamics if districts do not set procurement and retention rules.
+- AI tutors can confidently mislead; teachers need review routines and escalation paths.
+- Unequal access to high-quality AI support could widen learning gaps if public institutions do not plan for equity.
 
 ## Related Pages
 - [[AI Tutors]]
 - [[AI for School Districts]]
 - [[Responsible Deployment]]
+- [[Democratization of Expertise]]
+- [[AI as Normal Technology]]
 
 ## Tags
 #ai-education #human-agency #practical-ai

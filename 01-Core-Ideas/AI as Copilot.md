@@ -4,24 +4,32 @@
 AI as copilot frames AI as a collaborator, tutor, analyst, drafting partner, and coach that keeps humans in the loop for goals, judgment, taste, ethics, and accountability.
 
 ## Why It Matters
-This idea matters because the knowledgebase is organized around AI that expands human agency rather than treating AI as magic, inevitability, or replacement. Future daily digests should add concrete evidence, examples, critiques, and citations here.
+The copilot frame is the everyday operating model for [[Superagency]]: AI expands human agency when it helps people think, learn, create, decide, and coordinate better without erasing human responsibility. Ethan Mollick’s Co-Intelligence framing, Brynjolfsson’s Turing Trap warning, and Anthropic’s task-level Economic Index all point to the same distinction: augmentation and delegation are design choices, not automatic outcomes.
 
 ## Best Supporting Sources
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+- [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — practical model for treating AI as a collaborator that must be used, tested, and supervised in real work.
+- [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — warns that optimizing for human-like substitution can reduce shared prosperity, while augmentation can expand capability.
+- [The Anthropic Economic Index](https://www.anthropic.com/economic-index), Anthropic, 2025/2026 — analyzes real-world Claude usage around collaboration versus delegation at the task level.
+- [Superagency](https://www.superagency.ai/), Reid Hoffman with Greg Beato, 2025 — provides the optimistic thesis that AI can broaden human agency when shaped by people and institutions.
 
 ## Practical Examples
-- Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
-- Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
+- Use AI to draft, critique, and revise documents while the human owns the final argument and evidence.
+- Pair an AI tutor with a learner who must explain the answer, not merely paste it.
+- Use an AI analyst to generate hypotheses, summarize sources, and list uncertainties before a human decision.
+- Convert repetitive business or home-server tasks into bounded [[Agentic Workflow Patterns]] with logging and review.
 
 ## Risks / Limits
-- Avoid treating one positive case study as universal proof.
-- Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
-- Update this section whenever strong counterarguments appear.
+- Copilot language can hide real automation; ask whether the human can understand, contest, and override the output.
+- Overreliance can deskill users if they stop practicing judgment, memory, writing, or quantitative reasoning.
+- Copilots can shift accountability ambiguously unless roles, review steps, and escalation rules are explicit.
+- A copilot that only powerful organizations can afford may widen rather than narrow the agency gap.
 
 ## Related Pages
 - [[Human Agency]]
 - [[AI Writing Partners]]
 - [[AI Executive Assistants]]
+- [[Agentic Workflow Patterns]]
+- [[Work]]
 
 ## Tags
 #augmentation #practical-ai #human-agency

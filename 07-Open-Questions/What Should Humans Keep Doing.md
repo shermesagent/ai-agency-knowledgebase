@@ -24,4 +24,4 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - [[Human Agency]]
 
 ## Tags
-#human-agency #responsible-ai #open-question
+#human-agency #responsible-ai #research
