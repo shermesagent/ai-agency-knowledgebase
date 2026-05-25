@@ -9,6 +9,7 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 - [[Co-Intelligence]] — everyday human-AI collaboration practice
 - [[Responsible Deployment]] — use, measure, improve, govern
 - [[Optimism Without Naivety]] — pro-progress without ignoring risks
+- [[Positive Alignment]] — AI that supports human flourishing, not just harm avoidance
 - [[Frontier Firm]] — human-led, AI-operated organizational redesign
 
 ## Domains
@@ -51,12 +52,13 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 - [[Task-Level AI Adoption]]
 - [[AI Tutor Evaluation Checklist]]
 - [[AI Field Experiment Evidence]]
+- [[Human Review Checkpoints]]
 
 ## Daily Digests
 Daily digests live in `/00-Daily-Digests/` and are committed to Git by the scheduled research curator.
 
 ## Latest Run
-- [[Daily AI Agency Digest — 2026-05-24]] — expanded daily run: field-experiment evidence, frontier-firm operating model, tutoring evidence, coding-agent metrics, and governance links.
+- [[Daily AI Agency Digest — 2026-05-25]] — agentic human-agency operating model, positive alignment, school AI guidance, responsible innovation playbooks, and human-review checkpoints.
 
 ## Open Questions
 - [[What Should Humans Keep Doing]]

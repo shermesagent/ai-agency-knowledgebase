@@ -31,3 +31,11 @@
 - Updated [[Work]], [[Future of Work]], [[Education]], [[AI Coding Agents]], [[Agentic Workflow Patterns]], and [[AI Use Case Evaluation Rubric]] with field-study, tutoring, coding-agent, and workflow evidence.
 - Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
 - Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.
+
+## [2026-05-25] update | Daily AI agency curator run
+- Created [[Daily AI Agency Digest — 2026-05-25]].
+- Added 14 accepted source records to `/sources/sources.jsonl` after direct web/PDF verification; `blogwatcher-cli` was unavailable, so feed scanning was skipped.
+- Created [[Positive Alignment]] and [[Human Review Checkpoints]].
+- Updated [[Human Agency]], [[Responsible Deployment]], [[Education]], [[Work]], [[AI for School Districts]], [[Agentic Workflow Patterns]], [[Balanced Governance]], and [[Strongest AI Risk Arguments]].
+- Updated source libraries [[Articles]], [[Papers]], [[Reports]], and navigation in [[AI Agency Knowledgebase]].
+- Noted access issues for some candidate pages (for example McKinsey/ScienceDirect/Medium); skipped inaccessible candidates unless enough verified metadata/content was available elsewhere.
