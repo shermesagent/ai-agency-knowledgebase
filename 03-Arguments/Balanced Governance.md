@@ -6,7 +6,9 @@ Balanced governance enables useful deployment while reducing harm through transp
 ## Why It Matters
 A superagency wiki needs governance because agency expansion is not automatic. People gain agency when systems are reliable, contestable, secure, privacy-preserving, and aligned to human goals; they lose agency when systems are opaque, coercive, biased, or impossible to challenge.
 
-Today’s sources reinforce governance as capacity-building rather than fear-based restriction. WEF frames responsible AI as scalable innovation practice; Oxford/ITU emphasize standards and cross-domain coordination; State of AI 2025 shifts attention toward concrete reliability, cyber resilience, and autonomous-system governance; Google DeepMind shows the internal operating practices large labs are building.
+Today's sources reinforce governance as capacity-building rather than fear-based restriction. WEF frames responsible AI as scalable innovation practice; Oxford/ITU emphasize standards and cross-domain coordination; State of AI 2025 shifts attention toward concrete reliability, cyber resilience, and autonomous-system governance; Google DeepMind shows the internal operating practices large labs are building.
+
+**May 2026 update:** The Stanford AI Index 2026 adds urgency: responsible AI is not keeping pace with capability. Documented AI incidents rose from 233 to 362 year-over-year. Safety benchmarks lag while capability benchmarks sprint ahead. And a new governance challenge: the "agentic convergence trap" (Van Esch et al. 2026) — organizations deploying similar AI agents risk silently converging on identical strategies, erasing competitive differentiation. This is a governance problem, not a technology problem: the solution involves explicit strategic review checkpoints, auditing for convergence, and preserving human decision rights on strategic questions.
 
 ## Best Supporting Sources
 - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) — Stanford HAI, 2025. Reliability 5/5; relevance 5/5. Annual evidence base on AI technical progress, adoption, policy, education, and public attitudes.

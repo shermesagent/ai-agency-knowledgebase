@@ -32,7 +32,18 @@
 - Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
 - Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.
 
-## [2026-05-25] update | Daily AI agency curator run
+## [2026-05-26] update | Daily AI agency curator run
+- Created [[Daily AI Agency Digest — 2026-05-26]].
+- Added 8 accepted source records to `/sources/sources.jsonl` after direct web verification.
+- Created [[Agentic Convergence Trap]] as a new core idea page.
+- Updated [[Work]] — added MIT Tech Review labor data, HBR manager bottleneck, and manufacturing augmentation patterns.
+- Updated [[AI Coding Agents]] — added Nolan Lawson slow-quality coding approach and multi-model review technique.
+- Updated [[Human Agency]] — added evidence-based transition framing, data infrastructure needs, and agentic convergence as agency-loss risk.
+- Updated [[Agentic Workflow Patterns]] — added multi-model independent review pattern and manager-of-managers workflow.
+- Updated [[Balanced Governance]] — added Stanford AI Index 2026 responsible-AI gap data and agentic convergence governance needs.
+- Updated [[Optimism Without Naivety]] — added data-driven labor market framing, Stanford jagged frontier, and Doctorow bubble perspective.
+- Updated [[AI Agency Knowledgebase]] navigation.
+- Noted: `blogwatcher-cli` was not available in the runtime; web-based source discovery via direct URL fetching completed the source pass.
 - Created [[Daily AI Agency Digest — 2026-05-25]].
 - Added 14 accepted source records to `/sources/sources.jsonl` after direct web/PDF verification; `blogwatcher-cli` was unavailable, so feed scanning was skipped.
 - Created [[Positive Alignment]] and [[Human Review Checkpoints]].

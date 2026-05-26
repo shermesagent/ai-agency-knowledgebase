@@ -5,6 +5,7 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 ## Start Here
 - [[Superagency]] — the central organizing idea
 - [[Human Agency]] — why this wiki focuses on human capability, not technology for its own sake
+- [[Agentic Convergence Trap]] — when competing companies' AI agents silently learn identical strategies
 - [[AI as Copilot]] — augmentation over replacement
 - [[Co-Intelligence]] — everyday human-AI collaboration practice
 - [[Responsible Deployment]] — use, measure, improve, govern
@@ -58,6 +59,7 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 Daily digests live in `/00-Daily-Digests/` and are committed to Git by the scheduled research curator.
 
 ## Latest Run
+- [[Daily AI Agency Digest — 2026-05-26]] — AI jobs data reality check, manager bottleneck, agentic convergence trap, slow-quality coding, Stanford AI Index 2026.
 - [[Daily AI Agency Digest — 2026-05-25]] — agentic human-agency operating model, positive alignment, school AI guidance, responsible innovation playbooks, and human-review checkpoints.
 
 ## Open Questions

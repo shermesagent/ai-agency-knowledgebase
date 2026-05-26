@@ -9,7 +9,8 @@ Coding agents are one of the most concrete places to observe augmentation: they 
 ## Best Supporting Sources
 - [Impact of Generative AI in Software Development](https://services.google.com/fh/files/misc/dora-impact-of-generative-ai-in-software-development.pdf), Google/DORA, 2025 — argues for measuring AI adoption through software-delivery outcomes, developer trust, feedback loops, and long-term improvement rather than assuming instant productivity.
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024 — provides workflow patterns such as prompt chaining, routing, parallelization, and evaluator loops that can be adapted to coding agents.
-- [Navigating the Jagged Technological Frontier](https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf), Dell’Acqua et al., 2023 — reminds coding teams that AI can help strongly inside its frontier and mislead outside it.
+- [Navigating the Jagged Technological Frontier](https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf), Dell'Acqua et al., 2023 — reminds coding teams that AI can help strongly inside its frontier and mislead outside it.
+- [Using AI to Write Better Code More Slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/), Nolan Lawson, 2026 — practitioner argument for using multiple AI models as independent code reviewers to find bugs and improve quality rather than speed; multi-model review with near-zero false positive rate.
 
 ## Practical Examples
 - Use agents to create failing tests first, propose a patch, run checks, and summarize the diff for human review.
