@@ -6,31 +6,30 @@ Balanced governance enables useful deployment while reducing harm through transp
 ## Why It Matters
 A superagency wiki needs governance because agency expansion is not automatic. People gain agency when systems are reliable, contestable, secure, privacy-preserving, and aligned to human goals; they lose agency when systems are opaque, coercive, biased, or impossible to challenge.
 
-Today's sources reinforce governance as capacity-building rather than fear-based restriction. WEF frames responsible AI as scalable innovation practice; Oxford/ITU emphasize standards and cross-domain coordination; State of AI 2025 shifts attention toward concrete reliability, cyber resilience, and autonomous-system governance; Google DeepMind shows the internal operating practices large labs are building.
-
-**May 2026 update:** The Stanford AI Index 2026 adds urgency: responsible AI is not keeping pace with capability. Documented AI incidents rose from 233 to 362 year-over-year. Safety benchmarks lag while capability benchmarks sprint ahead. And a new governance challenge: the "agentic convergence trap" (Van Esch et al. 2026) — organizations deploying similar AI agents risk silently converging on identical strategies, erasing competitive differentiation. This is a governance problem, not a technology problem: the solution involves explicit strategic review checkpoints, auditing for convergence, and preserving human decision rights on strategic questions.
+Recent research pushes governance beyond "add guardrails" toward governance-through-design. The metacognition-as-governance framework argues that capability and governance are not competing aims — good governance is good design at computational, algorithmic, and ecological levels. The STEM assessment framework shows how principled governance stances (Restrict/Scaffold/Require) can be operationalized from validity arguments rather than blanket policies. And the governance vacuum in decentralized AI shows that as systems become more distributed, traditional regulatory address may fail entirely — requiring a shift from policy to protocol.
 
 ## Best Supporting Sources
-- [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) — Stanford HAI, 2025. Reliability 5/5; relevance 5/5. Annual evidence base on AI technical progress, adoption, policy, education, and public attitudes.
-- [The Annual AI Governance Report 2025: Steering the Future of AI](https://aigi.ox.ac.uk/publications/the-annual-ai-governance-report-2025-steering-the-future-of-ai/) — Oxford Martin AIGI / ITU, 2025. Reliability 5/5; relevance 4/5. Cross-domain governance and standards report covering authenticity, cybersecurity, energy, healthcare, food security, mobility, and more.
-- [Advancing Responsible AI Innovation: A Playbook](https://www.weforum.org/publications/advancing-responsible-ai-innovation-a-playbook/) — World Economic Forum, 2025. Reliability 4/5; relevance 4/5. Operational playbook for turning responsible AI principles into innovation practice.
-- [State of AI Report 2025](https://www.stateof.ai/) — Nathan Benaich / Air Street Capital, 2025. Reliability 4/5; relevance 4/5. Broad annual scan noting the shift toward reliability, cyber resilience, and governance of autonomous systems.
-- [Responsible AI Progress Report](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/documents/ai-responsibility-update-published-february-2025.pdf) — Google DeepMind, 2025. Reliability 4/5; relevance 4/5. Corporate transparency report describing governance, measurement, red teaming, controls, provenance, and literacy.
-- [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) — NIST, 2024-07-26. Reliability 5/5; relevance 5/5. Cross-sector companion profile for applying the NIST AI RMF to generative AI.
-- [The Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) — World Economic Forum, 2025. Reliability 4/5; relevance 4/5. Global employer survey and analysis of job and skill shifts, including AI and automation as major forces.
+- [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) — Stanford HAI, 2025. Annual evidence base on AI technical progress, adoption, policy, education, and public attitudes.
+- [The 2026 AI Index Report](https://hai.stanford.edu/ai-index/2026-ai-index-report) — Stanford HAI, 2026. Seventh edition: documents responsible AI lagging behind capability (incidents 233→362), US-China model gap closed, jagged frontier persists.
+- [The Annual AI Governance Report 2025](https://aigi.ox.ac.uk/publications/the-annual-ai-governance-report-2025-steering-the-future-of-ai/) — Oxford Martin AIGI / ITU, 2025. Cross-domain governance and standards report.
+- [Metacognition Should Be the Scientific Framework for Bounded and Effective Self-Governance in Generative AI](https://arxiv.org/abs/2605.23981), Ji, Grossmann, Karimi, 2026 — three-level framework (computational, algorithmic, ecological) arguing governance and capability are complementary design aims.
+- [Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment](https://arxiv.org/abs/2605.24837), Gao, Chen, Li, Zhai, 2026 — Restrict/Scaffold/Require stances grounded in validity arguments.
+- [Is Decentralized AI Governable? From Regulative Policy to Constitutive Protocol](https://arxiv.org/abs/2605.24538), Hu and Rong, 2026 — analyzes the governance vacuum in decentralized AI, argues for protocol-based constitutive governance.
+- [Advancing Responsible AI Innovation: A Playbook](https://www.weforum.org/publications/advancing-responsible-ai-innovation-a-playbook/) — World Economic Forum, 2025. Operational playbook for turning responsible AI principles into innovation practice.
+- [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) — NIST, 2024. Cross-sector companion profile for applying the NIST AI RMF to generative AI.
 
 ## Practical Examples
 - Use the NIST AI RMF profile as a checklist before deploying generative AI in consequential workflows.
+- Apply the Restrict/Scaffold/Require framework to AI governance decisions: restrict when AI contaminates validity, scaffold when it supports peripheral demands, require when AI competency is the target construct.
 - Define decision rights: what AI can draft, what it can recommend, what requires human approval, and what it should never decide alone.
 - Monitor real outcomes after launch: error rates, appeal paths, privacy incidents, bias signals, user trust, and who benefits.
 - Build standards and shared metrics before agentic systems become too autonomous to evaluate.
-- Pair pro-adoption policy with public capacity: procurement skill, audit literacy, open standards, and contestability.
 
 ## Risks / Limits
 - Governance can become paperwork if it is disconnected from actual workflow risks and user experience.
 - Overly broad rules can block low-risk, high-benefit experimentation; under-specific rules can permit harmful deployment.
 - The right governance level depends on consequence: brainstorming tools and student placement decisions should not be treated the same.
-- Corporate governance reports are informative but self-interested; they should not substitute for independent oversight.
+- As AI systems become decentralized, traditional regulatory address (identifying a responsible entity) may become impossible — requiring fundamentally new governance approaches.
 
 ## Related Pages
 - [[Responsible Deployment]]
@@ -38,6 +37,8 @@ Today's sources reinforce governance as capacity-building rather than fear-based
 - [[Government and Civic Life]]
 - [[Human Review Checkpoints]]
 - [[What Should AI Never Decide Alone]]
+- [[Positive Alignment]]
+- [[AI-Augmented Scientific Collaboration]]
 
 ## Tags
 #governance #responsible-ai #ai-optimism #risk

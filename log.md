@@ -32,7 +32,19 @@
 - Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
 - Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.
 
-## [2026-05-26] update | Daily AI agency curator run
+## [2026-05-26] update | Daily AI curator pass 2
+- Created [[Daily AI Agency Digest — 2026-05-26 (Pass 2)]], complementary to the earlier May 26 digest.
+- Added 12 accepted source records to `/sources/sources.jsonl` from arXiv (cs.CY, cs.HC) RSS feeds.
+- Created [[AI-Augmented Scientific Collaboration]] as a new use-case page anchored on the global scientific-feedback RCT.
+- Updated [[Education]] — added correct-answer-trap evidence, Restrict/Scaffold/Require assessment governance framework, European student AI literacy data.
+- Updated [[Work]] — added M365 Copilot enterprise usage data (5.5M sessions), HARMONY R&D operating model, AI productivity moderating factors.
+- Updated [[AI as Copilot]] — added AI-as-equalizer-vs-amplifier framework, reasoning-traces-as-interface-artifacts study, collaborative writing design findings.
+- Updated [[Creativity]] — seeded with collaborative writing study, reasoning traces findings, batch-mode interaction recommendations.
+- Updated [[Government and Civic Life]] — seeded with Habermolt AI-delegated deliberation paradigm and decentralization governance vacuum analysis.
+- Updated [[Balanced Governance]] — added metacognition-as-governance framework, Restrict/Scaffold/Require education stances, decentralization governance challenges.
+- Updated [[AI and Human Flourishing]] — seeded with scientific collaboration RCT, AI-equalizer/amplifier reconciliation, student literacy crisis data.
+- Updated [[AI Agency Knowledgebase]] navigation with new digest link.
+- Noted: blogwatcher-cli unavailable; web-based arXiv RSS discovery completed the source pass.
 - Created [[Daily AI Agency Digest — 2026-05-26]].
 - Added 8 accepted source records to `/sources/sources.jsonl` after direct web verification.
 - Created [[Agentic Convergence Trap]] as a new core idea page.

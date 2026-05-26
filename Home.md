@@ -60,6 +60,7 @@ Daily digests live in `/00-Daily-Digests/` and are committed to Git by the sched
 
 ## Latest Run
 - [[Daily AI Agency Digest — 2026-05-26]] — AI jobs data reality check, manager bottleneck, agentic convergence trap, slow-quality coding, Stanford AI Index 2026.
+- [[Daily AI Agency Digest — 2026-05-26 (Pass 2)]] — scientific collaboration RCT, enterprise Copilot usage, AI tutor blind spots, R&D orchestration, AI-delegated deliberation, metacognition governance, student AI literacy crisis.
 - [[Daily AI Agency Digest — 2026-05-25]] — agentic human-agency operating model, positive alignment, school AI guidance, responsible innovation playbooks, and human-review checkpoints.
 
 ## Open Questions
