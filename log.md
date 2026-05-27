@@ -32,6 +32,14 @@
 - Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
 - Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.
 
+## [2026-05-27] update | Daily AI curator run
+- Created [[Daily AI Agency Digest — 2026-05-27]] anchored on Pope Leo XIV's *Magnifica Humanitas*, Vatican-Anthropic alliance, Claude Code & OpenClaw agent revolution, and Agentic Business Transformation framework.
+- Added 6 accepted source records to `/sources/sources.jsonl` from WIRED, MIT Technology Review, Stratechery, and Vatican primary sources.
+- Created [[Magnifica Humanitas]], [[AI Agent Revolution]], and [[Agentic Business Transformation]].
+- Updated [[Superagency]], [[AI as Copilot]], [[AI and Human Flourishing]], [[Balanced Governance]], [[Work]], and [[Home Server AI Agents]].
+- Updated [[AI Agency Knowledgebase]] navigation with new digest and pages.
+- Noted: WIRED RSS feed provided the primary source discovery path; Stratechery content was paywalled but meta description captured the thesis; arXiv and NYT were JS-rendered and not accessible via curl.
+
 ## [2026-05-26] update | Daily AI curator pass 2
 - Created [[Daily AI Agency Digest — 2026-05-26 (Pass 2)]], complementary to the earlier May 26 digest.
 - Added 12 accepted source records to `/sources/sources.jsonl` from arXiv (cs.CY, cs.HC) RSS feeds.

@@ -6,6 +6,8 @@ Self-hosted AI agents can make agency tangible: personal automations, private da
 ## Why It Matters
 Home-server agents turn [[Superagency]] into a personal infrastructure practice. They let individuals build small systems that summarize, monitor, remind, research, and coordinate around their own goals. The healthiest pattern is not maximum autonomy; it is local control, explicit permissions, observability, and human approval for consequential actions.
 
+The **[[AI Agent Revolution]]** has brought home-server agents to mainstream attention. OpenClaw, the open-source agent framework that reached 366K GitHub stars, exemplifies the pattern: users run AI agents on their own hardware (contributing to a Mac Mini shortage), giving them access to personal apps and data while retaining local control. The OpenClaw Foundation, co-founded by Dave Morin, explicitly aims to "bring people closer to AI" — a home-server vision at scale. The challenge: token costs for continuous agent operation can run to hundreds of dollars per week, and safety failures (unauthorized compliance, data disclosure, inbox deletion) are documented. The opportunity: agents that run on your hardware, with your data, following your rules, represent the most concrete path to personal AI sovereignty.
+
 ## Best Supporting Sources
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024 — favors simple workflows, prompt chaining, routing, parallelization, orchestrator-worker patterns, and evaluator loops before broad autonomy.
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST — useful for personal systems too: map the use case, measure behavior, manage risk, govern permissions.
@@ -24,6 +26,7 @@ Home-server agents turn [[Superagency]] into a personal infrastructure practice.
 - Human approval checkpoints should remain for sending messages, purchases, file deletion, public posts, and security changes.
 
 ## Related Pages
+- [[AI Agent Revolution]]
 - [[AI Research Agents]]
 - [[AI Executive Assistants]]
 - [[Responsible Deployment Loop]]

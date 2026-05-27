@@ -6,6 +6,8 @@ AI as copilot frames AI as a collaborator, tutor, analyst, drafting partner, and
 ## Why It Matters
 The copilot frame is the everyday operating model for [[Superagency]]: AI expands human agency when it helps people think, learn, create, decide, and coordinate better without erasing human responsibility. Recent research sharpens this: AI functions as a **cognitive amplifier** — its output quality depends on the expertise of the human directing it. On routine tasks, AI equalizes performance between novices and experts. On complex tasks requiring deep judgment, AI amplifies pre-existing expertise gaps. This means the copilot design challenge is not just "add AI" — it's "build AI that rewards and develops human expertise." Additionally, the *form* of interaction matters: reasoning traces from LLMs increase trust without improving performance (sometimes impairing it), and humanlike AI design creates positive expectations but can evoke feelings of surveillance.
 
+The most extreme realization yet of the copilot paradigm is the **[[AI Agent Revolution]]**: Claude Code and OpenClaw enable single developers to achieve 90x-408x productivity multipliers by orchestrating AI agents that handle execution while the human handles direction. Garry Tan (Y Combinator CEO) describes his output as "basically a team of 408 Garrys." This is augmentation at its most extreme — not AI replacing 407 developers, but one human directing AI agents to do the work of many. The "Claudeholic" phenomenon suggests that when AI genuinely amplifies capability, people don't become passive — they become obsessed.
+
 ## Best Supporting Sources
 - [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — practical model for treating AI as a collaborator that must be used, tested, and supervised in real work.
 - [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — warns that optimizing for human-like substitution can reduce shared prosperity, while augmentation can expand capability.
@@ -14,6 +16,7 @@ The copilot frame is the everyday operating model for [[Superagency]]: AI expand
 - [AI as Equalizer or Amplifier? Task Complexity as the Moderating Factor for Human Expertise in Hybrid Intelligence Systems](https://arxiv.org/abs/2512.10961), An, 2025/2026 — argues AI equalizes on routine tasks but amplifies expertise gaps on complex tasks; calls for expertise-sensitive AI design.
 - [Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition](https://arxiv.org/abs/2605.25856), Fernandes et al., 2026 — preregistered study (N=559) finding reasoning traces increase trust without improving performance; traces are "user-facing interface artifacts" not cognitive windows.
 - ["It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent](https://arxiv.org/abs/2605.24729), Yin et al., 2026 — humanlike AI design creates positive social expectations but also social costs including feelings of surveillance.
+- [AI Agents Plunged the Tech World Into Chaos](https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/), Steven Levy / WIRED, May 26, 2026 — definitive narrative of Claude Code and OpenClaw; single developers achieving 90x-408x productivity through AI agent orchestration. Reliability 5/5; relevance 5/5.
 
 ## Practical Examples
 - Use AI to draft, critique, and revise documents while the human owns the final argument and evidence.
@@ -32,6 +35,7 @@ The copilot frame is the everyday operating model for [[Superagency]]: AI expand
 
 ## Related Pages
 - [[Human Agency]]
+- [[AI Agent Revolution]]
 - [[AI Writing Partners]]
 - [[AI Executive Assistants]]
 - [[Agentic Workflow Patterns]]

@@ -12,6 +12,8 @@ MIT Technology Review's May 2026 labor data analysis (Rotman 2026) clarifies the
 
 HBR's May 2026 manager bottleneck analysis (Fosslien and Duffy 2026) reveals that AI-accelerated execution has made managers the constraint — 89% of leaders say AI accelerated work, but 87% of workers say teams lack time to coordinate. HBR's manufacturing research shows the best companies build AI *with* workers, not *for* them: involve workers in role mapping, train in real work flow, measure human+AI together.
 
+**The Agentic Business Transformation (ABT) framework** (MIT TR Insights, May 2026) argues that 85% of organizations want agentic AI within 3 years but 76% lack infrastructure readiness. The three-pillar ABT model — tech stack as connective tissue, workforce as hybrid teams, outcome-based metrics — provides a concrete roadmap. McKinsey predicts three-quarters of jobs will require redesign, upskilling, or redeployment by 2030. The **[[AI Agent Revolution]]** (Claude Code, OpenClaw) demonstrates the extreme end: single developers achieving 90x-408x productivity through AI agent orchestration.
+
 ## Best Supporting Sources
 - [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — argues that imitating humans can steer AI toward replacement, while augmenting humans can expand productivity and shared prosperity.
 - [New MIT Sloan research suggests that AI is more likely to complement, not replace, human workers](https://mitsloan.mit.edu/press/new-mit-sloan-research-suggests-ai-more-likely-to-complement-not-replace-human-workers), MIT Sloan, 2025 — summarizes EPOCH: Empathy, Presence, Opinion/Judgment, Creativity, and Hope as human-intensive capabilities.
