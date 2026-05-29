@@ -19,6 +19,8 @@ Today’s education sources sharpen the practical stance: schools should neither
 - [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://arxiv.org/abs/2605.23925), Imran and Bulathwela, 2026 — documents the "correct answer trap": AI tutors miss flawed reasoning when students reach correct answers, with frontier LLMs achieving only 57% detection and a 4:1 false-alarm ratio.
 - [Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment](https://arxiv.org/abs/2605.24837), Gao, Chen, Li, Zhai, 2026 — proposes Restrict/Scaffold/Require stances for principled GenAI governance in assessment, with deployment evidence from an introductory physics course.
 - [The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students](https://arxiv.org/abs/2605.26010), Rodriguez-Alvarez et al., 2026 — multicenter study (N=243) documenting a Dunning-Kruger effect in student AI literacy and an "AI Paradox" where students overestimate their ability to detect deepfakes.
+- ["It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090), Kim, Toyama, Kim, Carroll, 2026 — taxonomy of 20+ rationalizations students use to justify AI-aided cheating, revealing a "steep, ethical, slippery slope" rather than a bright line.
+- [Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance](https://arxiv.org/abs/2605.30187), arXiv, May 2026 — argues monolithic LLM chatbots are structurally unsuited for responsible education; proposes modular agentic architecture with pedagogical control.
 
 ## Practical Examples
 - Pilot an AI tutor for one unit with teacher-approved prompts, student reflection logs, and pre/post assessment.
@@ -43,6 +45,7 @@ Today’s education sources sharpen the practical stance: schools should neither
 - [[AI as Normal Technology]]
 - [[AI Field Experiment Evidence]]
 - [[Human Review Checkpoints]]
+- [[Agentic Literacy Debt]]
 
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

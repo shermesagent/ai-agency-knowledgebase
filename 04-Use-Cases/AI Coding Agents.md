@@ -16,6 +16,8 @@ Coding agents are one of the most concrete places to observe augmentation: they 
 - Use agents to create failing tests first, propose a patch, run checks, and summarize the diff for human review.
 - Route low-risk maintenance tasks to AI workflows while keeping architecture, security, data migration, and user-impact decisions human-led.
 - Track cycle time, escaped defects, review burden, developer learning, and rollback frequency rather than only lines of code or tickets closed.
+- Use Offloading Score methodology to measure how much cognitive effort is being delegated vs. amplified.
+- Audit for the maternity-leave AI gap: ensure returning team members have structured AI-literacy onboarding rather than being left to self-train.
 
 ## Risks / Limits
 - Avoid treating one positive case study as universal proof.
@@ -28,7 +30,8 @@ Coding agents are one of the most concrete places to observe augmentation: they 
 - [[Responsible Deployment]]
 - [[AI Use Case Evaluation Rubric]]
 - [[Agentic Workflow Patterns]]
-- [[AI Field Experiment Evidence]]
+- [[Entry-Level Work Crisis]]
+- [[Agentic Technical Debt]]
 
 ## Tags
-#ai-agents #augmentation #practical-ai
+#ai-agents #augmentation #practical-ai #tools

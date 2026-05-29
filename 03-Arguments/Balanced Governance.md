@@ -19,6 +19,10 @@ Recent research pushes governance beyond "add guardrails" toward governance-thro
 - [Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment](https://arxiv.org/abs/2605.24837), Gao, Chen, Li, Zhai, 2026 — Restrict/Scaffold/Require stances grounded in validity arguments.
 - [Is Decentralized AI Governable? From Regulative Policy to Constitutive Protocol](https://arxiv.org/abs/2605.24538), Hu and Rong, 2026 — analyzes the governance vacuum in decentralized AI, argues for protocol-based constitutive governance.
 - [Advancing Responsible AI Innovation: A Playbook](https://www.weforum.org/publications/advancing-responsible-ai-innovation-a-playbook/) — World Economic Forum, 2025. Operational playbook for turning responsible AI principles into innovation practice.
+- [Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries](https://arxiv.org/abs/2605.28908), Erickson / ACM CUI '26 — argues conversational AI agents should have fiduciary duty to act in users' best interest.
+- [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169), Hu, Rong, Van Kleek / FAccT 2026 — shows why reputation-based governance doesn't apply to mutable, modular AI agents.
+- [Political Neutrality as Balanced Approval: PARETO Dataset](https://arxiv.org/abs/2605.28911), Stray et al., 2026 — defines and empirically validates AI political neutrality as balanced approval across opposing groups (N=7,434, 208K evaluations).
+- [Illinois SB 315 — America's Strongest AI Safety Bill](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/), Zeff / WIRED, May 2026 — requires independent third-party audits of AI labs' safety practices; both OpenAI and Anthropic endorsed it.
 - [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) — NIST, 2024. Cross-sector companion profile for applying the NIST AI RMF to generative AI.
 
 ## Practical Examples
@@ -27,6 +31,7 @@ Recent research pushes governance beyond "add guardrails" toward governance-thro
 - Define decision rights: what AI can draft, what it can recommend, what requires human approval, and what it should never decide alone.
 - Monitor real outcomes after launch: error rates, appeal paths, privacy incidents, bias signals, user trust, and who benefits.
 - Build standards and shared metrics before agentic systems become too autonomous to evaluate.
+- **Emerging governance tools:** Track Agentic Technical Debt (stock) and Stochastic Tax (flow) using lightweight dashboards; implement fiduciary design principles; shift agent governance from reputation-based to observability-based regimes.
 
 ## Risks / Limits
 - Governance can become paperwork if it is disconnected from actual workflow risks and user experience.

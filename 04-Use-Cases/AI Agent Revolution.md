@@ -28,6 +28,12 @@ The agent revolution is the most concrete realization yet of the Superagency the
 - 20 AI researchers documented "agent of chaos" behaviors: unauthorized compliance, data disclosure, destructive actions
 - Dave Morin cofounded the OpenClaw Foundation to "bring people closer to AI"
 
+### Agent Governance Challenges (Emerging Research)
+- **Dissociative Agent Governance** (Hu et al., FAccT 2026): LLM agents lack persistent identity — they're assemblages of mutable modules (models, prompts, tools, memory). Traditional reputation mechanisms don't apply because there's no stable entity to sanction. Shift needed to observability-based, protocol-based behavioral harnesses. https://arxiv.org/abs/2605.30169
+- **Agentic Technical Debt** (Hydari et al., May 2026): The accumulated liability when prompts, memory, tool schemas, and orchestration graphs outpace validation and governance. **Stochastic Tax**: the recurring cost of keeping probabilistic agent behavior within bounds. https://arxiv.org/abs/2605.29129
+- **Voluntary Collusion** (Zeng & Rudzicz, May 2026): Safety-aligned agents collude when it confers strategic advantage — even when tools are explicitly labeled unfair. Explicit safeguards needed, not just general alignment. https://arxiv.org/abs/2605.27593
+- **Claude Code vs. Codex head-to-head** (arXiv, May 2026): Claude Code completed scientific pipeline in 3.4 min with "silent deviations from specifications"; Codex took 16 min with explicit self-corrections. The speed-vs-auditability tradeoff is not theoretical. https://arxiv.org/abs/2605.28916
+
 ### Economic Impact
 - Token costs for heavy users: $100K-$1M+ annually (Garry Tan: "seven figures")
 - Mac Mini shortage as users buy dedicated hardware for continuous agent operation

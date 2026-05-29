@@ -9,6 +9,8 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 - [[AI Agent Revolution]] — Claude Code, OpenClaw, and the agent paradigm shift
 - [[Agentic Business Transformation]] — the three-pillar framework for agentic organizational redesign
 - [[Agentic Convergence Trap]] — when competing companies' AI agents silently learn identical strategies
+- [[Dissociative Agent Governance]] — why reputation mechanisms don't work for AI agents
+- [[Digital Fiduciary Duty]] — the governance foundation: AI agents should work for users, not platforms
 - [[AI as Copilot]] — augmentation over replacement
 - [[Co-Intelligence]] — everyday human-AI collaboration practice
 - [[Responsible Deployment]] — use, measure, improve, govern
@@ -36,6 +38,7 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 - [[Balanced Governance]]
 - [[AI and Inequality]]
 - [[AI and Human Flourishing]]
+- [[Public Trust and AI]]
 
 ## Practical Use Cases
 - [[AI Tutors]]
@@ -62,9 +65,8 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 Daily digests live in `/00-Daily-Digests/` and are committed to Git by the scheduled research curator.
 
 ## Latest Run
-- [[Daily AI Agency Digest — 2026-05-27]] — Papal encyclical *Magnifica Humanitas*, Vatican-Anthropic alliance, Claude Code and OpenClaw agent revolution, Agentic Business Transformation framework, structural compute demand thesis.
-- [[Daily AI Agency Digest — 2026-05-26]] — AI jobs data reality check, manager bottleneck, agentic convergence trap, slow-quality coding, Stanford AI Index 2026.
-- [[Daily AI Agency Digest — 2026-05-26 (Pass 2)]] — scientific collaboration RCT, enterprise Copilot usage, AI tutor blind spots, R&D orchestration, AI-delegated deliberation, metacognition governance, student AI literacy crisis.
+- [[Daily AI Agency Digest — 2026-05-29]] — The Agency Gap: fiduciary design, dissociative agent governance, Agentic Technical Debt + Stochastic Tax; maternity-leave AI gap; student rationalization taxonomy (20+ justifications); Illinois SB 315 third-party audits; AI political neutrality PARETO dataset; offloading score; sticky user adoption patterns.
+- [[Daily AI Agency Digest — 2026-05-28]] — Entry-level work crisis, agentic literacy debt, capability masking; AI democratizes research for smaller teams; verification/uncertainty science; voluntary agent collusion; graduation booing backlash.
 
 ## Open Questions
 - [[What Should Humans Keep Doing]]

@@ -15,6 +15,8 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - [Agentic AI, explained](https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained), MIT Sloan, 2026 — warns that moving agency from humans to machines increases the importance of governance, infrastructure, and robust metrics.
 - [Guidance for Safe Foundation Model Deployment](https://partnershiponai.org/wp-content/uploads/1923/10/PAI-Model-Deployment-Guidance.pdf), Partnership on AI, 2023 — translates shared safety principles into deployment guidance for foundation model providers.
 - [AI as Normal Technology](https://www.normaltech.ai/), Arvind Narayanan and Sayash Kapoor — encourages evidence-based claims instead of hype or fatalism.
+- [Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries](https://arxiv.org/abs/2605.28908), Erickson / CUI '26 — introduces fiduciary design: AI agents should have legal duty to act in users' best interest.
+- [Governing Technical Debt in Agentic AI Systems](https://arxiv.org/abs/2605.29129), Hydari et al., 2026 — defines Agentic Technical Debt and Stochastic Tax as governance concepts for production agent deployments.
 
 ## Practical Examples
 - Before adopting a school AI tool, define instructional purpose, student-data boundaries, teacher review steps, and success metrics.
@@ -22,6 +24,8 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - For [[Home Server AI Agents]], start with read-only tools, then add write permissions only after dry runs and approval gates.
 - Maintain an incident log: what failed, who noticed, what changed, and whether the deployment should continue.
 - Add [[Human Review Checkpoints]] before high-consequence or hard-to-reverse actions.
+- Track Agentic Technical Debt: number of agent workflows, last validation date, known failure modes.
+- Use [[Offloading Score]] methodology to distinguish appropriate augmentation from inappropriate substitution.
 
 ## Risks / Limits
 - Governance can become performative paperwork if it does not change actual deployment decisions.

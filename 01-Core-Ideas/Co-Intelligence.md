@@ -25,6 +25,8 @@ For a [[Superagency]] wiki, co-intelligence is the everyday behavior pattern tha
 - [[AI as Copilot]]
 - [[Practical AI]]
 - [[Work]]
+- [[Human Review Checkpoints]]
+- [[Digital Fiduciary Duty]]
 
 ## Tags
 #augmentation #practical-ai #human-agency #future-of-work

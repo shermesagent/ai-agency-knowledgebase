@@ -32,7 +32,15 @@
 - Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
 - Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.
 
-## [2026-05-27] update | Daily AI curator run
+## [2026-05-29] update | Daily AI curator run
+- Created [[Daily AI Agency Digest — 2026-05-29]] anchored on the widening Agency Gap: fiduciary design, dissociative agent governance, Agentic Technical Debt + Stochastic Tax, maternity-leave AI-literacy gap, student rationalization taxonomy, Illinois SB 315, AI political neutrality, offloading score, and sticky user adoption patterns.
+- Added 12 accepted source records to `/sources/sources.jsonl` from arXiv (cs.CY, cs.HC, cs.AI) and WIRED.
+- Created [[Digital Fiduciary Duty]], [[Dissociative Agent Governance]], [[Agentic Technical Debt]], and [[Public Trust and AI]].
+- Updated [[Work]], [[Education]], [[Balanced Governance]], [[AI Agent Revolution]], [[Responsible Deployment]], [[Co-Intelligence]], [[AI Coding Agents]], and [[Home]].
+- Updated [[AI Agency Knowledgebase]] navigation with new digest link.
+- Noted: blogwatcher-cli unavailable; arXiv RSS + WIRED feed provided the primary source discovery path.
+
+## [2026-05-28] update | Daily AI curator run
 - Created [[Daily AI Agency Digest — 2026-05-27]] anchored on Pope Leo XIV's *Magnifica Humanitas*, Vatican-Anthropic alliance, Claude Code & OpenClaw agent revolution, and Agentic Business Transformation framework.
 - Added 6 accepted source records to `/sources/sources.jsonl` from WIRED, MIT Technology Review, Stratechery, and Vatican primary sources.
 - Created [[Magnifica Humanitas]], [[AI Agent Revolution]], and [[Agentic Business Transformation]].

@@ -14,6 +14,10 @@ HBR's May 2026 manager bottleneck analysis (Fosslien and Duffy 2026) reveals tha
 
 **The Agentic Business Transformation (ABT) framework** (MIT TR Insights, May 2026) argues that 85% of organizations want agentic AI within 3 years but 76% lack infrastructure readiness. The three-pillar ABT model — tech stack as connective tissue, workforce as hybrid teams, outcome-based metrics — provides a concrete roadmap. McKinsey predicts three-quarters of jobs will require redesign, upskilling, or redeployment by 2030. The **[[AI Agent Revolution]]** (Claude Code, OpenClaw) demonstrates the extreme end: single developers achieving 90x-408x productivity through AI agent orchestration.
 
+**The maternity-leave AI gap** (Khalili / WIRED, May 2026) reveals a structural inequality: women returning from parental leave find their coding jobs unrecognizably transformed by AI. The system "treats it as an exit, not a pause." Companies are ranking engineers by AI usage on leaderboards, and one returning mother sent 40 applications for 1 interview. Simultaneously, the **Offloading Score** (arXiv, May 2026) provides the first quantitative instrument for measuring cognitive offloading to AI tools — detecting a 43% increase under time pressure that conventional metrics miss.
+
+**Sticky adoption patterns** (arXiv, May 2026): analysis of 12,000 Copilot users shows user habits are overwhelmingly sticky — population trends mask very slow individual change. More active users have more successful, more complex, more professionally oriented conversations, while less active users barely change their patterns.
+
 ## Best Supporting Sources
 - [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — argues that imitating humans can steer AI toward replacement, while augmenting humans can expand productivity and shared prosperity.
 - [New MIT Sloan research suggests that AI is more likely to complement, not replace, human workers](https://mitsloan.mit.edu/press/new-mit-sloan-research-suggests-ai-more-likely-to-complement-not-replace-human-workers), MIT Sloan, 2025 — summarizes EPOCH: Empathy, Presence, Opinion/Judgment, Creativity, and Hope as human-intensive capabilities.
@@ -28,7 +32,10 @@ HBR's May 2026 manager bottleneck analysis (Fosslien and Duffy 2026) reveals tha
 - [From Replacement to Orchestration: HARMONY Operating Model for Agentic R&D](https://arxiv.org/abs/2605.24580), Boussaid et al., 2026 — four-pillar architecture (ResOps, Control Tower, Ethics Fabric, Talent Studio) introducing the Sciencepreneur archetype and Orchestration Leverage metric.
 - [Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost](https://arxiv.org/abs/2605.24688), Cho, Kim, Kim, 2026 — identifies five moderating factors between AI deployment and realized productivity, arguing organizational factors may negate technical gains.
 - [Generative AI at Work](https://www.nber.org/papers/w31161), Brynjolfsson, Li, and Raymond, 2023 — field evidence from customer support showing productivity gains, especially for less-experienced workers, when AI transfers tacit know-how into the workflow.
-- [The Cybernetic Teammate](https://www.nber.org/papers/w33641), Dell’Acqua et al., 2025 — studies AI as a team participant, useful for thinking beyond individual productivity toward collaboration and expertise formation.
+- [The Cybernetic Teammate](https://www.nber.org/papers/w33641), Dell'Acqua et al., 2025 — studies AI as a team participant, useful for thinking beyond individual productivity toward collaboration and expertise formation.
+- [New Moms Are Returning to Coding Jobs Radically Reshaped by AI](https://www.wired.com/story/women-parental-leave-return-office-ai/), Joel Khalili / WIRED, May 2026 — reported feature on the AI-literacy gap created by parental leave; the system "treats it as an exit, not a pause."
+- [Offloading Score: Measuring AI Reliance Through Counterfactual Workflows](https://arxiv.org/abs/2605.29392), arXiv, May 2026 — introduces a quantitative measure of cognitive offloading to AI tools; detected 43% increase under time pressure where conventional metrics missed it.
+- [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://arxiv.org/abs/2605.29018), arXiv, May 2026 — analysis of ~12,000 Copilot users showing user habits are overwhelmingly sticky; WildChat dataset is skewed toward power users.
 
 ## Practical Examples
 - Run a task inventory: label work as augment, automate, preserve-human, or prohibit-AI.
@@ -54,6 +61,8 @@ HBR's May 2026 manager bottleneck analysis (Fosslien and Duffy 2026) reveals tha
 - [[Frontier Firm]]
 - [[AI Field Experiment Evidence]]
 - [[Human Review Checkpoints]]
+- [[Entry-Level Work Crisis]]
+- [[Agentic Technical Debt]]
 
 ## Tags
 #future-of-work #augmentation #practical-ai #human-agency
