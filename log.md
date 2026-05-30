@@ -32,6 +32,16 @@
 - Updated [[Reports]], [[Papers]], [[Articles]], [[Home]], and [[Daily AI Agency Digest — 2026-05-24]].
 - Research scout subagents timed out during web discovery; manual direct search and URL verification completed the source pass.
 
+## [2026-05-30] update | Daily AI curator run
+- Created [[Daily AI Agency Digest — 2026-05-30]] anchored on cognitive surrender vs. cognitive amplification; two converging organizational AI adoption frameworks (Leadership/Lab/Crowd + ABT).
+- Added 8 accepted source records to `/sources/sources.jsonl` from WIRED, One Useful Thing, MIT Technology Review, Import AI, Stratechery, and Don't Worry About the Vase.
+- Created [[Leadership Lab Crowd Model]], [[Cognitive Surrender]], and [[AI and Creator Rights]].
+- Updated [[Education]] — added Mollick's two-study tutoring contrast (plain ChatGPT harms learning, personalized AI tutor improves by 0.15 SD).
+- Updated [[Work]] — added Leadership/Lab/Crowd model, Secret Cyborgs, ABT outcome metrics, O-Ring Automation theory.
+- Updated [[Co-Intelligence]] — added cognitive surrender concept, AI learning modes, meaning-shaped attention vampires.
+- Updated [[Home]] / [[AI Agency Knowledgebase]] navigation with new digest link.
+- Noted: Saturday — arXiv not publishing; WIRED, Substack, and blog feeds provided source discovery.
+
 ## [2026-05-29] update | Daily AI curator run
 - Created [[Daily AI Agency Digest — 2026-05-29]] anchored on the widening Agency Gap: fiduciary design, dissociative agent governance, Agentic Technical Debt + Stochastic Tax, maternity-leave AI-literacy gap, student rationalization taxonomy, Illinois SB 315, AI political neutrality, offloading score, and sticky user adoption patterns.
 - Added 12 accepted source records to `/sources/sources.jsonl` from arXiv (cs.CY, cs.HC, cs.AI) and WIRED.

@@ -65,6 +65,7 @@ A living Markdown wiki about AI optimism, human agency, responsible acceleration
 Daily digests live in `/00-Daily-Digests/` and are committed to Git by the scheduled research curator.
 
 ## Latest Run
+- [[Daily AI Agency Digest — 2026-05-30]] — Cognitive surrender vs. cognitive amplification; Leadership/Lab/Crowd organizational model + ABT three-pillar convergence; Claude Opus 4.8 behavioral failure modes (capability without honesty); Gemini Spark social-blindness; AI and creator rights (Amazon/BuzzFeed AI animation controversy); Mollick's "Choosing to Stay Human" and personalized AI tutor evidence (+0.15 SD).
 - [[Daily AI Agency Digest — 2026-05-29]] — The Agency Gap: fiduciary design, dissociative agent governance, Agentic Technical Debt + Stochastic Tax; maternity-leave AI gap; student rationalization taxonomy (20+ justifications); Illinois SB 315 third-party audits; AI political neutrality PARETO dataset; offloading score; sticky user adoption patterns.
 - [[Daily AI Agency Digest — 2026-05-28]] — Entry-level work crisis, agentic literacy debt, capability masking; AI democratizes research for smaller teams; verification/uncertainty science; voluntary agent collusion; graduation booing backlash.
 

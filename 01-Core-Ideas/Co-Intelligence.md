@@ -12,11 +12,14 @@ For a [[Superagency]] wiki, co-intelligence is the everyday behavior pattern tha
 
 ## Practical Examples
 - Ask AI for three drafts, then use human taste and evidence to choose and revise one.
-- Use AI as a critique partner: “what am I missing, what evidence would change this, and what could go wrong?”
-- Let AI accelerate low-risk iteration while humans preserve intent, audience understanding, and final approval.
+- Use AI as a critique partner: "what am I missing, what evidence would change this, and what could go wrong?"
+- Have AI roleplay different reader perspectives on your writing to catch blind spots and unintended interpretations.
+- Use AI learning/tutoring modes (Gemini Guided Learning, ChatGPT /learn, Claude learning style) to get the AI to ask YOU questions rather than give you answers — preserving your cognitive effort while benefiting from AI guidance.
+- Avoid the "meaning-shaped attention vampire": AI-generated text that sounds insightful but contains no actual human meaning. If you can't articulate what you learned after reading AI-generated content, the interaction was cognitive surrender, not co-intelligence.
 
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
+- **Cognitive surrender** (Wharton, 2026): people stop thinking about problems and accept AI output even when wrong. The default chat interface incentivizes surrender because it removes the friction that forces thinking. The difference between augmentation and surrender is in HOW you use AI, not whether you use it.
 - The frame works best when the human has enough domain knowledge to notice weak or fabricated output.
 - In consequential settings, collaboration still needs [[Responsible Deployment]] practices.
 
