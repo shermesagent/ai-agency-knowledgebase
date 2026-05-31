@@ -42,7 +42,7 @@ The "manager of managers" pattern from HBR (Fosslien and Duffy 2026) describes a
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[AI Research Agents]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 - [[AI Use Case Evaluation Rubric]]
 - [[Human Review Checkpoints]]
 - [[AI as Copilot]]

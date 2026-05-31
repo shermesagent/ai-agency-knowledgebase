@@ -29,9 +29,9 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 - [[AI Use Case Evaluation Rubric]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
 - [[Home Server AI Agents]]
 
 ## Tags

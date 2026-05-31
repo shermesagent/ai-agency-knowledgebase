@@ -21,7 +21,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 ## Related Pages
 - [[Human Agency]]
 - [[AI Use Case Evaluation Rubric]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 
 ## Tags
 #human-agency #practical-ai #augmentation

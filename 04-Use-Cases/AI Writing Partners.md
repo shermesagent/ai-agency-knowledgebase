@@ -21,7 +21,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 ## Related Pages
 - [[Creativity]]
 - [[AI as Copilot]]
-- [[What Should Humans Keep Doing]]
+- [[Open Questions]]
 
 ## Tags
 #creativity #augmentation #practical-ai

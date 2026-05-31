@@ -51,7 +51,7 @@ A clear bright line: "It is not acceptable to entrust lethal or irreversible dec
 - [[AI and Human Flourishing]] — the encyclical's central concern
 - [[Balanced Governance]] — the encyclical's governance framework
 - [[Human Agency]] — "disarming technology" as agency preservation
-- [[What New Institutions Are Needed]] — the encyclical implies new institutions for AI governance
+- [[Open Questions]] — the encyclical implies new institutions for AI governance
 - [[Positive Alignment]] — Constitutional AI as practical implementation of the encyclical's vision
 - [[AI and Religion]] (recommended new page)
 

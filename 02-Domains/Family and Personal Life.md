@@ -20,7 +20,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 
 ## Related Pages
 - [[AI Executive Assistants]]
-- [[What Does AI Make More Human]]
+- [[Open Questions]]
 - [[Human Agency]]
 
 ## Tags

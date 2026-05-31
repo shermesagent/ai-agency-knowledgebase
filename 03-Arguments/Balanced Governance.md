@@ -44,7 +44,7 @@ Recent research pushes governance beyond "add guardrails" toward governance-thro
 - [[Strongest AI Risk Arguments]]
 - [[Government and Civic Life]]
 - [[Human Review Checkpoints]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
 - [[Positive Alignment]]
 - [[AI-Augmented Scientific Collaboration]]
 

@@ -3,6 +3,13 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-05-30] consolidate | Wiki consolidation pass — 82→75 pages (-8.5%)
+- Merged Responsible Deployment Loop → [[Responsible Deployment]]: loop is now integrated into RD's Core Idea. Updated 18 inbound wikilinks.
+- Merged Techno-Humanism → [[Human Agency]]: techno-humanism concept embedded in HA's Core Idea. Updated 1 inbound wikilink.
+- Merged Interviews + Podcasts → [[Interviews and Podcasts]], Repositories + Tools → [[Repositories and Tools]]: consolidated 4 empty source library pages into 2. Updated Home.md navigation.
+- Merged 5 individual [[Open Questions]] pages → single [[Open Questions]] page with all 5 questions as sections, enriched with cross-references and EPOCH framework context. Updated 19 inbound wikilinks.
+- Updated [[Home]]: page count, navigation links, staleness tracker.
+
 ## [2026-05-23] create | AI Agency Knowledgebase initialized
 - Created Markdown/Git wiki structure for Superagency-style AI agency research.
 - Seeded core idea, domain, argument, use-case, source-library, framework, and open-question pages.
@@ -59,7 +66,7 @@
 - Noted: WIRED RSS feed provided the primary source discovery path; Stratechery content was paywalled but meta description captured the thesis; arXiv and NYT were JS-rendered and not accessible via curl.
 
 ## [2026-05-26] update | Daily AI curator pass 2
-- Created [[Daily AI Agency Digest — 2026-05-26 (Pass 2)]], complementary to the earlier May 26 digest.
+- Created [[Daily AI Agency Digest — 2026-05-26 (Curator Pass 2)]], complementary to the earlier May 26 digest.
 - Added 12 accepted source records to `/sources/sources.jsonl` from arXiv (cs.CY, cs.HC) RSS feeds.
 - Created [[AI-Augmented Scientific Collaboration]] as a new use-case page anchored on the global scientific-feedback RCT.
 - Updated [[Education]] — added correct-answer-trap evidence, Restrict/Scaffold/Require assessment governance framework, European student AI literacy data.
@@ -88,3 +95,12 @@
 - Updated [[Human Agency]], [[Responsible Deployment]], [[Education]], [[Work]], [[AI for School Districts]], [[Agentic Workflow Patterns]], [[Balanced Governance]], and [[Strongest AI Risk Arguments]].
 - Updated source libraries [[Articles]], [[Papers]], [[Reports]], and navigation in [[AI Agency Knowledgebase]].
 - Noted access issues for some candidate pages (for example McKinsey/ScienceDirect/Medium); skipped inaccessible candidates unless enough verified metadata/content was available elsewhere.
+
+## [2026-05-31] consolidate | Consolidation pass — 79→72 pages (-9%)
+- Merged 5 Open Questions stubs → single [[Open Questions]] README with all 5 questions as sections. Deleted 5 individual stub files. Updated cross-links.
+- Merged [[Techno-Humanism]] → [[Human Agency]]: concept already embedded in HA's Core Idea; added Optimism Without Naivety to HA's related pages and techno-humanism tag. Deleted TH stub. Updated 1 inbound wikilink (Open Questions README).
+- Merged [[Responsible Deployment Loop]] → [[Responsible Deployment]]: loop concept already integrated as RD's Core Idea. Added #deployment-loop tag to RD. Deleted RD Loop stub. No inbound wikilinks.
+- Updated [[Home]]: page count 75→68, Core Ideas description 12→11 more.
+- Updated [[01-Core-Ideas/README]]: page count 18→17, removed duplicate HA listing.
+- Updated [[06-Frameworks/README]]: page count 11→10.
+- Updated [[05-Source-Library/README]]: deduplicated redundant entries.

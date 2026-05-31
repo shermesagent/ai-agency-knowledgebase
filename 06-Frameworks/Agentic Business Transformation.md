@@ -48,7 +48,7 @@ Traditional activity metrics (calls handled, reports filed) become meaningless w
 - [[Agentic Workflow Patterns]] — the patterns that agents use within the ABT framework
 - [[AI Agent Revolution]] — the technology making ABT necessary
 - [[Adoption Readiness Checklist]] — assessing organizational readiness
-- [[Responsible Deployment Loop]] — ensuring ABT is responsible, not just efficient
+- [[Responsible Deployment]] — ensuring ABT is responsible, not just efficient
 - [[AI Executive Assistants]] — a specific ABT application
 
 ## Tags

@@ -21,7 +21,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 ## Related Pages
 - [[Risk-Benefit Matrix]]
 - [[Responsible Deployment]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
 
 ## Tags
 #responsible-ai #human-agency #risk

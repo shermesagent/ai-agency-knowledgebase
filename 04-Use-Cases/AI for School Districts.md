@@ -34,9 +34,9 @@ The agency goal is to help students and teachers do more meaningful learning wor
 - [[Education]]
 - [[AI Tutors]]
 - [[AI Tutor Evaluation Checklist]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 - [[Human Review Checkpoints]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
 
 ## Tags
 #ai-education #responsible-ai #practical-ai #governance

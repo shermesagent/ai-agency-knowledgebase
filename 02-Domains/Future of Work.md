@@ -26,7 +26,7 @@ This idea matters because AI adoption will be experienced as changes to tasks, t
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]
-- [[What Should Humans Keep Doing]]
+- [[Open Questions]]
 - [[Frontier Firm]]
 - [[AI Field Experiment Evidence]]
 

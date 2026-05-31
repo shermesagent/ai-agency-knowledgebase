@@ -9,7 +9,7 @@ An AI tutor evaluation checklist helps schools and educators decide whether a tu
 ## Best Supporting Sources
 - [Artificial Intelligence and the Future of Teaching and Learning](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf), U.S. Department of Education, 2023 — emphasizes teacher judgment, equity, privacy, and instructional goals.
 - [Brave New Words](https://www.penguinrandomhouse.com/books/740806/brave-new-words-by-salman-khan/), Salman Khan, 2024 — optimistic practitioner case for AI tutoring.
-- [[Responsible Deployment Loop]] — deployment pattern for pilots and review.
+- [[Responsible Deployment]] — deployment pattern for pilots and review.
 
 ## Practical Examples
 Before approving a tutor, check:

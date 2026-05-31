@@ -25,7 +25,7 @@ Use-case selection is where responsible optimism becomes operational. A strong A
 
 ## Related Pages
 - [[Agency Expansion Framework]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 - [[Risk-Benefit Matrix]]
 - [[AI Field Experiment Evidence]]
 - [[Task-Level AI Adoption]]

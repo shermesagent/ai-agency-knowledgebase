@@ -14,7 +14,7 @@ The concept is useful for [[Superagency]] because it shifts AI adoption from too
 ## Practical Examples
 - Map team work into human-only, AI-assisted, AI-operated with human review, and prohibited categories.
 - Create “agent boss” routines where humans assign bounded work to AI systems, inspect artifacts, and improve the workflow rather than manually doing every step.
-- Use [[Responsible Deployment Loop]] reviews for workflow changes: map the business goal, measure quality and worker experience, manage risks, and govern escalation.
+- Use [[Responsible Deployment]] reviews for workflow changes: map the business goal, measure quality and worker experience, manage risks, and govern escalation.
 
 ## Risks / Limits
 - “Frontier firm” language can become a cover for speedup, surveillance, or headcount reduction if worker agency is not measured.

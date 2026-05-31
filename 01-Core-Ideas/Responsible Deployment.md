@@ -1,7 +1,7 @@
 # Responsible Deployment
 
 ## Core Idea
-Responsible deployment means using AI in measured, inspectable, iterative ways: define the use case, test it, monitor outcomes, improve safeguards, and govern the system.
+Responsible deployment means using AI in a measured, inspectable, iterative loop: choose a bounded use case, pilot it, measure outcomes, collect feedback, improve safeguards, document lessons, and scale only when warranted — then govern the system and repeat.
 
 ## Why It Matters
 Responsible deployment is the bridge between [[Case for AI Optimism]] and trustworthy practice. It rejects both reckless acceleration and fear-based avoidance by asking institutions to use AI where it expands agency, measure whether it actually helps, and revise or stop when harms appear. The strongest sources converge on a loop: map the use case, measure model behavior, manage risks, govern accountability, then repeat.
@@ -35,12 +35,11 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - Some uses should remain prohibited or human-only even if a technical system can perform them.
 
 ## Related Pages
-- [[Responsible Deployment Loop]]
 - [[Balanced Governance]]
 - [[Risk-Benefit Matrix]]
 - [[AI as Normal Technology]]
 - [[Human Review Checkpoints]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
 
 ## Tags
-#responsible-ai #governance #practical-ai #risk
+#responsible-ai #governance #practical-ai #risk #deployment-loop

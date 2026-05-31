@@ -29,7 +29,7 @@ The **[[AI Agent Revolution]]** has brought home-server agents to mainstream att
 - [[AI Agent Revolution]]
 - [[AI Research Agents]]
 - [[AI Executive Assistants]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 - [[Agentic Workflow Patterns]]
 - [[AI as Copilot]]
 

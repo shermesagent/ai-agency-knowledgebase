@@ -32,7 +32,7 @@ The core question of the Superagency wiki is whether AI expands or contracts hum
 ## Related Pages
 - [[Human Agency]]
 - [[Magnifica Humanitas]]
-- [[What Does AI Make More Human]]
+- [[Open Questions]]
 - [[Positive Alignment]]
 - [[AI-Augmented Scientific Collaboration]]
 - [[Creativity]]

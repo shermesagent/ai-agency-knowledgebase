@@ -1,7 +1,7 @@
 # Human Agency
 
 ## Core Idea
-Human agency is the capacity of people to understand their situation, make meaningful choices, act effectively, and learn from consequences. In this wiki, AI matters when it increases that capacity rather than replacing it.
+Human agency is the capacity of people to understand their situation, make meaningful choices, act effectively, and learn from consequences. It is the core of techno-humanism: the belief that technology is valuable when it helps people become more capable, creative, connected, and free. In this wiki, AI matters when it increases that capacity rather than replacing it.
 
 ## Why It Matters
 Human agency is the organizing test for [[Superagency]]: does AI help people direct work, learn faster, create more, deliberate better, and own outcomes? Microsoft WorkLab’s 2026 agency equation is useful here: when agents take on bounded execution, people can gain more room to direct, decide, and be accountable — but only if workflows are designed to preserve human authority.
@@ -35,6 +35,7 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - [[Positive Alignment]]
 - [[Human Review Checkpoints]]
 - [[AI and Human Flourishing]]
+- [[Optimism Without Naivety]]
 
 ## Tags
-#human-agency #augmentation #superagency #ai-optimism
+#human-agency #augmentation #superagency #ai-optimism #techno-humanism

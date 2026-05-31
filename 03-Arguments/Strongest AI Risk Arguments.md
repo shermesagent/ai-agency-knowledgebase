@@ -38,7 +38,7 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - [[Risk-Benefit Matrix]]
 - [[AI as Normal Technology]]
 - [[Human Review Checkpoints]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
 
 ## Tags
 #risk #counterarguments #responsible-ai #human-agency

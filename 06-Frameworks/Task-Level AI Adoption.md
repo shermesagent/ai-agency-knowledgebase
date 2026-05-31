@@ -27,7 +27,7 @@ Use four labels during workflow review:
 - [[Work]]
 - [[AI Use Case Evaluation Rubric]]
 - [[Risk-Benefit Matrix]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 
 ## Tags
 #practical-ai #future-of-work #ai-agents #responsible-ai

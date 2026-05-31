@@ -21,7 +21,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 
 ## Tags
 #ai-agents #research #practical-ai

@@ -19,7 +19,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - Update this section whenever strong counterarguments appear.
 
 ## Related Pages
-- [[Responsible Deployment Loop]]
+- [[Responsible Deployment]]
 - [[AI Use Case Evaluation Rubric]]
 - [[Practical AI]]
 

@@ -27,8 +27,8 @@ Democratic participation is fundamentally constrained by human attention and ban
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
 - [[AI and Inequality]]
-- [[What New Institutions Are Needed]]
-- [[What Should AI Never Decide Alone]]
+- [[Open Questions]]
+- [[Open Questions]]
 
 ## Tags
 #civic-life #governance #responsible-ai #ai-agents
