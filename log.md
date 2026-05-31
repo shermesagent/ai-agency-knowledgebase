@@ -96,11 +96,12 @@
 - Updated source libraries [[Articles]], [[Papers]], [[Reports]], and navigation in [[AI Agency Knowledgebase]].
 - Noted access issues for some candidate pages (for example McKinsey/ScienceDirect/Medium); skipped inaccessible candidates unless enough verified metadata/content was available elsewhere.
 
-## [2026-05-31] consolidate | Consolidation pass — 79→72 pages (-9%)
-- Merged 5 Open Questions stubs → single [[Open Questions]] README with all 5 questions as sections. Deleted 5 individual stub files. Updated cross-links.
-- Merged [[Techno-Humanism]] → [[Human Agency]]: concept already embedded in HA's Core Idea; added Optimism Without Naivety to HA's related pages and techno-humanism tag. Deleted TH stub. Updated 1 inbound wikilink (Open Questions README).
-- Merged [[Responsible Deployment Loop]] → [[Responsible Deployment]]: loop concept already integrated as RD's Core Idea. Added #deployment-loop tag to RD. Deleted RD Loop stub. No inbound wikilinks.
-- Updated [[Home]]: page count 75→68, Core Ideas description 12→11 more.
-- Updated [[01-Core-Ideas/README]]: page count 18→17, removed duplicate HA listing.
-- Updated [[06-Frameworks/README]]: page count 11→10.
-- Updated [[05-Source-Library/README]]: deduplicated redundant entries.
+## [2026-05-31] update | Daily AI curator run — Sunday (blog/newsletter sources only)
+- Created [[Daily AI Agency Digest — 2026-05-31]] anchored on AI governance from unexpected directions: investor activism, public backlash, and the blurring boundary between AI-aided and AI-authored work.
+- Added 5 accepted source records to `/sources/sources.jsonl` from MIT Technology Review, WIRED, and Don't Worry About the Vase.
+- Updated [[AI Research Agents]] — full rewrite from stub: added Google agentic scientist project, meaning-making critique, multi-model research workflows, deskilling risks.
+- Updated [[Balanced Governance]] — added shareholder activism as parallel governance: $400B investor coalition, faith-based investors as governance actors, the public-company pipeline for AI labs.
+- Updated [[Agentic Workflow Patterns]] — added hybrid model-routing pattern (Claude for planning/Codex for execution) from SemiAnalysis and Zvi's GPT-5.5 analysis.
+- Updated [[Articles]] source library — added 6 new entries (Finn/Francois, Knibbs, Chen, Huckins, Zvi).
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Sunday — arXiv not publishing; WIRED, MIT Technology Review, and Substack feeds provided source discovery. Rotation focus: Day 7 (Source Libraries & Tools).

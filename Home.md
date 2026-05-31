@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-05-30]] (latest) · [[Daily AI Agency Digest — 2026-05-29]] · [[Daily AI Agency Digest — 2026-05-28]]
+→ [[Daily AI Agency Digest — 2026-05-31]] (today) · [[Daily AI Agency Digest — 2026-05-30]] (latest) · [[Daily AI Agency Digest — 2026-05-29]] · [[Daily AI Agency Digest — 2026-05-28]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-05-31 | AI Research Agents, Balanced Governance, Agentic Workflow Patterns, Articles |
 | 2026-05-30 | Co-Intelligence, Cognitive Surrender, Leadership Lab Crowd Model, Education, Work, AI and Creator Rights |
 | 2026-05-29 | Agentic Technical Debt, Digital Fiduciary Duty, Dissociative Agent Governance, Responsible Deployment, Balanced Governance, Public Trust and AI, AI Agent Revolution, AI Coding Agents, Education, Work |
 | 2026-05-27 | Superagency, Magnifica Humanitas, AI as Copilot, Home Server AI Agents, AI and Human Flourishing, Balanced Governance, AI Agent Revolution, Agentic Business Transformation |
