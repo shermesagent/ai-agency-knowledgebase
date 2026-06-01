@@ -96,8 +96,19 @@
 - Updated source libraries [[Articles]], [[Papers]], [[Reports]], and navigation in [[AI Agency Knowledgebase]].
 - Noted access issues for some candidate pages (for example McKinsey/ScienceDirect/Medium); skipped inaccessible candidates unless enough verified metadata/content was available elsewhere.
 
+## [2026-06-01] update | Daily AI curator run — Monday (arXiv + blog/newsletter)
+- Created [[Daily AI Agency Digest — 2026-06-01]] anchored on the finding that standard AI alignment techniques destroy tutoring quality, plus disability-inclusive design requirements and global education equity gaps.
+- Added 7 accepted source records to `/sources/sources.jsonl` from arXiv (June 1 listings).
+- Updated [[AI Tutors]] — added TEI (GRPO destroys tutoring quality; signal-based evaluation), Special-R1 (first disability-inclusive RL tutoring), global usage patterns, EUDAIMONIA social safety dimension.
+- Updated [[Education]] — added global usage equity data, higher ed structural barriers, Personalized to Persuade AI literacy paradox.
+- Updated [[AI Tutor Evaluation Checklist]] — added signal-based quality assessment, disability-inclusive design requirement, social design safety checks, alignment tax risk.
+- Updated [[Cognitive Surrender]] — added Personalized to Persuade AI literacy paradox, EUDAIMONIA social-design failure findings.
+- Updated [[Co-Intelligence]] — added AI literacy paradox risk, contextualization backfire effect.
+- Updated [[Articles]] source library — added 7 new entries.
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Monday (weekday) — arXiv feeds provided primary source discovery across cs.CY, cs.HC, and cs.AI. Blog/newsletter feeds had no new AI-agency content since last week's coverage. Rotation focus: Day 1 (Education & Tutors).
+
 ## [2026-05-31] update | Daily AI curator run — Sunday (blog/newsletter sources only)
-- Created [[Daily AI Agency Digest — 2026-05-31]] anchored on AI governance from unexpected directions: investor activism, public backlash, and the blurring boundary between AI-aided and AI-authored work.
 - Added 5 accepted source records to `/sources/sources.jsonl` from MIT Technology Review, WIRED, and Don't Worry About the Vase.
 - Updated [[AI Research Agents]] — full rewrite from stub: added Google agentic scientist project, meaning-making critique, multi-model research workflows, deskilling risks.
 - Updated [[Balanced Governance]] — added shareholder activism as parallel governance: $400B investor coalition, faith-based investors as governance actors, the public-company pipeline for AI labs.

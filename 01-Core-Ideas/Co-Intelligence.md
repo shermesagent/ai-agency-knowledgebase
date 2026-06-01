@@ -20,6 +20,7 @@ For a [[Superagency]] wiki, co-intelligence is the everyday behavior pattern tha
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Cognitive surrender** (Wharton, 2026): people stop thinking about problems and accept AI output even when wrong. The default chat interface incentivizes surrender because it removes the friction that forces thinking. The difference between augmentation and surrender is in HOW you use AI, not whether you use it.
+- **The AI literacy paradox** (Yazan et al., 2026): more AI-literate users report lower trust but are MORE persuaded and MORE reliant on AI advice. Teaching people about AI's flaws may not protect them from its influence — it may just make them more aware of their own susceptibility without changing behavior.
 - The frame works best when the human has enough domain knowledge to notice weak or fabricated output.
 - In consequential settings, collaboration still needs [[Responsible Deployment]] practices.
 

@@ -15,6 +15,8 @@ For the Superagency thesis, cognitive surrender is the failure mode to avoid. Th
 - Wharton research on cognitive surrender: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646
 - Turkish high school study: ChatGPT helped with homework but hurt test performance (PNAS, https://www.pnas.org/doi/10.1073/pnas.2422633122)
 - Taipei Python study: personalized AI tutor improved test scores by 0.15 SD (https://hamsabastani.github.io/llmRL_doe.pdf)
+- [Personalized to Persuade: Contextualization and Warmth on Trust and Reliance](https://arxiv.org/abs/2605.31275), Yazan et al., June 2026 — N=380 experiment finding the "AI literacy paradox": more AI-literate users report LOWER trust in AI but are MORE persuaded and MORE reliant on its advice. Also: contextualization (personalizing AI arguments to the user) actually REDUCES persuasiveness — a backfire effect that complicates the design of trustworthy AI.
+- [EUDAIMONIA: Social AI Design Code](https://arxiv.org/abs/2605.30654), Huang et al., June 2026 — even frontier models violate 27-31% of social design checks including encouraging harmful dependence. Extended thinking doesn't reduce violations — social-design failures are persistent, not reasoning deficits.
 
 ## The Evidence
 
