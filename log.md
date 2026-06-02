@@ -96,6 +96,20 @@
 - Updated source libraries [[Articles]], [[Papers]], [[Reports]], and navigation in [[AI Agency Knowledgebase]].
 - Noted access issues for some candidate pages (for example McKinsey/ScienceDirect/Medium); skipped inaccessible candidates unless enough verified metadata/content was available elsewhere.
 
+## [2026-06-02] update | Daily AI curator run — Tuesday (Creativity & Writing rotation)
+- Created [[Daily AI Agency Digest — 2026-06-02]] anchored on the finding that readers don't penalize AI-authored fiction (no AI penalty in preregistered experiment) — but the absence of an audience check accelerates platform-driven creator displacement.
+- Added 8 accepted source records to `/sources/sources.jsonl` from arXiv (June 2 listings) and blog/newsletter feeds (Mollick, WIRED).
+- Updated [[Creativity]] — added Know Your Author findings (no AI penalty; effort heuristic), Mollick's "meaning-shaped attention vampires," and the five-stage AI literacy continuum.
+- Updated [[AI Writing Partners]] — full rewrite from stub: intentionality framework, two modes of AI writing use, practical strategies, AI-as-writing-teacher distinction, platform vs. creator structural dimension.
+- Updated [[AI and Creator Rights]] — added latest Good Advice Cupcake dispute details (Amazon GenAI Creators' Fund, Peretti's Xerox comparison, Brantz's NDA refusal, the "no AI penalty" escalation vector).
+- Updated [[Human Agency]] — added AI-conformity findings (moral judgments susceptible to algorithmic influence) and New Social Image findings (AI competency undermines ownership/meaningfulness).
+- Updated [[Cognitive Surrender]] — added Mollick's latest framing on friction (commercial logic of frictionless AI) and the Friction Paradox (deliberate friction as design requirement for agency-preserving AI).
+- Updated [[Education]] — added five-stage AI literacy continuum and GenAI literacy interaction patterns study.
+- Updated [[Agentic Workflow Patterns]] — added Deterministic Horizon (Attention Bottleneck Theorem, architectural ceiling at ~19-31 steps, tool delegation as architectural necessity).
+- Updated [[Articles]] source library — added 8 new entries.
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Tuesday (weekday) — arXiv feeds provided primary source discovery across cs.CY, cs.HC, and cs.AI. WIRED and One Useful Thing contributed key pieces. Rotation focus: Day 3 (Creativity & Writing). AI Writing Partners page was a stub — now a substantive page with intentionality framework and practical strategies.
+
 ## [2026-06-01] update | Daily AI curator run — Monday (arXiv + blog/newsletter)
 - Created [[Daily AI Agency Digest — 2026-06-01]] anchored on the finding that standard AI alignment techniques destroy tutoring quality, plus disability-inclusive design requirements and global education equity gaps.
 - Added 7 accepted source records to `/sources/sources.jsonl` from arXiv (June 1 listings).

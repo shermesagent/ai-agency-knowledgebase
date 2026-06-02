@@ -15,9 +15,17 @@ For the Superagency thesis, this is a test case: can AI expand creative agency (
 - Jacob Erickson, "Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries" (ACM CUI '26) — https://arxiv.org/abs/2605.28908 — the fiduciary design framework applies to creative production as well
 
 ## The Good Advice Cupcake Case
-Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The character became popular. BuzzFeed — which owns the licensing rights through Brantz's original employment agreement — licensed the character to Amazon for an AI-animated series. Brantz was not consulted, did not consent, and receives no share of the revenue.
+Loryn Brantz created The Good Advice Cupcake (Cuppy) for BuzzFeed years ago. The character became popular (2M+ Instagram followers). BuzzFeed — which owns the licensing rights through Brantz's original employment agreement — licensed the character to Amazon for an AI-animated series called "Cupcake & Friends," funded through Amazon's GenAI Creators' Fund, a joint initiative of AWS and Amazon MGM Studios. Brantz was not consulted, did not consent, and receives no share of the revenue.
+
+Key details that escalated the dispute (WIRED, June 1, 2026):
+- Brantz alleges BuzzFeed executives previously promised she would be involved in any further Cuppy projects and would respect her creative wishes. BuzzFeed disputes this.
+- When rumors surfaced about the AI series, Brantz contacted BuzzFeed president Jonah Peretti, who offered more details only if she signed an NDA — she refused.
+- Peretti compared AI-assisted animation to Disney's adoption of Xerox technology — a comparison Brantz calls deeply misleading and has publicly challenged him to debate.
+- The series is one of three shows greenlit through Amazon's GenAI Creators' Fund, signaling that AI-produced content from acquired IP libraries is an intentional Amazon strategy, not an experiment.
 
 This pattern is likely to become common: creators sign standard IP agreements early in their careers, platforms accumulate character libraries, and AI enables those libraries to be scaled into content without ongoing creator involvement. The creator's initial labor is extracted once; the platform benefits indefinitely.
+
+**The escalation vector:** The "Know Your Author" study (Morris et al., 2026) shows that readers don't penalize AI-authored creative work — they evaluate it similarly to human-authored work. This means the audience-driven check on AI content production is weak. If viewers don't care whether Cuppy content is AI-produced, the only remaining constraint is governance: contracts, norms, and law.
 
 ## The Fiduciary Design Parallel
 Erickson's fiduciary design argument for conversational AI — that agents should have a legal duty to act in the USER's best interest, not the platform's — applies directly here. The platform's AI production tools serve the platform's interest (generating content cheaply from owned IP). The creator's interest (consent, compensation, creative control) is structurally absent.
@@ -25,14 +33,16 @@ Erickson's fiduciary design argument for conversational AI — that agents shoul
 A fiduciary design approach to creative AI would require: (1) creator consent for AI-driven use of their IP, (2) creator compensation proportional to the value generated, and (3) creator ability to opt out or set boundaries on how their work is used.
 
 ## Practical Examples
-- **SAG-AFTRA and WGA AI provisions**: The entertainment unions have negotiated contract language giving performers and writers consent rights over AI uses of their work. These are early fiduciary-design implementations in creative industries.
+- **SAG-AFTRA and WGA AI provisions**: The entertainment unions have negotiated contract language giving performers and writers consent rights over AI uses of their work. These are early fiduciary-design implementations in creative industries. The Good Advice Cupcake case shows what happens when no union contract exists: the creator has no structural leverage.
 - **Adobe's Content Authenticity Initiative**: Technical infrastructure for tracking provenance of creative work, enabling attribution and consent verification.
 - **DeviantArt's DreamUp**: An AI image generator that allows artists to opt out of having their work used for training.
+- **The EU AI Act's transparency requirements**: While not creator-specific, the Act's requirements for disclosing AI-generated content create a regulatory hook for provenance and attribution that could be extended to creator consent.
 
 ## Risks / Limits
 - **Licensing is a blunt instrument**: Creator consent requirements could prevent transformative uses that genuinely expand creative possibility. Fair use and remix culture have value.
 - **The power asymmetry is baked in**: Most creators sign away rights early in their careers because they lack leverage. Fiduciary design for creators requires changing the default power structure, not just adding consent checkboxes.
 - **AI can generate without identifiable source material**: As models get better at generating original-seeming work, the link between output and any specific creator's IP becomes harder to establish, making consent frameworks harder to enforce.
+- **The "no AI penalty" finding removes audience pressure as a constraint**: If viewers don't distinguish between human and AI-produced content (Know Your Author, 2026), the primary remaining constraint on AI-driven creator displacement is governance — which currently favors platforms.
 
 ## Related Pages
 - [[Digital Fiduciary Duty]]

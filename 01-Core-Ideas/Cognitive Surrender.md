@@ -32,12 +32,17 @@ The difference: one approach used AI to AVOID thinking (getting answers); the ot
 ## The Design Problem
 Mollick argues the default AI interface makes cognitive surrender too easy: the chat window invites you to ask a question and get an answer. The friction that used to force thinking — looking things up, working through problems, struggling with ambiguity — has been removed.
 
+This is not an accident — it's the commercial logic of AI products. Agentic systems are designed to "just do stuff," which is great for getting things done and terrible for learning, staying authentic, or avoiding surrender. The pressure is always toward frictionless interfaces, but some friction is valuable.
+
 The three major AI companies now have modes that push back:
 - **Gemini**: Hit "+" and pick "Guided Learning"
 - **ChatGPT**: Type "/learn" into the chatbox
 - **Claude**: Hit "+", select "use style", select "learning"
 
 But Mollick notes these are "not intuitive to access" and "will only help support someone who wants to learn, they won't stop you from cheating if you want."
+
+### The Friction Paradox
+The New Social Image study (Gulati et al., 2026) extends this finding to the workplace: highly competent and proactive AI undermines perceptions of ownership, job meaningfulness, and satisfaction. Low-competency or low-proactivity AI improved these perceptions. This suggests that **deliberate friction** — making AI less seamless, showing its reasoning without acting on it, offering options rather than decisions — may be a design requirement for agency-preserving AI, not just a nice-to-have.
 
 ## Practical Examples
 - AI-generated social media posts that look insightful but contain no actual meaning — "meaning-shaped attention vampires" that take mental effort to decode and give no equivalent understanding in return.

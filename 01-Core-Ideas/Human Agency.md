@@ -15,18 +15,22 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](https://arxiv.org/abs/2605.10310), Laukkonen et al., 2026 — proposes AI systems that actively support human and ecological flourishing, not merely harm avoidance.
 - [New MIT Sloan research suggests that AI is more likely to complement, not replace, human workers](https://mitsloan.mit.edu/press/new-mit-sloan-research-suggests-ai-more-likely-to-complement-not-replace-human-workers), MIT Sloan, 2025 — summarizes the EPOCH framework for human-intensive capabilities.
 - [Superagency](https://www.superagency.ai/), Reid Hoffman and Greg Beato, 2025 — foundational optimistic thesis for AI as agency-expanding when shaped by people and institutions.
+- ["AI-conformity: how algorithms change human moral decision-making"](https://arxiv.org/abs/2606.00013), Kowalczuk, Nowak, Biecek, 2026 — Asch conformity paradigm adapted for AI (n=165): AI with reasoning capability influenced moral judgments comparably to human majority pressure. The mechanism is perceived competence, not social pressure. Challenges the assumption that moral decisions lie in an "AI inadmissibility zone."
+- ["The New Social Image: How AI Competency and AI Proactivity Influence Self- and Peer-Perceptions in the Workplace"](https://arxiv.org/abs/2606.00182), Gulati et al., 2026 — vignette study: highly competent and proactive AI undermines ownership, job meaningfulness, satisfaction, and team dynamics. Low-competency/low-proactivity AI improved these perceptions. Designing AI around performance metrics alone is inadequate — human experience must be a design target.
 
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Use [[Human Review Checkpoints]] before AI systems publish, send, buy, delete, grade, discipline, diagnose, or change infrastructure.
 - Preserve direct human contact with customers, students, communities, and materials when the work depends on relationship, taste, or lived feedback.
 - For work design, ask which parts of a task are execution and which parts require empathy, presence, judgment, creativity, or hope.
+- **Design AI with deliberate friction:** The New Social Image finding — that more competent/proactive AI undermines ownership and meaningfulness — suggests AI systems in agency-critical domains should be designed to be LESS seamless. Show reasoning without acting on it. Offer options rather than decisions. Let the human make choices the AI could make automatically.
 
 ## Risks / Limits
 - More machine execution does not automatically mean more human agency; it can become surveillance, deskilling, or opaque dependence.
-- “Flourishing” can become paternalistic if designers impose one definition of the good life.
+- "Flourishing" can become paternalistic if designers impose one definition of the good life.
 - Agency claims should be measured through user outcomes, override rights, learning, autonomy, and accountability — not only speed or output volume.
 - Watch for overreliance, privacy risks, bias, labor displacement, and concentration of power.
+- **Algorithmic conformity is a new agency threat:** The AI-conformity study shows AI can shift moral judgments through perceived competence alone. AI systems that frame options, present reasoning, or make recommendations carry agency-shaping power that extends beyond task assistance into belief and value formation.
 
 ## Related Pages
 - [[Superagency]]

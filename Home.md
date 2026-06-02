@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-01]] (today) · [[Daily AI Agency Digest — 2026-05-31]] (latest) · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]] · [[Daily AI Agency Digest — 2026-05-28]]
+→ [[Daily AI Agency Digest — 2026-06-02]] (today) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-06-02 | Creativity, AI Writing Partners, AI and Creator Rights, Human Agency, Cognitive Surrender, Education, Agentic Workflow Patterns, Articles |
 | 2026-06-01 | AI Tutors, Education, AI Tutor Evaluation Checklist, Cognitive Surrender, Co-Intelligence, Articles |
 | 2026-05-31 | AI Research Agents, Balanced Governance, Agentic Workflow Patterns, Articles |
 | 2026-05-30 | Co-Intelligence, Cognitive Surrender, Leadership Lab Crowd Model, Education, Work, AI and Creator Rights |
@@ -90,7 +91,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 (6
 |-----|-------|----------|
 | 6–7 days | 33 pages | Intelligence Amplification, Healthcare, Case for AI Optimism, Case Against AI Doomism, The Turing Trap, AI and Inequality, AI Tutors, AI for Small Businesses, AI Executive Assistants, AI Writing Partners, AI Research Agents, Risk-Benefit Matrix, Adoption Readiness Checklist, AI Tutor Evaluation Checklist, Agency Expansion Framework, Task-Level AI Adoption, and most Source Library index pages |
 | 5–6 days | 10 pages | Positive Alignment, Strongest AI Risk Arguments, AI for School Districts, Human Review Checkpoints |
-| < 5 days | 28 pages | Actively curated (recent digests, core pages touched by daily runs) |
+| < 5 days | 32 pages | Actively curated (recent digests, core pages touched by daily runs) |
 
 **Recommendation:** The daily curator should prioritize the 39 pages in the 6-7 day bucket before they exceed 7 days. See the full list in [[log|the commit log]].
 
