@@ -8,9 +8,12 @@ This idea matters because AI adoption will be experienced as changes to tasks, t
 
 ## Best Supporting Sources
 - [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — warns that human-like imitation can steer AI toward substitution rather than complementarity.
-- [2025 Work Trend Index Annual Report](https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf), Microsoft, 2025 — argues that organizations are moving toward human-led, AI-operated “frontier firms.”
-- [The Cybernetic Teammate](https://www.nber.org/papers/w33641), Dell’Acqua et al., 2025 — examines AI’s effects on teamwork and expertise, not only individual output.
+- [2025 Work Trend Index Annual Report](https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf), Microsoft, 2025 — argues that organizations are moving toward human-led, AI-operated "frontier firms."
+- [The Cybernetic Teammate](https://www.nber.org/papers/w33641), Dell'Acqua et al., 2025 — examines AI's effects on teamwork and expertise, not only individual output.
 - [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025), Marc Zao-Sanders, Harvard Business Review, 2025 — offers a bottom-up view of common personal and workplace use cases.
+- [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/), David Rotman / MIT Technology Review, 2026 — the most thorough data-driven analysis to date: no large-scale AI job losses yet, AI-exposed unemployment lower than less-exposed, 16% decline concentrated in entry-level roles where AI automates rather than augments. The "earn-while-you-learn" career pipeline is what's breaking.
+- [Where Is AI in GDP Statistics?](https://www.piie.com/), Korinek, Solaiman, Zago / PIIE, 2026 — documents AI economy growing at ~2,600%/year but invisible in GDP; proposes AI satellite accounts.
+- [Hell Is Other People — So Billionaires Are Using AI to Replace Inconvenient Humans](https://www.thenerve.news/p/cory-doctorow-column-ai-inconvenient-humans-billionaires-sam-altman-bezoz-migrants), Cory Doctorow / The Nerve, June 2, 2026 — structural critique: AI deployment shaped by capital's desire to eliminate labor's bargaining power.
 
 ## Practical Examples
 - Redesign one recurring process as a [[Frontier Firm]] workflow: AI drafts or routes the work, humans set goals and inspect exceptions, and the team measures whether quality and agency improve.

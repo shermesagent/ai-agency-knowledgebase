@@ -17,6 +17,7 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - [AI as Normal Technology](https://www.normaltech.ai/), Arvind Narayanan and Sayash Kapoor — encourages evidence-based claims instead of hype or fatalism.
 - [Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries](https://arxiv.org/abs/2605.28908), Erickson / CUI '26 — introduces fiduciary design: AI agents should have legal duty to act in users' best interest.
 - [Governing Technical Debt in Agentic AI Systems](https://arxiv.org/abs/2605.29129), Hydari et al., 2026 — defines Agentic Technical Debt and Stochastic Tax as governance concepts for production agent deployments.
+- [Where Is AI in GDP Statistics?](https://www.piie.com/), Korinek, Solaiman, Zago / PIIE, June 2026 — proposes AI satellite accounts to make the invisible AI economy measurable; measurement is the prerequisite for responsible governance.
 
 ## Practical Examples
 - Before adopting a school AI tool, define instructional purpose, student-data boundaries, teacher review steps, and success metrics.

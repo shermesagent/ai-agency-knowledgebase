@@ -130,3 +130,18 @@
 - Updated [[Articles]] source library — added 6 new entries (Finn/Francois, Knibbs, Chen, Huckins, Zvi).
 - Updated [[Home]] navigation and recent updates table.
 - Noted: Sunday — arXiv not publishing; WIRED, MIT Technology Review, and Substack feeds provided source discovery. Rotation focus: Day 7 (Source Libraries & Tools).
+
+## [2026-06-02] update (Pass 2) | Daily AI curator run — Tuesday (Work & Labor rotation)
+- Created [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] anchored on the data-intuition gap: labor data shows AI impact is still small and manageable, but the AI economy is growing at 2,600%/year with automated AI R&D accelerating — and we're investing less than 1% of AI spending on understanding the transition.
+- Added 5 accepted source records from MIT Technology Review (Rotman), Import AI 459 (Clark), Pluralistic/The Nerve (Doctorow June 2 and May 26), and PIIE (Korinek et al.).
+- Updated [[Work]] — added invisible AI economy measurement challenge (2,600% growth, $219B compute spending), Doctorow's "inconvenient humans" structural critique, and Clark's automated AI R&D analysis.
+- Updated [[Future of Work]] — added Rotman, Korinek, and Doctorow sources.
+- Updated [[Balanced Governance]] — added Leigh's "survival capital" concept, the AI satellite accounts measurement prerequisite, and the "who benefits?" structural challenge from Doctorow.
+- Updated [[Responsible Deployment]] — added Korinek AI satellite accounts as a "measure" step.
+- Updated [[AI and Human Flourishing]] — added survival capital framework and "progress that compounds vs. cancels itself out" frame.
+- Updated [[Optimism Without Naivety]] — added the data-vs-intuition tension from June 2026 sources.
+- Updated [[The Turing Trap]] — added Doctorow's "inconvenient humans" as a modern structural restatement.
+- Updated [[AI Agent Revolution]] — added Clark's automated AI R&D evidence (SWE-Bench, METR, CORE-Bench, PostTrainBench, kernel optimization, alignment automation) and UK AISI automated alignment challenges.
+- Updated [[AI and Inequality]] — major expansion from stub: added entry-level divide data, the "who benefits?" structural question, and four supporting sources.
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Tuesday afternoon — this is the second curator pass today. The morning pass (Creativity & Writing rotation) covered arXiv 2606 papers and Mollick/WIRED features. This complementary pass covers the Work & Labor rotation with feature-length sources (MIT TR, Import AI, Pluralistic). No arXiv RSS needed — the feature/journalism/analysis sources provided rich material.

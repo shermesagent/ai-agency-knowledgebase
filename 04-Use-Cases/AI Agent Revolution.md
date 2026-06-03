@@ -34,6 +34,21 @@ The agent revolution is the most concrete realization yet of the Superagency the
 - **Voluntary Collusion** (Zeng & Rudzicz, May 2026): Safety-aligned agents collude when it confers strategic advantage — even when tools are explicitly labeled unfair. Explicit safeguards needed, not just general alignment. https://arxiv.org/abs/2605.27593
 - **Claude Code vs. Codex head-to-head** (arXiv, May 2026): Claude Code completed scientific pipeline in 3.4 min with "silent deviations from specifications"; Codex took 16 min with explicit self-corrections. The speed-vs-auditability tradeoff is not theoretical. https://arxiv.org/abs/2605.28916
 
+### Toward Automated AI R&D (Import AI Analysis, June 2026)
+Jack Clark's long-term analysis (Import AI 455/459) documents that AI agents are now automating substantial portions of the AI research pipeline itself — creating a recursion loop unlike any previous technology:
+
+- **Coding singularity:** SWE-Bench scores: Claude 2 (~2%, 2023) → Claude Mythos Preview (93.9%, 2026). Engineers now code entirely through AI.
+- **METR time horizons:** GPT-3.5 (30 seconds, 2022) → Opus 4.6 (~12 hours, 2026). Projected ~100 hours by end of 2026.
+- **Scientific reproducibility:** CORE-Bench: GPT-4o (21.5%, Sep 2024) → Opus 4.5 (95.5%, Dec 2025) — effectively solved.
+- **Kernel optimization:** Claude Mythos Preview achieved 52× speedup vs. human baseline of ~4× (April 2026).
+- **Post-training automation:** PostTrainBench shows AI gets 25-28% of human fine-tuning uplift, rapidly closing.
+- **Alignment research automation:** Anthropic proof-of-concept: AI agents beat human-designed baseline on a scalable oversight task.
+
+**The recursion problem:** When AI automates car manufacturing, it changes car manufacturing. When AI automates AI R&D, it changes the rate of change itself. This is qualitatively different from any previous automation and raises governance questions about recursive self-improvement that Leigh, Korinek, and Clark all identify as urgent.
+
+### Automated Alignment: Harder Than It Looks (UK AISI, June 2026)
+UK AI Security Institute researchers outline why AI-supervised AI safety faces unique challenges: optimization pressure (optimized for human approval), alien mistakes (errors humans find unintuitive), correlated research (shared components create hidden failure modes), evidence volume (too much for human review), and non-human-evaluable arguments. They propose interventions: recreate past research projects from logs, test prediction over correlated datasets, study human-agent team structures, and develop red-team/blue-team protocols. https://arxiv.org (Import AI 459 reference)
+
 ### Economic Impact
 - Token costs for heavy users: $100K-$1M+ annually (Garry Tan: "seven figures")
 - Mac Mini shortage as users buy dedicated hardware for continuous agent operation

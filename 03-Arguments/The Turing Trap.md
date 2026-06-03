@@ -23,6 +23,9 @@ This is one of the most important counterweights to shallow AI optimism. [[Super
 - [[Work]]
 - [[Future of Work]]
 - [[AI as Copilot]]
+
+## Modern Restatement: The "Inconvenient Humans" Thesis
+Cory Doctorow's June 2, 2026 column restates the Turing Trap in structural terms: AI deployment is being shaped not by what maximizes productivity but by what serves capital's preference for workers who make no demands. "AI makes no demands, requires no moral consideration, and does not attempt to germinate a culture, a cuisine, or a language in your sacred soil." The trap isn't just a design choice at the task level — it's embedded in the political economy of who controls deployment and for what purpose. Augmentation requires institutional design that favors it; without that, Brynjolfsson's warning that AI can be steered toward replacement becomes a prediction of the default trajectory.
 - [[AI and Inequality]]
 - [[Task-Level AI Adoption]]
 
