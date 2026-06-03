@@ -31,8 +31,9 @@ The "manager of managers" pattern from HBR (Fosslien and Duffy 2026) describes a
 - **Evaluator-optimizer:** Generate a draft, score it against a rubric, revise, and surface remaining uncertainties.
 - **Orchestrator-worker:** A planning agent decomposes a task into small subtasks, delegates them, and assembles a result for human review.
 - **Human checkpoint:** Stop before publishing, sending, purchasing, deleting, grading, disciplining, or making any high-consequence decision. See [[Human Review Checkpoints]].
-- **Agent supervisor loop:** A human defines the objective, assigns a bounded subtask to an agent, inspects artifacts and logs, and updates the workflow before broader rollout.
-- **Architecture plus pilot:** Define the long-term agentic architecture, then ship one narrow human-in-the-loop version with logs and stop conditions.
+- **Human-in-the-loop agent collaboration (DeskCraft protocol):** Mid-turn exchanges (agent-initiated clarification, user-initiated interruption) + post-turn user-driven feedback. Formalized in [[DeskCraft benchmark]]. For any long-horizon agent workflow (>50 steps), build explicit mid-turn and post-turn human interaction points — agents that can't proactively clarify under uncertainty will fail. [[AI Agent Revolution]].
+- **Trust-boundary trace sharing (InquiryBits):** AI conversation traces shared within team-level trust boundaries. Default to team visibility, not organizational surveillance. Professionals are broadly willing to share traces to support collaboration but comfort drops sharply outside close teams — trust boundaries matter more than information granularity. https://arxiv.org/abs/2606.02763
+- **Editable scaffold dispatch:** AI produces a draft, critique, or analysis; human adopts, edits, or ignores at discretion. Proven in a randomized field experiment: TAs given AI feedback drafts increased feedback provision by 10.8pp (p<0.001) while preserving full control — the AI lowered the activation barrier without constraining the output. See [[AI Assistance for Discretionary Work]].
 
 ## Risks / Limits
 - Agentic systems can compound errors when they act on unverified intermediate outputs.

@@ -10,6 +10,8 @@ This framework keeps [[Superagency]] grounded. It avoids both blanket hype and b
 - [The Anthropic Economic Index](https://www.anthropic.com/economic-index) — useful task-level data on collaboration versus delegation patterns.
 - [Future of Work with AI Agents](https://futureofwork.saltlab.stanford.edu/) — audits automation and augmentation potential across work tasks.
 - [[The Turing Trap]] — warns that substitution and augmentation have different social consequences.
+- ["How People Are Really Using AI in 2026"](https://hbr.org/2026/06/how-people-are-really-using-ai-in-2026), Zao-Sanders / HBR, June 2026 — third annual survey: widening range of real-world AI uses; shifts in emphasis rather than stark ruptures; growing anxiety about cognitive surrender. Corporate-specific top-25 use cases added.
+- ["AI Assistance for Discretionary Work"](https://arxiv.org/abs/2606.03095), Mahinpei et al., 2026 — RCT: AI drafts increased feedback by 10.8pp. Editable scaffolding as task-level augmentation design pattern.
 
 ## Practical Examples
 Use four labels during workflow review:

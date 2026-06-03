@@ -131,7 +131,20 @@
 - Updated [[Home]] navigation and recent updates table.
 - Noted: Sunday — arXiv not publishing; WIRED, MIT Technology Review, and Substack feeds provided source discovery. Rotation focus: Day 7 (Source Libraries & Tools).
 
-## [2026-06-02] update (Pass 2) | Daily AI curator run — Tuesday (Work & Labor rotation)
+## [2026-06-03] update | Daily AI curator run — Wednesday (Governance, Agents & Practical Tools rotation)
+- Created [[Daily AI Agency Digest — 2026-06-03]] anchored on the governance-agency nexus: design defaults (not model capability) determine whether AI amplifies or erodes human agency. Seven sources: four-factor agentic governance transparency framework, InquiryBits trust-boundary collaboration study, actionable scaffolding RCT (+10.8pp feedback), DeskCraft 31.6% professional workflow ceiling, HBR 2026 AI usage survey (third edition), Claude Opus 4.8 capabilities/reactions, and Doctorow's Reverse-Centaur book release.
+- Added 7 accepted source records to `/sources/sources.jsonl`? Not yet. Sources captured in [[Articles]], [[Books]], and digest. (JSONL sync pending.)
+- Updated [[Balanced Governance]] — added agentic governance transparency framework (model version, weight-release, provider, system-prompt as four required dimensions for auditable governance).
+- Updated [[AI Agent Revolution]] — added Claude Opus 4.8 (4x self-correction, continued straight-line capability trajectory) and DeskCraft benchmark (GPT-5.4 31.6% on 50+ step professional workflows; human-in-the-loop remains essential).
+- Updated [[Human Agency]] — added Reverse-Centaur diagnostic (Centaur vs. Reverse Centaur), scaffolding-as-agency (RCT evidence: +10.8pp feedback), and trust-boundary agency (InquiryBits finding: who sees matters more than what).
+- Updated [[Agentic Workflow Patterns]] — added DeskCraft human-agent collaboration protocol (mid-turn + post-turn exchanges), InquiryBits trust-boundary trace sharing pattern, and editable scaffold dispatch pattern (RCT-validated).
+- Updated [[AI as Copilot]] — added three new sources: Discretionary Work RCT (scaffolding validates copilot model), InquiryBits (trust-boundary design principle), DeskCraft (human-in-the-loop remains essential).
+- Updated [[Agency Expansion Framework]] — added Discretionary Work RCT as empirical evidence, InquiryBits as collaborative agency evidence, and two new practical examples (scaffolding + trust-boundary design).
+- Updated [[Task-Level AI Adoption]] — added HBR 2026 survey (widening uses, cognitive surrender anxiety) and Discretionary Work RCT (editable scaffolding as augmentation pattern).
+- Updated [[Articles]] source library — added 6 new entries (Zhang/Chu/Krishnan agentic governance, Morris/Maes InquiryBits, Mahinpei et al. discretionary work, Wang et al. DeskCraft, Zao-Sanders HBR survey, Zvi Opus 4.8).
+- Updated [[Books]] source library — added Doctorow Reverse-Centaur entry.
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Wednesday (weekday) — arXiv feeds provided primary source discovery across cs.CY, cs.HC, and cs.AI. HBR, Zvi's newsletter, and Doctorow's book release provided non-paper sources. Rotation focus: Governance, Agents & Practical Tools — complementary to Tuesday's Creativity/Writing (AM) and Work/Labor (PM) rotations. 4 of 7 sources are papers (57%); 3 are non-papers (HBR article, newsletter/analysis, book).
 - Created [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] anchored on the data-intuition gap: labor data shows AI impact is still small and manageable, but the AI economy is growing at 2,600%/year with automated AI R&D accelerating — and we're investing less than 1% of AI spending on understanding the transition.
 - Added 5 accepted source records from MIT Technology Review (Rotman), Import AI 459 (Clark), Pluralistic/The Nerve (Doctorow June 2 and May 26), and PIIE (Korinek et al.).
 - Updated [[Work]] — added invisible AI economy measurement challenge (2,600% growth, $219B compute spending), Doctorow's "inconvenient humans" structural critique, and Clark's automated AI R&D analysis.

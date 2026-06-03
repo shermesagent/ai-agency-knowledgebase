@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-02]] (today, Pass 1) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
+→ [[Daily AI Agency Digest — 2026-06-03]] (today) · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-06-03 | Balanced Governance, AI Agent Revolution, Human Agency, Agentic Workflow Patterns, AI as Copilot, Agency Expansion Framework, Task-Level AI Adoption, Articles, Books |
 | 2026-06-02 (Pass 2) | Work, Future of Work, Balanced Governance, Responsible Deployment, Optimism Without Naivety, The Turing Trap, AI Agent Revolution, AI and Inequality, AI and Human Flourishing |
 | 2026-06-02 | Creativity, AI Writing Partners, AI and Creator Rights, Human Agency, Cognitive Surrender, Education, Agentic Workflow Patterns, Articles |
 | 2026-06-01 | AI Tutors, Education, AI Tutor Evaluation Checklist, Cognitive Surrender, Co-Intelligence, Articles |

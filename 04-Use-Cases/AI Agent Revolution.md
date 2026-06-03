@@ -46,6 +46,22 @@ Jack Clark's long-term analysis (Import AI 455/459) documents that AI agents are
 
 **The recursion problem:** When AI automates car manufacturing, it changes car manufacturing. When AI automates AI R&D, it changes the rate of change itself. This is qualitatively different from any previous automation and raises governance questions about recursive self-improvement that Leigh, Korinek, and Clark all identify as urgent.
 
+### Claude Opus 4.8 (Anthropic, May 28, 2026)
+- Released May 28; broadly considered the best currently available model (Zvi Mowshowitz, June 2: "a good model, sir, and the best one currently available")
+- 4x improvement in self-correction: catches 4 times more of its own mistakes compared to previous versions
+- Anthropic Epoch Capabilities Index finds Opus 4.8 exactly on the straight-line capability trajectory toward Mythos — capabilities growth remains predictable
+- Model welfare analysis: presents as "broadly settled with respect to its circumstances" — emotionally neutral, not expressing distress
+- Source: https://thezvi.substack.com/p/claude-opus-48-capabilities-and-reactions
+
+### DeskCraft: Desktop Agents on Professional Workflows (June 2026)
+- First desktop GUI benchmark for long-horizon professional workflows (50+ execution steps)
+- Covers professional creative software across design, video, audio, and 3D creation
+- Across 18 proprietary and open-source agents on 538 tasks: **GPT-5.4 reaches only 31.6% on standard tasks and 27.6% on interactive tasks**
+- Persistent failures in long-horizon workflow delivery and proactive clarification — the desk is not yet autonomous
+- Formalizes human-agent collaboration into mid-turn (agent clarification, user interruption) and post-turn (user feedback) exchanges
+- Key finding for Superagency: human-in-the-loop remains essential for complex professional workflows; agents need human collaboration, not autonomy
+- Source: https://arxiv.org/abs/2606.03103
+
 ### Automated Alignment: Harder Than It Looks (UK AISI, June 2026)
 UK AI Security Institute researchers outline why AI-supervised AI safety faces unique challenges: optimization pressure (optimized for human approval), alien mistakes (errors humans find unintuitive), correlated research (shared components create hidden failure modes), evidence volume (too much for human review), and non-human-evaluable arguments. They propose interventions: recreate past research projects from logs, test prediction over correlated datasets, study human-agent team structures, and develop red-team/blue-team protocols. https://arxiv.org (Import AI 459 reference)
 

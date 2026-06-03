@@ -24,6 +24,9 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - Preserve direct human contact with customers, students, communities, and materials when the work depends on relationship, taste, or lived feedback.
 - For work design, ask which parts of a task are execution and which parts require empathy, presence, judgment, creativity, or hope.
 - **Design AI with deliberate friction:** The New Social Image finding — that more competent/proactive AI undermines ownership and meaningfulness — suggests AI systems in agency-critical domains should be designed to be LESS seamless. Show reasoning without acting on it. Offer options rather than decisions. Let the human make choices the AI could make automatically.
+- **The Reverse-Centaur test (Doctorow, June 2026):** Cory Doctorow's new book, *The Reverse-Centaur's Guide to Life After AI*, provides a simple diagnostic for any AI deployment: a Centaur is a human amplified by AI (AI handles the repetitive work, human handles judgment). A Reverse Centaur is a human serving the machine (human handles the repetitive work, AI makes the judgments). The test asks: "who does this AI system work for?" This operationalizes the agency question beyond whether AI is "good" or "bad" — the same technology can be a Centaur in one deployment and a Reverse Centaur in another, depending on design choices. https://us.macmillan.com/books/9780374621568/
+- **Agency through scaffolding, not replacement:** A randomized field experiment (Mahinpei et al., arXiv June 2026) found that AI-generated editable drafts increased teaching assistant feedback provision by 10.8pp (p<0.001) while preserving full human control — TAs could edit or ignore drafts. The mechanism: AI lowered the activation barrier ("blank page problem") without constraining the output space. This is agency expansion through scaffolding: the AI made humans MORE active, not less. https://arxiv.org/abs/2606.03095
+- **Agency as a function of trust boundaries:** The InquiryBits study (Morris & Maes, arXiv June 2026, N=80 professionals) found that people are willing to share AI conversation traces to support team collaboration — but only within bounded groups. The key finding: trust boundaries (who can see it) matter more than information granularity (how much detail is shared). Agency-preserving AI collaboration tools must default to team-level, not organizational, visibility. https://arxiv.org/abs/2606.02763
 
 ## Risks / Limits
 - More machine execution does not automatically mean more human agency; it can become surveillance, deskilling, or opaque dependence.
@@ -40,6 +43,8 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - [[Human Review Checkpoints]]
 - [[AI and Human Flourishing]]
 - [[Optimism Without Naivety]]
+- [[The Turing Trap]] — Reverse Centaur as modern parallel
+- [[Cognitive Surrender]] — Doctorow's Reverse Centaur framing
 
 ## Tags
 #human-agency #augmentation #superagency #ai-optimism #techno-humanism
