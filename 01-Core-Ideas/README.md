@@ -2,7 +2,7 @@
 
 Durable concepts and mental models for thinking about AI, agency, and human flourishing. These are the foundational ideas that other sections build on — revisit them when you encounter new domains, use cases, or arguments.
 
-**17 pages** — updated daily by the research curator.
+**18 pages** — updated daily by the research curator.
 
 ---
 
@@ -15,6 +15,7 @@ Durable concepts and mental models for thinking about AI, agency, and human flou
 - [[AI as Copilot]] — augmentation over replacement; AI that works alongside humans
 
 ### Collaboration & Intelligence
+- [[AI Orchestrator]] — the shift from operator to orchestrator; how AI work moves cognitive load from execution to specification, decomposition, and verification
 - [[Co-Intelligence]] — everyday human-AI collaboration practice applied to creative, professional, and organizational work
 - [[Intelligence Amplification]] — using AI to enhance human thinking rather than replace it
 - [[Cognitive Surrender]] — when people stop thinking and accept AI output even when wrong

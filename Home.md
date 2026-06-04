@@ -27,8 +27,8 @@ Prefer a map instead? Jump to [[#section-summaries|Section Summaries]] below.
 ## Sections
 
 ### [[01-Core-Ideas/README|Core Ideas]]
-Durable concepts and mental models. Superagency, Human Agency, Cognitive Surrender, Agentic Convergence Trap, Digital Fiduciary Duty, Co-Intelligence, and 11 more.
-→ [[Superagency]] · [[Magnifica Humanitas]] · [[Human Agency]] · [[Cognitive Surrender]] · [[Agentic Convergence Trap]]
+Durable concepts and mental models. Superagency, Human Agency, Cognitive Surrender, Agentic Convergence Trap, AI Orchestrator, Digital Fiduciary Duty, Co-Intelligence, and 12 more.
+→ [[Superagency]] · [[Magnifica Humanitas]] · [[Human Agency]] · [[Cognitive Surrender]] · [[Agentic Convergence Trap]] · [[AI Orchestrator]]
 
 ### [[02-Domains/README|Domains]]
 Adoption domains: education, work, creativity, healthcare, civic life, home-server agents, and more.
