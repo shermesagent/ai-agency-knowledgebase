@@ -1,4 +1,3 @@
----
 # AI Orchestrator
 
 The AI Orchestrator is a cognitive posture for working with artificial intelligence, defined by a fundamental shift in where the human mind applies its effort: **from executing tasks to specifying, decomposing, verifying, and directing work.** Instead of being the one who *does* the thing — writes the code, drafts the email, analyzes the spreadsheet — you become the one who articulates what needs to be done, breaks it into AI-executable pieces, evaluates what comes back, and iterates until the result is right. The thinking doesn't go away; it moves up a level.
