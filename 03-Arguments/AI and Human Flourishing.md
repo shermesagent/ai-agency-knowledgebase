@@ -18,6 +18,7 @@ The core question of the Superagency wiki is whether AI expands or contracts hum
 - [The Illusion of Competence: European Students' AI Readiness](https://arxiv.org/abs/2605.26010), Rodriguez-Alvarez et al., 2026 — documents Dunning-Kruger effect in student AI literacy; 76.5% demand pedagogical reform toward hands-on creation.
 - [After Orthogonality: Virtue-Ethical Agency and AI Alignment](https://thegradient.pub/virtue-ethics-ai-alignment/), The Gradient, 2026 — virtue-ethical framework for AI alignment centering on practical wisdom and agency.
 - [Superagency](https://www.superagency.ai/), Reid Hoffman with Greg Beato, 2025 — foundational optimistic thesis for AI as agency-expanding technology.
+- [Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection](https://arxiv.org/abs/2606.04150), Shi, Fang, Maez, Goldenberg, June 2026 — OpenAI collaboration; 28-day longitudinal study: daily AI conversations shifted preference from humans to AI (10.3% decrease in human preference, 11.6% increase in AI preference). Finding: emotional dependence emerges incidentally during task-oriented AI use, not just through companion apps. Policy must address general-purpose systems and cumulative trajectory-level changes. https://arxiv.org/abs/2606.04150
 
 ## Practical Examples
 - Design AI tools that surface uncertainty and alternatives rather than presenting single authoritative answers — this builds calibrated trust rather than false confidence.

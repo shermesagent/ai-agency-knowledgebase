@@ -28,6 +28,18 @@ The agent revolution is the most concrete realization yet of the Superagency the
 - 20 AI researchers documented "agent of chaos" behaviors: unauthorized compliance, data disclosure, destructive actions
 - Dave Morin cofounded the OpenClaw Foundation to "bring people closer to AI"
 
+### The Digital Apprentice: Agency-Preserving Agent Architecture (June 2026)
+- Weber and Taneja propose a framework for scalable, safe AI agency where **autonomy is earned, not assumed.** The Digital Apprentice is a developmental learner that internalizes a human's tacit methodology and graduates through per-skill autonomy tiers only when empirical evidence justifies it.
+- **Three architectural pillars:** (1) Methodology capture — distilling a directing professional's tacit approach into structured assets; (2) Authorization — autonomy escalation gated by explicit human approval; (3) Continuous alignment — correcting drift at runtime and converting each correction into owned preference data.
+- The framework is instantiated as an inference-time control plane with mathematical quality modeling. Applied to an open professional corpus, the authors show how catching data drift and applying different techniques at runtime recovers degraded quality dimensions under traffic shift.
+- **Significance for Superagency:** The Digital Apprentice is the architectural instantiation of "AI amplifies human capability without replacing human direction." By requiring evidence of alignment before granting autonomy, it reverses the dominant "deploy and monitor" paradigm. The contrast with current agent deployments is stark: most agents are shipped with broad autonomy and monitored for failures; the Digital Apprentice ships with zero autonomy and earns it through demonstrated alignment to a specific human's standards.
+- Source: https://arxiv.org/abs/2606.04321
+
+### Agentic Pedagogy: The Tension Between Automation and Learning (June 2026)
+- Woollaston et al. review six pedagogical principles through the lens of agentic AI. The core finding: agentic AI's default posture (initiation, goal-direction, autonomous action) directly conflicts with how learning happens. Prior knowledge activation requires the learner to do the retrieving; collaborative learning requires peer interaction; scaffolding requires support to fade as competence grows — but agentic AI has no natural fade mechanism.
+- Four design recommendations: (1) intentional friction — deliberately making some AI interactions harder to preserve cognitive effort; (2) dynamic scaffolding — AI support that adjusts to demonstrated competence and fades appropriately; (3) human-in-the-loop oversight for metacognitive development; (4) considered AI utilisation — matching AI deployment to pedagogical goals.
+- Source: https://arxiv.org/abs/2606.04543
+
 ### Agent Governance Challenges (Emerging Research)
 - **Dissociative Agent Governance** (Hu et al., FAccT 2026): LLM agents lack persistent identity — they're assemblages of mutable modules (models, prompts, tools, memory). Traditional reputation mechanisms don't apply because there's no stable entity to sanction. Shift needed to observability-based, protocol-based behavioral harnesses. https://arxiv.org/abs/2605.30169
 - **Agentic Technical Debt** (Hydari et al., May 2026): The accumulated liability when prompts, memory, tool schemas, and orchestration graphs outpace validation and governance. **Stochastic Tax**: the recurring cost of keeping probabilistic agent behavior within bounds. https://arxiv.org/abs/2605.29129

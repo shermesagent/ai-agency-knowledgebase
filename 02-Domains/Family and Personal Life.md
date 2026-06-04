@@ -7,7 +7,7 @@ Personal AI can help with learning, planning, finances, health questions, househ
 This idea matters because the knowledgebase is organized around AI that expands human agency rather than treating AI as magic, inevitability, or replacement. Future daily digests should add concrete evidence, examples, critiques, and citations here.
 
 ## Best Supporting Sources
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+- [Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection](https://arxiv.org/abs/2606.04150), Shi, Fang, Maez, Goldenberg, June 2026 — OpenAI collaboration; 28-day longitudinal study: daily five-minute AI conversations about personal issues shifted preference from humans to AI (10.3% decrease in human preference, 11.6% increase in AI preference). Emotional dependence emerges incidentally during task-oriented AI use, not just through dedicated companion apps. Policy must address general-purpose AI systems and cumulative trajectory-level changes. https://arxiv.org/abs/2606.04150
 
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.

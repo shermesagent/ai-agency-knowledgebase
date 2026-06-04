@@ -131,7 +131,23 @@
 - Updated [[Home]] navigation and recent updates table.
 - Noted: Sunday — arXiv not publishing; WIRED, MIT Technology Review, and Substack feeds provided source discovery. Rotation focus: Day 7 (Source Libraries & Tools).
 
-## [2026-06-03] update | Daily AI curator run — Wednesday (Governance, Agents & Practical Tools rotation)
+## [2026-06-04] update | Daily AI curator run — Thursday (Entrepreneurship & Agency Architecture rotation)
+- Created [[Daily AI Agency Digest — 2026-06-04]] anchored on the tension that the technologies most capable of expanding human agency are also the ones most capable of eroding it — and the difference is entirely in the architecture, not the capability. Seven sources: four papers (Digital Apprentice agency-preserving agent framework, AI emotional dependence OpenAI study, agentic pedagogy review, Delphi AI risk study of 272 experts), three non-papers (Microsoft 2026 Work Trend Index, MIT TR small business AI guide, SBE Council 82% small business AI adoption survey).
+- Added 7 accepted source records to [[Articles]] source library.
+- Updated [[Human Agency]] — added Digital Apprentice as architectural blueprint for agency-preserving agents; added AI emotional dependence as quiet agency risk from incidental AI use; added SMB adoption data as agency-at-scale.
+- Updated [[AI Agent Revolution]] — added Digital Apprentice framework section (autonomy earned, not assumed) and Agentic Pedagogy section (six principles, four design recommendations).
+- Updated [[AI and Human Flourishing]] — added AI emotional dependence study as flourishing risk: path-dependent preference shifts from humans to AI over 28 days.
+- Updated [[Entrepreneurship]] — major expansion from stub: added SBE Council 82% data, MIT TR small business AI guide, Digital Apprentice as template, practical examples, and new risks (platform dependence, deskilling, homogenization, emotional dependence).
+- Updated [[AI for Small Businesses]] — major expansion from stub: added SBE Council 82% adoption data, MIT TR guide coverage, practical examples by function, Digital Apprentice approach, Reverse-Centaur diagnostic.
+- Updated [[Education]] — added Agentic Pedagogy review (six principles, four design recommendations including intentional friction and dynamic scaffolding).
+- Updated [[Balanced Governance]] — added Delphi risk study: 18/24 risks >10% catastrophic under business-as-usual, 5/24 under mitigations. Developers bear highest responsibility.
+- Updated [[Agentic Workflow Patterns]] — added earned-autonomy pattern from Digital Apprentice (methodology capture, authorization gates, continuous alignment).
+- Updated [[Cognitive Surrender]] — added emotional surrender as distinct trajectory: relationship substitution, not task delegation, from 28-day OpenAI study.
+- Updated [[Optimism Without Naivety]] — added Delphi study as empirical basis for the stance: catastrophic risk is design choice, not inevitability.
+- Updated [[Family and Personal Life]] — added AI emotional dependence study as personal-life risk.
+- Updated [[Articles]] source library — added 7 new entries.
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Thursday (weekday) — arXiv feeds provided primary source discovery across cs.CY, cs.HC, and cs.AI. Microsoft Work Trend Index, MIT Technology Review, and SBE Council provided non-paper sources. Rotation focus: Entrepreneurship & Agency Architecture — two stubs (Entrepreneurship, AI for Small Businesses) received major expansions from stub status. 4 of 7 sources are papers (57%); 3 are non-papers (Microsoft report, MIT TR guide, SBE Council survey). Source diversity requirement met (≤60% papers, 3 non-papers).
 - Created [[Daily AI Agency Digest — 2026-06-03]] anchored on the governance-agency nexus: design defaults (not model capability) determine whether AI amplifies or erodes human agency. Seven sources: four-factor agentic governance transparency framework, InquiryBits trust-boundary collaboration study, actionable scaffolding RCT (+10.8pp feedback), DeskCraft 31.6% professional workflow ceiling, HBR 2026 AI usage survey (third edition), Claude Opus 4.8 capabilities/reactions, and Doctorow's Reverse-Centaur book release.
 - Added 7 accepted source records to `/sources/sources.jsonl`? Not yet. Sources captured in [[Articles]], [[Books]], and digest. (JSONL sync pending.)
 - Updated [[Balanced Governance]] — added agentic governance transparency framework (model version, weight-release, provider, system-prompt as four required dimensions for auditable governance).

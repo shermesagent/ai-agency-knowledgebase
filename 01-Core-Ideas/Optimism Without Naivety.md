@@ -21,6 +21,7 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - Avoid treating one positive case study as universal proof.
 - Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
 - Update this section whenever strong counterarguments appear.
+- **The Delphi risk study provides an empirical basis:** The Saeri et al. study (June 2026, 272 experts, 24 risks) shows that catastrophic risk is a design choice, not an inevitability: 18/24 risks have >10% catastrophic probability in business-as-usual, but only 5/24 under pragmatic mitigations. This is the "Optimism Without Naivety" pattern at empirical scale — the bad outcomes are real but avoidable. https://arxiv.org/abs/2606.04490
 
 ## Related Pages
 - [[Case for AI Optimism]]
