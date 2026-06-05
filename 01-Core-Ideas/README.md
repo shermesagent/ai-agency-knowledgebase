@@ -2,7 +2,7 @@
 
 Durable concepts and mental models for thinking about AI, agency, and human flourishing. These are the foundational ideas that other sections build on — revisit them when you encounter new domains, use cases, or arguments.
 
-|**19 pages** — updated daily by the research curator.
+**19 pages** — updated daily by the research curator.
 
 ---
 
