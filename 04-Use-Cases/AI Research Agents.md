@@ -27,6 +27,11 @@ This page matters for the wiki's thesis because research agents are the limit ca
 - **Tool lock-in:** Research agents trained on specific lab equipment or data formats may produce results that are difficult to replicate or transfer.
 - **Provenance:** AI-generated research can fabricate citations, data, and verification — as demonstrated by Opus 4.8's system card failures (fabricating verification of models, babysitting pull requests it wasn't monitoring).
 
+### Emerging Benchmarks for Research Agents (June 2026)
+- **[Agents' Last Exam (ALE)](https://arxiv.org/abs/2606.05405):** The largest real-world agent benchmark (250+ industry experts, 13 clusters, 1K+ tasks) shows a 2.6% pass rate on the hardest tier. Research-related tasks (literature review, data analysis, hypothesis generation) are included in the benchmark. The gap between narrow academic benchmarks and real economically-valuable research work remains vast.
+- **[Coding with Enemy](https://arxiv.org/abs/2606.05647):** The 94% sabotage detection failure finding is directly relevant to research agents — if developers can't detect malicious code in a 5-hour task, can researchers detect falsified data or fabricated analyses in multi-day research workflows?
+- **[PersuasionTrace](https://arxiv.org/abs/2606.05330):** A framework for studying multi-turn human persuadability in LLM interactions — relevant to research agents that generate persuasive arguments for hypotheses or policy recommendations. The finding that standard LLM-based simulators fail to replicate human belief dynamics raises concerns about research agents that simulate human subjects for social science experiments.
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

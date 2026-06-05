@@ -29,6 +29,23 @@ Creativity is a core domain for the Superagency thesis: AI that expands creative
 - **The "no AI penalty" paradox:** If readers genuinely don't distinguish between human and AI-authored work (as the Know Your Author study shows), the economic incentive to pay human creators collapses — even as readers continue to enjoy work more when they believe it's human-made. This is an unstable equilibrium that resolves in favor of whoever controls production.
 - **"Meaning-shaped attention vampires"** (Mollick) proliferate when AI is used as a default writer rather than an intentional tool. The user may produce more content but communicate less meaning.
 
+### The Metacognitive Adaptation Framework: Why Individual Gain Produces Collective Loss (June 2026)
+
+Mikeda (arXiv 2606.05532) resolves the creativity paradox — why AI enhances individual creative output while reducing collective diversity — through a new mechanism: **selective metacognitive adaptation.** Routine AI use doesn't uniformly diminish metacognitive effort; it *redistributes* it. Some capacities are amplified (partner modeling — getting better at directing the AI; surface control — refining AI outputs) while others are systematically under-supported (originality evaluation — judging whether an idea is truly novel; reflective integration — stepping back to ask whether the output matters). The framework presents a taxonomy of six metacognitive capacities:
+
+| Phase | Capacities Amplified by AI | Capacities Atrophied by AI |
+|-------|---------------------------|---------------------------|
+| Pre-generation | Partner modeling (directing AI effectively) | Originality evaluation (judging what's truly novel) |
+| During generation | Surface control (refining AI outputs) | Divergent thinking (generating genuinely different alternatives) |
+| Post-generation | Selection/evaluation of AI outputs | Reflective integration (asking whether output matters) |
+
+The key insight: this redistribution is **individually rational** (it makes each person more productive and more satisfied with their output) but **collectively costly** (when everyone amplifies the same capacities and atrophies the same ones, creative output converges). Think of it as a market failure in creative cognition — no individual creator has an incentive to preserve collective diversity, but every creator's individually optimal strategy (use AI to produce more, faster, better) produces the collectively suboptimal outcome (homogeneous creative landscape).
+
+**Design implications for agency-preserving creative AI:**
+1. **Deliberately support the atrophied capacities:** AI tools should prompt for originality evaluation ("Before accepting this suggestion, generate two genuinely different alternatives"), not just surface refinement.
+2. **Measure collective diversity, not just individual satisfaction:** Creative AI evaluation must track output diversity at the population level, not just individual user satisfaction scores.
+3. **Introduce productive friction at the reflective integration phase:** Pause before accepting AI output to ask "does this matter?" — a metacognitive check AI interfaces currently bypass.
+
 ## Related Pages
 - [[AI Writing Partners]]
 - [[AI as Copilot]]

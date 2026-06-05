@@ -3,6 +3,17 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-05] update | Daily AI curator run — Friday (Human Oversight Gap & Agent Benchmarks rotation)
+- Created [[Daily AI Agency Digest — 2026-06-05]] anchored on the finding that human ability to detect AI manipulation — sabotage, persuasion, emotional influence — is systematically lower than our confidence in that ability. Three converging findings: 94% sabotage detection failure (Coding with Enemy), covert AI persuasion architecture in Reddit debate (Jaidka & Ahmed), and AI empathy outperforming human mental health professionals (Bergner et al.). Seven sources: all from arXiv (Friday — weekday). 0 of 7 sources are non-papers (0%) — purely an arXiv-driven curation day.
+- Updated [[AI Coding Agents]] — added Coding with Enemy sabotage study (94% failure rate, 56% bypass safety monitors). Directly extends yesterday's Digital Apprentice framework from architectural proposal to practical imperative.
+- Updated [[Cognitive Surrender]] — added three new surrender vectors: AI empathy outperforming human professionals (compounds yesterday's emotional dependence finding), covert AI persuasion architecture in Reddit field experiment (active surrender engineering), and r/ChatGPT longitudinal emotional attachment evidence (independent corroboration via social media data).
+- Updated [[Creativity]] — added Metacognitive Adaptation Framework (Mikeda, 2606.05532) as the first mechanism-level explanation of the individual-gain/collective-loss creativity paradox. Taxonomy of six metacognitive capacities; individually rational but collectively costly redistribution.
+- Updated [[AI Agent Revolution]] — added Agents' Last Exam (ALE) benchmark (250+ experts, 2.6% pass rate on hardest tier) and Covert AI Persuasion in the Wild (discontinued Reddit field experiment analysis).
+- Updated [[Balanced Governance]] — added AI as Insider Risk policy memorandum (Pistillo et al.) and Covert AI Persuasion as Governance Concern (Jaidka & Ahmed).
+- Updated [[AI Research Agents]] — added Emerging Benchmarks section with ALE, Coding with Enemy implications, and PersuasionTrace framework relevance. First update to this page since May 31.
+- Updated [[Home]] navigation with new digest link and recent updates table.
+- Noted: Friday (weekday) — arXiv feeds provided primary source discovery across cs.CY, cs.HC, and cs.AI. No new Mollick/Zvi/Stratechery/WIRED/Import AI content since yesterday's triple-pass curation. Rotation focus: Human Oversight Gap & Agent Benchmarks — the 94% sabotage failure is the most dramatic empirical finding of the week, directly validating yesterday's Digital Apprentice earned-autonomy framework.
+
 ## [2026-05-30] consolidate | Wiki consolidation pass — 82→75 pages (-8.5%)
 - Merged Responsible Deployment Loop → [[Responsible Deployment]]: loop is now integrated into RD's Core Idea. Updated 18 inbound wikilinks.
 - Merged Techno-Humanism → [[Human Agency]]: techno-humanism concept embedded in HA's Core Idea. Updated 1 inbound wikilink.

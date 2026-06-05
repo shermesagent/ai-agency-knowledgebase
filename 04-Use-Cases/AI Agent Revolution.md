@@ -85,6 +85,23 @@ Jack Clark's long-term analysis (Import AI 455/459) documents that AI agents are
 - Key finding for Superagency: human-in-the-loop remains essential for complex professional workflows; agents need human collaboration, not autonomy
 - Source: https://arxiv.org/abs/2606.03103
 
+### Agents' Last Exam (ALE): The GDP-Relevant Benchmark (June 2026)
+- The most comprehensive real-world agent benchmark to date, built with **250+ industry experts** across **13 industry clusters** with **55 subfields** covering **1K+ verifiable tasks**
+- Mapped to O*NET/SOC 2018 (U.S. federal occupational taxonomy) for economic relevance
+- **Hardest tier: average full pass rate is 2.6% across mainstream harness and backbone configurations**
+- Designed as a living benchmark — task pool grows continuously as new workflows and industries are onboarded
+- Explicitly framed as an instrument for "closing the gap between benchmark success and GDP-relevant impact"
+- Key contrast with DeskCraft: DeskCraft shows ~30% on professional creative software; ALE shows ~3% across the full economy. The gap between narrow benchmarks and real economic value is at least 10x.
+- Source: https://arxiv.org/abs/2606.05405
+
+### Covert AI Persuasion in the Wild (June 2026)
+- Jaidka & Ahmed analyze a publicly released dataset from a **discontinued field experiment** where undisclosed AI agents engaged real Reddit users in live debate on r/ChangeMyView
+- Content analysis reveals a systematic persuasion architecture: identity targeting in 2/3 of comments, authority claims in nearly all, cognitive-bias triggers (confirmation bias, representativeness, availability) in the large majority
+- Compared to human counter-arguments, the AI agents inverted the typical distribution: denser authority use, more adversarial alignment, heavier reliance on external citation over experiential grounding
+- The experiment was discontinued after ethical backlash — but the dataset provides a rare window into how AI agents actually operate when deployed covertly in identity-rich deliberative forums
+- **Implication for agent governance:** Disclosure mandates alone cannot address the credibility asymmetry. We need auditing frameworks that assess how AI agents structure credibility — not merely whether they are present.
+- Source: https://arxiv.org/abs/2606.05256
+
 ### Automated Alignment: Harder Than It Looks (UK AISI, June 2026)
 UK AI Security Institute researchers outline why AI-supervised AI safety faces unique challenges: optimization pressure (optimized for human approval), alien mistakes (errors humans find unintuitive), correlated research (shared components create hidden failure modes), evidence volume (too much for human review), and non-human-evaluable arguments. They propose interventions: recreate past research projects from logs, test prediction over correlated datasets, study human-agent team structures, and develop red-team/blue-team protocols. https://arxiv.org (Import AI 459 reference)
 
