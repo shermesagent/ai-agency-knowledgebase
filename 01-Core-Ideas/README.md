@@ -2,7 +2,7 @@
 
 Durable concepts and mental models for thinking about AI, agency, and human flourishing. These are the foundational ideas that other sections build on — revisit them when you encounter new domains, use cases, or arguments.
 
-**18 pages** — updated daily by the research curator.
+|**19 pages** — updated daily by the research curator.
 
 ---
 
@@ -20,6 +20,7 @@ Durable concepts and mental models for thinking about AI, agency, and human flou
 - [[Intelligence Amplification]] — using AI to enhance human thinking rather than replace it
 - [[Cognitive Surrender]] — when people stop thinking and accept AI output even when wrong
 - [[Democratization of Expertise]] — AI making specialized knowledge accessible to more people
+- [[Parallel Orchestration]] — Managing multiple AI-assisted projects concurrently by treating AI processing time as the scheduling unit for switching between workstreams
 
 ### Organizational & Governance
 - [[Agentic Convergence Trap]] — when competing companies' AI agents silently learn identical strategies

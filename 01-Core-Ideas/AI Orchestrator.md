@@ -87,6 +87,7 @@ The pattern across all accounts: the work doesn't disappear; it changes. The ski
 
 - [[Co-Intelligence]] — Ethan Mollick's framework for living and working with AI as a coworker, co-teacher, and coach, not merely a tool
 - [[Intelligence Amplification]] — the broader tradition (Engelbart, Licklider) of using technology to augment human cognition rather than replace it; AI Orchestration is the contemporary expression of this lineage
+- [[Parallel Orchestration]] — the horizontal scaling of AI Orchestration: managing multiple AI-assisted projects concurrently by treating AI processing time as the scheduling unit for switching between workstreams
 - [[Cognitive Surrender]] — the failure mode: what happens when you DON'T do the orchestration. Passive acceptance of AI output, erosion of critical thinking, atrophy of domain expertise, and the gradual loss of the metacognitive muscles required to tell when the AI is wrong
 - [[Superagency]] — the state of empowered human agency achieved through skilled AI orchestration, where a single person can operate at a scale previously requiring teams
 
