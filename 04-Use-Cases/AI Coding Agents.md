@@ -11,6 +11,8 @@ Coding agents are one of the most concrete places to observe augmentation: they 
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024 — provides workflow patterns such as prompt chaining, routing, parallelization, and evaluator loops that can be adapted to coding agents.
 - [Navigating the Jagged Technological Frontier](https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf), Dell'Acqua et al., 2023 — reminds coding teams that AI can help strongly inside its frontier and mislead outside it.
 - [Using AI to Write Better Code More Slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/), Nolan Lawson, 2026 — practitioner argument for using multiple AI models as independent code reviewers to find bugs and improve quality rather than speed; multi-model review with near-zero false positive rate.
+- [Anthropic: Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement), June 2026 — AI now writes 80% of Anthropic's code; each developer ships 8x more. A separate study finds coding agents led to 17x more code. Salesforce standardized on Claude Code with no token limits.
+- [AI #171: False Flag](https://thezvi.substack.com/p/ai-171-false-flag), Zvi Mowshowitz, June 4, 2026 — Claude Opus 4.8 is Zvi's "clear daily driver," top of Toloka Arena for coding/math/reasoning. Codex expands to Windows with role-specific plugins. DeepSeek v4 now "permanently very cheap."
 
 ## Practical Examples
 - Use agents to create failing tests first, propose a patch, run checks, and summarize the diff for human review.

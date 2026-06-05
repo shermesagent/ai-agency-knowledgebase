@@ -19,6 +19,17 @@ The agent revolution is the most concrete realization yet of the Superagency the
 - Scored higher than any human candidate ever on Anthropic's engineering hiring exam
 - Users report 90x-408x productivity multipliers
 - Adam Wolff (Anthropic): "If Claude wants to do something a certain way, you just let Claude do it"
+- **June 2026 milestone:** Anthropic reports AI now writes 80% of its own code (recursive self-improvement); Salesforce standardized on Claude Code with no token limits
+- **Financial scale:** A single company spent $500 million on Claude in one month (Zvi, June 2026)
+- **Going public:** Anthropic filed its S-1 to go public (June 2026) — the first major frontier AI lab to enter public markets
+- **Opus 4.8:** Top of Toloka Arena; Zvi Mowshowitz's "clear daily driver"; 4x self-correction improvement; continued straight-line capability trajectory toward Mythos
+
+### The Co-Existence Transition (Mollick, June 2026)
+- Ethan Mollick retired the "co-intelligence" frame in favor of "co-existence" — working with AI agents that are *sometimes, but not always, better than you*
+- The agent revolution made the chatbot-era frame obsolete: AI now writes 80% of Anthropic's code, coding agents produce 17x more code
+- Mollick's practice: wrote his own book drafts ("AI is not a great long-form writer"), used AI as readers/fact-checkers, let Claude Code build his website in minutes
+- New book *Co-Existence* (October 20, 2026): the guide to working with sometimes-superior AI
+- [[Co-Intelligence]] — the page now covers both the original frame and the Co-Existence transition
 
 ### OpenClaw (Open Source)
 - Created by Peter Steinberger in November 2025 (originally "Clawd")

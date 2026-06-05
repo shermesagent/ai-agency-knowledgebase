@@ -35,6 +35,17 @@ Creativity is a core domain for the Superagency thesis: AI that expands creative
 - [[Human Agency]]
 - [[Co-Intelligence]]
 - [[AI and Human Flourishing]]
+- [[Home Server AI Agents]]
+
+### Visual AI Evolution (Mollick, June 2026)
+- **A creativity domain case study in rapid capability acceleration.** Mollick's post documents the visual AI evolution through a single prompt ("otter on a plane using wifi on a computer"):
+  - **Midjourney (2022):** Abstract blobs of fur
+  - **Midjourney v6 (2024):** Photorealistic otter, correct setting
+  - **Veo 3 (2025):** Photorealistic video with AI-generated soundtrack — less than one year from still to video
+  - **TikZ code-drawing (2026):** Forcing AI to draw with pure math (no visual training data) — GPT-4's "spark" unicorn vs. Gemini 2.5 Pro's recognizable otter (sitting on the wing because "on a plane" was taken literally)
+  - **Open weights catching up:** DeepSeek latest generates passable TikZ; Tencent HunyuanVideo runs on home computer (hideous but local)
+- **Key insight:** Open weights video generation now runs on consumer hardware. The gap between proprietary and open is months, not years. We're heading toward not being able to distinguish real from AI-generated content — with profound implications for entertainment, trust, and creative industries.
+- [Co-Existence and the End of Co-Intelligence](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence), Ethan Mollick, June 4, 2026 — source for the visual evolution demo and the "sparks" comparison.
 
 ## Tags
 #creativity #augmentation #human-agency #practical-ai

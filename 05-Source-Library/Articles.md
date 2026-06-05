@@ -60,6 +60,13 @@ Curated source index for articles, research blogs, newsletters, and technical gu
 ## Selection Notes
 Include sources that add a useful idea, framework, case study, warning, counterargument, or practical workflow. Preserve URL, author/publication, date, source type, reliability score, relevance score, and summary.
 
+## Pass 2 Sources (June 4, 2026)
+- [Co-Existence and the End of Co-Intelligence](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence) — Ethan Mollick, One Useful Thing, 2026-06-04. Reliability 5/5; relevance 5/5. Framework evolution: retires co-intelligence for co-existence with sometimes-superior AI agents. Announces new book (October 2026). Documents visual AI evolution (Midjourney 2022 → Veo 3 2025) and Anthropic's 80% self-written code. Related: [[Co-Intelligence]], [[AI Agent Revolution]], [[Creativity]].
+- [AI #171: False Flag](https://thezvi.substack.com/p/ai-171-false-flag) — Zvi Mowshowitz, Don't Worry About the Vase, 2026-06-04. Reliability 5/5; relevance 5/5. Claude Opus 4.8 as "clear daily driver"; Trump EO as "prior restraint era"; OpenAI PAC false flag scandal; Anthropic S-1 IPO filing; Doc In a Box 97% physician agreement. Related: [[AI Agent Revolution]], [[Balanced Governance]], [[AI Coding Agents]], [[Healthcare]].
+- [Trump Signs Executive Order For AI Testing Prior To Frontier Model Release](https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/) — White House, 2026-06-02. Reliability 4/5; relevance 5/5. Voluntary pre-release testing framework for frontier AI; rapid cyber defenses; preempts state AI laws. Related: [[Balanced Governance]], [[Responsible Deployment]].
+- [Rehumanizing Global Health Care with Agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) — MIT Technology Review, 2026-06-02. Reliability 4/5; relevance 5/5. Agentic AI addressing WHO 11M healthcare worker shortage; AI automates administration so humans can focus on patient care. Related: [[Healthcare]], [[Superagency]], [[AI as Copilot]].
+- [Anthropic: Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) — Anthropic, 2026-06-03. Reliability 4/5; relevance 5/5. AI writes 80% of Anthropic's code; developers shipping 8x more. Salesforce standardized on Claude Code. The company building frontier AI is substantially built by AI. Related: [[AI Coding Agents]], [[AI Agent Revolution]], [[Agentic Workflow Patterns]].
+
 ## Related Pages
 - [[Superagency]]
 - [[Human Agency]]

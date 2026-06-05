@@ -131,6 +131,19 @@
 - Updated [[Home]] navigation and recent updates table.
 - Noted: Sunday — arXiv not publishing; WIRED, MIT Technology Review, and Substack feeds provided source discovery. Rotation focus: Day 7 (Source Libraries & Tools).
 
+## [2026-06-04] update | Daily AI curator run — Thursday (Curator Pass 2: Governance, Co-Existence & Practical Deployment rotation)
+- Created [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] anchored on the Co-Intelligence→Co-Existence framework transition, the governance inflection point (Trump EO prior restraint era, OpenAI PAC false flag, Anthropic S-1 IPO), and practical deployment evidence (Doc In a Box 97% physician agreement, Anthropic 80% self-written code, Salesforce Claude Code adoption). Five sources: all non-paper (Mollick newsletter, Zvi newsletter, Trump EO/White House, MIT TR healthcare, Anthropic institute report).
+- Updated [[Co-Intelligence]] — added Mollick's Co-Existence framework evolution: retired Co-Intelligence frame, new book (October 2026), AI writes 80% of Anthropic's code, em-dash authenticity test, Co-Existence risk for novices.
+- Updated [[AI Coding Agents]] — added Anthropic 80% self-written code data, 17x more code from coding agents, Salesforce Claude Code deployment, Zvi's Opus 4.8 daily driver assessment.
+- Updated [[Healthcare]] — major expansion from stub: Doc In a Box 97% physician agreement data, MIT TR rehumanizing healthcare profile (WHO 11M shortage), practical examples with overcaution design pattern.
+- Updated [[AI Agent Revolution]] — added Anthropic S-1 IPO filing, $500M/month Claude spend, Co-Existence transition section, Opus 4.8 capabilities.
+- Updated [[Balanced Governance]] — added Trump EO (prior restraint era framework), OpenAI PAC false flag scandal (governance legitimacy crisis), OpenAI policy blueprint, Anthropic IPO as governance moment.
+- Updated [[Creativity]] — added Mollick's visual AI evolution (Midjourney 2022 → Veo 3 2025, TikZ sparks comparison, open weights catching up).
+- Updated [[Home Server AI Agents]] — added open weights catching up section (Gemma-4-12B, DeepSeek v4, Tencent HunyuanVideo, DeepSeek TikZ).
+- Updated [[Articles]] source library — added 5 new entries (Mollick Co-Existence, Zvi AI #171, Trump EO, MIT TR healthcare, Anthropic recursive self-improvement).
+- Updated [[Home]] navigation and recent updates table.
+- Noted: Thursday (weekday) — complementary Pass 2 covering distinctly different sources and rotations from the morning Entrepreneurship & Agency Architecture pass. 0 of 5 sources are arXiv papers (0%); all are non-paper types (newsletter essays, policy, article, company report). The morning pass already covered arXiv comprehensively; this pass provides the blog/newsletter/policy complement.
+
 ## [2026-06-04] update | Daily AI curator run — Thursday (Entrepreneurship & Agency Architecture rotation)
 - Created [[Daily AI Agency Digest — 2026-06-04]] anchored on the tension that the technologies most capable of expanding human agency are also the ones most capable of eroding it — and the difference is entirely in the architecture, not the capability. Seven sources: four papers (Digital Apprentice agency-preserving agent framework, AI emotional dependence OpenAI study, agentic pedagogy review, Delphi AI risk study of 272 experts), three non-papers (Microsoft 2026 Work Trend Index, MIT TR small business AI guide, SBE Council 82% small business AI adoption survey).
 - Added 7 accepted source records to [[Articles]] source library.

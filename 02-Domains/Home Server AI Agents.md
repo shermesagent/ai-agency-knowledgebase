@@ -12,6 +12,14 @@ The **[[AI Agent Revolution]]** has brought home-server agents to mainstream att
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024 — favors simple workflows, prompt chaining, routing, parallelization, orchestrator-worker patterns, and evaluator loops before broad autonomy.
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST — useful for personal systems too: map the use case, measure behavior, manage risk, govern permissions.
 - [Guidance for Safe Foundation Model Deployment](https://partnershiponai.org/wp-content/uploads/1923/10/PAI-Model-Deployment-Guidance.pdf), Partnership on AI — reinforces documentation, monitoring, and adaptation as capabilities and uses evolve.
+- [Co-Existence and the End of Co-Intelligence](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence), Ethan Mollick, June 4, 2026 — open weights video generation (Tencent HunyuanVideo) now runs on consumer hardware; Gemma-4-12B runs locally with 16GB memory; DeepSeek v4 "permanently very cheap."
+
+## Open Weights Catching Up (June 2026)
+The gap between proprietary frontier models and open-weights alternatives continues to shrink — now measured in months, not years:
+- **Gemma-4-12B** (Google): Runs locally with 16GB of memory — a small but capable model for home servers
+- **DeepSeek v4**: "Permanently very cheap" — remarkably close to free, though Zvi recommends paying up for quality unless serving at scale
+- **Tencent HunyuanVideo**: Open weights video generation running on consumer hardware — ugly but locally controllable
+- **DeepSeek latest**: TikZ code-drawing approaching Gemini 2.5 Pro quality — open weights now produce recognizable spatial reasoning from pure math
 
 ## Practical Examples
 - A daily research curator that fetches sources, scores relevance, writes a draft digest, and waits for human review before publishing.
