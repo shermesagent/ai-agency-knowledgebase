@@ -187,3 +187,16 @@
 - Updated [[AI and Inequality]] — major expansion from stub: added entry-level divide data, the "who benefits?" structural question, and four supporting sources.
 - Updated [[Home]] navigation and recent updates table.
 - Noted: Tuesday afternoon — this is the second curator pass today. The morning pass (Creativity & Writing rotation) covered arXiv 2606 papers and Mollick/WIRED features. This complementary pass covers the Work & Labor rotation with feature-length sources (MIT TR, Import AI, Pluralistic). No arXiv RSS needed — the feature/journalism/analysis sources provided rich material.
+
+## [2026-06-04] update | Daily AI curator pass 3 (Democratization & Digital Divides rotation)
+- Created [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] anchored on democratization vs. digital divides: Gemma 4 12B laptop-ready open-weights AI; Cambridge children's AI empathy gap; graduation booing as cultural backlash; election safeguards for 2026; ILO "disruption without dividend."
+- Added 5 accepted source records to `/sources/sources.jsonl` from Google DeepMind, Cambridge University, MIT Technology Review, OpenAI, and ILO/World Bank.
+- Updated [[Case for AI Optimism]] — major expansion: Gemma 4 12B as democratization evidence, open-weights ecosystem maturity, ILO global exposure data, cultural trust signals.
+- Updated [[Home Server AI Agents]] — expanded Gemma 4 12B section with architecture details, Apache 2.0 license, local-first sovereignty, child-safety tension.
+- Updated [[Family and Personal Life]] — major expansion from stub: Cambridge empathy gap study, children as overlooked stakeholders, 50% student use vs 26% parent awareness, child-safe AI as ethical prerequisite.
+- Updated [[Public Trust and AI]] — added graduation booing (Schmidt booed at U of Arizona), election trust paradox (safeguards vs. false flag operations), institutional credibility gap.
+- Updated [[Government and Civic Life]] — added OpenAI and Anthropic 2026 election safeguards, AP vote-count integration, political balance scores, institutional trust paradox.
+- Updated [[AI Tutors]] — added Cambridge empathy gap implications for children forming emotional bonds with educational AI.
+- Updated [[Articles]] source library — added 5 new entries.
+- Updated [[Home]] — added Pass 3 to navigation and recent updates table.
+- Noted: Thursday evening — this is the third curator pass today. Pass 1 (Entrepreneurship & Agency Architecture) covered Digital Apprentice, emotional dependence, Agentic Pedagogy, Delphi risk, Microsoft WTI, and SMB AI. Pass 2 (Governance, Co-Existence & Practical Deployment) covered Mollick's Co-Existence, Zvi's AI #171, Trump EO, healthcare AI, Anthropic 80% code. This Pass 3 covers Democratization & Digital Divides with five thematically distinct sources spanning open-weights AI access, child safety, cultural backlash, election integrity, and global inequality.

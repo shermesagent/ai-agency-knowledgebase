@@ -23,6 +23,7 @@ Tutoring is a direct agency-expansion use case: more learners can get individual
 ## Risks / Limits
 - Evidence from one context may not transfer across grade levels, subjects, student needs, or tutor designs.
 - Tutors need safeguards against hallucinated explanations, answer-giving, biased feedback, and inappropriate data collection.
+- **Children and AI emotional bonds:** Cambridge research (2026) shows children do not distinguish between humans and AI as strictly as adults do. 50% of students 12-18 use ChatGPT; only 26% of parents are aware. AI tutors that form emotional bonds children perceive as genuine — but cannot reciprocate — pose distinct developmental risks. Child-safe AI design is not yet standard in educational AI products.
 - Human educators should remain responsible for curriculum alignment, intervention decisions, and student wellbeing.
 
 ## Related Pages

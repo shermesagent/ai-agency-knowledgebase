@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-04]] (today) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (governance & co-existence) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
+→ [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-06-04 (Pass 3) | Case for AI Optimism, Home Server AI Agents, Family and Personal Life, Public Trust and AI, Government and Civic Life, AI Tutors, Articles |
 | 2026-06-04 (Pass 2) | Co-Intelligence, AI Coding Agents, Healthcare, AI Agent Revolution, Balanced Governance, Creativity, Home Server AI Agents, Articles |
 | 2026-06-04 | Human Agency, AI Agent Revolution, AI and Human Flourishing, Entrepreneurship, AI for Small Businesses, Education, Balanced Governance, Agentic Workflow Patterns, Cognitive Surrender, Optimism Without Naivety, Family and Personal Life, Articles |
 | 2026-06-03 | Balanced Governance, AI Agent Revolution, Human Agency, Agentic Workflow Patterns, AI as Copilot, Agency Expansion Framework, Task-Level AI Adoption, Articles, Books |

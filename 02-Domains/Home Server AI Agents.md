@@ -16,10 +16,24 @@ The **[[AI Agent Revolution]]** has brought home-server agents to mainstream att
 
 ## Open Weights Catching Up (June 2026)
 The gap between proprietary frontier models and open-weights alternatives continues to shrink — now measured in months, not years:
-- **Gemma-4-12B** (Google): Runs locally with 16GB of memory — a small but capable model for home servers
+
+### Gemma 4 12B (Google DeepMind, June 3, 2026)
+**The most significant open-weights release for home server AI since DeepSeek v4.** A 12-billion-parameter multimodal model that runs on consumer hardware with just 16GB of RAM, VRAM, or unified memory:
+- **Encoder-free architecture** — natively processes text, images, audio, and video without separate encoder pipelines. Single model handles all modalities.
+- **Apache 2.0 license** — genuinely open, no commercial restrictions, no usage limitations.
+- **Runs locally** — no cloud API needed, no per-token costs, no data leaving your machine. Full data sovereignty.
+- **Competitive benchmarks** — strong performance on vision-language tasks and agentic reasoning in its weight class.
+- **Laptop-ready** — designed for deployment on hardware most people already own, not cluster-scale infrastructure.
+
+This transforms the home server AI proposition: a capable multimodal model running entirely on local hardware means personal AI that is genuinely yours — no vendor lock-in, no terms-of-service changes that revoke your access, no subscription fees. For the Superagency thesis, this is the infrastructure layer: agency-preserving AI can run on hardware you own.
+
+**Tension:** The same features that enable local sovereignty (no platform filtering, no usage monitoring) make child-safe AI and content moderation impossible to enforce at the model level. Democratization and child safety are in genuine tension — families must manage this explicitly.
+
+### Other Open-Weights Developments
 - **DeepSeek v4**: "Permanently very cheap" — remarkably close to free, though Zvi recommends paying up for quality unless serving at scale
 - **Tencent HunyuanVideo**: Open weights video generation running on consumer hardware — ugly but locally controllable
 - **DeepSeek latest**: TikZ code-drawing approaching Gemini 2.5 Pro quality — open weights now produce recognizable spatial reasoning from pure math
+- **Open-weights ecosystem maturity**: The question is no longer "can open source compete?" but "which open model fits my use case, and when should I still pay for a proprietary API?"
 
 ## Practical Examples
 - A daily research curator that fetches sources, scores relevance, writes a draft digest, and waits for human review before publishing.
