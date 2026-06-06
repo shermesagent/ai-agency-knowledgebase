@@ -83,6 +83,18 @@ The operator-to-orchestrator shift is not theoretical. It is documented in the l
 
 The pattern across all accounts: the work doesn't disappear; it changes. The skills that mattered before (syntax recall, manual execution speed) are replaced by skills that matter now (articulation, evaluation, architectural judgment, taste). As Scrum.org put it: "The future belongs to Cognitive Orchestrators who set intent, shape ethical constraints, and elevate decision quality — not passive reviewers of AI output."
 
+## The Infrastructure Layer: Orchestration at Platform Scale
+
+The orchestrator posture is not just for individuals. In 2026, it's becoming an infrastructure question.
+
+**Nadella's agentic platform vision.** In his June 2026 Stratechery interview, Satya Nadella sketched a future where third parties — "a healthcare provider can have their own agent" — build AI agents on Microsoft's infrastructure. This is orchestration at platform scale: Microsoft doesn't build the agents; it builds the orchestration layer that lets others build them. The orchestrator role shifts from "person directing AI" to "organization designing its own agentic workflows on shared infrastructure."
+
+**Solara: Orchestration embodied.** Microsoft's Project Solara (June 2026) provides physical hubs — a desktop device and wearable badge — that make AI agents ambient rather than app-bound. The orchestrator no longer opens a chat window; the agent is present in the physical flow of work, context-aware and hands-free. This changes the orchestrator's cognitive posture: instead of initiating interaction (opening an app, typing a prompt), the orchestrator responds to agent-initiated proposals in context.
+
+**Claude for Small Business: Orchestration as product.** Anthropic's SMB product ships 15 pre-built agentic workflows with explicit approval gates. The orchestrator (the business owner) doesn't design the workflows; they approve, reject, or modify what the system proposes. This is "curated orchestration" — the cognitive load shifts from workflow design to workflow governance. The orchestrator's job is not to figure out how to do payroll reconciliation with AI; it's to evaluate whether the AI's proposed reconciliation is correct.
+
+**The infrastructure thesis.** These three signals converge on a single thesis: orchestration is moving from a skill individuals develop to an infrastructure layer organizations deploy. The individual still needs the five cognitive skills of orchestration (decomposition, specification, orchestration, verification, iteration), but those skills are increasingly exercised at the governance level — deciding what to approve, what to override, what to redesign — rather than the construction level. As Benedict Evans predicted, the real value moves to the orchestration layer.
+
 ## Related Concepts
 
 - [[Co-Intelligence]] — Ethan Mollick's framework for living and working with AI as a coworker, co-teacher, and coach, not merely a tool
@@ -90,6 +102,8 @@ The pattern across all accounts: the work doesn't disappear; it changes. The ski
 - [[Parallel Orchestration]] — the horizontal scaling of AI Orchestration: managing multiple AI-assisted projects concurrently by treating AI processing time as the scheduling unit for switching between workstreams
 - [[Cognitive Surrender]] — the failure mode: what happens when you DON'T do the orchestration. Passive acceptance of AI output, erosion of critical thinking, atrophy of domain expertise, and the gradual loss of the metacognitive muscles required to tell when the AI is wrong
 - [[Superagency]] — the state of empowered human agency achieved through skilled AI orchestration, where a single person can operate at a scale previously requiring teams
+- [[AI Agent Revolution]] — the broader agent paradigm shift that makes orchestration the dominant human-AI interaction model
+- [[Democratization of Expertise]] — the distributional promise: when orchestration infrastructure is accessible, expertise is too
 
 ## Sources
 
