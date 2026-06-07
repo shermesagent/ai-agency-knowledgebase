@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
+→ [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-06-07 | Work, The Turing Trap, Human Agency, Home |
 | 2026-06-06 | Intelligence Amplification, Democratization of Expertise, AI for Small Businesses, AI Orchestrator, Articles, Home |
 | 2026-06-05 | AI Coding Agents, Cognitive Surrender, Creativity, AI Agent Revolution, Balanced Governance, AI Research Agents, Articles |
 | 2026-06-04 (Pass 3) | Case for AI Optimism, Home Server AI Agents, Family and Personal Life, Public Trust and AI, Government and Civic Life, AI Tutors, Articles |
@@ -90,17 +91,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 (6 days ago), so no pages have yet crossed the 7-day threshold — but 40+ pages are 5-7 days old and at risk. The daily curator touches ~10 pages per run.
+Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 — 14 days ago. Most pages have been touched by daily curator runs; the remaining stale pages are primarily Source Library indexes and a few domain pages not yet reached in rotation.
 
-**Pages not updated in 5+ days (at risk of crossing 7 days):**
+**Pages not updated in 7+ days (crossed threshold):**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 6–7 days | 33 pages | Intelligence Amplification, Healthcare, Case for AI Optimism, Case Against AI Doomism, The Turing Trap, AI and Inequality, AI Tutors, AI for Small Businesses, AI Executive Assistants, AI Writing Partners, AI Research Agents, Risk-Benefit Matrix, Adoption Readiness Checklist, AI Tutor Evaluation Checklist, Agency Expansion Framework, Task-Level AI Adoption, and most Source Library index pages |
-| 5–6 days | 10 pages | Positive Alignment, Strongest AI Risk Arguments, AI for School Districts, Human Review Checkpoints |
-| < 5 days | 32 pages | Actively curated (recent digests, core pages touched by daily runs) |
-
-**Recommendation:** The daily curator should prioritize the 39 pages in the 6-7 day bucket before they exceed 7 days. See the full list in [[log|the commit log]].
+| 8–14 days | ~20 pages | Healthcare, Case Against AI Doomism, AI Executive Assistants, AI Writing Partners, Risk-Benefit Matrix, Adoption Readiness Checklist, AI Tutor Evaluation Checklist, Agency Expansion Framework, Task-Level AI Adoption, Strongest AI Risk Arguments, AI for School Districts, Human Review Checkpoints, most Source Library index pages |
+| 5–7 days | ~15 pages | Case for AI Optimism, Home Server AI Agents, Family and Personal Life, Public Trust and AI, Government and Civic Life, AI Tutors, AI and Creator Rights, Responsible Deployment, Positive Alignment, Agentic Workflow Patterns |
+| < 5 days | ~35 pages | Actively curated (recent digests, core pages touched by daily runs, newly expanded pages) |
 
 ---
 
@@ -108,7 +107,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 (6
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-05-30|Today's Digest]]
+- [[00-Daily-Digests/2026-06-07|Today's Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags
