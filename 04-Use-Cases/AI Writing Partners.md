@@ -16,6 +16,7 @@ For the Superagency thesis, AI writing partners are a critical test case: can AI
 - ["Know Your Author: Does the AI Penalty Hold in Short Fiction?"](https://arxiv.org/abs/2606.00006), Morris, Brubaker, Garrett, 2026 — preregistered N=254 experiment: AI labels don't change how fiction is evaluated, but they dramatically shape perceived effort and downstream enjoyment.
 - [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — the foundational book on treating AI as a collaborator while preserving human judgment and accountability.
 - ["It Felt a Bit Eerie"](https://arxiv.org/abs/2605.24729), Yin et al., 2026 — how interaction design (synchronous vs. asynchronous, visible vs. invisible AI) shapes writer experience in collaborative writing.
+- ["Adversarial Co-Thinking: Calibration and Triangulation Across Multiple GenAI Tools in HCI Writing"](https://arxiv.org/abs/2606.06702), Anonymous, June 2026 — drafting a paper in parallel with Claude, ChatGPT, and Gemini; using past peer reviews to calibrate tools and setting outputs against one another. Key finding: the skill at stake is **evaluative** (surfacing genuine critique from tools that default to praise), not generative.
 
 ## The Two Modes of AI Writing Use
 
@@ -46,6 +47,19 @@ For the Superagency thesis, AI writing partners are a critical test case: can AI
 5. **Apply Mollick's intentionality test before every AI writing session:** "If I use AI for this, what am I giving up? What skill, voice, or discovery might I lose?" If you can't answer, do it yourself first.
 
 6. **Use the five-stage AI literacy continuum as a self-check:** Are you at Stage 2 (uncritical use) or Stage 4 (critical evaluation)? The goal is to move rightward over time.
+
+7. **Practice adversarial co-thinking.** For substantive writing, use two different AI tools independently on the same brief. Set their outputs against each other. Ask each: "What would the other AI get wrong, oversimplify, or miss about this?" The goal is not to pick a winner — it's to surface gaps, tensions, and hidden assumptions that neither tool would reveal alone. This is a high-skill practice: it requires evaluative judgment (knowing what good critique looks like) and the discipline to seek disagreement rather than confirmation. See [[Agentic Workflow Patterns]] for the multi-model independent review pattern.
+
+## Adversarial Co-Thinking: The Evaluative Skill
+
+The adversarial co-thinking paper (2606.06702) surfaces a new dimension of Mode B writing: the skill is not using AI well — it's using AI *adversarially*. The author drafted a full academic paper from the first sentence in parallel with Claude, ChatGPT, and Gemini, calibrating each with past peer reviews. The critical pattern: AI tools default to praise and agreement, so the writer must actively engineer disagreement. "Surfacing genuine critique from tools that default to praise is a central practical challenge of working with these tools."
+
+This reframes the Mode A / Mode B distinction. Mode B isn't just "use AI as a partner not a replacement" — it's "use multiple AIs as adversarial critics whose disagreements surface what a single deferential AI would smooth over." The practice amplifies expertise where it exists (the writer can recognize good critique) but masks its absence (novices can't distinguish genuine disagreement from AI hallucinated disagreement). This creates a new dimension of the AI literacy gap: the evaluative skill of knowing when AI disagreement is productive vs. noise.
+
+Key practical takeaways:
+- **Don't ask one AI for "feedback"** — it will praise you. Ask two AIs for independent analysis, then ask each what the other would miss.
+- **Calibrate with past critique.** The author used past peer reviews to set expectations for what "real" critique looks like. Without calibration, AI critique is indistinguishable from flattery.
+- **The output hides the process.** Current disclosure frameworks (e.g., "written with AI assistance") don't capture adversarial co-thinking — the end product may have no visible AI fingerprints, but the process (triangulation across models) is fundamentally different from both pure human writing and single-AI-assisted writing.
 
 ## The AI-as-Writing-Teacher Distinction
 

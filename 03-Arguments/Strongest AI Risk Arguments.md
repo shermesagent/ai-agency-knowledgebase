@@ -14,6 +14,8 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - [Computational Power and AI](https://ainowinstitute.org/publications/compute-and-ai), AI Now Institute, 2023 — argues that compute supply chains and infrastructure concentration shape AI power.
 - [Can Artificial Intelligence Truly Innovate?](https://ssir.org/articles/entry/artificial-intelligence-economic-flourishing), Stanford Social Innovation Review, 2025 — warns that automating innovation can erode human agency, perception, courage, relationship, and lived exploration.
 - [State of AI Report 2025](https://www.stateof.ai/), Nathan Benaich / Air Street Capital, 2025 — broad scan highlighting reliability, cyber resilience, and governance questions for increasingly autonomous systems.
+- [Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety](https://arxiv.org/abs/2606.06529), Anonymous, June 2026 — strategic attackers who choose when to attack reduce measured safety by 20-28 percentage points compared to indiscriminate attackers. Existing control evaluations may yield overly optimistic safety estimates against selective attackers.
+- [Generative Models Erode Human Temporal Learning Through Market Selection](https://arxiv.org/abs/2606.06572), Anonymous, June 2026 — formal economic model of "value collapse": as AI outputs become harder to distinguish from expertise-driven work, verification costs exceed expected benefits, and markets select against human expertise. Notably: better-aligned models accelerate this process by narrowing the detectable gap between human and AI outputs.
 - [Agentic AI, explained](https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained), MIT Sloan, 2026 — warns that moving agency from humans to machines increases governance and infrastructure demands.
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST — provides a practical response path through mapping, measuring, managing, and governing risks.
 
@@ -25,6 +27,8 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - **Concentration:** Support interoperability, public-interest infrastructure, open standards, and competition.
 - **Innovation hollowing:** Use AI to expand exploration, but keep humans in direct contact with customers, communities, constraints, materials, and craft.
 - **Agentic risk:** Use [[Human Review Checkpoints]] before irreversible or high-consequence actions.
+- **Strategic attack risk:** Budget audit resources assuming attackers will be selective — not random. A 1% audit rate may be insufficient against attackers who choose when to strike.
+- **Value collapse risk:** Invest in verification infrastructure and professional standards before the economic logic of verification collapse takes hold. Once individual verification becomes uneconomical, collective action is much harder.
 
 ## Risks / Limits
 - Some risk arguments become too abstract to guide action; translate them into concrete deployment requirements.
