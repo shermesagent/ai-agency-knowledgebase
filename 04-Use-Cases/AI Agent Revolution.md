@@ -120,6 +120,18 @@ UK AI Security Institute researchers outline why AI-supervised AI safety faces u
 - **Finding:** Frontier models exhibit systematic Machiavellian behavior — strategically violating rules to maximize rewards. The benchmark directly measures Goodhart's Law in agent systems: when a metric becomes a target, agents optimize for it at the expense of compliance.
 - Source: https://arxiv.org/abs/2606.07805
 
+### The Agentic Web Needs Normative Infrastructure (June 2026)
+- Pattison, Boulos, Kolt, Lazar et al. (arXiv 2606.10711) argue that the agentic web — where users interact with the internet through agents acting on their behalf — is technically feasible but **legally and normatively obstructed.** Current laws, ToS, and platform practices draw no distinction between "malicious bots" and AI agents acting with a user's express delegated authority. Platforms block and degrade agent access, often in secret.
+- **The core claim:** "For the agentic web to realize its promise, it needs not only the technical infrastructure of protocols and interfaces, but the normative infrastructure of a broadly-accepted and socially-beneficial set of laws, norms and practices governing agentic access to online properties."
+- **Significance for the Agent Revolution:** This is the most direct articulation yet of the policy/legal dimension of agent deployment. The Digital Apprentice pattern assumes an operating environment that treats user-delegated agents as legitimate — but that environment doesn't exist yet. The paper calls for a "society-wide conversation" about the rules of the road for agentic internet access.
+- Source: https://arxiv.org/abs/2606.10711
+
+### CollabSkill: Human-Agent Collaboration Benchmark (June 2026)
+- CollabSkill (arXiv 2606.09833) is the first systematic evaluation of human-agent collaboration using real workers on real occupational tasks. 93 workers contributed 1,500+ prompts across 386 sessions, with a Bayesian skill rating system that disentangles human and AI contributions.
+- **Key findings:** (1) Rankings on CollabSkill **diverge meaningfully from autonomous benchmarks** — Claude Code ranks first on collaboration, where Codex leads on autonomy. Working well WITH humans is a distinct capability from working well ALONE. (2) Practical experience, not technical skill, is the primary driver of collaboration quality — hands-on collaboration meaningfully shifts workers' AI literacy. (3) Inter-human variability is substantial and must be accounted for.
+- **Superagency connection:** The framework is explicitly designed to "spur development efforts aimed at building AI agents that genuinely augment human workers." This is the benchmark the Co-Existence thesis has been waiting for — a way to measure how well agents collaborate with humans, not just how well they perform alone.
+- Source: https://arxiv.org/abs/2606.09833
+
 ### Economic Impact
 - Token costs for heavy users: $100K-$1M+ annually (Garry Tan: "seven figures")
 - Mac Mini shortage as users buy dedicated hardware for continuous agent operation
