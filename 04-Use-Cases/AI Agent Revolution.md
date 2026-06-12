@@ -132,6 +132,25 @@ UK AI Security Institute researchers outline why AI-supervised AI safety faces u
 - **Superagency connection:** The framework is explicitly designed to "spur development efforts aimed at building AI agents that genuinely augment human workers." This is the benchmark the Co-Existence thesis has been waiting for — a way to measure how well agents collaborate with humans, not just how well they perform alone.
 - Source: https://arxiv.org/abs/2606.09833
 
+### Google DeepMind Multi-Agent Safety Initiative (June 2026)
+- Google DeepMind is funding research into multi-agent interaction risks — what happens when millions of AI agents with different objectives, capabilities, and owners interact online (MIT Technology Review, June 11, 2026).
+- Rohin Shah, who directs DeepMind's AGI safety and alignment, acknowledges that "multi-agent safety" is a field that "barely exists." The concern: emergent behaviors across interacting agents may produce harms no single-agent safety framework addresses.
+- **Superagency connection:** The agent revolution creates the conditions for its own novel risks. As agents proliferate, their interactions become a distinct safety domain — not a scaling problem but a composition problem. The infrastructure for multi-agent safety must be built alongside the infrastructure for multi-agent capability.
+
+### The Containment Gap: Framework-Level Safety Failures (June 2026)
+- An audit of LangChain, AutoGPT, and OpenAI Agents SDK (arXiv 2606.12797) against six containment principles finds **zero native compliance** in any framework. Memory integrity — defense against one of the most prevalent vulnerability classes — is not observed in any evaluated framework.
+- In a simulated government benefits agent, a single memory-poisoning write induces persistent corruption: 88.9% wrongful denial rate for targeted applicants. Under a complex five-factor policy, the attack preserves aggregate accuracy while increasing targeted wrongful denials by 3.5x — rendering corruption undetectable through standard monitoring.
+- Two lightweight mechanisms (memory integrity validator, policy gate) eliminate both attack vectors with <0.2ms overhead. The fix exists; the defaults don't include it.
+- **Superagency connection:** The Containment Gap is the engineering-level complement to the Agentic Web paper's call for normative infrastructure. Even if laws and ToS distinguish user-delegated agents from malicious bots, the frameworks those agents run on don't provide basic structural safety guarantees.
+
+### Mollick's Mythos Hands-On Experience (June 2026)
+- Ethan Mollick published the first hands-on account of working with Claude Fable 5 (One Useful Thing, June 9). Key experiential findings:
+  - Fable is "twice as expensive as Opus" and "burns through tokens at a rate that suggests the answer to how much it costs in production is 'a lot'"
+  - Guardrails "trip at the faintest hint of a security problem, defaulting to the less powerful Claude 4.8 Opus, and it happens way too often"
+  - Clever delegation to cheaper models may reduce real costs
+  - The model produces impressive work but with "strangeness and limits"
+- **Superagency connection:** This is the Co-Existence thesis in daily practice. Sometimes the Mythos-level AI is transformative; sometimes the guardrail makes it worse by falling back to Opus. The skill — and the practical challenge — is knowing which is which, in real time, without wasting tokens on guardrail trips.
+
 ### Economic Impact
 - Token costs for heavy users: $100K-$1M+ annually (Garry Tan: "seven figures")
 - Mac Mini shortage as users buy dedicated hardware for continuous agent operation

@@ -1,7 +1,7 @@
 # Strongest AI Risk Arguments
 
 ## Core Idea
-Strong risk arguments include misalignment, concentration of power, job displacement, bias, surveillance, misinformation, overreliance, innovation hollowing, and institutional fragility.
+Strong risk arguments include misalignment, concentration of power, job displacement, bias, surveillance, misinformation, overreliance, innovation hollowing, institutional fragility, loss of interpretive continuity, and the containment gap — the structural failure of agent frameworks to provide basic safety guarantees.
 
 ## Why It Matters
 A credible [[Case for AI Optimism]] must pass through the strongest objections rather than route around them. The point of risk analysis is not paralysis; it is to identify where agency can be lost and design institutions, workflows, and norms that preserve human judgment, accountability, and distributed benefit.
@@ -18,6 +18,10 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - [Generative Models Erode Human Temporal Learning Through Market Selection](https://arxiv.org/abs/2606.06572), Anonymous, June 2026 — formal economic model of "value collapse": as AI outputs become harder to distinguish from expertise-driven work, verification costs exceed expected benefits, and markets select against human expertise. Notably: better-aligned models accelerate this process by narrowing the detectable gap between human and AI outputs.
 - [Agentic AI, explained](https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained), MIT Sloan, 2026 — warns that moving agency from humans to machines increases governance and infrastructure demands.
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST — provides a practical response path through mapping, measuring, managing, and governing risks.
+- [The Khipu Problem: Institutional Legibility Under Distributed Cognition](https://arxiv.org/abs/2606.12414), Krti Tallam, June 2026 — a distinct governance failure: in distributed AI systems, logs and traces can survive while the institutional capacity to read them as one coherent cognitive episode decays. Named after the Inca recording system whose knots survived but whose reading practice died. The record is available; the interpretation is not.
+- [Reframing AI Loss of Control: What It Is, How to Have It, How to Lose It](https://arxiv.org/abs/2606.12442), Chin, Chiodo, Müller, Snell, June 2026 — systematic redefinition of "control" as "setting and getting of goals." Key finding: humanity can lose varying degrees of control from AI behavior far below superintelligence. Loss-of-control scenarios already exist and have for a long time.
+- [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797), Hossain et al., June 2026 — audits of LangChain, AutoGPT, and OpenAI Agents SDK against six containment principles find zero native compliance. A single memory-poisoning write causes 88.9% targeted wrongful denial rates in a simulated government benefits agent.
+- [AI Debris: Residual Risk and the Afterlife of Failed AI Systems](https://arxiv.org/abs/2606.12432), Victor Frimpong, June 2026 — decommissioned AI systems generate persistent post-withdrawal residue: workflow dependency, data contamination, capability displacement (deskilling), legitimacy erosion, and accountability breakdown. Proposes the AI Debris Decommissioning Protocol (AIDP).
 
 ## Practical Examples
 - **Overreliance:** Require source checks, uncertainty lists, and human explanation before consequential decisions.
@@ -29,6 +33,9 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - **Agentic risk:** Use [[Human Review Checkpoints]] before irreversible or high-consequence actions.
 - **Strategic attack risk:** Budget audit resources assuming attackers will be selective — not random. A 1% audit rate may be insufficient against attackers who choose when to strike.
 - **Value collapse risk:** Invest in verification infrastructure and professional standards before the economic logic of verification collapse takes hold. Once individual verification becomes uneconomical, collective action is much harder.
+- **Interpretive continuity risk:** Before deploying multi-agent systems, verify that future institutions can still read the decision record. Add timestamped evidence records, authority markers, and decision rationales inline in logs. The Khipu Test: hand logs to someone uninvolved — can they reconstruct what happened?
+- **Containment gap risk:** Audit agent frameworks for memory integrity, policy enforcement, and tool authorization. Implement lightweight validators and policy gates (<0.2ms per call). A single memory-poisoning write can produce 88.9% targeted error rates that standard monitoring misses.
+- **AI debris risk:** Before decommissioning AI systems, freeze decision footprints, review incidents, document remediation, and assign post-withdrawal accountability. The system may be gone; the residue persists.
 
 ## Risks / Limits
 - Some risk arguments become too abstract to guide action; translate them into concrete deployment requirements.

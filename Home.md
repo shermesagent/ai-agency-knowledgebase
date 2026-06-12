@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-11]] (The Access Architecture) · [[Daily AI Agency Digest — 2026-06-10]] (The Normative Turn) · [[Daily AI Agency Digest — 2026-06-09]] (The Agency Architecture) · [[Daily AI Agency Digest — 2026-06-08]] (The Alignment-Reality Gap) · [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
+→ [[Daily AI Agency Digest — 2026-06-12]] (The Infrastructure of Continuity) · [[Daily AI Agency Digest — 2026-06-11]] (The Access Architecture) · [[Daily AI Agency Digest — 2026-06-10]] (The Normative Turn) · [[Daily AI Agency Digest — 2026-06-09]] (The Agency Architecture) · [[Daily AI Agency Digest — 2026-06-08]] (The Alignment-Reality Gap) · [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-06-12 | Strongest AI Risk Arguments, AI for School Districts, Human Review Checkpoints, AI Agent Revolution, Home |
 | 2026-06-11 | AI Executive Assistants, AI Research Agents, Education, Government and Civic Life, Home |
 | 2026-06-10 | Human Agency, AI Agent Revolution, Responsible Deployment, Co-Intelligence, Home |
 | 2026-06-09 | Human Agency, Balanced Governance, AI Agent Revolution, Home |
@@ -101,7 +102,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 �
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8–14 days | ~20 pages | Healthcare, Case Against AI Doomism, AI Executive Assistants, AI Writing Partners, Risk-Benefit Matrix, Adoption Readiness Checklist, AI Tutor Evaluation Checklist, Agency Expansion Framework, Task-Level AI Adoption, Strongest AI Risk Arguments, AI for School Districts, Human Review Checkpoints, most Source Library index pages |
+| 8–14 days | ~17 pages | Healthcare, Case Against AI Doomism, AI Executive Assistants, AI Writing Partners, Risk-Benefit Matrix, Adoption Readiness Checklist, AI Tutor Evaluation Checklist, Agency Expansion Framework, Task-Level AI Adoption, most Source Library index pages |
 | 5–7 days | ~15 pages | Case for AI Optimism, Home Server AI Agents, Family and Personal Life, Public Trust and AI, Government and Civic Life, AI Tutors, AI and Creator Rights, Responsible Deployment, Positive Alignment, Agentic Workflow Patterns |
 | < 5 days | ~35 pages | Actively curated (recent digests, core pages touched by daily runs, newly expanded pages) |
 
@@ -111,7 +112,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 �
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-06-11|Today's Digest]]
+- [[00-Daily-Digests/2026-06-12|Today's Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

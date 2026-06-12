@@ -13,12 +13,18 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic, 2024 — recommends simple workflows, evaluator loops, and controlled tool use before open-ended autonomy.
 - [Responsible AI Progress Report](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/documents/ai-responsibility-update-published-february-2025.pdf), Google DeepMind, 2025 — describes governance, evaluation, red teaming, privacy/security controls, provenance, and literacy as operational practices.
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST — provides the Map, Measure, Manage, Govern loop that checkpoints can implement at workflow level.
+- [The Khipu Problem: Institutional Legibility Under Distributed Cognition](https://arxiv.org/abs/2606.12414), Krti Tallam, June 2026 — interpretive continuity as a checkpoint category: before archiving or retiring agent workflows, verify that future institutions can still read the decision record. The record can survive while the reading practice decays.
+- [The Containment Gap](https://arxiv.org/abs/2606.12797), Hossain et al., June 2026 — architectural checkpoints, not just procedural ones. Lightweight memory integrity validators and policy gates (<0.2ms overhead) eliminate attack vectors that standard monitoring misses.
+- [Arbor: Tree Search as a Cognition Layer](https://arxiv.org/abs/2606.12563), Prakriya et al., June 2026 — checks-and-balances architecture where a Critic agent independently validates Orchestrator decisions through root-cause analysis. Structural review embedded in the architecture, not bolted on.
 
 ## Practical Examples
 - Require approval before an AI agent sends external email, posts publicly, purchases items, deletes files, changes infrastructure, or modifies financial records.
 - In schools, require teacher review before AI-generated grades, student interventions, parent communications, or placement recommendations.
 - In writing workflows, allow AI to draft and critique but require human approval before publication and before factual claims are treated as verified.
 - In home-server automations, start with read-only agents; graduate to write access only after dry runs, logs, rollback plans, and approval gates.
+- **Interpretive continuity checkpoint:** Before decommissioning any agent workflow, run the Khipu Test: hand the logs to someone uninvolved and verify they can reconstruct what decision was made, by whom, based on what evidence, and with what authority.
+- **Architectural checkpoints:** Implement memory integrity validators and policy gates in agent frameworks. These are not procedural reviews — they're inline architectural stops that prevent memory corruption and unauthorized actions with sub-millisecond overhead.
+- **Structural review (Arbor pattern):** For high-stakes autonomous systems, separate the Orchestrator (decision-making) and Critic (validation) roles into independent agents. Neither can unilaterally drive the system — the checkpoint is structural, not procedural.
 
 ## Risks / Limits
 - Checkpoints can become rubber stamps if humans are overloaded or lack the context to review well.
