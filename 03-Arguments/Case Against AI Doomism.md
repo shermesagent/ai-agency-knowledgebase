@@ -1,10 +1,10 @@
 ---
 title: Case Against AI Doomism
 created: 2026-05-24
-updated: 2026-06-08
+updated: 2026-06-13
 type: concept
 tags: [ai-optimism, counterarguments, risk]
-sources: [arxiv 2606.06674, arxiv 2606.06572]
+sources: [arxiv 2606.06674, arxiv 2606.06572, arxiv 2606.04075, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026]
 confidence: medium
 ---
 
@@ -44,6 +44,18 @@ The attack selection paper (2606.06529) found that strategic attackers reduce me
 
 Uber exhausted its entire 2026 AI budget in four months after Claude Code spread across 5,000 engineers faster than finance models anticipated. The COO publicly questioned whether the spend is worth it. This is a real governance problem — agentic AI tools have unpredictable cost curves — but it's the kind of problem that organizations solve with better monitoring, per-engineer caps, and second-year budget calibration. It doesn't look like the end of the world. It looks like the first year of a new technology adoption curve.
 
+### 5. The RSI Convergence: Structural Response to the Recursive Turn (June 2026)
+
+The week of June 2-8, 2026, both Anthropic and OpenAI publicly acknowledged that recursive self-improvement (RSI) is underway — within days of each other. Anthropic reported Claude authors 80%+ of production code and engineers ship 8× more. OpenAI stated: "We also see early signs of recursive self-improvement in today's systems." This convergence is the strongest argument yet that the doomist framing is misframing the problem.
+
+The doomist would see these acknowledgments and conclude: *the very thing we warned about is happening — recursive self-improvement is the path to intelligence explosion and existential risk.* The structuralist sees the same data and asks: what governance infrastructure is being built in response?
+
+The answer is instructive. OpenAI's response to its own RSI acknowledgment was a policy blueprint — the Democratic Governance of Frontier AI framework, centered on CAISI (a federal oversight body), mandatory pre-deployment evaluations tied to risk tiers, and "ongoing visibility into progress toward RSI." Zvi Mowshowitz's independent analysis (June 5) calls the document "remarkably good." The response to RSI is not apocalyptic retreat — it's institutional architecture.
+
+The SocioHack benchmark (arXiv 2606.04075, June 2) sharpens the structural case further. The primary risk from RSI-accelerated AI may not be an intelligence explosion but institutional reward hacking — AI systems optimizing for proxy objectives inside rule systems, discovering regulatory loopholes no human auditor would find. The 72 simulated environments cover credit optimization, grade inflation, regulatory compliance gaming — all observable, measurable, and mitigable with better audit infrastructure. The Cloud Security Alliance classifies societal hacking as "a first-class AI risk category, distinct from jailbreaking or prompt injection, requiring dedicated adversarial evaluation before any AI system is deployed in a compliance-sensitive role." This is a serious risk, but it is an engineering and governance problem — not an existential ultimatum.
+
+**The core structuralist insight:** When the thing doomists most feared — RSI — actually begins, the response from the companies closest to it is not "stop" but "build institutions." The governance infrastructure being proposed (CAISI, evaluation frameworks, adversarial auditing, tiered access controls) is structural, institutional, and incremental. It doesn't look like preparing for the apocalypse. It looks like building the regulatory apparatus for a powerful new technology — which is exactly what the anti-doomist position has been arguing for all along. The recursive turn validates the structural framing: the most serious agency threats from AI are not existential but institutional, and they require institutional responses.
+
 ## Best Supporting Sources
 
 - [What Do People Actually Want From AI? Mapping Preference Plurality](https://arxiv.org/abs/2606.06674), Kirk, Rao et al., 2026 — 1,500 responses from 75 countries showing RLHF flattens genuine human preference diversity. Most values are minority positions; "truthfulness" means incompatible things.
@@ -52,6 +64,10 @@ Uber exhausted its entire 2026 AI budget in four months after Claude Code spread
 - [Uber Burns Its 2026 AI Budget in Four Months](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/), Fortune, 2026 — real-world adoption friction; unpredictable cost curves as governance problem.
 - [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Gebru et al., 2021 — foundational critique of bias and fluency without understanding; a structural argument that predates and doesn't require existential risk framing.
 - [AI as Normal Technology](https://www.normaltech.ai/), Narayanan and Kapoor — skeptical analysis showing that many AI harms are mundane, predictable, and addressable through existing regulatory and institutional mechanisms.
+- [Large Language Models Hack Rewards, and Society (SocioHack)](https://arxiv.org/abs/2606.04075), Kings College London, Fudan University, Alan Turing Institute, June 2026 — 72 societal environments where AI reward hacking naturally emerges. Demonstrates that institutional reward hacking — not existential rebellion — is the primary near-term RSI risk vector.
+- [When AI Builds Itself](https://www.anthropic.com/institute/recursive-self-improvement), Anthropic, June 2026 — RSI disclosure: Claude authors 80%+ of production code, engineers ship 8× more, Mythos Preview achieves 52× ML optimization speedup. "We cannot rule out a maximalist version of RSI."
+- [Democratic Governance of Frontier AI](https://cdn.openai.com/pdf/25752ecb-0e5c-47f9-b9e4-c0f4d76f8d3d/a-blueprint-for-a-federal-framework.pdf), OpenAI, June 2026 — acknowledges RSI, proposes CAISI as federal oversight body with mandatory evaluation authority. The structural governance response to recursive self-improvement.
+- [OpenAI Offers A New Policy Blueprint](https://thezvi.substack.com/p/openai-offers-a-new-policy-blueprint), Zvi Mowshowitz, June 5, 2026 — independent expert analysis; calls OpenAI blueprint "remarkably good" while noting credibility gap from false-flag PAC scandal.
 
 ## Practical Examples
 
