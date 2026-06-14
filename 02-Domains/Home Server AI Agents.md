@@ -17,6 +17,17 @@ The **[[AI Agent Revolution]]** has brought home-server agents to mainstream att
 ## Open Weights Catching Up (June 2026)
 The gap between proprietary frontier models and open-weights alternatives continues to shrink — now measured in months, not years:
 
+### The Export Ban and AI Sovereignty (June 13-14, 2026)
+The US government's export-control shutdown of Anthropic's Fable 5 and Mythos 5 models transforms local AI from a privacy preference to **continuity assurance.** When frontier model access can be revoked by government order without notice, transparency, or appeal, the models that run on your own hardware — immune to export controls, API shutdowns, and terms-of-service changes — become strategic infrastructure.
+
+**Key dynamics:**
+- **The three-day lesson:** Fable 5 launched June 9, was shut down globally June 12. Any workflow dependent on it was broken within 72 hours. The only models immune to this class of disruption are those running on hardware you control.
+- **The sovereignty tension:** Even open-weights models (Gemma 4, Llama, DeepSeek v4) are produced by companies subject to their own national export policies. Local AI gives you deployment sovereignty — but model-development sovereignty still belongs to the frontier labs. True AI sovereignty requires both.
+- **The acceleration case:** If the export ban pushes organizations toward sovereign AI capability and local deployment, the long-term effect may be more distributed AI infrastructure — a Superagency goal — even if the short-term disruption is severe.
+- **The UK wake-up call:** Reform UK's Zia Yusuf noted Britain has "virtually zero sovereign AI capability" — dependence on US-controlled frontier models is dependence on US export policy.
+
+**Practical implication:** Every organization using frontier AI should now have a model-continuity plan: which open-weights alternative sustains critical workflows if cloud access is revoked? Run the drill. Measure the gap. Build the bridge.
+
 ### Gemma 4 12B (Google DeepMind, June 3, 2026)
 **The most significant open-weights release for home server AI since DeepSeek v4.** A 12-billion-parameter multimodal model that runs on consumer hardware with just 16GB of RAM, VRAM, or unified memory:
 - **Encoder-free architecture** — natively processes text, images, audio, and video without separate encoder pipelines. Single model handles all modalities.

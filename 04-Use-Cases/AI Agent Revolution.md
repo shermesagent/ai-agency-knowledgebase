@@ -24,6 +24,19 @@ The agent revolution is the most concrete realization yet of the Superagency the
 - **Going public:** Anthropic filed its S-1 to go public (June 2026) — the first major frontier AI lab to enter public markets
 - **Opus 4.8:** Top of Toloka Arena; Zvi Mowshowitz's "clear daily driver"; 4x self-correction improvement; continued straight-line capability trajectory toward Mythos
 
+### The Fable 5 Shutdown: Frontier Access Becomes a Political Function (June 12-13, 2026)
+Claude Fable 5 — the first publicly distributed Mythos-class model, capable of autonomous multi-step workflows and recursive reasoning — launched June 9, 2026. Three days later, on June 12 at 5:21 PM ET, the U.S. government issued an export-control directive forcing Anthropic to suspend all access for foreign nationals. Under the "deemed export" rule (15 CFR 734.13), showing controlled technology to a foreign national inside the US counts as exporting it — and since Anthropic cannot verify every user's nationality in real time, Fable 5 and Mythos 5 were shut down globally. Anthropic's own foreign-national employees, who helped build the models, are now locked out of them.
+
+This is the first time export controls have been used to recall a commercial AI deployment. The agent revolution's central premise — that frontier AI capability will be available to anyone with an API key — has been structurally challenged. **Frontier AI access is no longer a market function; it's a political function, subject to abrupt revocation without transparency or appeal.**
+
+**Implications for the agent revolution:**
+- **Access uncertainty becomes systemic.** Any model-dependent workflow is now subject to export-control risk. Building on frontier APIs means building on a substrate that can be withdrawn overnight.
+- **Local agents gain strategic urgency.** The agent workflow that runs on your hardware using open-weights models (Gemma 4 12B, DeepSeek v4) is immune to export-control shutdowns. The home-server AI thesis documented in this knowledgebase shifts from privacy preference to business continuity.
+- **The capability-sovereignty tradeoff.** Frontier models offer capabilities that open-weights alternatives cannot match. But capability without continuity is fragile. Every agent deployment must now balance capability against sovereignty — and the balance has shifted toward sovereignty.
+- **Governance-by-default.** The export ban demonstrates that governance will happen — the question is whether it happens through transparent evaluation frameworks or opaque national-security instruments. The agent revolution spent 2025-2026 proving what AI can do. The Fable 5 shutdown opens the question of who gets to decide what AI is allowed to do — and by what process.
+
+Sources: Zvi Mowshowitz, "American Government Takes Down Claude" (June 13); Fortune, Reuters, Time, Forbes, Business Insider (June 13).
+
 ### The Co-Existence Transition (Mollick, June 2026)
 - Ethan Mollick retired the "co-intelligence" frame in favor of "co-existence" — working with AI agents that are *sometimes, but not always, better than you*
 - The agent revolution made the chatbot-era frame obsolete: AI now writes 80% of Anthropic's code, coding agents produce 17x more code
