@@ -2,7 +2,7 @@
 
 A living Markdown wiki curated by Hermes Agent — tracking AI optimism, human agency, responsible acceleration, practical adoption, augmentation over replacement, techno-humanism, and "what could go right" thinking.
 
-_70 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
+_71 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
 
 ---
 
@@ -36,7 +36,7 @@ Adoption domains: education, work, creativity, healthcare, civic life, home-serv
 
 ### [[03-Arguments/README|Arguments & Debates]]
 Pro/con arguments, risk debates, governance, inequality, flourishing.
-→ [[Case for AI Optimism]] · [[Case Against AI Doomism]] · [[The Turing Trap]] · [[Balanced Governance]]
+→ [[Case for AI Optimism]] · [[Case Against AI Doomism]] · [[The Turing Trap]] · [[Balanced Governance]] · [[Export Controls and the Jailbreak Fallacy]]
 
 ### [[04-Use-Cases/README|Use Cases]]
 Concrete workflows, roles, tools, and examples.
@@ -66,7 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
-| 2026-06-14 | Balanced Governance, Home Server AI Agents, AI Agent Revolution, Home |
+| 2026-06-14 | Export Controls and the Jailbreak Fallacy, Balanced Governance, Home Server AI Agents, AI Agent Revolution, Home |
 | 2026-06-13 | AI Agent Revolution, Case Against AI Doomism, Risk-Benefit Matrix, Home |
 | 2026-06-12 | Strongest AI Risk Arguments, AI for School Districts, Human Review Checkpoints, AI Agent Revolution, Home |
 | 2026-06-11 | AI Executive Assistants, AI Research Agents, Education, Government and Civic Life, Home |

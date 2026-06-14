@@ -319,3 +319,12 @@
 - Recommended 3 new pages: Recursive Self-Improvement (Core Idea), SocioHack / Institutional Reward Hacking (Concept), Ambient AI / AI-at-the-OS-Layer (Domain).
 
 - Source-library updates deferred: ~5 new sources need entries and sources.jsonl records. Adding to the ~10 deferred from June 12. Flagged for Sunday lint/maintenance catch-up.
+
+## [2026-06-14] ingest | Eigenwise — The Jailbreak that Got Fable 5 Pulled Exists in Every Model
+
+- Ingested Kenny Vaneetvelde's (Eigenwise) article on the Fable 5 export ban — the technical argument that jailbreaks exist in every LLM due to softmax math, the encryption wars parallel, and the honesty penalty for AI labs
+- Saved raw source to [[raw/articles/eigenwise-jailbreak-in-every-model-2026-06-13.md]]
+- Created [[Export Controls and the Jailbreak Fallacy]] — new 03-Arguments page covering the core argument (jailbreaks are mathematically inevitable), the export control contradiction, the Pentagon conflict backstory, and the Bernstein v. US parallel
+- Updated [[03-Arguments/README]] — added page to Governance & Society section, bumped count 11→12
+- Updated [[Balanced Governance]] — added cross-link to new page in the Export Governance Shock section's key structural lessons
+- Updated [[Home]] — added to Arguments & Debates featured links, added to recent updates row, bumped page count 70→71
