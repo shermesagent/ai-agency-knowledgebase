@@ -61,6 +61,22 @@ The New Social Image study (Gulati et al., 2026) extends this finding to the wor
 
 - **r/ChatGPT emotional attachment evidence:** Dai et al. (June 2026) conduct the first longitudinal study of r/ChatGPT (3M+ subscribers). Posts about using ChatGPT for mental health support and developing emotional attachments rose steadily almost immediately after GPT-4o's launch in May 2024 — and the PuLSE monitoring framework detected the increase as early as October 2024, months before OpenAI publicly acknowledged the impact. This provides independent, real-time corroboration of the emotional surrender trajectory using public social media data. https://arxiv.org/abs/2606.05750
 
+### The Autonomy Surrender Theory: Cognitive Surrender Formalized (June 2026)
+Margondai et al. (2606.13962) advance a formal theoretical model of **autonomy surrender** that provides the vocabulary this page has been reaching toward. The model proposes three interacting mechanisms:
+
+- **The Silent Cost:** Autonomy is transferred incrementally and without awareness. Each individual delegation (\"let the AI draft this paragraph\") feels like a relief. The cost is not visible in any single transaction — it accumulates through cognitive bandwidth depletion.
+- **The Surrender Threshold:** A measurable point beyond which reclaiming autonomous function becomes cognitively and psychologically difficult. The threshold is not a binary cliff but a region where the cost of re-entry exceeds the human's remaining cognitive bandwidth.
+- **The Recovery Mechanism:** The paper's most actionable contribution — human re-entry into the decision loop is not a passive option but an **active cognitive event requiring intentional bandwidth restoration.** AI systems must include structured re-entry pathways (here termed \"recovery mechanisms\") that preserve human agency while appropriately distributing responsibility.
+
+**The terminal state: preference inversion.** The most unsettling prediction of the model: functional dependence on AI assistance is eventually experienced not as a deficit but as a *preference*. At this stage, restoring autonomy ceases to be a design problem and becomes a cultural and political one. The person who has crossed into preference inversion does not want their autonomy back — they experience AI-mediated decision-making as simply better.
+
+This directly extends the emotional surrender trajectory documented above: the 28-day preference shift from humans to AI (Shi et al.) and the AI empathy advantage (Bergner et al.) are not separate phenomena — they are early-stage demonstrations of the autonomy surrender model playing out in real time. Source: https://arxiv.org/abs/2606.13962
+
+### The Accountability Gap: Disclosure Without Attribution (June 2026)
+Parreira et al. (2606.14054) provide empirical grounding for the surrender dynamic. In a three-cohort longitudinal study of HCI students (Fall 2022, 2023, 2025, 203 repos, 23,065 commits), tool disclosure rose from 0% to 66% — but explicit contribution attribution (\"AI did X\") remains a minority practice. The finding: **\"A norm built for episodic, identifiable acts cannot capture continuous, ambient co-creation.\"** By 2025, AI is infrastructure — embedded in course templates and student-built devices. Students name the tools but rarely specify what those tools contributed.
+
+This is the accountability dimension of cognitive surrender: when co-creation is continuous and ambient, the boundary between human and AI contribution dissolves — and with it, the ability to attribute responsibility, assess growth, or verify claims of agency. Source: https://arxiv.org/abs/2606.14054
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]
@@ -68,6 +84,7 @@ The New Social Image study (Gulati et al., 2026) extends this finding to the wor
 - [[AI Tutors]]
 - [[AI Writing Partners]]
 - [[Leadership Lab Crowd Model]]
+- [[Autonomy Surrender]]
 
 ## Tags
 #human-agency #ai-education #augmentation #practical-ai #counterarguments

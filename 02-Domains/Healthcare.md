@@ -22,6 +22,15 @@ Healthcare is a domain where the Superagency thesis faces its hardest test. The 
 - The "rehumanizing" framing is compelling but needs deployment data — does AI administration genuinely increase patient-facing time, or does it just add another technology layer?
 - Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
 - In consequential settings, AI recommendations must be contestable and auditable.
+- **Clinical language model bias amplification (June 2026):** Soetan (2606.14460) audits ClinicalBERT — a model pretrained on MIMIC-III discharge summaries — and finds that **65.6% of statistically significant bias findings contradict observed corpus distributions, rising to 80% for Black patients and 87.5% for agency attribution.** The model amplifies bias rather than inheriting it. This is critical for healthcare AI deployment: a model that appears to reflect training data distributions may actually be amplifying demographic associations through internal representation rather than mirroring real clinical patterns. Source: https://arxiv.org/abs/2606.14460
+
+## Design Research: Friction and Trust
+
+### Friction in Clinical Decision-Making (June 2026)
+Fischer et al. (2606.14406) investigate what forms of friction actually promote reflection in clinical AI use. In interviews with 7 clinicians, two friction designs were tested: (1) data-driven questions (e.g., \"have you considered X?\") — perceived as unhelpful for reflection but useful as reminders; (2) \"what-if\" hypotheticals — perceived as genuinely useful for improving patient care. Clinicians saw the prototype as a promising training tool for novices. The finding: friction that generates alternatives is more valuable than friction that checks completeness. **Superagency connection:** For healthcare AI to expand agency rather than erode it, the friction must be productive — offering new possibilities, not just second-guessing existing decisions. Source: https://arxiv.org/abs/2606.14406
+
+### SpheriCity: Provenance-First AI for Sustainability Knowledge (June 2026)
+Qayyum et al. (2606.13854) built a conversational AI for city-level circularity assessment that foregrounds evidence traceability, structured synthesis, and interaction scaffolds. Expert review with 6 sustainability professionals found that **transparent sourcing, contextual explanation, and alignment with expert workflow** strongly shape expert trust. The provenance-first design pattern — where every claim is traceable to source documents — transfers directly to clinical AI: healthcare professionals need to verify AI recommendations against evidence, not trust model outputs. Source: https://arxiv.org/abs/2606.13854
 
 ## Related Pages
 - [[Risk-Benefit Matrix]]

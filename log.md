@@ -3,7 +3,23 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
-## [2026-06-12] update | Friday daily AI curator run — The Infrastructure of Continuity
+## [2026-06-15] update | Monday daily AI curator run — The Surrender Threshold
+
+- Created [[Daily AI Agency Digest — 2026-06-15]] anchored on "The Surrender Threshold" — the finding that autonomy erodes not by catastrophe but by quiet accumulation, and the emerging design science of re-entry pathways to restore human agency. Primary anchor: **Autonomy Surrender Theory** (Margondai et al., 2606.13962) — formal model of silent cost, surrender threshold, recovery mechanism, and preference inversion. Nine primary sources: 8 arXiv papers + Import AI #461 (Jack Clark, June 15). Primary anchors: Autonomy Surrender theory + WorkBench Revisited landmark.
+
+- Updated [[Cognitive Surrender]] — Added two major new sections: (1) The Autonomy Surrender Theory — formal model from Margondai et al. (2606.13962) with three interacting mechanisms (silent cost, surrender threshold, recovery mechanism) and the terminal state of preference inversion — directly extending the emotional surrender trajectory already documented on the page; (2) The Accountability Gap — Parreira et al. (2606.14054) three-cohort longitudinal study showing disclosure rises (0%→66%) while attribution remains rare: "A norm built for episodic, identifiable acts cannot capture continuous, ambient co-creation." Page was 10 days stale (last updated June 5).
+
+- Updated [[AI Agent Revolution]] — Added three major new sections: (1) WorkBench Revisited (Styles, 2606.13715) — Claude Opus 4.8: 89% completion (up from GPT-4's 43%), 2.5% unsafe actions (down from 26%), capability and safety improve together, open-weight costs collapsing; (2) Import AI #461 / Sequent Launch — UK AISI + Timaeus form new nonprofit with premise "alignment is not on track," FrontierCode progress, synthetic research interns; (3) Agent Infrastructure Evolution — SkillAudit (73.9% task reward via paired trajectory auditing) and HarnessX (+14.5% across five benchmarks via evolvable runtime interfaces). Page was last updated June 14.
+
+- Updated [[AI Writing Partners]] — Added two new Emerging Tools sections: (1) Fabula — Mirowski et al. (2606.14411) narrative storytelling sidekick tested with 42 writers using hierarchical narrative plans and auto-evaluator; (2) GenUI — Chen et al. (2606.13843) 24-designer study showing structured-input/breadth-first vs. conversational/depth-first tradeoffs in design exploration. Added accountability gap risk under Risks/Limits. Page was 7 days stale (last updated June 8).
+
+- Updated [[Healthcare]] — Added three new sections: (1) ClinicalBERT bias amplification — Soetan (2606.14460): 65.6% of significant bias findings contradict corpus distributions, 80% for Black patients; (2) Friction in Clinical Decision-Making — Fischer et al. (2606.14406): "what-if" hypotheticals are more productive than completeness checks; (3) SpheriCity — provenance-first conversational AI design pattern transferring to clinical AI. Page was 10 days stale (last updated June 5).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 15), refreshed staleness tracker (Healthcare, Cognitive Surrender, AI Writing Partners removed from 8-14 day range; count updated to ~12 at 8-14 days, ~18 at 5-7 days), and today's digest quick link.
+
+- Noted: Monday (weekday) — arXiv feeds across cs.CY, cs.HC, and cs.AI provided primary source discovery. 8 of 9 primary sources are arXiv (89%). 1 non-arXiv (Import AI #461, published today). No new Mollick since June 9 Mythos piece (covered June 12). Zvi #172 "The First Fable" (June 12) covers Fable 5 release — extensively covered June 11-12 digests; not re-ingested. Stratechery last AI piece June 11 (Bajarin interview, covered June 13). Import AI #461 published today — covered. Today's theme — "The Surrender Threshold" — extends Friday's "infrastructure of continuity" and Saturday's "recursive turn" into the psychological dimension: what happens inside the human mind when delegation passes the point of easy return.
+
+- Recommended 3 new pages: Autonomy Surrender (Core Idea), Aspirational Alignment (Concept), Surrender Threshold (Core Idea).
 
 - Created [[Daily AI Agency Digest — 2026-06-12]] anchored on "The Infrastructure of Continuity" — the structural gap between building powerful distributed AI systems and having institutional infrastructure to understand, audit, and govern them over time. Primary anchor: **The Khipu Problem** (2606.12414) — institutional legibility under distributed cognition, named after the Inca recording system whose knots survived but whose reading practice died. Seven primary sources: 6 arXiv papers + 2 non-arXiv (MIT TR/DeepMind multi-agent safety, Mollick Mythos hands-on). Primary anchor: The Khipu Problem.
 

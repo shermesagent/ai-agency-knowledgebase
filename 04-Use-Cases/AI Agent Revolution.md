@@ -186,6 +186,32 @@ The primary risk vector from RSI-accelerated AI may not be existential rebellion
   - The model produces impressive work but with "strangeness and limits"
 - **Superagency connection:** This is the Co-Existence thesis in daily practice. Sometimes the Mythos-level AI is transformative; sometimes the guardrail makes it worse by falling back to Opus. The skill — and the practical challenge — is knowing which is which, in real time, without wasting tokens on guardrail trips.
 
+### WorkBench Revisited: Workplace Agents Two Years On (June 2026)
+The landmark empirical progress report on workplace agents. Styles (2606.13715) revisits the WorkBench benchmark two years after GPT-4 achieved 43% task completion and a 26% unintended-harmful-action rate in March 2024:
+
+- **Completion:** GPT-4 (Mar 2024) 43% → **Claude Opus 4.8 (Jun 2026) 89%** — more than doubled
+- **Unsafe actions:** GPT-4 26% → **Opus 4.8 2.5%** — a 10x reduction
+- **Key finding: Capability and safety go together** — the models that finish the most tasks also do the least unintended damage. This directly refutes the tradeoff narrative.
+- **Open-weight progress:** Costs have drastically fallen for performance levels previously only accessible to proprietary models, while frontier costs have stayed stable
+- **Remaining challenge:** Frontier models still make basic mistakes causing occasional irreversible harm (e.g., emailing the wrong person)
+
+**Superagency connection:** This is the strongest empirical evidence yet that agent safety is an architectural choice, not a capability ceiling. The design patterns that make agents more reliable at tasks also make them safer. The open-weight cost collapse further validates the home-server AI thesis. Source: https://arxiv.org/abs/2606.13715
+
+### Import AI #461: Alignment Not on Track; Sequent Launch (June 15, 2026)
+Jack Clark's newsletter reports three developments:
+
+- **Sequent:** Researchers from the UK AI Security Institute Alignment team and alignment theory startup Timaeus have formed a new nonprofit, Sequent, with the explicit premise that **"alignment is not on track."** Sequent will fund a portfolio of under-resourced research bets.
+- **FrontierCode:** Coding agent benchmark progress — agents continue to advance rapidly on structured programming tasks
+- **Synthetic research interns:** The acceleration toward automated AI R&D continues; OpenAI's September 2026 target for automated research interns appears increasingly viable
+
+**Tension:** The same week that WorkBench shows 89% completion with 2.5% unsafe actions, the alignment research community is restructuring around the premise that it's failing. This is not contradictory — operational safety (making deployed systems behave) improves rapidly while alignment safety (ensuring future systems are corrigible) faces fundamental challenges that scaling alone cannot solve. Both are true. Source: https://jack-clark.net/2026/06/15/
+
+### Agent Infrastructure Evolution: From Static Scaffolding to Evolvable Harnesses (June 2026)
+Two papers advance the agent infrastructure layer beyond hand-crafted scaffolding:
+
+- **SkillAudit (Gao et al., 2606.14239):** Ground-truth-free skill evolution — agent skills are improved without hidden tests, using paired trajectory auditing. The key idea: execute the same task with and without the candidate skill, isolating how the skill changes agent behavior. Across 89 containerized tasks spanning 8 professional domains, SkillAudit achieves 73.9% average task reward vs. 40.9% for the no-skill baseline and 56.7% for static expert skills. Source: https://arxiv.org/abs/2606.14239
+- **HarnessX (Chen et al., 2606.14249):** A composable, adaptive, and evolvable agent harness foundry. HarnessX assembles typed harness primitives via substitution algebra, adapts them through AEGIS (a trace-driven multi-agent evolution engine), and closes the harness-model loop by turning trajectories into both harness updates and model training signal. Average gain of +14.5% across five benchmarks (ALFWorld, GAIA, WebShop, tau³-Bench, SWE-bench Verified), up to +44.0%. **The core insight: agent progress need not come from model scaling alone — composing and evolving runtime interfaces from execution feedback is an actionable and complementary lever.** Source: https://arxiv.org/abs/2606.14249
+
 ### Economic Impact
 - Token costs for heavy users: $100K-$1M+ annually (Garry Tan: "seven figures")
 - Mac Mini shortage as users buy dedicated hardware for continuous agent operation
