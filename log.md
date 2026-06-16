@@ -344,3 +344,26 @@
 - Updated [[03-Arguments/README]] — added page to Governance & Society section, bumped count 11→12
 - Updated [[Balanced Governance]] — added cross-link to new page in the Export Governance Shock section's key structural lessons
 - Updated [[Home]] — added to Arguments & Debates featured links, added to recent updates row, bumped page count 70→71
+
+## [2026-06-16] update | Tuesday daily AI agency curator run — The Debt We Don't See
+
+- Created [[Daily AI Agency Digest — 2026-06-16]] anchored on "The Debt We Don't See" — Cognitive Debt formalized, developer blind spots on agentic risk, and ad-hoc governance as institutional debt. Seven primary sources: 5 arXiv papers (Cognitive Debt, Perils of Agency, Commons-Governed AI, Human-AI Collaboration Taxonomy, Cognitive Trajectory Modeling) and 2 newsletters (Mollick "Using AI Right Now" published today, Zvi "The Once And Future Fable #2"). Primary anchor: Cognitive Debt (Meng, 2606.15078).
+
+- Updated [[Cognitive Surrender]] — Added Cognitive Debt formal model (Meng, 2606.15078): six propositions including cognitive Minsky moment, false-correction loop, and high-capital paradox. Cognitive Debt provides the mechanism-level explanation for why the Surrender Threshold and Autonomy Surrender models behave as they do. Added [[Cognitive Debt]] to Related Pages.
+
+- Updated [[Case for AI Optimism]] — Added WorkBench Revisited (89% completion, 2.5% unsafe) and Mollick's June 16 practical guide to Best Supporting Sources. Page was 12 days stale (last touched June 4).
+
+- Rewrote [[Practical AI]] — First substantial content for previously stub page (23+ days stale). Added Mollick's three-step adoption framework (pick a model, try three things, power user patterns), SCAN task allocation framework, small business deployment data, practical examples, and risks (cognitive debt trap, false-correction loop, feature awareness as new digital divide). Expanded from 27 lines (stub) to ~120 lines.
+
+- Updated [[Co-Intelligence]] — Added Cukurova's five-level Human-AI Collaboration Taxonomy (Transactional→Synergistic) and Mollick's June 16 practical guide. The taxonomy provides diagnostic precision for the Co-Existence framework: most current AI use is Transactional/Operational, not Collaborative. Genuine collaboration is an engineering choice.
+
+- Updated [[Balanced Governance]] — Added three substantive sections: (1) The Fable Takedown follow-up (Zvi's analysis: Amazon trigger, vibes-based enforcement, ad-hoc governance as institutional debt); (2) Commons-Governed AI taxonomy (Garrido-Merchán, 2606.15466) — Ostrom-based mapping of ten institutional archetypes, the missing third frame between market and state; (3) Developer Risk Priorities (Lee et al., 2606.15485) — N=35 study showing developers systematically deprioritize agency-preservation risks below product/business concerns.
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 16), refreshed staleness tracker (Practical AI and Case for AI Optimism removed from stale range; Case for AI Optimism moved to 5-7 day range), and today's digest quick link.
+
+- Added 6 sources to [[sources/sources.jsonl]]: Cognitive Debt, Perils of Agency, Commons-Governed AI, Human-AI Collaboration Taxonomy, Mollick "Using AI Right Now," Zvi "The Once And Future Fable #2."
+
+- Recommended 1 new page: [[Cognitive Debt]] (Core Idea) — the formal model of unverified reasoning accumulation, Minsky moment, and false-correction loop.
+
+- Noted: Tuesday — arXiv publishing normally. Source diversity: 5 papers + 2 newsletters (Mollick and Zvi). Today's theme extends yesterday's Surrender Threshold into the formal economic model layer: Cognitive Debt provides the mechanism, Developer Priorities reveal the organizational barrier, and the Fable takedown demonstrates the governance-level Minsky moment — ad-hoc instruments applied to problems requiring institutional infrastructure.
+

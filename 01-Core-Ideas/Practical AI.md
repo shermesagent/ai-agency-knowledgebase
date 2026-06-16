@@ -1,27 +1,74 @@
 # Practical AI
 
 ## Core Idea
-Practical AI emphasizes bounded, useful workflows that solve real problems, produce feedback, and improve through iteration.
+Practical AI emphasizes bounded, useful workflows that solve real problems, produce feedback, and improve through iteration — as opposed to treating AI as magic, inevitability, or replacement. It's the operational arm of the Superagency thesis: the specific things people can do today with AI that expand their capability rather than substituting for it.
 
 ## Why It Matters
-This idea matters because the knowledgebase is organized around AI that expands human agency rather than treating AI as magic, inevitability, or replacement. Future daily digests should add concrete evidence, examples, critiques, and citations here.
+Practical AI is where the knowledgebase's abstractions meet daily life. Superagency, Co-Intelligence, and Cognitive Surrender are theoretical frameworks — Practical AI is the translation layer. Without practical adoption patterns, the Superagency thesis remains an aspiration. With them, it becomes a set of teachable, repeatable workflows that anyone can use to expand their agency.
+
+The knowledgebase was seeded on May 24, 2026. This page was a stub until June 16. The evidence has accumulated rapidly in those three weeks — from Mollick's practical adoption guides to the SBE Council's small business data (82% using AI, 77% optimistic) to SCAN's task allocation framework to the maturation of Deep Research across all three major platforms.
 
 ## Best Supporting Sources
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+
+- **[Using AI Right Now: A Quick Guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)** — Ethan Mollick, June 16, 2026. Reliability 5/5; relevance 5/5. The most current practical adoption scaffold. Key framework: (1) Pick a model and pay the $20 — free tiers are demos. (2) Try three things immediately: a complex real-work task with full context, Deep Research on a question you need comprehensive information for, and voice mode while doing something else. (3) The difference between casual and power users isn't prompting skill — it's knowing features exist (branching, Canvas, Deep Research, voice screen sharing) and using them on real work.
+
+- **[SCAN: A Decision-Making Framework for Effective Task Allocation with Generative AI](https://arxiv.org/abs/2606.15509)** — June 2026. Reliability 4/5; relevance 5/5. Practical task allocation framework for determining which tasks to delegate to AI vs. retain for human cognition. Complements the Agency Expansion Framework with an implementation-level decision tool.
+
+- **[The AI Tools Small Businesses Are Using](https://sbecouncil.org/2026/04/25/the-ai-tools-small-businesses-are-using/)** — SBE Council, April 2026. Reliability 4/5; relevance 5/5. 82% of small business employers have invested in AI; typical business uses 5 tools; 77% are optimistic. The largest-scale deployment data for individual agency expansion through AI.
+
+- **[Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human)** — Ethan Mollick, May 26, 2026. Reliability 5/5; relevance 5/5. The practical companion to Cognitive Surrender: what to delegate, what to guard, and how to maintain the skills that make you uniquely valuable.
+
+- **[How Small Businesses Can Leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/)** — MIT Technology Review, June 2, 2026. AI tools accessible for accounting, design, market research, and product development.
+
+- **[Gemma 4 12B: Open-Weights Multimodal AI on Consumer Hardware](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)** — Google DeepMind, June 3, 2026. Running capable AI locally on a 16GB laptop with full data sovereignty.
+
+## Mollick's Practical Adoption Framework (June 2026)
+
+The three-step scaffold for anyone starting with AI:
+
+### 1. Pick a Model (and Pay)
+- **GPT-5.5**: Broadest capability, best for general tasks, image generation
+- **Claude Opus 4.8 / Fable**: Nuanced reasoning, writing quality, coding, extended tasks
+- **Gemini 2.5 Pro**: Deep Research (cited, structured reports), video generation (Veo 3), Gmail integration
+
+Free tiers are demos — the powerful models that make a real difference are behind the $20/month paywall.
+
+### 2. Try Three Things Immediately
+- **Complex task with full context**: Give the AI documents, background, and a specific output request. Have a back-and-forth conversation.
+- **Deep Research**: Ask a question requiring comprehensive information — competitive analysis, technical deep-dive, or specific recommendations. The AI researches, cites sources, and produces a structured report.
+- **Voice mode while doing something else**: Cooking, walking, commuting. The killer feature isn't natural conversation — it's screen sharing and real-time camera access.
+
+### 3. Power User Patterns
+- **Context provision**: Upload documents, images, data — the AI doesn't remember you between sessions
+- **Branching**: Edit prompts after getting an answer to explore alternatives; use the arrows to move between branches
+- **Canvas mode**: For code, documents, or interactive outputs — ChatGPT and Gemini need Canvas mode selected; Claude handles it natively
+- **Be specific and ask for volume**: "50 ideas" not "some ideas"; "here's the product details" not "write a marketing email"
 
 ## Practical Examples
-- Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
-- Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
+
+- **Small business owner**: Uses Claude for accounting analysis, Gemini Deep Research for market research, ChatGPT for design mockups — three tools, three distinct capabilities, all from a laptop
+- **Student with AI tutor**: Personalized problem sequences (not answer-giving) improve test scores by 0.15 SD — equivalent to 6-9 months of additional schooling with no added teacher workload
+- **Writer using AI as thinking partner**: Mollick's branching approach — write a draft, ask AI for 30 alternatives to a specific sentence, pick the best elements, iterate
+- **Developer with AI coding agent**: Claude Code handling multi-hour autonomous tasks (2,200+ flight queries, adversarial agent research teams) while the human provides direction and verification
+- **Home server AI**: Running Gemma 4 12B locally to index family documents, summarize personal archives, and answer questions from private data — full data sovereignty
 
 ## Risks / Limits
-- Avoid treating one positive case study as universal proof.
-- Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
-- Update this section whenever strong counterarguments appear.
+
+- **The cognitive debt trap**: Every practical AI workflow accumulates unverified reasoning obligations. The Cognitive Debt model (Meng, 2606.15078) shows this is individually rational but collectively fragile — the Minsky moment arrives when subjective confidence is highest.
+- **The false-correction loop**: When AI output has errors, the practical instinct is to patch with more AI — but this compounds cognitive debt rather than resolving it. Recovery requires deliberate human re-entry.
+- **The 82% using AI may not be 82% benefiting equally**: The ILO-World Bank study shows developing countries face "disruption without dividend." Access to tools is not access to benefit.
+- **Practical AI can become passive AI**: The line between "using AI practically" and "letting AI do the thinking" is thin. Every practical workflow should include a recovery mechanism — a deliberate re-entry pathway for the human.
+- **Feature awareness is the new digital divide**: The difference between power users and casual users is knowing features exist. If practical AI education doesn't reach the people who most need agency expansion, it amplifies existing capability gaps.
 
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Adoption Readiness Checklist]]
 - [[AI Use Case Evaluation Rubric]]
+- [[Co-Intelligence]]
+- [[Cognitive Surrender]]
+- [[AI for Small Businesses]]
+- [[Home Server AI Agents]]
+- [[Superagency]]
 
 ## Tags
-#practical-ai #responsible-ai #augmentation
+#practical-ai #responsible-ai #augmentation #human-agency #superagency

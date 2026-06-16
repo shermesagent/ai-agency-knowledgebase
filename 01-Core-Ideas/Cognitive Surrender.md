@@ -61,6 +61,19 @@ The New Social Image study (Gulati et al., 2026) extends this finding to the wor
 
 - **r/ChatGPT emotional attachment evidence:** Dai et al. (June 2026) conduct the first longitudinal study of r/ChatGPT (3M+ subscribers). Posts about using ChatGPT for mental health support and developing emotional attachments rose steadily almost immediately after GPT-4o's launch in May 2024 — and the PuLSE monitoring framework detected the increase as early as October 2024, months before OpenAI publicly acknowledged the impact. This provides independent, real-time corroboration of the emotional surrender trajectory using public social media data. https://arxiv.org/abs/2606.05750
 
+### The Cognitive Debt Theory: Formal Model of Invisible Accumulation (June 2026)
+
+Meng (2606.15078) advances a formal theory of **cognitive debt** — the stock of unverified reasoning obligations that accumulates when AI is used as a substitute rather than a complement for first-principles cognition. This model provides the mechanism-level explanation for why the Surrender Threshold and Autonomy Surrender models (yesterday's anchor paper, 2606.13962) behave the way they do. Six propositions:
+
+- **Rational agents incur positive cognitive debt** because costs are deferred, partially external, and masked by short-run productivity gains. No malice required — the incentives are structural.
+- **The cognitive Minsky moment**: Tranquil periods lower subjective risk assessments, raise AI substitution intensity, and compound leverage. Subjective risk falls while true systemic fragility rises — the moment of maximum confidence is the moment of maximum vulnerability.
+- **Expected crisis losses are convex in aggregate leverage** — small increases in system-wide cognitive debt produce disproportionately larger crisis costs.
+- **The false-correction loop**: Post-crisis, output-target pressure produces a trap where agents patch AI failures with more AI rather than rebuilding cognitive capital. This is the mechanism by which one crisis sets up the next, larger one.
+- **The decentralized equilibrium over-adopts substitutive AI** relative to the social optimum — systemic risk externalities, cognitive public goods, and arms-race dynamics mean individual rationality produces collective fragility.
+- **The high-capital paradox**: High-cognitive-capital agents adopt AI more intensively and may eventually erode their unaided cognitive capital below that of initially lower-skilled agents. Expertise is not protection — it's an accelerant.
+
+This directly extends the Autonomy Surrender model: the Minsky moment is the mechanism by which cognitive surrender becomes preference inversion, and the false-correction loop is why recovery mechanisms must be deliberately designed rather than assumed to emerge from crisis. Source: https://arxiv.org/abs/2606.15078
+
 ### The Autonomy Surrender Theory: Cognitive Surrender Formalized (June 2026)
 Margondai et al. (2606.13962) advance a formal theoretical model of **autonomy surrender** that provides the vocabulary this page has been reaching toward. The model proposes three interacting mechanisms:
 
@@ -85,6 +98,7 @@ This is the accountability dimension of cognitive surrender: when co-creation is
 - [[AI Writing Partners]]
 - [[Leadership Lab Crowd Model]]
 - [[Autonomy Surrender]]
+- [[Cognitive Debt]]
 
 ## Tags
 #human-agency #ai-education #augmentation #practical-ai #counterarguments

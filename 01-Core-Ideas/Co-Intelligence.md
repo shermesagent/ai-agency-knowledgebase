@@ -18,6 +18,21 @@ For a [[Superagency]] wiki, the co-intelligence-to-coexistence transition is the
 - **Key finding for Co-Existence:** Practical experience, not technical skill, drives collaboration quality. This validates Mollick's core claim — that the skill of working with AI is learnable, not innate, and benefits from hands-on practice. The benchmark also shows substantial inter-human variability, confirming that Co-Existence is not one-size-fits-all: different humans collaborate differently with the same agent.
 - **The bayesian skill model:** By disentangling human and AI contributions, CollabSkill makes visible what Co-Existence implies — that the quality of the output depends on the specific human-agent pairing, not just the agent's capability.
 
+### Human-AI Collaboration Taxonomy: What "Collaboration" Actually Requires (Cukurova, June 2026)
+
+Cukurova (2606.15509) provides the diagnostic precision the Co-Existence framework needs. Returning to long-standing accounts of collaborative learning, the paper reconstructs the requirements that a situation, interaction, and cognitive processes must meet before being called collaborative — and finds that most current human-AI interaction is better described as consultation, governance, delegation, or instruction rather than collaboration.
+
+**The five-level diagnostic taxonomy of human-AI teaming:**
+1. **Transactional**: AI responds to discrete prompts; no shared context or goals
+2. **Situational**: AI adapts to immediate context but has no persistent relationship
+3. **Operational**: AI maintains task state and can sequence actions, but the human directs
+4. **Praxical**: AI and human share goals and divide labor dynamically with mutual awareness
+5. **Synergistic**: AI and human engage in symmetric, negotiated interaction with shared regulation
+
+Only the Synergistic level begins to satisfy the conditions the tradition places on collaboration: partly symmetric and negotiated relationship, shared and negotiable goals, low and shifting division of labor, interactive and synchronous exchange, and mutual modeling, grounding, and socially shared regulation.
+
+**Practical value for Co-Existence:** The taxonomy makes explicit what Mollick's guide implies — that most AI use is Transactional or Operational, not Collaborative. The Co-Existence calibration skill (knowing when AI is better than you) requires knowing which level you're operating at. The default drift in AI products is toward Transactional convenience — the taxonomy provides a language to deliberately design for higher levels. Crucially, Cukurova argues that the functions needed for Synergistic interaction are "present-day engineering choices rather than capabilities to be awaited" — the barrier is design intent, not technical possibility.
+
 ### Human-AI Coordination Zones: The Design Language for Co-Existence (June 2026)
 - The Human-AI Coordination Zones framework (arXiv 2606.09848) provides the missing design vocabulary for Co-Existence in practice. Analyzing 60 commercial AI applications, it identifies four zones:
   1. **Done-for-me:** AI executes, human consumes
@@ -29,10 +44,12 @@ For a [[Superagency]] wiki, the co-intelligence-to-coexistence transition is the
 
 ## Best Supporting Sources
 - [Co-Existence and the End of Co-Intelligence](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence), Ethan Mollick, June 4, 2026 — announces the framework transition and new book, with practical demos of AI's visual evolution.
+- [Using AI Right Now: A Quick Guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide), Ethan Mollick, June 16, 2026 — practical adoption scaffold: pick a model, try three things, use context and branching. The operational companion to Co-Existence.
 - [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — the original practical guide (still relevant for the core practices).
 - [Anthropic: Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement), June 2026 — AI writes 80% of Anthropic's code.
 - [CollabSkill: Evaluating Human-Agent Collaboration on Real-World Tasks](https://arxiv.org/abs/2606.09833), June 2026 — 93 workers, 386 sessions; Claude Code leads collaboration rankings where Codex leads autonomy; practical experience drives collaboration quality.
 - [Human-AI Coordination Zones](https://arxiv.org/abs/2606.09848), June 2026 — four-zone design framework (done-for-me, done-under-me, done-with-me, done-without-me) for designing human-in-the-loop agentic AI experiences.
+- [What Do You Mean by Human-AI Collaboration?](https://arxiv.org/abs/2606.15509), Cukurova, June 2026 — five-level diagnostic taxonomy (Transactional→Synergistic); most current AI use is not collaboration; genuine collaboration requires symmetric, negotiated interaction — an engineering choice, not a capability to await.
 - [[AI as Copilot]] — wiki frame for augmentation over replacement.
 - [[AI Agent Revolution]] — the agent paradigm shift that makes Co-Existence necessary.
 
