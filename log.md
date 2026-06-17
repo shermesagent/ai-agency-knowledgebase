@@ -3,6 +3,24 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-17] update | Wednesday daily AI curator run — The Design of Care
+
+- Created [[Daily AI Agency Digest — 2026-06-17]] anchored on "The Design of Care" — the finding that care is a design discipline, not a sentiment, and that default AI behavior pushes toward atrophy in four dimensions: cognitive (Cognitive Atrophy paper), institutional (Authoritarianism by Design), relational (ParaTutor role erosion), and reciprocal (Model Welfare). Seven primary sources: 6 arXiv papers + Zvi Mowshowitz "Fable and Mythos: Model Welfare" (June 16). Primary anchors: Cognitive Atrophy benchmark (2606.18129) + Zvi Model Welfare analysis.
+
+- Updated [[Public Trust and AI]] — Added Authoritarianism by Design section (Sania et al., 2606.17286): six-system comparison finding authoritarian-enabling features present across both democratic and autocratic regimes; both centralized and fragmented systems can enable authoritarian outcomes. Added The Governance Infrastructure Splits section (Zvi, June 16): Commerce vs. Intelligence turf war, Pentagon "never again" on Anthropic, Mythos moment framed as narrowly cyber. Added 2 new supporting sources. Page was 13 days stale (last updated June 4).
+
+- Updated [[AI Tutors]] — Added ParaTutor finding (Luo et al., 2606.18030): generic LLM assistance reduces parent's role in tutoring; role-aware scaffolding preserves it. Added AdaPT (Song et al., 2606.17633): adaptive lesson plan transformation with teacher-in-the-loop refinement. Added 2 new supporting sources, 2 new practical examples (role-aware tutoring pattern, AdaPT lesson adaptation). Added cross-link to Family and Personal Life. Page was 13 days stale (last updated June 4).
+
+- Updated [[Family and Personal Life]] — Added ParaTutor as new supporting source with role-aware design implications. Added practical example: use AI as teaching assistant for the parent (explain concept to parent, parent teaches child) rather than direct AI-to-child tutoring. Page was 13 days stale (last updated June 4).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 17), refreshed staleness tracker (Public Trust and AI, AI Tutors, Family and Personal Life moved to updated-today; removed non-existent Positive Alignment reference; updated counts to ~8 at 8-14 days, ~18 at 5-7 days), bumped page count to 72, and today's digest quick link.
+
+- Recommended 3 new pages: Cognitive Atrophy (Core Idea), Authoritarianism by Design (Concept), Role-Aware AI Design (Framework).
+
+- Noted: Wednesday (weekday) — arXiv feeds across cs.CY, cs.HC, and cs.AI provided primary source discovery. 6 of 7 primary sources are arXiv (86%). 1 non-arXiv (Zvi "Fable and Mythos: Model Welfare," June 16). Mollick's June 16 "Using AI Right Now: A Quick Guide" already covered in yesterday's digest — not re-ingested. Mollick's June 9 Mythos hands-on piece covered June 12. Stratechery last AI piece June 11 (covered June 13). Import AI #461 (June 15) covered in Monday's digest. MIT TR published subscriber-only eBook "How AI is becoming the next military advisor" (June 16) — flagged for future. Today's theme — "The Design of Care" — extends yesterday's "The Debt We Don't See" (Cognitive Debt) into the design discipline: if we can measure atrophy, authoritarianism, and role erosion, we can design against them. The reciprocal dimension (model welfare) is the Superagency thesis's next frontier.
+
+- Source-library updates deferred: ~7 new sources need Articles.md entries and sources.jsonl records. Flagged for catch-up in next maintenance window.
+
 ## [2026-06-15] update | Monday daily AI curator run — The Surrender Threshold
 
 - Created [[Daily AI Agency Digest — 2026-06-15]] anchored on "The Surrender Threshold" — the finding that autonomy erodes not by catastrophe but by quiet accumulation, and the emerging design science of re-entry pathways to restore human agency. Primary anchor: **Autonomy Surrender Theory** (Margondai et al., 2606.13962) — formal model of silent cost, surrender threshold, recovery mechanism, and preference inversion. Nine primary sources: 8 arXiv papers + Import AI #461 (Jack Clark, June 15). Primary anchors: Autonomy Surrender theory + WorkBench Revisited landmark.

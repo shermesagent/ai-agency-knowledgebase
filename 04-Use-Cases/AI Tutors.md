@@ -14,11 +14,15 @@ Tutoring is a direct agency-expansion use case: more learners can get individual
 - [Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners](https://arxiv.org/abs/2605.30670) — Unggi Lee et al., June 2026. Reliability 4/5; relevance 5/5. First RL framework for disability-inclusive tutoring across five profiles. Demonstrates that persona-awareness must be architectural (in the system prompt design), not bolt-on (in the reward function). Improves Fit for students with disabilities from 6.75 to 8.40.
 - [How Early Adopters Used Generative AI Worldwide](https://arxiv.org/abs/2605.30685) — Daepp and Slaughter, June 2026. Reliability 5/5; relevance 5/5. Schooling is the dominant AI use case in low-income countries — but those students get the worst-quality AI because of language support gaps. Inverse correlation between schooling use and GDP.
 - [EUDAIMONIA: Evaluating Undesirable Dynamics in AI](https://arxiv.org/abs/2605.30654) — Huang et al., June 2026. Reliability 5/5; relevance 4/5. Even top models (Claude Opus 4.7, GPT-5.5) violate 27-31% of social design checks — encouraging dependence, harmful intimacy, or prolonged engagement. Extended thinking doesn't reduce violations. Relevant for tutoring AI that may form inappropriate emotional bonds.
+- [ParaTutor: LLM Mediated Parent-Child Tutoring Through Role-Separated Scaffolding](https://arxiv.org/abs/2606.18030) — Luo et al., June 2026. Reliability 5/5; relevance 5/5. 23-dyad study (children aged 10-12): generic LLM assistance reduces the parent's role in tutoring, while role-aware scaffolding (different support for parents vs. children) preserves it. The value of LLM support depends not only on model capability but on how support is distributed across users with different roles. Design principle: multi-user AI systems must be role-aware, not just task-aware.
+- [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://arxiv.org/abs/2606.17633) — Song et al., June 2026. Reliability 4/5; relevance 5/5. System for transforming existing lesson plans to new contexts with teacher-in-the-loop refinement. 9-teacher user study + 3-specialist evaluation. Features structured lesson representation, transformation explanations, and iterative refinement — treating teachers as designers, not consumers.
 
 ## Practical Examples
 - A student gets hints, worked examples, and retrieval-practice questions aligned to the lesson objective.
 - A teacher reviews anonymized misconception patterns and reteaches the concepts that students struggled with.
 - A district pilots AI tutoring in one course with pre/post assessments, student feedback, teacher review, and opt-out paths.
+- A parent uses role-aware AI tutoring (ParaTutor pattern): the AI provides the parent with tutoring guidance (what concept to focus on, what question to ask next) while giving the child visual grounding for problem-solving — preserving the parent's instructional role rather than replacing it.
+- A teacher uses AdaPT to adapt an existing lesson plan to a classroom with different language backgrounds and learning profiles, reviewing and refining the AI's suggested modifications before teaching.
 
 ## Risks / Limits
 - Evidence from one context may not transfer across grade levels, subjects, student needs, or tutor designs.
@@ -31,6 +35,7 @@ Tutoring is a direct agency-expansion use case: more learners can get individual
 - [[AI Use Case Evaluation Rubric]]
 - [[Responsible Deployment]]
 - [[Agency Expansion Framework]]
+- [[Family and Personal Life]]
 
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai
