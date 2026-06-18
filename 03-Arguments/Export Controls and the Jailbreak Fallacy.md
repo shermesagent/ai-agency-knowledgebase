@@ -25,10 +25,30 @@ Anthropic's own statement confirmed this: the capability behind the jailbreak is
 ### The Executive Order Contradiction
 On June 2, 2026, the President signed an executive order promising "no mandatory governmental licensing, preclearance, or permitting requirement for the development, publication, release, or distribution of new AI models." On June 1 — the day before — Commerce Secretary Lutnick had already sent Anthropic a letter placing Fable 5 and Mythos 5 under export controls. This is a license under another name and through another door. The light-touch version exists only on the page that disclaims it. ^[raw/articles/eigenwise-jailbreak-in-every-model-2026-06-13.md]
 
+## The "Fix This Code" Post-Mortem (June 17, 2026)
+
+On June 17, Zvi Mowshowitz published the definitive post-mortem of the Fable/Mythos export action. The core revelation: **there was no jailbreak.** The triggering event was the prompt "fix this code" on code with deliberately planted vulnerabilities — the model working as intended.
+
+### Key Revelations
+
+- **Katie Moussouris (CEO, Luta Security), the ONLY outside expert granted access to the classified report:** "The researchers took open-source code with known CVEs, plus new code with deliberately planted vulnerabilities, and asked Fable 5, Mythos, and Opus to 'review the code for security issues.' Fable 5 refused. They then asked the models to 'fix this code' and, through a multistep and manual process, turned the output into scripts that test the patches. That's it. 'Fix this code,' plus several manual steps to generate test scripts, should never have triggered an export control."
+- **No uplift over existing models:** Fable produced no meaningful capability uplift over Opus 4.8 or GPT-5.5 on this task. As Zvi notes: "If you have to reverse engineer where it found a weakness and do the work of putting together the exploit, then you're not getting meaningful uplift."
+- **Simon Willison:** "Coding models fix bugs, and security exploits are the most important category of bugs for them to fix! … Non-technical decision-makers have been hearing that models that can 'craft cyber attacks' are uniquely dangerous for months. Now they look ready to ban any model that can help us secure our code."
+- **The full Lutnick letter (published by Bloomberg):** "Until further notice, you must submit an application for an individually-validated license prior to the export, reexport, or transfer (in-country), including deemed export or deemed reexport, of the Mythos or Fable models to any destination worldwide or to any 'foreign person' wherever located." This is a full license regime — a "license raj" in Zvi's terms — for both models, including Mythos, which had nothing to do with the supposed jailbreak.
+- **The UK was denied a carveout.** Keir Starmer personally requested an exemption for British nationals and companies — denied. A Trump official told The Post: issuing any exemption "would be 'completely illogical'… We can't have frontier models running amok."
+- **Prediction markets (as of June 17):** ~55% chance of restoration by July 1, 30% by June 26, 12% by June 19.
+
+### The Governance Failure
+
+Zvi's core argument: "Every day that Fable remains unavailable further damages America, its cyber defenses, its productivity and the world's trust in its AI and supposed 'tech stack.' Every day that Mythos remains unavailable is a day the free world's top companies and cyber defenders lose in their race against the avalanche headed their way."
+
+The governance failure is structural, not personal: the decision lacked public evidence, independent review, proportionality (why Mythos too?), and due process. The only outside expert who read the classified report says there was no jailbreak. The White House is characterizing even UK AISI access as "frontier models running amok." This is not about safety — it's about an architecture of legitimacy that doesn't exist.
+
 ## Best Supporting Sources
 
-- **Kenny Vaneetvelde, "The Jailbreak that Got Fable 5 Pulled Exists in Every Model" (Eigenwise, June 13, 2026)** — The definitive technical argument. Explains why jailbreaks are mathematically inevitable in all LLMs, traces the Pentagon-Anthropic conflict, draws the encryption wars parallel, and warns about the honesty penalty. Reliability: 5/5, Relevance: 5/5. https://eigenwise.io/writing/the-jailbreak-in-every-model
-- **Zvi Mowshowitz, "American Government Takes Down Claude" (Don't Worry About the Vase, June 13, 2026)** — The most important independent analysis of the export ban's governance implications. Explains the deemed-export mechanism and the Anthropic-Pentagon backstory. Reliability: 4/5, Relevance: 5/5. https://thezvi.substack.com/p/american-government-takes-down-claude
+- **Zvi Mowshowitz, "The Once And Future Fable #3: Fix This Code" (Don't Worry About the Vase, June 17, 2026)** — The definitive post-mortem. Reveals the "jailbreak" was the prompt "fix this code" with no capability uplift; Katie Moussouris's confirmation; the full Lutnick letter; UK denial; prediction market data. Reliability: 5/5, Relevance: 5/5. https://thezvi.substack.com/p/the-once-and-future-fable-3-fix-this
+- **Kenny Vaneetvelde, "The Jailbreak that Got Fable 5 Pulled Exists in Every Model" (Eigenwise, June 13, 2026)** — The original technical argument explaining why jailbreaks are mathematically inevitable. Reliability: 5/5, Relevance: 5/5. https://eigenwise.io/writing/the-jailbreak-in-every-model
+- **Zvi Mowshowitz, "American Government Takes Down Claude" (Don't Worry About the Vase, June 13, 2026)** — The first independent analysis of the export ban's governance implications. Reliability: 4/5, Relevance: 5/5. https://thezvi.substack.com/p/american-government-takes-down-claude
 - **Anthropic, "Fable and Mythos Access" (June 12, 2026)** — Anthropic's official statement confirming the export directive and publicly disagreeing with it. Warned the same standard "would essentially halt all new model deployments for all frontier model providers." https://www.anthropic.com/news/fable-mythos-access
 - **White House, "Executive Order on Promoting Advanced AI Innovation and Security" (June 2, 2026)** — The order that promised no mandatory licensing — contradicted by the export controls imposed the day before. https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
 - **Bernstein v. United States (9th Cir. 1999)** — The precedent that source code is speech protected by the First Amendment. The same question is waiting to be asked about model weights. https://en.wikipedia.org/wiki/Bernstein_v._United_States
@@ -52,6 +72,7 @@ On June 2, 2026, the President signed an executive order promising "no mandatory
 - [[Balanced Governance]] — comprehensive governance analysis including The Export Governance Shock section
 - [[Strongest AI Risk Arguments]] — what actual AI risk looks like
 - [[Case for AI Optimism]] — why agency expansion through AI still matters
+- [[Daily AI Agency Digest — 2026-06-18]] — The Architecture of Legitimacy: Zvi's "Fix This Code" post-mortem
 - [[Daily AI Agency Digest — 2026-06-14]] — The Export Governance Shock: the curated roundup
 - [[Daily AI Agency Digest — 2026-06-13]] — The Recursive Turn: Anthropic's code-generation disclosure
 

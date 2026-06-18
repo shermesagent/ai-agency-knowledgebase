@@ -15,6 +15,7 @@ This is the governance foundation that the Superagency thesis needs. If AI is to
 - An AI coding assistant in an IDE that reports user productivity metrics to management without user knowledge violates the copilot relationship.
 - An AI financial advisor that recommends products based on platform commissions rather than user needs fails the fiduciary standard.
 - Illinois SB 315's third-party audit requirement is a step toward fiduciary accountability — independent verification that AI companies are following their own safety commitments.
+- **Agent-First Web as fiduciary infrastructure:** The "agent-as-human-proxy" principle (arXiv 2606.19116) proposes that AI agents acting on a user's behalf should inherit equivalent access rights and economic obligations. This is digital fiduciary duty applied at the web architecture level — the agent's economic obligation mirrors that of the human it represents. Token-based subscription models (metering content in tokens rather than pageviews) operationalize this: the agent pays for what it reads on the same terms as the human it serves. See [[Daily AI Agency Digest — 2026-06-18]].
 
 ## Risks / Limits
 - **Platform business models rely on the absence of fiduciary duty.** If AI must serve users rather than platforms, free AI services become difficult to sustain. The economics of "AI for everyone" may depend on the user-as-product model.

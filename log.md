@@ -3,6 +3,24 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-18] update | Thursday daily AI curator run — The Architecture of Legitimacy
+
+- Created [[Daily AI Agency Digest — 2026-06-18]] anchored on "The Architecture of Legitimacy" — the finding that governance architecture (due process, public evidence, proportionality, independent review) is the safeguard, not a procedural nicety. Five primary sources: 3 arXiv papers + Zvi Mowshowitz "The Once And Future Fable #3: Fix This Code" (June 17) + Stratechery "Anthropic's Safety Superpower" (June 15). Primary anchors: Zvi "Fix This Code" post-mortem + Agent-First Web paper (2606.19116).
+
+- Updated [[Export Controls and the Jailbreak Fallacy]] — Major update: Added "The 'Fix This Code' Post-Mortem (June 17)" section with Katie Moussouris confirmation (no jailbreak, no uplift over GPT-5.5), full Lutnick letter text (Bloomberg), UK carveout denial ("frontier models running amok"), prediction market data, governance failure analysis. Added Zvi June 17 source as primary reference. Added cross-link to today's digest. Page was NEVER previously updated (seeded but untouched).
+
+- Updated [[Digital Fiduciary Duty]] — Added Agent-First Web connection: agent-as-human-proxy principle as fiduciary infrastructure at the web architecture level. Token-based subscription models operationalize the fiduciary obligation. Added cross-link to today's digest. Page was NEVER previously updated (seeded but untouched).
+
+- Updated [[AI Agent Revolution]] — Added three new sections: The Agent-First Web (2606.19116, ten design principles across access/economic/content layers), Synthetic Resonance (2606.18265, growth-oriented human-AI relationships without anthropomorphization), Affective Dynamics as a Coordination Layer (2606.18259, affect as mechanism for trust calibration and delegation). Page was 3 days stale (last updated June 15).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 18), refreshed staleness tracker, today's digest quick link.
+
+- Added 4 source entries to sources/sources.jsonl (119 total).
+
+- Recommended 3 new pages: Agent-First Web Architecture, Synthetic Resonance, Affective Dynamics in AI Collaboration.
+
+- Noted: Thursday (weekday) — arXiv feeds across cs.CY and cs.HC provided primary source discovery. 3 of 5 primary sources are arXiv (60%). 2 non-arXiv: Zvi "Once And Future Fable #3" (June 17, fresh) and Stratechery "Anthropic's Safety Superpower" (June 15, previously uncovered). Mollick's most recent (June 9 Mythos) already covered. Zvi's June 16 "Model Welfare" covered in yesterday's digest. DeepMind multi-agent safety initiative (MIT Tech Review) covered June 12. Today's theme — "The Architecture of Legitimacy" — extends last week's Export Governance Shock (June 14) and The Recursive Turn (June 13) into the structural question: what makes governance legitimate? The answer, from Zvi's post-mortem and the Agent-First Web paper and the Stratechery analysis, is architecture — due process, public evidence, independent review, agent-as-human-proxy rights — not good intentions.
+
 ## [2026-06-17] update | Wednesday daily AI curator run — The Design of Care
 
 - Created [[Daily AI Agency Digest — 2026-06-17]] anchored on "The Design of Care" — the finding that care is a design discipline, not a sentiment, and that default AI behavior pushes toward atrophy in four dimensions: cognitive (Cognitive Atrophy paper), institutional (Authoritarianism by Design), relational (ParaTutor role erosion), and reciprocal (Model Welfare). Seven primary sources: 6 arXiv papers + Zvi Mowshowitz "Fable and Mythos: Model Welfare" (June 16). Primary anchors: Cognitive Atrophy benchmark (2606.18129) + Zvi Model Welfare analysis.

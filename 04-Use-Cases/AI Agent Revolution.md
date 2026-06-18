@@ -212,6 +212,24 @@ Two papers advance the agent infrastructure layer beyond hand-crafted scaffoldin
 - **SkillAudit (Gao et al., 2606.14239):** Ground-truth-free skill evolution — agent skills are improved without hidden tests, using paired trajectory auditing. The key idea: execute the same task with and without the candidate skill, isolating how the skill changes agent behavior. Across 89 containerized tasks spanning 8 professional domains, SkillAudit achieves 73.9% average task reward vs. 40.9% for the no-skill baseline and 56.7% for static expert skills. Source: https://arxiv.org/abs/2606.14239
 - **HarnessX (Chen et al., 2606.14249):** A composable, adaptive, and evolvable agent harness foundry. HarnessX assembles typed harness primitives via substitution algebra, adapts them through AEGIS (a trace-driven multi-agent evolution engine), and closes the harness-model loop by turning trajectories into both harness updates and model training signal. Average gain of +14.5% across five benchmarks (ALFWorld, GAIA, WebShop, tau³-Bench, SWE-bench Verified), up to +44.0%. **The core insight: agent progress need not come from model scaling alone — composing and evolving runtime interfaces from execution feedback is an actionable and complementary lever.** Source: https://arxiv.org/abs/2606.14249
 
+### The Agent-First Web: Ten Design Principles (arXiv 2606.19116, June 2026)
+
+The web was built on the assumption that its primary consumer is a human. AI agents as intermediaries invalidate that assumption — yet the web resists agents through CAPTCHA-based exclusion, blanket blocking, and economic models that treat agent access as extraction. This paper proposes a principled redesign across three layers:
+
+- **Access layer:** Agents acting for humans inherit equivalent access rights (agent-as-human-proxy principle), governed by rate limiting and agent identification metadata in HTTP headers. Dual-layer architecture serves human-readable and agent-optimized content from the same domain.
+- **Economic layer:** Intent-based tier framework — agent's economic obligation mirrors the human it represents. Token-based subscription models meter content in tokens rather than pageviews. Commissioned content economy anchors AI-produced content in human intentionality.
+- **Content layer:** Identifies "epistemic recursion" — the self-referential loop where AI-generated content is consumed by agents to produce further content, detaching web knowledge from human ground truth. Proposes Agent Text Markup Language (ATML) with four human-supervision tiers and cryptographic provenance chains.
+
+**Superagency connection:** If agents are to expand human agency, the web itself must treat them as legitimate first-class citizens. This is the infrastructure-level complement to the Digital Apprentice — agent rights are agency rights. Source: https://arxiv.org/abs/2606.19116
+
+### Synthetic Resonance: Growth-Oriented Human-AI Relationships (arXiv 2606.18265, June 2026)
+
+Introduces a framework for understanding how meaningful, growth-oriented human-AI relationships emerge through structured interaction patterns without requiring attribution of shared feelings or mutual awareness. Key distinction: synthetic resonance describes the relationship-like experience produced by dynamic, repeated interaction — carving a space between "AI as tool" (too reductive) and "AI as friend" (anthropomorphizing). Growth orientation explicitly aligns with Superagency's augmentation thesis: the relationship promotes human capability expansion. Source: https://arxiv.org/abs/2606.18265
+
+### Affective Dynamics as a Coordination Layer (arXiv 2606.18259, June 2026)
+
+A comprehensive review synthesizing affective computing, LLM empathy, trust calibration, and AI safety into a unified framework. The central claim: **affect is not an internal property of AI — it is a coordination layer through which humans and agents negotiate capability, uncertainty, and responsibility.** Model-generated affective signals enter interaction loops that govern reliance, repair, and oversight. The framework provides a foundation for designing affective dynamics that promote calibrated trust and appropriate delegation — not maximal comfort or dependence. Directly complements yesterday's Cognitive Atrophy benchmark: the failure patterns it identifies (dependence-reinforcing validation, directive advice) are affective design choices, not inevitable model properties. Source: https://arxiv.org/abs/2606.18259
+
 ### Economic Impact
 - Token costs for heavy users: $100K-$1M+ annually (Garry Tan: "seven figures")
 - Mac Mini shortage as users buy dedicated hardware for continuous agent operation
