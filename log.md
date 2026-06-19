@@ -401,5 +401,15 @@
 
 - Recommended 1 new page: [[Cognitive Debt]] (Core Idea) — the formal model of unverified reasoning accumulation, Minsky moment, and false-correction loop.
 
+## [2026-06-19] create | Beyond Prompting Framework
+
+- Created [[Beyond Prompting - Phase 2 → Phase 3 Transition]] in 06-Frameworks/ — four-phase maturity model (Stateless Chat → Templated Workflows → Single Agents → Multi-Agent Systems), transition barriers, education-specific implications, and action planning.
+- Updated [[06-Frameworks/README]] — added featured section linking to new framework.
+- Updated [[Home]] — added framework link in Frameworks section, added today's date to Recent Updates table.
+- Updated `daily-digest-email` skill — added Beyond Prompting section to email format with 2-resource guideline and HTML template. Added {{BEYOND_PROMPTING}} placeholder to digest email HTML template.
+- Sent debrief email to mtaylor@farmersvilleisd.org on Phase 2 → Phase 3 transition.
+- Sent interactive HTML dashboard for transition planning to mtaylor@farmersvilleisd.org.
+- Sources: LangChain State of Agent Engineering 2026, Writer AI Adoption Survey 2026, Chris Parsons "Prompting Sucks", BCG Jobs Reshaping Report, DataCamp Skills Gap 2026, Stanford SCALE.
+
 - Noted: Tuesday — arXiv publishing normally. Source diversity: 5 papers + 2 newsletters (Mollick and Zvi). Today's theme extends yesterday's Surrender Threshold into the formal economic model layer: Cognitive Debt provides the mechanism, Developer Priorities reveal the organizational barrier, and the Fable takedown demonstrates the governance-level Minsky moment — ad-hoc instruments applied to problems requiring institutional infrastructure.
 

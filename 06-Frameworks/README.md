@@ -6,7 +6,9 @@ Reusable decision tools, rubrics, checklists, and evaluation frameworks for adop
 
 ---
 
-## All Pages
+## Featured
+
+- [[Beyond Prompting - Phase 2 → Phase 3 Transition]] — moving from templated prompting to autonomous agent workflows
 
 ### Evaluation & Decision
 - [[Agency Expansion Framework]] — evaluate AI use cases by asking what new capability they give a person or organization

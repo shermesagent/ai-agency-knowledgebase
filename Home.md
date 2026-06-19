@@ -48,7 +48,7 @@ Indexed sources by type: articles, papers, books, podcasts, tools, and more.
 
 ### [[06-Frameworks/README|Frameworks]]
 Reusable decision frameworks, rubrics, checklists, and field experiment evidence.
-→ [[Agency Expansion Framework]] · [[Risk-Benefit Matrix]] · [[AI Field Experiment Evidence]] · [[Human Review Checkpoints]]
+→ [[Beyond Prompting - Phase 2 → Phase 3 Transition]] · [[Agency Expansion Framework]] · [[Risk-Benefit Matrix]] · [[AI Field Experiment Evidence]] · [[Human Review Checkpoints]]
 
 ### [[07-Open-Questions/README|Open Questions]]
 Unresolved questions worth revisiting — what should humans keep doing, what should AI never decide alone.
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-06-19 | Beyond Prompting Framework (new), Frameworks README, daily-digest-email skill, Home |
 | 2026-06-18 | Export Controls and the Jailbreak Fallacy, Digital Fiduciary Duty, AI Agent Revolution, Home |
 | 2026-06-17 | Public Trust and AI, AI Tutors, Family and Personal Life, Home |
 | 2026-06-16 | Cognitive Surrender, Case for AI Optimism, Practical AI, Co-Intelligence, Balanced Governance, Home |
