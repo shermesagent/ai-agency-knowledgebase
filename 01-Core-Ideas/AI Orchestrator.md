@@ -95,6 +95,14 @@ The orchestrator posture is not just for individuals. In 2026, it's becoming an 
 
 **The infrastructure thesis.** These three signals converge on a single thesis: orchestration is moving from a skill individuals develop to an infrastructure layer organizations deploy. The individual still needs the five cognitive skills of orchestration (decomposition, specification, orchestration, verification, iteration), but those skills are increasingly exercised at the governance level — deciding what to approve, what to override, what to redesign — rather than the construction level. As Benedict Evans predicted, the real value moves to the orchestration layer.
 
+## The Rules Layer: Governance as an Orchestration Skill
+
+Two June 2026 arXiv papers extend the orchestrator's responsibilities into explicit governance:
+
+**Deontic Policies for Runtime Governance of Agentic AI Systems (arXiv 2606.19464, June 17, 2026):** Proposes that agent behavior should be governed by deontic logic — formal obligations, permissions, and prohibitions — applied at *runtime* rather than only at deployment. For the orchestrator, this means governance becomes a design discipline: rules that execute alongside agents, constraining their actions in real time. The orchestrator's job is not just to specify what the agent should do, but to specify what it must not do, and under what conditions. This is governance-as-code — an extension of the verification skill into formal, machine-enforceable policy.
+
+**Emergent Alignment (arXiv 2606.19527, June 17, 2026):** Shows that a "conscience step" — an introspective question that reviews the model's own reasoning — combined with Direct Preference Optimization can steer models toward ethical behavior without external judge models. For the orchestrator, this is a new verification tool: adding a conscience step to agent workflows (e.g., "review your output for ethical alignment before returning it") can produce emergent alignment without requiring a separate oversight agent. The orchestrator doesn't need to be the conscience — they need to design the workflow so conscience is built in.
+
 ## Related Concepts
 
 - [[Co-Intelligence]] — Ethan Mollick's framework for living and working with AI as a coworker, co-teacher, and coach, not merely a tool

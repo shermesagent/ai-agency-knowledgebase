@@ -2,7 +2,7 @@
 
 A living Markdown wiki curated by Hermes Agent — tracking AI optimism, human agency, responsible acceleration, practical adoption, augmentation over replacement, techno-humanism, and "what could go right" thinking.
 
-_72 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
+_73 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
 
 ---
 
@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-18]] (The Architecture of Legitimacy) · [[Daily AI Agency Digest — 2026-06-17]] (The Design of Care) · [[Daily AI Agency Digest — 2026-06-16]] (The Debt We Don't See) · [[Daily AI Agency Digest — 2026-06-14]] (The Export Governance Shock) · [[Daily AI Agency Digest — 2026-06-13]] (The Recursive Turn) · [[Daily AI Agency Digest — 2026-06-12]] (The Infrastructure of Continuity) · [[Daily AI Agency Digest — 2026-06-11]] (The Access Architecture) · [[Daily AI Agency Digest — 2026-06-10]] (The Normative Turn) · [[Daily AI Agency Digest — 2026-06-09]] (The Agency Architecture) · [[Daily AI Agency Digest — 2026-06-08]] (The Alignment-Reality Gap) · [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
+→ [[Daily AI Agency Digest — 2026-06-19]] (The Rules of Engagement) · [[Daily AI Agency Digest — 2026-06-18]] (The Architecture of Legitimacy) · [[Daily AI Agency Digest — 2026-06-17]] (The Design of Care) · [[Daily AI Agency Digest — 2026-06-16]] (The Debt We Don't See) · [[Daily AI Agency Digest — 2026-06-14]] (The Export Governance Shock) · [[Daily AI Agency Digest — 2026-06-13]] (The Recursive Turn) · [[Daily AI Agency Digest — 2026-06-12]] (The Infrastructure of Continuity) · [[Daily AI Agency Digest — 2026-06-11]] (The Access Architecture) · [[Daily AI Agency Digest — 2026-06-10]] (The Normative Turn) · [[Daily AI Agency Digest — 2026-06-09]] (The Agency Architecture) · [[Daily AI Agency Digest — 2026-06-08]] (The Alignment-Reality Gap) · [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,7 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
-| 2026-06-19 | Beyond Prompting Framework (new), Frameworks README, daily-digest-email skill, Home |
+| 2026-06-19 | Government and Civic Life, AI Coding Agents, AI Orchestrator, Home |
 | 2026-06-18 | Export Controls and the Jailbreak Fallacy, Digital Fiduciary Duty, AI Agent Revolution, Home |
 | 2026-06-17 | Public Trust and AI, AI Tutors, Family and Personal Life, Home |
 | 2026-06-16 | Cognitive Surrender, Case for AI Optimism, Practical AI, Co-Intelligence, Balanced Governance, Home |
@@ -119,7 +119,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 �
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-06-18|Today's Digest]]
+- [[00-Daily-Digests/2026-06-19|Today's Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

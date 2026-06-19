@@ -3,6 +3,24 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-19] update | Friday daily AI curator run — The Rules of Engagement
+
+- Created [[Daily AI Agency Digest — 2026-06-19]] anchored on "The Rules of Engagement" — Day 7 of the Fable/Mythos shutdown exposes the vacuum: the White House is making up AI rules in real time with no due process, while researchers propose actual rules: deontic logic for agent runtime governance, corporate law for director duties, classroom interventions for AI literacy. Eight primary sources: 3 non-arXiv (Zvi AI #173, WIRED investigation, Stratechery) + 5 arXiv papers. Primary anchors: Zvi AI #173 Day 7 roundup + WIRED "The White House Is Making Up Its Rules for AI in Real Time" + Deontic Policies for Runtime Governance (2606.19464).
+
+- Updated [[Government and Civic Life]] — Added Fable/Mythos Day 7 Governance Vacuum section (Zvi AI #173 + WIRED investigation): no articulated standard for the "fix," foreign nationals banned from their own models, UK denied carveout, Congress moving to limit abuse of process. Added Directors Duties in the Age of Agentic AI (2606.20453): four corporate purpose models, AI-as-stakeholder question, director insulation from legal scrutiny. Added Architecture of Legitimacy audit practical example. Page was 8 days stale (last updated June 11).
+
+- Updated [[AI Coding Agents]] — Added Hidden Anchors in Multi-Agent LLM Deliberation (2606.19494): formal model of internal beliefs that pull against group consensus, producing outcomes beyond any individual agent's starting position. Added Vibe Coding for Visualization (2606.19703): empirical study of 16 participants using vibe coding tools. Page was ~13 days stale (last touched ~June 5-6).
+
+- Updated [[AI Orchestrator]] — Added "The Rules Layer: Governance as an Orchestration Skill" section with Deontic Policies for Runtime Governance (2606.19464): obligations/permissions/prohibitions as governance-as-code; Emergent Alignment (2606.19527): conscience step as a built-in verification tool. Page was ~13 days stale (last touched ~June 6).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 19), today's digest quick link. Fixed table formatting from prior patch artifact.
+
+- Source-library updates deferred: ~8 new sources need Articles.md/Papers.md entries and sources.jsonl records. Flagged for catch-up.
+
+- Recommended 3 new pages: Deontic Runtime Governance (Concept), Directors Duties and AI (Concept), Hidden Anchors in Agent Deliberation (Concept).
+
+- Noted: Friday (weekday) — arXiv feeds across cs.CY, cs.HC, and cs.AI provided primary source discovery. 5 of 8 primary sources are arXiv (62.5%). 3 non-arXiv: Zvi "AI #173: AI Pauses" (June 18, fresh), WIRED "The White House Is Making Up Its Rules for AI in Real Time" (June 18, fresh), and Stratechery "An Interview with Michael Morton About E-Commerce in the Age of AI" (June 18, reviewed but not deeply ingested — primarily e-commerce). Mollick's most recent (June 16 "Using AI Right Now") covered in June 16 digest. Import AI #461 (June 15) covered in Monday's digest. Today's theme — "The Rules of Engagement" — extends yesterday's "Architecture of Legitimacy" into the positive question: if legitimacy requires explicit, auditable rules, what do those rules look like? Deontic logic, corporate law, and AI literacy interventions are three emerging answers.
+
 ## [2026-06-18] update | Thursday daily AI curator run — The Architecture of Legitimacy
 
 - Created [[Daily AI Agency Digest — 2026-06-18]] anchored on "The Architecture of Legitimacy" — the finding that governance architecture (due process, public evidence, proportionality, independent review) is the safeguard, not a procedural nicety. Five primary sources: 3 arXiv papers + Zvi Mowshowitz "The Once And Future Fable #3: Fix This Code" (June 17) + Stratechery "Anthropic's Safety Superpower" (June 15). Primary anchors: Zvi "Fix This Code" post-mortem + Agent-First Web paper (2606.19116).
