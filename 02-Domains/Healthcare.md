@@ -10,11 +10,25 @@ Healthcare is a domain where the Superagency thesis faces its hardest test. The 
 - [Rehumanizing Global Health Care with Agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/), MIT Technology Review, June 2, 2026 — agentic AI addressing the WHO-projected 11M healthcare worker shortage by automating administrative and clinical tasks so humans can focus on patient care.
 - [Doc In a Box: Utah Outcomes](https://commerce.utah.gov/wp-content/uploads/2026/05/Doctronic-Outcomes-May-2026.pdf), Utah Department of Commerce, May 2026 — AI medical refill system achieves 97% physician agreement on recommended refills; 69% of physician-reviewed escalations were appropriate; 31% were "overly cautious" (safe design).
 - [AI #171: False Flag](https://thezvi.substack.com/p/ai-171-false-flag), Zvi Mowshowitz, June 4, 2026 — analysis of Doc In a Box outcomes: 97% physician agreement on refill recommendations is "very good" and likely exceeds physician-physician agreement rates.
+- [Midjourney Medical Scanner Announcement](https://digg.com/tech/6mpkkvze) — Digg / Droids / Midjourney, June 2026. Full-body ultrasonic CT scanner: ~500,000 transducers, 60-second scans, zero radiation, AI medical image segmentation. First target: body composition mapping. Aspirational: cancer screening at 98.7% accuracy. Deployment: 2027, SF spa pilot.
+- [Preliminary Thoughts On The Midjourney Scanner](https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney) — Scott Alexander, Astral Codex Ten, June 19, 2026. Analysis of the scanner as a diffusion challenge: technology exists, but clinical/social infrastructure (FDA, evidence, reimbursement, adoption) does not. Raises incidental-finding concerns from the 2000s full-body CT fad.
 
 ## Practical Examples
+
 - **Doc In a Box (Utah):** AI reviews prescription refill requests. In 72% of cases, AI recommends a refill — at least one of two physicians agreed in 97% of those cases. In 28% of cases, AI escalates to a human physician. The system is designed for overcaution: false positives (unnecessary escalations) are cheap; false negatives (missed problems) are expensive.
 - **Agentic AI for healthcare administration:** AI agents handle scheduling, insurance coding, prior authorization, clinical documentation, and preliminary assessments — freeing clinicians for patient-facing work. This is the domain-specific Superagency pattern: AI as infrastructure that makes human care more human.
 - **AI-assisted diagnosis and triage:** Bounded workflows where AI provides preliminary assessments with documented confidence levels, requires human confirmation for consequential decisions, and tracks disagreement rates as a primary safety metric.
+
+### Midjourney Medical Scanner (June 2026)
+
+Midjourney — the AI image generation company — is spinning out **Midjourney Medical**, a dedicated division building a full-body ultrasonic CT scanner. Key details:
+
+- **Technology:** ~500,000 ultrasound transducers in a water tank. AI-powered medical image segmentation labels every pixel by tissue type. Produces MRI-quality 3D body maps in ~60 seconds with zero ionizing radiation.
+- **First application:** Body composition mapping — repeatable scans showing changes in muscle, fat, and tissue over time. This is the initial commercial target.
+- **Aspirational application:** Cancer screening — specialized algorithms achieve 98.7% accuracy for lung cancer detection and consistently outperform humans.
+- **Deployment plan:** SF "spa" pilot in 2027. Consumer-facing walk-in scanning. FDA clearance required.
+- **Scott Alexander's analysis (June 19):** The scanner is a diffusion challenge as much as a technical one. Population-level screening raises hard questions: who gets scanned? What do we do with the data? Does finding things earlier actually improve outcomes, or does it produce a flood of incidental findings that trigger expensive, anxiety-producing follow-ups? Full-body CT scans for healthy people were a 2000s fad that faded when evidence showed more harm than benefit. Midjourney eliminates radiation but doesn't eliminate the incidental-finding problem.
+- **Superagency connection:** This is democratization of diagnostic imaging — taking body scanning from the hospital to the consumer. If Midjourney delivers, millions gain access to data previously available only to elite athletes and the medically wealthy. But the diffusion layer (FDA clearance, clinical evidence, reimbursement codes, physician adoption) is years from completion. See [[Democratization of Expertise]] and [[00-Daily-Digests/2026-06-20]].
 
 ## Risks / Limits
 - Healthcare AI requires unusually strong evidence, privacy protections, and accountability mechanisms. 97% agreement on refills is impressive but refills are a bounded task — diagnostic accuracy, treatment recommendations, and end-of-life decisions are far harder.

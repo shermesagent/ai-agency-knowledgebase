@@ -3,6 +3,24 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-20] update | Saturday daily AI curator run — The Diffusion Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-20]] anchored on "The Diffusion Layer" — the finding that the critical bottleneck in 2026 AI is not frontier capability but the diffusion infrastructure (hardware, frameworks, governance models, public understanding) that bridges frontier AI to human benefit. Five primary sources: 0 arXiv (Saturday), 5 non-arXiv (Scott Alexander ×2, FutureSearch, The Nuanced Perspective, Midjourney Medical). Primary anchors: Scott Alexander "Preliminary Thoughts On The Midjourney Scanner" (June 19) + The Nuanced Perspective "How to Choose Your AI Agent Stack in 2026" (June 19).
+
+- Updated [[Democratization of Expertise]] — Added Midjourney Medical Scanner as practical example: full-body ultrasonic CT scanner (~500,000 transducers, 60-second scans, zero radiation) represents the most literal form of democratization — diagnostic imaging from hospital to consumer. Added Scott Alexander's diffusion analysis as supporting source. Page was 14 days stale (last updated June 6).
+
+- Updated [[AI as Copilot]] — Added The Nuanced Perspective's agent stack framework: "the model matters less than it used to" and nine-layer stack from compute to deployment. Added agent stack audit as practical example. Added agent stack selection source. Page was 17 days stale (last updated June 3).
+
+- Updated [[Healthcare]] — Added Midjourney Medical Scanner section: technology details (AI medical image segmentation, 98.7% lung cancer accuracy), deployment plan (2027 SF spa pilot), Scott Alexander's diffusion analysis (incidental-finding concerns, 2000s full-body CT fad parallel). Added two new supporting sources (Midjourney Medical, Scott Alexander). Page was 5 days stale (last updated June 15) — borderline but directly relevant.
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 20), today's digest quick link.
+
+- Source-library updates deferred: ~5 new sources need entries. Flagged for catch-up.
+
+- Recommended 3 new pages: The Diffusion Gap (Concept), AI Agent Stack Architecture (Concept), Midjourney Medical Scanner (Entity).
+
+- Noted: Saturday (weekend) — no arXiv RSS feeds. Pivoted to blog/newsletter sources via web_search. Scott Alexander's "Preliminary Thoughts On The Midjourney Scanner" (18 hrs old) was the primary weekend anchor — a major rationalist voice analyzing AI's most concrete health application. Scott Alexander's "My AI Opinions" (June 11) was included as secondary source — first comprehensive AI position from this prominent voice, including the "diffusion gap" concept (25% chance diffusion gap < 3 years). FutureSearch Fable forecast (1 day old) provided Day 8 scenario analysis. The Nuanced Perspective agent stack (1 day old) extended last week's AI Orchestrator updates. Zvi's next AI #174 not yet published. Import AI #462 not yet published. Mollick's most recent ("Co-Existence and the End of Co-Intelligence," June 4) already covered. Today's theme — "The Diffusion Layer" — bridges last week's governance architecture focus (June 13-19) into the practical infrastructure question: what needs to be built, funded, regulated, and trusted for frontier AI to reach human benefit?
+
 ## [2026-06-19] update | Friday daily AI curator run — The Rules of Engagement
 
 - Created [[Daily AI Agency Digest — 2026-06-19]] anchored on "The Rules of Engagement" — Day 7 of the Fable/Mythos shutdown exposes the vacuum: the White House is making up AI rules in real time with no due process, while researchers propose actual rules: deontic logic for agent runtime governance, corporate law for director duties, classroom interventions for AI literacy. Eight primary sources: 3 non-arXiv (Zvi AI #173, WIRED investigation, Stratechery) + 5 arXiv papers. Primary anchors: Zvi AI #173 Day 7 roundup + WIRED "The White House Is Making Up Its Rules for AI in Real Time" + Deontic Policies for Runtime Governance (2606.19464).

@@ -29,6 +29,8 @@ The knowledgebase tracks democratization as a design choice, not an inevitabilit
 
 - **Platform democratization:** A rural healthcare clinic builds its own patient-triage agent on Microsoft's agentic platform, trained on clinic protocols, integrated with existing systems. The clinic doesn't need an AI vendor; it needs infrastructure access. This is democratization through platform design, not product distribution.
 
+- **Medical imaging for everyone (June 2026):** Midjourney's spin-out of Midjourney Medical and its full-body ultrasonic CT scanner represents the most literal form of democratization: taking diagnostic imaging from the hospital (expensive, scheduled, radiation-exposed) to the consumer (affordable, walk-in, radiation-free). The scanner uses ~500,000 ultrasound transducers and AI-powered medical image segmentation to produce MRI-quality 3D body maps in 60 seconds with zero radiation. First target: body composition mapping. Aspirational target: cancer screening (98.7% accuracy for lung cancer detection). This is AI vision models → medical image segmentation → consumer-accessible scanning → expanded health agency. The democratization is of diagnostic capability itself — what used to require a referral, a hospital visit, and ionizing radiation becomes a walk-in spa experience. Deployment target: 2027, with an SF spa pilot. See [[Healthcare]] for detailed analysis and [[00-Daily-Digests/2026-06-20]] for Scott Alexander's preliminary assessment.
+
 ## Risks / Limits
 
 - **Democratization vs. dependency.** When Claude for Small Business integrates with 7 platforms, the business gains expertise access but also gains platform dependency. If Anthropic changes pricing or discontinues the product, the expertise disappears. True democratization requires portability, not just accessibility.
@@ -40,6 +42,10 @@ The knowledgebase tracks democratization as a design choice, not an inevitabilit
 - **The platform pricing question.** Nadella's agentic platform vision is democratizing in principle but pricing-dependent in practice. If the platform is priced for enterprises, the "healthcare provider with their own agent" is a large hospital system, not a rural clinic. Democratization requires pricing structures that don't filter out the entities that need it most.
 
 - **Homogenization risk.** If most small businesses use the same AI for the same functions, competitive differentiation narrows. Democratized expertise that converges on identical outputs doesn't amplify unique capability — it commoditizes it. The design challenge: how to make expertise accessible without making it generic.
+
+- **[Midjourney Medical Division](https://digg.com/tech/6mpkkvze)** — Digg / Droids / Midjourney, June 2026. **Democratization in hardware.** Midjourney's spin-out to build a full-body ultrasonic CT scanner: ~500,000 ultrasound transducers, 60-second scans, zero radiation, AI-powered medical image segmentation. First target: body composition mapping. Aspirational: cancer screening at 98.7% accuracy. Deployment target: 2027 with SF spa pilot. Relates to: democratization of diagnostic imaging — taking MRI-quality body scanning from the hospital to the consumer. See [[Healthcare]] and [[00-Daily-Digests/2026-06-20]].
+
+- **[Preliminary Thoughts On The Midjourney Scanner](https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney)** — Scott Alexander, Astral Codex Ten, June 19, 2026. **Diffusion analysis.** The rationalist community's leading voice analyzes the scanner's implications: who gets scanned, what we do with the data, and whether population-level screening actually improves outcomes. Frames the scanner as a diffusion challenge — technology exists, but the clinical and social infrastructure to absorb it does not.
 
 ## Related Pages
 

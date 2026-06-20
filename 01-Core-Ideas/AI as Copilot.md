@@ -20,6 +20,7 @@ The most extreme realization yet of the copilot paradigm is the **[[AI Agent Rev
 - ["AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education"](https://arxiv.org/abs/2606.03095), Mahinpei et al., 2026 — RCT: AI drafts increased TA feedback by 10.8pp while preserving full human control. AI as editable scaffold validates the copilot model: AI lowers activation barriers without replacing judgment.
 - ["InquiryBits: Sharing AI Conversation Traces to Support Collaboration Within Trust Boundaries"](https://arxiv.org/abs/2606.02763), Morris & Maes, 2026 — N=80 professionals; trust-boundary findings as design principle for copilot collaboration tools.
 - ["DeskCraft: Benchmarking Desktop Agents on Professional Workflows"](https://arxiv.org/abs/2606.03103), Wang et al., 2026 — GPT-5.4 reaches only 31.6% on 50+ step professional workflows; human-in-the-loop remains essential. Formalizes mid-turn/post-turn human-agent collaboration protocol.
+- [How to Choose Your AI Agent Stack in 2026](https://thenuancedperspective.substack.com/p/how-to-choose-your-ai-agent-stack), The Nuanced Perspective, June 19, 2026 — practical framework for navigating the agent infrastructure layer. Key claim: "the model matters less than it used to" — in 2026, differentiation is in retrieval, memory, tool integration, and orchestration, not model choice. Nine-layer stack framework from compute to deployment. Selection principle: match the stack to the task, not the task to the stack. See [[AI Orchestrator]] and [[00-Daily-Digests/2026-06-20]].
 
 ## Practical Examples
 - Use AI to draft, critique, and revise documents while the human owns the final argument and evidence.
@@ -27,6 +28,8 @@ The most extreme realization yet of the copilot paradigm is the **[[AI Agent Rev
 - Use an AI analyst to generate hypotheses, summarize sources, and list uncertainties before a human decision.
 - Convert repetitive business or home-server tasks into bounded [[Agentic Workflow Patterns]] with logging and review.
 - When using AI writing tools, switch to batch-mode review (draft first, get AI critique second) rather than real-time suggestions to preserve creative ownership.
+
+- **Audit your agent stack (June 2026):** Using The Nuanced Perspective's nine-layer framework, assess which layers your AI copilot deployment actually has. Most organizations run agents on models alone — no retrieval infrastructure, no memory persistence, no guardrails, no evaluation pipeline. The gap between "we use Claude" and "we have a deployed, reliable AI copilot" is the stack between them. See [[00-Daily-Digests/2026-06-20]] for the full framework.
 
 ## Risks / Limits
 - Copilot language can hide real automation; ask whether the human can understand, contest, and override the output.
