@@ -10,6 +10,8 @@ This idea matters because the knowledgebase is organized around AI that expands 
 
 **June 2026 tension:** The data says impact is small. The intuitions — from everyone inside the AI industry — say something immense is coming. The AI economy is growing at ~2,600% per year (Korinek et al. 2026) even as GDP statistics see nothing. AI systems are automating their own R&D pipeline. The balanced stance: both the data and the intuitions are probably right, just at different timescales. Measured optimism isn't denial of risk — it's the demand for measurement good enough to catch disruption before it's irreversible. Brynjolfsson's warning stands: "We're not investing even 1% of [what's spent on AI] on understanding the transition." That's not a techno-optimist's complaint; it's a data-optimist's plea.
 
+**June 2026 — The engagement gap as a naivety check:** Optimism about AI's potential assumes that if we build capable AI tools, people will use them. The Stanford SCALE engagement study (June 2026) empirically falsifies this: students given access to AI tutors used them for 2-5 minutes per week. Human support barely improved engagement. This is the naivety check for capability optimism — building capable AI is necessary but insufficient. Without attention to motivation, behavioral design, social norms, and institutional incentives, capable AI sits unused. The naivety is assuming that capability automatically produces benefit. The optimism is believing that if we take the engagement gap seriously — measuring it, designing for it, funding it — we can close it.
+
 ## Best Supporting Sources
 - Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
 

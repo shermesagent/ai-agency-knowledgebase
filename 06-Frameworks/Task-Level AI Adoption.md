@@ -24,6 +24,7 @@ Use four labels during workflow review:
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.
 - Workers and users should be involved in the classification, not merely managed by it.
+- **The engagement barrier (June 2026):** Task-level classification assumes people will use the AI if the task is appropriate. Stanford SCALE research (June 2026) found this assumption is wrong — students given access to AI tutors used them for just 2-5 minutes per week. The engagement gap is a distinct barrier from the technical, organizational, and trust barriers already in the framework. A task can be clearly appropriate for augmentation and still generate zero benefit if nobody uses the tool. The practical response: task-level adoption frameworks must add an engagement dimension — before classifying a task as "augment" or "automate," verify that the intended users actually want to use the AI for that task.
 
 ## Related Pages
 - [[Work]]

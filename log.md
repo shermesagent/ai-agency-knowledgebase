@@ -3,6 +3,26 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-21] update | Sunday daily AI curator run — The Engagement Gap
+
+- Created [[Daily AI Agency Digest — 2026-06-21]] anchored on "The Engagement Gap" — the structural finding that AI capability does not automatically translate to AI benefit without human willingness to engage. Five primary sources: 0 arXiv (Sunday), 5 non-arXiv (Stanford SCALE/Chalkbeat/The 74 Million/K-12 Dive tutoring engagement study, AI Insiders ChatGPT market share, AI Weekly/The Information GPT-5.6, CDT AI Governance Lab portability essay, Fable day 10 status). Primary anchors: Stanford SCALE tutoring engagement study (2-5 min/week, "a key finding we weren't even meaning to test") + AI Insiders ChatGPT market share below 50%.
+
+- Updated [[AI Tutors]] — Added Human Support Improves Engagement with AI Tutoring (Stanford SCALE, June 2026): students used AI tutors for just 2-5 min/week; human support barely moved the needle. The engagement gap as a new dimension of the AI tutoring challenge — access ≠ adoption. Page was 4 days stale.
+
+- Updated [[AI and Inequality]] — Added engagement gap as new inequality dimension: equal AI access produces unequal benefit when engagement rates differ. The people who could benefit most from AI may be least likely to engage. Page was 19 days stale (last touched June 2).
+
+- Updated [[Task-Level AI Adoption]] — Added engagement barrier as fourth adoption risk: task classification assumes people will use the tool. Stanford SCALE empirically falsifies this. Engagement must be verified before task classification. Page was 18 days stale (last touched June 3).
+
+- Updated [[Optimism Without Naivety]] — Added engagement gap as naivety check: capability optimism assumes people will use capable AI. The Stanford finding empirically falsifies this. The naivety is assuming capability produces benefit; the optimism is believing we can close the engagement gap if we measure and design for it. Page was 19 days stale (last touched June 2).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 21), today's digest quick link.
+
+- Source-library updates deferred: ~5 new sources need entries. Adding to cumulative backlog from June 12-20. Flagged for catch-up.
+
+- Recommended 3 new pages: The Engagement Gap (Concept), Portable AI Governance (Concept), AI Market Competition (Domain).
+
+- Noted: Sunday (weekend) — no arXiv RSS feeds. Pivoted to blog/newsletter/articles via web_search. Stanford SCALE engagement study (June 17, covered by Chalkbeat/The 74 Million/K-12 Dive) is the most important AI-in-education finding of 2026 — discovered accidentally when researchers couldn't answer their intended question because baseline engagement was too low. AI Insiders ChatGPT market share data (46.4%, below 50% for first time) reported June 18. AI Weekly / The Information GPT-5.6 imminent release reported ~June 16. CDT's Kevin Bankston published "Don't Let Perfect be the Enemy of Portable" June 18 (Cloudflare-blocked, extracted via search snippets). Fable 5 ban enters day 10 (June 21). Zvi's AI #174 not yet published. Import AI #462 not yet published. Mollick's most recent covered June 16 — no new piece. Today's theme — "The Engagement Gap" — extends yesterday's "Diffusion Layer" into the human dimension: the scanners, stacks, and agent frameworks only matter if people actually engage with them.
+
 ## [2026-06-20] update | Saturday daily AI curator run — The Diffusion Layer
 
 - Created [[Daily AI Agency Digest — 2026-06-20]] anchored on "The Diffusion Layer" — the finding that the critical bottleneck in 2026 AI is not frontier capability but the diffusion infrastructure (hardware, frameworks, governance models, public understanding) that bridges frontier AI to human benefit. Five primary sources: 0 arXiv (Saturday), 5 non-arXiv (Scott Alexander ×2, FutureSearch, The Nuanced Perspective, Midjourney Medical). Primary anchors: Scott Alexander "Preliminary Thoughts On The Midjourney Scanner" (June 19) + The Nuanced Perspective "How to Choose Your AI Agent Stack in 2026" (June 19).
