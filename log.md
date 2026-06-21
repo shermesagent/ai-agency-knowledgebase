@@ -457,6 +457,24 @@
 
 - Recommended 1 new page: [[Cognitive Debt]] (Core Idea) — the formal model of unverified reasoning accumulation, Minsky moment, and false-correction loop.
 
+## [2026-06-21] update (Pass 2) | Daily AI curator run — The Adoption Ladder
+
+- Created [[Daily AI Agency Digest — 2026-06-21 (Curator Pass 2)]] anchored on "The Adoption Ladder" — the finding that AI adoption follows a multi-rung ladder of cultural readiness, institutional permission, and domain-specific trust, with South Korea at the top, healthcare clinical validation in the middle, and the Stanford engagement gap at the bottom. Four primary sources: MIT TR "Why South Koreans Love AI So Much" (June 15), Tech Wire Asia "South Korea takes a positive spin on AI" (June 2026), Crescendo "AI Medical Tools Match and Surpass Doctors" (June 18), Gary Monk "This Month in Healthcare AI" (June 15). Primary anchor: South Korea as nationally-scaled AI optimism case study.
+
+- Updated [[Government and Civic Life]] — Added South Korea government-led AI adoption case study: AI textbooks in schools, AI eldercare robots nationwide, unmanned AI immigration, humanoid robot monks. Government as early adopter creates cultural permission that private-sector deployment cannot generate. Page was 10 days stale (last touched June 11).
+
+- Updated [[Healthcare]] — Added clinical validation milestone (Crescendo, June 18): AI medical tools matching/surpassing physicians in multiple peer-reviewed studies. Added AI MRI prediction data (Monk, June 15): predicting future diabetes and cardiovascular disease from routine scans. Page was last touched June 20 (MidJourney scanner update).
+
+- Updated [[Case for AI Optimism]] — Added South Korea as nationally-scaled optimism case study: operational AI infrastructure across education, eldercare, religion, and entertainment. Added practical example. Page was 5 days stale (last touched June 16).
+
+- Updated [[Home]] navigation with Pass 2 digest link, recent updates row (June 21 Pass 2), today's digest quick links for both passes.
+
+- Recommended 1 new page: The Adoption Ladder (Framework).
+
+- Source-library updates deferred: ~4 new sources need Articles.md entries and sources.jsonl records. Flagged for catch-up.
+
+- Noted: Sunday (weekend) — arXiv not publishing. Complementary Pass 2 covering distinctly different rotatations from the morning Pass 1 (The Engagement Gap — education/adoption/governance). Pass 1 covered Stanford tutoring engagement, ChatGPT market share, GPT-5.6, CDT portability, Fable day 10. Pass 2 covers cultural adoption (South Korea), healthcare clinical validation, and the Adoption Ladder framework — thematically distinct sources (MIT TR feature, industry analysis, practitioner roundup). 0 of 4 sources are arXiv (0%) — all non-paper types. The Adoption Ladder extends yesterday's Diffusion Layer and today's Engagement Gap into the positive question: where IS adoption working, and what do the working cases reveal about the missing rungs?
+
 ## [2026-06-19] create | Beyond Prompting Framework
 
 - Created [[Beyond Prompting - Phase 2 → Phase 3 Transition]] in 06-Frameworks/ — four-phase maturity model (Stateless Chat → Templated Workflows → Single Agents → Multi-Agent Systems), transition barriers, education-specific implications, and action planning.
