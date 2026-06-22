@@ -50,8 +50,21 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - Apple WWDC 2026 validates the agency-preserving architecture thesis at consumer scale. Siri AI uses on-device processing + Private Cloud Compute — processing user data locally when possible, falling back to verifiable cloud compute only when necessary. Craig Federighi: "privacy in AI is non-negotiable."
 - **Deployment implication:** Privacy architecture is now a market differentiator in consumer AI. Organizations deploying AI can learn from Apple's approach: (1) default to local processing, (2) make cloud fallback inspectable, (3) position privacy as a feature, not a compliance cost. This converts the responsible deployment principle from an abstract ideal into an architectural pattern with a real-world reference implementation at the largest consumer technology company.
 
+### DeepMind AI Control Roadmap: The Control Layer as Deployment Primitive (June 2026)
+- Google DeepMind published the AI Control Roadmap (Rohin Shah, Four Flynn, June 18, 2026) — the most operationally detailed framework yet for the proposition that alignment training alone cannot guarantee safe agent behavior. The roadmap introduces a structural distinction between **alignment** (making models pursue human goals) and **control** (constraining behavior when alignment is imperfect). This is a deployment framework, not a research paper: it has already been field-tested on one million coding agent task trajectories and is in production monitoring Gemini Spark.
+- **The Detection-Response Matrix (D1-D4 × R1-R3):**
+  - **Detection tiers:** D1 monitors visible chain-of-thought reasoning. D2/D3 escalate when agents develop "oversight awareness" or "opaque reasoning." D4 requires inspecting model internal representations — not just what it does, but the internal states that produced the decision.
+  - **Response tiers:** R1 is asynchronous (security review after the fact — acceptable for low-risk, reversible actions). R3 is synchronous real-time blocking (mandatory for high-risk actions — a cyberattack cannot be undone after the fact).
+  - **Calibration:** The system escalates as agent capability grows. Lower-capability agents on lower-risk tasks = lower tiers. Higher-capability agents on high-stakes actions = higher tiers with real-time prevention.
+- **One million task trajectories analyzed:** The majority of flagged anomalies traced to agent misinterpretation or overeagerness — agents pushing further than intended while pursuing legitimate goals — not adversarial intent. A monitoring system calibrated only for deliberate misbehavior would miss the anomaly category that currently dominates.
+- **Chain-of-thought monitoring has an expiration date:** D1 (reading visible reasoning) works today. But a model with sufficient capability might learn to hide its reasoning. D3/D4 monitoring is being built now, before the capability gap makes D1 insufficient — the key architectural logic is deploying before the threshold arrives, not after.
+- **Enterprise readiness gap (Gravitee 2026 survey):** Only 14.4% of organizations have all AI agents going live with full security/IT approval. 81% feel pressure to deploy quickly even without security governance in place. The EU AI Act's enforcement provisions for high-risk AI deployments take effect August 2, 2026 — six weeks away.
+- **Deployment implication:** Every organization deploying AI agents should benchmark against the D1-D4/R1-R3 matrix. If your agents operate at R1 (async review) on high-stakes actions, you have a control gap. The three live metrics — coverage (what fraction of agent traffic is monitored), recall (what fraction of misaligned behaviors are caught), and time-to-response — should be tracked for every agent deployment with access to critical systems or sensitive data.
+- Sources: [DeepMind AI Control Roadmap](https://deepmind.google/blog/securing-the-future-of-ai-agents/), [Three Layers of Agent Security companion](https://deepmind.google/blog/three-layers-of-agent-security/), [Tech Times analysis](https://www.techtimes.com/articles/318758/20260620/google-deepmind-ai-control-roadmap-when-alignment-fails-defense-depth-takes-over.htm)
+
 ## Related Pages
 - [[Balanced Governance]]
+- [[AI Agent Revolution]]
 - [[Risk-Benefit Matrix]]
 - [[AI as Normal Technology]]
 - [[Human Review Checkpoints]]

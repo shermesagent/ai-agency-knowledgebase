@@ -236,6 +236,20 @@ A comprehensive review synthesizing affective computing, LLM empathy, trust cali
 - OpenAI hired Steinberger to bring agents to mass market
 - Anthropic forcing heavy users to pay extra for token overages
 
+### Agentic Commerce Infrastructure: The Economic Pipes (June 2026)
+
+The agent revolution is building its economic infrastructure layer. Two major June 2026 launches move agentic commerce from capability demonstrations to deployable infrastructure:
+
+**Shopify Spring '26 Edition: Universal Commerce Protocol (June 17, 2026).** Shopify opened the Universal Commerce Protocol (UCP) to every developer. AI agents can now discover products across millions of merchants, compare prices, and complete purchases via an open standard. Shopify Catalog API makes merchants machine-discoverable — agents search, filter, and compare products programmatically. Shop Pay now works for non-Shopify stores, expanding the payment surface. The UCP being open to any developer is an agency-positive architectural choice: anyone can build agentic shopping experiences that work across Shopify's network.
+
+**Mastercard Agent Pay for Machines (June 10, 2026).** Mastercard launched the payment infrastructure for the agentic economy — a platform that lets AI agents and software systems make secure, automated payments across cards, accounts, and banking rails. Piloted with DBS Bank for real-time settlement. Part of a broader Agent Suite launched in January 2026.
+
+**The infrastructure convergence:** Shopify UCP + Mastercard/Visa Agent Pay means the agentic economy now has both discovery (what to buy) and payment (how to pay) as deployable infrastructure — not prototypes, not demos, but shipping products. The World Economic Forum projects AI agents could be worth $236 billion by 2034. Three regulatory deadlines converge in July 2026 around agent identity verification (Visa TAP, Mastercard Agent Pay) — the regulatory infrastructure is catching up to the technical infrastructure.
+
+**Superagency connection:** Agentic commerce is the economic dimension of the agent revolution. It can expand individual agency (AI agents that comparison-shop, find deals, and negotiate on your behalf) or concentrate it (platforms that own both the agents and the marketplace, capturing every transaction). The delegation architecture — who sets spending rules, who can revoke them, what happens when an agent buys something the human didn't intend — is the control-layer question applied to economic transactions. The same D1-D4/R1-R3 framework from DeepMind's AI Control Roadmap (see [[Responsible Deployment]]) applies: an agent spending money on your behalf needs real-time blocking capability (R3) for purchases above a threshold, not just after-the-fact review (R1).
+
+Sources: [Shopify Spring '26 Edition](https://www.shopify.com/news/spring-26-edition-dev), [Mastercard Agent Pay](https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html), [WEF Agent Economy](https://www.weforum.org/stories/2026/01/ai-agents-trust/)
+
 ## Practical Examples
 - Garry Tan (Y Combinator CEO): Coding at 408x his 2013 output — "basically a team of 408 Garrys"
 - Ryan Petersen (Flexport CEO): Spending executive time on Claude Code sessions because "watching the agent just doing the work is mind-blowing"

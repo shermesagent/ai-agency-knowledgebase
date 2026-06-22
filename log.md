@@ -3,6 +3,26 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-22] update | Sunday daily AI curator run — The Control Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-22]] anchored on "The Control Layer" — DeepMind publishes the most explicit framework yet separating AI Control from AI Alignment, arguing structural containment must be built *before* more capable models arrive. Five primary sources: 0 arXiv (Sunday/weekend), 5 non-arXiv (DeepMind AI Control Roadmap, Shopify Agentic Commerce Spring '26, Mastercard Agent Pay, Fable 5 Day 11 update, GPT-5.6 imminent). Primary anchor: **DeepMind AI Control Roadmap** (Shah & Flynn, June 18) — D1-D4 detection × R1-R3 response, one million coding tasks analyzed, already in production on Gemini Spark.
+
+- Updated [[Responsible Deployment]] — Added DeepMind AI Control Roadmap section: D1-D4/R1-R3 framework as deployment primitive, one million task trajectory analysis, chain-of-thought monitoring expiration, enterprise readiness gap (14.4% full security approval, EU AI Act August 2 deadline). Added cross-links to AI Agent Revolution and Balanced Governance. Page was 12 days stale (last touched June 10).
+
+- Updated [[AI Coding Agents]] — Added DeepMind one-million-task analysis: most anomalies trace to overeagerness/ misinterpretation, not adversarial intent; monitoring calibration must differ by anomaly category; Gemini Spark already in production. Added cross-link to Responsible Deployment for full D1-D4 framework. Page was 17 days stale (last touched June 5).
+
+- Updated [[Balanced Governance]] — Added AI Control vs. AI Alignment section: the structural distinction (alignment = making models pursue human goals; control = constraining behavior when alignment is imperfect), detection/response escalation (D1→D4, R1→R3), enterprise readiness gap, narrowing global standards window. Connected the two-domain framework to the Fable 5 ban's governance vacuum — what detection/response infrastructure should have been in place? Added cross-link to Responsible Deployment. Page was 6 days stale (last touched June 16).
+
+- Updated [[AI Agent Revolution]] — Added Agentic Commerce Infrastructure section: Shopify UCP (June 17) opens agentic shopping to every developer; Mastercard Agent Pay (June 10) provides the payment rail. Convergence of discovery + payment as deployable infrastructure. WEF $236B agent economy projection by 2034. Delegation architecture as control-layer question. Page was 4 days stale (last touched June 18).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 22), refreshed staleness tracker (Responsible Deployment, AI Coding Agents moved from 8-14 day to updated-today; count updated to ~6 at 8-14 days), today's digest quick link.
+
+- Recommended 3 new pages: AI Control vs. AI Alignment (Core Idea), Agentic Commerce Infrastructure (Domain), Defense-in-Depth for AI Agents (Framework).
+
+- Source-library updates deferred: ~10+ sources need entries across multiple recent days. Flagged for Sunday lint/maintenance catch-up (next scheduled).
+
+- Noted: Sunday (weekend) — no arXiv RSS feeds. Pivoted to blog/product/newsletter sources via web_search. web_extract unavailable (credit exhausted — 3 consecutive failures, hard pivot per llm-wiki skill fallback pattern). DeepMind AI Control Roadmap (June 18, 4 days old) was the primary anchor — the most operationally detailed governance framework yet for the agent control problem, extending last week's Architecture of Legitimacy (June 18), Rules of Engagement (June 19), Diffusion Layer (June 20), and Engagement Gap (June 21) into the operational domain: D1-D4 × R1-R3 × coverage/recall/time-to-response. Shopify + Mastercard provide the economic infrastructure complement. Fable 5 Day 11 irony: pricing deadline arrives for a still-banned model. Today's theme — "The Control Layer" — synthesizes the week's governance architecture into a positive operational framework: alignment is what you hope for; control is what you build.
+
 ## [2026-06-21] update | Sunday daily AI curator run — The Engagement Gap
 
 - Created [[Daily AI Agency Digest — 2026-06-21]] anchored on "The Engagement Gap" — the structural finding that AI capability does not automatically translate to AI benefit without human willingness to engage. Five primary sources: 0 arXiv (Sunday), 5 non-arXiv (Stanford SCALE/Chalkbeat/The 74 Million/K-12 Dive tutoring engagement study, AI Insiders ChatGPT market share, AI Weekly/The Information GPT-5.6, CDT AI Governance Lab portability essay, Fable day 10 status). Primary anchors: Stanford SCALE tutoring engagement study (2-5 min/week, "a key finding we weren't even meaning to test") + AI Insiders ChatGPT market share below 50%.
