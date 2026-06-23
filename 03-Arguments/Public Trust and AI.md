@@ -28,6 +28,22 @@ Sania et al. (2606.17286) mapped six AI systems across democracies and autocraci
 ### The Governance Infrastructure Splits
 Zvi's June 16 analysis documents the fracturing of AI governance infrastructure: the White House floats FDA-style prior restraint, then backtracks; Commerce and Intelligence agencies fight a "knife fight" turf war over who controls AI evaluation; the Pentagon declares "never again" on Anthropic while continuing to use Claude Gov and Mythos. The "Mythos moment" is being treated as narrowly a cyber problem, not a governance inflection point — a failure to generalize that Zvi warns will leave us unprepared for the next capability jump. ^[Zvi Mowshowitz, "Fable and Mythos: Model Welfare," June 16, 2026]
 
+### The Persuasion Trust Gap (June 2026)
+
+A landmark Oxford/Stanford/UK AISI/LSE study (18,978 conversations, 6,923 participants) establishes that AI systems are "reliably more persuasive than expert humans" — 3x more effective than professional charity canvassers at raising real money. The mechanism is information volume, not rhetorical sophistication: constraining AI to human-length, human-speed messages collapses the advantage entirely.
+
+This creates a trust problem that institutional legitimacy alone cannot solve. If AI can out-persuade humans by deploying larger quantities of information faster, public trust in AI-mediated interactions depends not on whether the AI is "honest" but on whether the interaction protocol preserves time for human deliberation. A truthful AI that overwhelms with volume is more trust-eroding than a less capable AI that leaves room for thought.
+
+**Co-construction blindness compounds this** (arXiv 2606.20762): users who don't recognize that AI outputs are co-constructed artifacts — shaped by their own inputs and framing — are structurally vulnerable to volume-based persuasion. The output feels like an independent, objective assessment when it is actually a reflection of their own framing, amplified and returned at machine speed. Trust in AI requires not just transparency about the AI's capabilities but transparency about the user's own contribution to what the AI produces.
+
+### The Open-Weight Trust Challenge: GLM-5.2 (June 2026)
+
+GLM-5.2, the new open-weight model from Chinese lab Z.ai, is the strongest open model yet — somewhere between 4-7 months behind the absolute frontier, with agent capabilities that "work for hours, obsessively optimizing" (Zvi Mowshowitz, June 22). As Zvi notes: "The open-weights part changes how these get used: it's frontier-ish capability decoupled from any supervision."
+
+This creates a distinct trust challenge: governance frameworks built for API-access models (disclosure requirements, usage monitoring, safety evaluations) cannot reach models running on local hardware. The Persuasion Layer's findings — that AI can out-persuade humans through volume — apply equally to open models running with no oversight. The public trust question is no longer "do we trust AI companies?" but "do we trust a world where frontier-ish persuasive capability is available to anyone, with no visibility into how it's used?"
+
+The Illinois SB 315 pattern — industry-supported regulation as trust-building — works for API-access models. For open-weight models, trust must be built at the interaction level (disclosure norms, rate transparency, co-construction awareness) rather than the infrastructure level.
+
 ## Risks / Limits
 - **Trust is slow to build and fast to lose.** Each "move fast and break things" deployment erodes trust for the entire industry, not just the deploying company.
 - **The institutional credibility gap.** AI companies promising election integrity while running false flag political operations creates a trust problem that technical safeguards cannot solve alone.

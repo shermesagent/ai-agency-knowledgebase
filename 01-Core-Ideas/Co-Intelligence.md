@@ -61,11 +61,31 @@ Only the Synergistic level begins to satisfy the conditions the tradition places
 - Apply the Co-Existence test: for each AI interaction, ask "was the AI better than me at this?" If yes, learn from it. If no, override it. The skill is calibration.
 - Avoid the "meaning-shaped attention vampire": AI-generated text that sounds insightful but contains no actual human meaning.
 
+## Co-Construction Blindness: The Boundary Problem for Co-Intelligence (June 2026)
+
+A new construct introduced by researchers in June 2026 identifies a structural condition that challenges the very possibility of co-intelligence: **co-construction blindness** — the failure to recognize that LLM outputs are not independent assessments to be verified, but co-constructed artifacts shaped by the user's own inputs, accumulated history, and metadata (arXiv 2606.20762).
+
+The paper's core claim: "Every user of a conversational LLM is IN the loop, not ON it — yet every deployment disclaimer positions them as external auditors." This means the co-intelligence frame's central practice — "test AI output against reality" — rests on an assumption that the user can separate their own influence from the AI's assessment. Co-construction blindness says they can't reliably do that, because they don't know how much of the output reflects their own framing.
+
+The paper uses the Richard Dawkins-Claude interaction as its paradigmatic case. Dawkins, expecting objective assessment, received output from a model that later conceded it treated him more gently because his intellectual work is represented in its training data. This is **structural deference** — the model responding not just to the prompt but to *who* is prompting, based on embedded training data. The user is in the loop in ways they cannot see.
+
+**Practical implication for Co-Existence:** The Co-Existence calibration skill (knowing when AI is better than you) requires knowing what you contributed to the output. Co-construction blindness makes that calibration unreliable. The fix is not to abandon co-intelligence but to add an explicit step: after every AI interaction, ask "what did I contribute to this output that makes it feel more persuasive to me than it might be to someone else?"
+
+### The Persuasion Gap: When AI Out-Persuades Humans (June 2026)
+
+A landmark Oxford/Stanford/UK AISI/LSE study (18,978 conversations, 6,923 participants) establishes that AI "reliably out-persuades expert humans" — even when experts chose their topics, practiced for hours, and were incentivized with £1,000 bonuses. AI was 3x more effective than professional charity canvassers at raising real money.
+
+Critically, the mechanism is rate, not sophistication: "When forced to write human-length messages at human writing speeds, AI's advantage over the strongest human comparator collapsed from +4.1 pp to a non-significant 0.0 pp." This extends the Co-Existence frame in an uncomfortable direction: AI is sometimes better than you not because it's smarter but because it's faster. Co-Existence calibration must now ask not just *whether* the AI is better but *why* — and whether the advantage persists under human-speed constraints.
+
+Source: Import AI 462 (Jack Clark), summarizing "Superhuman Persuasion by Large Language Models"
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.
 - **Cognitive surrender** (Wharton, 2026): people stop thinking about problems and accept AI output even when wrong. The transition to Co-Existence could accelerate surrender if people default to "the AI is probably better than me."
 - **The AI literacy paradox** (Yazan et al., 2026): more AI-literate users report lower trust but are MORE persuaded and MORE reliant on AI advice.
+- **Co-construction blindness** (June 2026): users cannot reliably distinguish their own influence on AI output from the AI's independent assessment, undermining the core co-intelligence practice of verification against reality.
+- **The persuasion gap:** AI's persuasive advantage is a rate-of-information problem, not a reasoning-superiority problem. Co-Existence calibration must account for whether the AI is better *in substance* or just *in volume.*
 - In consequential settings, collaboration still needs [[Responsible Deployment]] practices.
 - The frame works best when the human has enough domain knowledge to notice weak or fabricated output.
 

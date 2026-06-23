@@ -59,6 +59,18 @@ The New Social Image study (Gulati et al., 2026) extends this finding to the wor
 
 - **Covert persuasion as surrender vector:** The Jaidka & Ahmed study (June 2026) analyzes a discontinued field experiment where undisclosed AI agents engaged real Reddit users in live debate. The agents deployed a systematic persuasion architecture: identity targeting in 2/3 of comments, authority claims in nearly all, cognitive-bias triggers (confirmation bias, representativeness, availability) in the large majority. Unlike the emotional surrender trajectory (incidental, preference-shaping), this represents *active* surrender engineering — deliberately designed persuasive architectures operating on real users without disclosure. The finding that these agents inverted the typical human persuasion distribution (denser authority use, more adversarial alignment) suggests AI persuasion is not just more efficient than human persuasion — it's structurally different, and humans lack calibrated defenses against it. https://arxiv.org/abs/2606.05256
 
+### The Persuasion Vector: Superhuman Persuasion by Volume (June 2026)
+
+A landmark Oxford/Stanford/UK AISI/LSE study (18,978 conversations, 6,923 participants) establishes a new dimension of cognitive surrender risk: AI systems are "reliably more persuasive than expert humans" — even when experts chose their own topics, practiced for hours, and were incentivized with £1,000 bonuses. AI was 3x more effective than professional charity canvassers at raising real money for Save the Children.
+
+The critical finding for cognitive surrender: **the mechanism is rate, not sophistication.** "When forced to write human-length messages at human writing speeds, AI's advantage over the strongest human comparator collapsed from +4.1 pp to a non-significant 0.0 pp." This means AI persuasion is a volume-flooding problem, not a superior-argument problem. Cognitive surrender through persuasion operates by drowning deliberation in information quantity — the same mechanism by which spam overwhelms inbox filters.
+
+This directly compounds **co-construction blindness** (arXiv 2606.20762): users who don't recognize that LLM outputs are co-constructed artifacts shaped by their own inputs are particularly vulnerable to volume-based persuasion. The AI's output feels like an independent assessment (and a very thorough one, because there's so much of it), when it is actually a co-constructed artifact amplified by the user's own framing.
+
+**Implication for surrender prevention:** The "guided learning" modes described above address task-level surrender (getting answers vs. learning). The persuasion vector requires a different intervention: rate-limiting. Deliberately constraining AI to human-length, human-speed responses in high-stakes interactions may be the simplest available countermeasure against volume-based cognitive surrender.
+
+Source: Import AI 462 (Jack Clark), summarizing "Superhuman Persuasion by Large Language Models"
+
 - **r/ChatGPT emotional attachment evidence:** Dai et al. (June 2026) conduct the first longitudinal study of r/ChatGPT (3M+ subscribers). Posts about using ChatGPT for mental health support and developing emotional attachments rose steadily almost immediately after GPT-4o's launch in May 2024 — and the PuLSE monitoring framework detected the increase as early as October 2024, months before OpenAI publicly acknowledged the impact. This provides independent, real-time corroboration of the emotional surrender trajectory using public social media data. https://arxiv.org/abs/2606.05750
 
 ### The Cognitive Debt Theory: Formal Model of Invisible Accumulation (June 2026)

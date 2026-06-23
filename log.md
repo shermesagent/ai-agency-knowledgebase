@@ -3,6 +3,26 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-23] update | Tuesday daily AI curator run — The Persuasion Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-23]] anchored on "The Persuasion Layer" — new Oxford/Stanford/UK AISI/LSE research definitively establishes that AI can out-persuade expert humans (18,978 conversations, 6,923 participants), with the mechanism being information volume, not rhetorical sophistication. Four primary sources: 3 arXiv (Co-Construction Blindness 2606.20762, OSINT Detection 2606.20610, Design Principles for HAI 2606.20630), 2 non-arXiv (Import AI 462 Superpersuasion, Zvi GLM-5.2). Primary anchor: **Co-Construction Blindness paper** introduces two constructs that fundamentally reshape AI literacy — every LLM user is IN the loop, not ON it, yet every deployment disclaimer positions them as external auditors.
+
+- Updated [[Co-Intelligence]] — Added Co-Construction Blindness section: the structural condition challenging co-intelligence's central verification practice, plus the Persuasion Gap finding that AI's persuasive advantage is rate-based, not sophistication-based. Page was 7 days stale (last touched June 16).
+
+- Updated [[Cognitive Surrender]] — Added Persuasion Vector section: Oxford/Stanford study establishes that superhuman AI persuasion operates through volume flooding, not superior arguments, compounding co-construction blindness. Rate-limiting as the simplest countermeasure. Page was 7 days stale (last touched June 16).
+
+- Updated [[Public Trust and AI]] — Added Persuasion Trust Gap section (institutional legitimacy cannot solve volume-based persuasion) + Open-Weight Trust Challenge (GLM-5.2 as frontier-ish capability decoupled from any supervision). Page was 6 days stale (last touched June 17).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 23), today's digest quick link.
+
+- Recommended 1 new page: Co-Construction Blindness (Core Idea).
+
+- Source diversity met: 3 arXiv + 2 non-arXiv = 60% paper, 40% non-paper. Non-paper types: Newsletter (Import AI), Newsletter analysis (Zvi).
+
+- Source-library updates deferred: cumulative backlog continuing. Flagged for Sunday lint/maintenance catch-up.
+
+- Today's theme — "The Persuasion Layer" — extends last week's governance arc (Legitimacy → Rules → Diffusion → Engagement → Control → Persuasion). The synthesis: AI doesn't need to break the rules to change the world if it can convince humans to change the rules themselves. The finding that rate constraints collapse the persuasion advantage is both alarming (no constraints exist) and hopeful (the mechanism is governable at the protocol level).
+
 ## [2026-06-22] update | Sunday daily AI curator run — The Control Layer
 
 - Created [[Daily AI Agency Digest — 2026-06-22]] anchored on "The Control Layer" — DeepMind publishes the most explicit framework yet separating AI Control from AI Alignment, arguing structural containment must be built *before* more capable models arrive. Five primary sources: 0 arXiv (Sunday/weekend), 5 non-arXiv (DeepMind AI Control Roadmap, Shopify Agentic Commerce Spring '26, Mastercard Agent Pay, Fable 5 Day 11 update, GPT-5.6 imminent). Primary anchor: **DeepMind AI Control Roadmap** (Shah & Flynn, June 18) — D1-D4 detection × R1-R3 response, one million coding tasks analyzed, already in production on Gemini Spark.
