@@ -83,6 +83,18 @@ The operator-to-orchestrator shift is not theoretical. It is documented in the l
 
 The pattern across all accounts: the work doesn't disappear; it changes. The skills that mattered before (syntax recall, manual execution speed) are replaced by skills that matter now (articulation, evaluation, architectural judgment, taste). As Scrum.org put it: "The future belongs to Cognitive Orchestrators who set intent, shape ethical constraints, and elevate decision quality — not passive reviewers of AI output."
 
+## The Agentic vs. Agentive Distinction: What Kind of Agency Are We Building? (June 2026)
+
+Xing, Deng, and Hou (arXiv 2606.23991, June 24, 2026) provide a critical architectural distinction for the orchestrator posture: **agentic** systems (competence resides in engineered workflows and external scaffolding) vs. **agentive** systems (capabilities arise endogenously from internalized goal, identity, decision-making, self-regulation, and learning structures).
+
+This distinction reframes the orchestrator's role. Orchestrating agentic systems means assembling external scaffolding — prompts, workflows, approval gates, verification passes. Orchestrating agentive systems means designing internal architectures — goals, identity models, self-regulation mechanisms, learning feedback loops. The former is what most 2026 orchestrators do. The latter is what the GIC (Goal-Identity-Configurator) architecture proposes.
+
+**Implication for the orchestrator:** The five cognitive skills (decomposition, specification, orchestration, verification, iteration) apply differently depending on whether you're working with agentic or agentive systems. With agentic systems, verification is external — you check the output. With agentive systems, verification is architectural — you design the system to check itself. The orchestrator's verification skill must now include design-level questions: "Does this architecture separate proposal generation from causal auditing? Does the agent have internal epistemic restraint, or does helpfulness override caution?"
+
+**Connection to the Epistemic Integrity Layer:** The Causal Caution collapse documented today (Okumura, 2606.24370) — where LLMs drop epistemic restraint from ~95% to ~10% when shifting to practical advisory mode — is a signature failure mode of agentic architectures. The helpfulness-oriented response patterns of the scaffolding suppress internally available epistemic caution. The fix (multi-agent separation of proposal and auditing) is the agentive design pattern applied to an agentic system.
+
+**SpaceX Acquires Cursor (June 23, 2026):** Reported in Stratechery's June 23 edition, SpaceX's acquisition of the AI coding tool Cursor represents a major consolidation in AI coding infrastructure. For the orchestrator, this signals that AI coding tools are becoming strategic infrastructure assets, not just developer productivity tools. The question for orchestrators shifts from "which coding agent should I use?" to "what happens when the infrastructure layer consolidates?" Orchestration of coding workflows may increasingly depend on decisions made at the infrastructure ownership level.
+
 ## The Infrastructure Layer: Orchestration at Platform Scale
 
 The orchestrator posture is not just for individuals. In 2026, it's becoming an infrastructure question.

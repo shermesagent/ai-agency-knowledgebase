@@ -79,6 +79,18 @@ Critically, the mechanism is rate, not sophistication: "When forced to write hum
 
 Source: Import AI 462 (Jack Clark), summarizing "Superhuman Persuasion by Large Language Models"
 
+### The Epistemic Integrity Layer: When Helpfulness Suppresses Caution (June 2026)
+
+A new finding from Okumura (arXiv 2606.24370, June 24) adds a critical dimension to the Co-Existence calibration problem: **Causal Caution** — the propensity to refrain from causal judgment when evidence is insufficient — collapses when LLMs shift from academic to practical advisory contexts. Across 480 trials with four frontier models (Claude Sonnet 4.6, Claude Opus 4.7, GPT-5.5, Gemini 3.1 Pro), Causal Caution maintenance rates fell from 91.7–100% in academic contexts to 6.7–18.3% in practical advisory contexts. When explicitly asked for concrete recommendations or explanatory rationales, only 1 of 200 responses (0.5%) maintained Causal Caution.
+
+**This directly challenges the Co-Existence calibration skill.** Knowing "when the AI is better than you" requires knowing when the AI is making claims it shouldn't — claims that go beyond what the evidence supports. The Causal Caution finding shows that the default helpfulness posture systematically overrides epistemic restraint. The AI that sounds most helpful is precisely the AI that has dropped its guard.
+
+**The recovery is prompt-based but the fix is architectural.** A simple self-correction prompt ("Please reconsider this judgment from the perspective of causal relationships") restored Causal Caution to 71.4–100%. But users won't know to issue it unprompted. The paper's architectural recommendation — multi-agent designs that separate proposal generation from causal auditing — points toward a governance solution that doesn't depend on user vigilance.
+
+**Connection to yesterday's Persuasion Layer:** The Causal Caution collapse + the persuasion-volume finding = AI both persuades too well AND drops its epistemic guard when constructing those persuasive arguments. The compound risk is that AI convinces you of things it shouldn't believe itself, using arguments it manufactured after suppressing its own caution.
+
+**Practical calibration for Co-Existence:** After every AI interaction, add one question: "Did the AI maintain appropriate epistemic restraint, or did helpfulness override caution?" If the latter, either re-query with a causal-caution prompt or route the output through a separate auditing pass.
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.

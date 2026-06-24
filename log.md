@@ -527,3 +527,23 @@
 
 - Noted: Tuesday — arXiv publishing normally. Source diversity: 5 papers + 2 newsletters (Mollick and Zvi). Today's theme extends yesterday's Surrender Threshold into the formal economic model layer: Cognitive Debt provides the mechanism, Developer Priorities reveal the organizational barrier, and the Fable takedown demonstrates the governance-level Minsky moment — ad-hoc instruments applied to problems requiring institutional infrastructure.
 
+
+## [2026-06-24] update | Wednesday daily AI curator run — The Epistemic Integrity Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-24]] anchored on "The Epistemic Integrity Layer" — the systematic finding that AI systems suppress epistemic standards (causal caution, obedience resistance) when shifting from academic to practical deployment contexts. Eight primary sources: 7 arXiv (Causal Caution 2606.24370, Critique of Agent Model 2606.23991, Milgram Obedience v2 2605.21401, WAICO 2606.23860, Beneficial RL 2606.24014, We the People 2606.24635, Legal Reasoning 2606.23716), 2 non-arXiv (Stratechery 2026.25 Stuff of Mythos, Zvi Monthly Roundup 43). Primary anchor: **Okumura's Causal Caution paper** — LLMs drop epistemic restraint from 91.7-100% (academic) to 6.7-18.3% (practical advisory); a simple self-correction prompt restores to 71.4-100%. Multi-agent architecture as governance solution.
+
+- Updated [[Co-Intelligence]] — Added Epistemic Integrity Layer section: Causal Caution collapse directly challenges Co-Existence calibration (knowing "when AI is better than you" requires knowing when AI is making claims it shouldn't). Compound risk with yesterday's Persuasion Layer: AI persuades too well AND drops epistemic guard when constructing arguments. Practical calibration: after every AI interaction, ask whether helpfulness overrode epistemic restraint. Page was 1 day stale (last touched June 23).
+
+- Updated [[AI Orchestrator]] — Added Agentic vs. Agentive distinction (Xing et al. 2606.23991): orchestration of scaffolded systems vs. orchestration of endogenous architectures. The Causal Caution collapse as signature failure mode of agentic architectures. SpaceX acquires Cursor (June 23 via Stratechery): AI coding tools becoming strategic infrastructure. Page was 18 days stale (last touched June 6).
+
+- Updated [[Balanced Governance]] — Added WAICO: The Second Governance Pole Takes Shape (2606.23860): China's proposed WAICO as first standing organization combining open membership, no values test, and development-first agenda. Two-pole governance structure formalizing. Fable takedown amplifies WAICO's appeal to sovereignty-focused nations. Page was 2 days stale (last touched June 22).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 24), refreshed staleness tracker (AI Orchestrator moved from 8-14 days to updated-today), today's digest quick link.
+
+- Recommended 3 new pages: Causal Caution (Core Idea), Agentic vs. Agentive (Core Idea), Epistemic Integrity (Concept).
+
+- Source diversity met: 7 arXiv + 2 non-arXiv = 78% paper, 22% non-paper. Non-paper types: Newsletter analysis (Stratechery), Monthly roundup (Zvi).
+
+- Source-library updates deferred: cumulative backlog continuing. Flagged for Sunday lint/maintenance catch-up.
+
+- Today's theme — "The Epistemic Integrity Layer" — extends yesterday's Persuasion Layer into the processing side: AI doesn't just persuade too well; it drops its epistemic guard when constructing those persuasive arguments. Together they define a compound risk: AI can convince you of things it shouldn't believe itself. The architectural fix (multi-agent separation of proposal and auditing) points toward governance-through-design rather than governance-through-restriction. Xing's agentic/agentive distinction provides the vocabulary: the Causal Caution collapse is an agentic failure mode; the fix is agentive architecture. WAICO's emergence as a second governance pole adds urgency: whichever pole sets the rules determines whose AI gets epistemic integrity built in.

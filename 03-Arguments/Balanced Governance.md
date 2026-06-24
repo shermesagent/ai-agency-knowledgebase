@@ -65,6 +65,24 @@ The distinction matters for governance because the instruments are different. Al
 
 See [[Responsible Deployment#DeepMind AI Control Roadmap: The Control Layer as Deployment Primitive (June 2026)|Responsible Deployment]] for the full D1-D4/R1-R3 framework and operational metrics. Source: [DeepMind AI Control Roadmap](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
 
+### WAICO: The Second Governance Pole Takes Shape (June 2026)
+
+Guey et al. (arXiv 2606.23860, June 24, 2026) map China's proposed **World Artificial Intelligence Cooperation Organization (WAICO)** as the most consequential recent entrant in global AI governance. Coding 15 international AI governance instruments and institutions on membership, organization, and priorities, the paper finds WAICO's proposed design joins three features no constituted multilateral body currently combines: **membership open to any sovereign state, no values or regime-type test for entry, and an agenda built around development and the global capability divide.**
+
+**The two-pole structure forming:**
+- **Pole 1 (Western-led):** Gates membership by shared values (rights, democracy, safety). Focuses on risk mitigation, transparency, human rights. Bodies: OECD AI Policy Observatory, GPAI, G7 Hiroshima Process, EU AI Act framework.
+- **Pole 2 (WAICO, proposed):** Open membership, no values test. Focuses on development, capacity building, closing the global AI divide. Agenda: sovereignty and development first.
+
+This is not just competing institutions — it's competing answers to "who gets to set the rules for AI?" The incumbent Western bodies answer: those who share our values. WAICO answers: every sovereign state, with development needs prioritized over rights conditions.
+
+**Governance implications for the Superagency thesis:**
+1. **WAICO would be a standing organization, not a principles declaration.** This matters because institutions — not principles — determine whose preferences become binding rules. The paper notes that among constituted institutions, "the only occupant of WAICO's intended position is China's own 2023 precursor initiative."
+2. **The development-first agenda has natural constituency.** Nations in the Global South who see Western governance as prioritizing problems they don't have (superintelligence risk) over problems they do (access to AI capability for healthcare, education, agriculture) have a structural incentive to join the development-first pole.
+3. **The governance architecture competition is as important as the capability competition.** Which pole sets the rules for the next decade determines who gets AI agency — and on what terms. This is the governance expression of the [[Democratization of Expertise]] challenge: if Western governance restricts access while WAICO's governance expands it, the agency gap between poles widens rather than narrows.
+4. **The Fable takedown amplifies WAICO's appeal.** When Western governance acts through ad-hoc export controls (see above), the development-first pole's offer — stable, predictable, sovereignty-respecting governance — becomes more attractive, not less. Every opaque national-security-based AI restriction is an advertisement for WAICO's alternative.
+
+Source: https://arxiv.org/abs/2606.23860
+
 ## Best Supporting Sources
 - [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260525-magnifica-humanitas.html) — Pope Leo XIV, May 25, 2026. Reliability 5/5; relevance 5/5. Landmark governance document: calls for "disarming technology," challenges power concentration, asserts self-regulation is insufficient.
 - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) — Stanford HAI, 2025. Annual evidence base on AI technical progress, adoption, policy, education, and public attitudes.
