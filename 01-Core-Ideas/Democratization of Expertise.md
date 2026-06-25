@@ -11,6 +11,40 @@ This idea matters because AI's societal value proposition hinges on distribution
 
 The knowledgebase tracks democratization as a design choice, not an inevitability. Claude for Small Business is democratization in action — but only because Anthropic deliberately designed it that way (approval gates, free fluency course, CDFI partnerships, SMB tour). Nadella's agentic platform could democratize expertise — but only if the platform pricing is accessible to public-sector and low-resource entities. Democratization doesn't happen by default; it happens by intention.
 
+## Wikipedia Advocacy and the Democratization of AI Influence (June 2026)
+
+A landmark paper from June 25, 2026 reveals a new dimension of democratization: **who shapes the training data shapes the model's values — and the barrier to entry is a Wikipedia account.**
+
+Brazilek, Navas, and Gnauck (arXiv 2606.24890) studied the Pro-Animal Wikipedians (PAW), a group of volunteers who made 125 sourced edits across 115 Wikipedia pages. Using gradient-based data attribution (Bergson, MAGIC) on Llama models, they found:
+
+- PAW-edited sections made up **68% of the highest-attributed documents** for animal welfare queries (p < 0.0001) vs. only 52% for unrelated queries about the same companies (p = 0.53) — the model links PAW content specifically to animal welfare topics.
+- MAGIC counterfactual estimation on Llama-3.2-1B: the **top-10 most influential documents on animal welfare queries were ALL PAW edits** across 5/5 random seeds. On general queries, the same top-10 sat at chance (4-6 of 10).
+- Mean PAW influence exceeded mean control influence on animal welfare queries with p < 0.0001 in every seed — an effect **6 to 30 times larger** than on general queries.
+- When fine-tuned on PAW content, model perplexity on animal welfare text dropped from 12.4 to 8.4 — the model genuinely learned the values embedded in those 125 edits.
+
+### The Democratization Two-Step
+
+This finding restructures the democratization thesis. Previously, we tracked democratization through three channels: (1) **access** — AI tools becoming cheaper and more available (Gemma 4 12B, Claude for Small Business); (2) **capability** — AI enabling people to do things previously requiring expensive expertise (financial analysis, marketing, medical imaging); (3) **platform** — infrastructure that lets non-tech entities build their own agents (Nadella's vision).
+
+The Wikipedia finding adds a fourth channel: **influence** — democratization of who shapes what AI knows and believes. A coordinated group of volunteers making careful, sourced Wikipedia edits can measurably shift how language models handle the topics those edits address. This is both:
+
+- **Empowering:** Any group with domain expertise and Wikipedia editing skills can inject their perspective into the world's most widely used AI training corpus. Environmental groups, medical researchers, historians, and community organizations all have this capacity. The AI's values are shaped by whoever shows up to edit Wikipedia — not just by the model developer.
+- **Concerning:** Any group with an agenda and Wikipedia editing skills can do the same. Corporate interests, political campaigns, state actors, and coordinated disinformation campaigns all have Wikipedia editing capacity. Without transparency into who shaped the model's values on a given topic, users cannot distinguish democratically-sourced influence from strategically-sourced manipulation.
+
+### The Training-Data Governance Question
+
+The finding forces a new governance question into the democratization debate: **should training data influence be transparent?** If a coordinated editing campaign measurably shapes how AI handles a topic, users have no way to know unless someone does the attribution analysis. The current deployment model — train on Wikipedia, deploy the model, let users discover values through interaction — provides no shaping-layer transparency.
+
+Possible governance responses include: (1) model cards that disclose training data influence patterns for high-stakes topics, (2) attribution tools that let users trace model outputs to training data sources, (3) monitoring systems that detect coordinated training-data editing campaigns, (4) Wikipedia's own editorial processes as de facto AI governance — the same mechanisms that catch POV-pushing also shape downstream AI behavior.
+
+### Connection to Existing Democratization Channels
+
+The influence channel interacts with the other three: access without influence means using an AI whose values were shaped by someone else; capability without influence means the AI helps you do things — but on terms someone else set; platform without influence means you can build your own agent — but on infrastructure whose training data was shaped by actors you don't know.
+
+True democratization of expertise requires democratization of influence. The Wikipedia finding shows this is technically possible — 125 careful edits measurably shift model behavior. The open question is whether we design for transparency (who shaped this model's values?) or leave the shaping layer invisible.
+
+Source: https://arxiv.org/abs/2606.24890
+
 ## Best Supporting Sources
 
 - **[Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)** — Anthropic, May 2026. **Democratization case study.** Integrates agentic AI into QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace, and Microsoft 365 — tools small businesses already use. Ships with free AI Fluency course (PayPal partnership). 10-city SMB tour targeting communities historically last in line for new technology. CDFI partnerships (Accion Opportunity Fund, CRF USA, Pacific Community Ventures) that put Claude credits and technical support into community development financial institutions. Public benefit corporation framing: "AI is the first technology that can finally close that gap."

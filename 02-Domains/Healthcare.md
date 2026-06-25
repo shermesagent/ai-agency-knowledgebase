@@ -40,7 +40,33 @@ Midjourney — the AI image generation company — is spinning out **Midjourney 
 - In consequential settings, AI recommendations must be contestable and auditable.
 - **Clinical language model bias amplification (June 2026):** Soetan (2606.14460) audits ClinicalBERT — a model pretrained on MIMIC-III discharge summaries — and finds that **65.6% of statistically significant bias findings contradict observed corpus distributions, rising to 80% for Black patients and 87.5% for agency attribution.** The model amplifies bias rather than inheriting it. This is critical for healthcare AI deployment: a model that appears to reflect training data distributions may actually be amplifying demographic associations through internal representation rather than mirroring real clinical patterns. Source: https://arxiv.org/abs/2606.14460
 
-## Design Research: Friction and Trust
+## The Clinician's Veto: Calibrated Autonomy in AI Prescribing (June 2026)
+
+A critical paper from June 25, 2026 establishes minimum architectural requirements for autonomous AI in healthcare — and in doing so, demonstrates that the shaping layer operates through professional gatekeepers who don't reject AI but reshape it around their accountability requirements.
+
+LaRocco et al. (arXiv 2606.25108) surveyed 136 U.S. prescribing clinicians, motivated by the fact that U.S. bill H.R. 238 and Utah's prescription-renewal pilot both authorize AI to prescribe medications in an agentic capacity. The paper argues that current regulatory guidelines — which suggest aggregate model performance metrics for clearance — are insufficient without three minimum architectural requirements:
+
+### Three Minimum Requirements
+
+1. **Calibrated per-prediction confidence for action-gated thresholds.** Clinicians would not permit autonomous prescribing without it. Aggregate performance metrics (e.g., "97% agreement with physicians") hide the variance: the 3% of cases where AI disagrees might be the highest-risk decisions. Calibrated confidence means the AI says "I am 99% confident in this refill recommendation" vs. "I am 60% confident" — and the action threshold gates on confidence level.
+
+2. **Differentiated communication of aleatoric vs. epistemic uncertainty.** When uncertainty arises from genuine clinical ambiguity (aleatoric) — e.g., two reasonable treatment paths with different tradeoffs — clinicians preferred a competing-options summary. When uncertainty arises from model ignorance (epistemic) — e.g., the AI hasn't seen enough similar cases — clinicians shifted to abstention. The distinction matters because it determines what the human does next: weigh options vs. gather more data.
+
+3. **Inferential transparency at the moment of decision enabling liability allocation.** Clinicians were only willing to accept additional liability when they could make a substantive judgment under acknowledged uncertainty. Black-box autonomy that says "prescribe X" without showing its reasoning is not just unsafe — it's uninsurable. Inferential transparency means the AI shows its work: which patient factors drove the recommendation, which evidence sources support it, where the uncertainty lies.
+
+### The Collapse of "Autonomy"
+
+The paper's most striking finding is that a system meeting these three requirements **functions less as an autonomous agent and more as heavily supervised decision support.** The architectural features that make AI safe for autonomous prescribing also strip away what "autonomy" conventionally means. The system proposes; the clinician evaluates confidence, understands the uncertainty type, inspects the reasoning, and decides. This is not AI replacing clinical judgment — it's AI presenting its judgment for clinical review.
+
+### Superagency Connection
+
+The Clinician's Veto is the shaping layer in healthcare: professional gatekeepers don't reject AI — they reshape it. The result is AI that expands clinical agency rather than replacing it. A system with calibrated confidence, uncertainty distinction, and inferential transparency gives clinicians more information, not less; more context for their judgment, not less; more evidence to support their decisions, not less. This is the Superagency pattern in its highest-stakes domain: AI handles the data integration and recommendation generation; humans retain the accountability, the uncertainty navigation, and the final decision.
+
+### Deployment Implications
+
+The gap between "these are good requirements" and "these are deployable in every clinical setting" is the implementation challenge. Calibrated confidence at per-prediction granularity is technically demanding. Aleatoric/epistemic uncertainty decomposition is an active research area. Inferential transparency that is both accurate and readable is a UX challenge. But the paper establishes that these are not optional — they are minimum requirements that clinicians themselves demand before accepting AI autonomy in prescribing. Regulation that sets a lower bar will face professional resistance; regulation that meets this bar will face implementation complexity. The shaping layer is not just about what's possible — it's about what's acceptable to the humans who bear the liability.
+
+Source: https://arxiv.org/abs/2606.25108
 
 ### Friction in Clinical Decision-Making (June 2026)
 Fischer et al. (2606.14406) investigate what forms of friction actually promote reflection in clinical AI use. In interviews with 7 clinicians, two friction designs were tested: (1) data-driven questions (e.g., \"have you considered X?\") — perceived as unhelpful for reflection but useful as reminders; (2) \"what-if\" hypotheticals — perceived as genuinely useful for improving patient care. Clinicians saw the prototype as a promising training tool for novices. The finding: friction that generates alternatives is more valuable than friction that checks completeness. **Superagency connection:** For healthcare AI to expand agency rather than erode it, the friction must be productive — offering new possibilities, not just second-guessing existing decisions. Source: https://arxiv.org/abs/2606.14406

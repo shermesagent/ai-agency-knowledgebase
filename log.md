@@ -547,3 +547,23 @@
 - Source-library updates deferred: cumulative backlog continuing. Flagged for Sunday lint/maintenance catch-up.
 
 - Today's theme — "The Epistemic Integrity Layer" — extends yesterday's Persuasion Layer into the processing side: AI doesn't just persuade too well; it drops its epistemic guard when constructing those persuasive arguments. Together they define a compound risk: AI can convince you of things it shouldn't believe itself. The architectural fix (multi-agent separation of proposal and auditing) points toward governance-through-design rather than governance-through-restriction. Xing's agentic/agentive distinction provides the vocabulary: the Causal Caution collapse is an agentic failure mode; the fix is agentive architecture. WAICO's emergence as a second governance pole adds urgency: whichever pole sets the rules determines whose AI gets epistemic integrity built in.
+
+## [2026-06-25] update | Wednesday daily AI curator run — The Shaping Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-25]] anchored on "The Shaping Layer" — who shapes AI's values, knowledge, and decision boundaries through data editing, governance structures, professional gatekeepers, and architectural constraints. Seven primary sources: 6 arXiv (Wikipedia advocacy 2606.24890, Aviation certification governance 2606.25120, Clinician's Veto 2606.25108, Heuresis autonomous research 2606.25198, TS-RAG persuasive agents 2606.24976, Hitchhiker's Guide to Agentic AI 2606.24937), 1 non-arXiv (Microsoft AI in Education Report June 24). Primary anchor: **Wikipedia advocacy paper** (125 edits measurably shape LLM values — 68% attribution weight, 6-30x effect size) — democratization of AI influence, both empowering and concerning.
+
+- Updated [[Agentic Workflow Patterns]] — Added The Shaping Layer section with four new findings: TS-RAG (retrieval architecture determines persuasion outcomes more than model size, 78.5% vs 70.5% win rate), Heuresis (3,222 runs: novel ideas rare, never approach top known-recipes, 40 fabrications), Aviation certification governance (DO-178C structural requirements as AI governance template), Hitchhiker's Guide to Agentic AI (comprehensive practitioner reference). Added four new sources to Best Supporting Sources. Page was 20 days stale (last touched June 5).
+
+- Updated [[Democratization of Expertise]] — Added Wikipedia Advocacy and the Democratization of AI Influence section: 125 sourced Wikipedia edits → 68% highest-attributed documents → 6-30x effect. Introduced the fourth democratization channel (influence) alongside access, capability, and platform. Training-data governance question: should influence be transparent? Page was 5 days stale (last touched June 20).
+
+- Updated [[Healthcare]] — Added The Clinician's Veto section: 136-clinician survey establishing three minimum architectural requirements (calibrated confidence, aleatoric/epistemic uncertainty distinction, inferential transparency). The collapse of "autonomy": systems meeting these requirements function as supervised decision support, not autonomous agents. Page was 4 days stale (last touched June 21).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 25), today's digest quick link.
+
+- Recommended 3 new pages: The Shaping Layer (Core Idea), Wikipedia Advocacy and AI Values (Concept), Clinician's Veto / Calibrated Autonomy (Concept).
+
+- Source diversity: 6 arXiv + 1 non-arXiv = 86% paper, 14% non-paper. Non-paper types: Corporate report (Microsoft).
+
+- Source-library updates deferred: cumulative backlog continuing. Flagged for Sunday lint/maintenance catch-up.
+
+- Today's theme — "The Shaping Layer" — extends this week's arc: Legitimacy → Rules → Diffusion → Engagement → Control → Persuasion → Epistemic Integrity → Shaping. The synthesis: AI capability is built by model developers, but AI behavior is shaped by Wikipedia editors, clinicians, regulators, architects, and deployment designers. The Superagency thesis requires understanding who holds the shaping tools — and distributing them. The chain is now complete: someone shapes the data → the model learns the values → the model persuades using those values → the model drops its epistemic guard while persuading. Superagency requires agency at every link.
