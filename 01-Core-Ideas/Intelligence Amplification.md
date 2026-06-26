@@ -27,7 +27,34 @@ The knowledgebase is organized around IA's core premise: AI that expands human a
 
 - **Engelbart, D.C. (1962).** *Augmenting Human Intellect: A Conceptual Framework.* The foundational IA document. "By 'augmenting human intellect' we mean increasing the capability of a man to approach a complex problem situation."
 
-- **Licklider, J.C.R. (1960).** "Man-Computer Symbiosis." IRE Transactions on Human Factors in Electronics. The vision that humans and computers would "couple...very tightly."
+- **[Licklider, J.C.R. (1960).](https://archive.org/details/licklider-man-computer-symbiosis)** "Man-Computer Symbiosis." IRE Transactions on Human Factors in Electronics. The vision that humans and computers would "couple...very tightly."
+
+- **["The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning"](https://arxiv.org/abs/2606.26181)** — Brcic & Frljic, June 2026. Six-move model for placement-based AI design (Prime, Probe, Point, Attach, Strengthen, Test). Key finding: unguarded AI helper leaves students 17% worse; well-engineered tutor roughly doubles learning. The diagnostic rule: "If letting AI in makes the task feel effortless, it is in the wrong place." This is the IA principle applied to learning design.
+
+- **["Accelerating Returns and the Qualitative Engine for Science"](https://arxiv.org/abs/2606.26359)** — Liao, June 2026. Distinguishes quantitative acceleration (Kurzweil's thesis, self-amplifying compute/capability) from qualitative reasoning (knowing when a framework is structurally inadequate). ARC-AGI-3: humans at ceiling, frontier AI below 1%. The qualitative dimension — knowing when a framework is wrong, not just optimizing within it — remains a distinctively human capability.
+
+## The Effortless Trap: Placement as the New IA Principle (June 2026)
+
+The "allow or ban" framing of AI is a false dichotomy. The relevant design question for IA is **placement** — where in the process does AI sit? Brcic & Frljic (2606.26181) provide the six-move model:
+
+1. **Prime** — activate prior knowledge before AI touches anything
+2. **Probe** — let the human attempt the task unaided first
+3. **Point** — AI identifies what's missing or where reasoning went wrong (without giving the answer)
+4. **Attach** — AI connects the new concept to existing knowledge
+5. **Strengthen** — AI provides varied practice with feedback
+6. **Test** — unaided assessment to verify genuine capability
+
+The core diagnostic rule: *if letting AI in makes the task feel effortless, it is in the wrong place.* The empirical stakes are stark: an unguarded AI helper left high-school students about 17% worse on an unaided exam than peers with no tool at all. The same model rebuilt to withhold answers erased the harm. A well-engineered tutor roughly doubled learning.
+
+This is IA's design principle applied to cognition: don't ask whether to use AI. Ask *where* AI sits in the learning or problem-solving process. Secure the first hard attempt (human-owned struggle) and the final unaided check (human-owned capability). Scaffold with guarded AI in between.
+
+## Quantitative vs. Qualitative Amplification (June 2026)
+
+Liao (2606.26359) provides a clarifying distinction for IA: Kurzweil's accelerating returns thesis explains why *quantitative* capability may accelerate — more compute, faster models, better benchmarks. But the central problem of scientific discovery depends on a different capacity: **qualitative reasoning** about when a current framework is structurally inadequate and what conceptual move is needed next.
+
+The ARC-AGI-3 results sharpen this: humans solve the benchmark at ceiling; frontier AI systems remain below 1%. The gap between AI's quantitative power and human flexible reasoning is still very large. IA must therefore amplify both dimensions — quantitative reach (AI handles the search, retrieval, and pattern-matching) and qualitative judgment (humans recognize when the framework itself is wrong).
+
+Demis Hassabis's framing adds the human dimension: the future of AI is not only a technical forecast but a question of what forms of human understanding are worth preserving and transmitting. IA, properly designed, preserves the qualitative dimension while amplifying the quantitative one.
 
 ## Practical Examples
 

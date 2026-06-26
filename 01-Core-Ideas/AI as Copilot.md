@@ -22,6 +22,30 @@ The most extreme realization yet of the copilot paradigm is the **[[AI Agent Rev
 - ["DeskCraft: Benchmarking Desktop Agents on Professional Workflows"](https://arxiv.org/abs/2606.03103), Wang et al., 2026 — GPT-5.4 reaches only 31.6% on 50+ step professional workflows; human-in-the-loop remains essential. Formalizes mid-turn/post-turn human-agent collaboration protocol.
 - [How to Choose Your AI Agent Stack in 2026](https://thenuancedperspective.substack.com/p/how-to-choose-your-ai-agent-stack), The Nuanced Perspective, June 19, 2026 — practical framework for navigating the agent infrastructure layer. Key claim: "the model matters less than it used to" — in 2026, differentiation is in retrieval, memory, tool integration, and orchestration, not model choice. Nine-layer stack framework from compute to deployment. Selection principle: match the stack to the task, not the task to the stack. See [[AI Orchestrator]] and [[00-Daily-Digests/2026-06-20]].
 
+- **["From Content to Strategy: Understanding the Motivations, Processes, and Impacts of AI-Guided Communication"](https://arxiv.org/abs/2606.26672)** — Wan & Hwang, June 2026. 26 in-depth interviews on AI as communication strategy copilot. Participants strongly preferred using AI to analyze challenging relationship scenarios. AI-guided communication enhanced empathy and communication skills — the copilot as emotional and relational amplifier, not just analytical tool.
+
+- **["The Open Source Economic Index of AI Adoption and Capability"](https://arxiv.org/abs/2606.26118)** — Somerstep et al., June 2026. Open-source measurement of AI copilot adoption using public chat data + O*NET tasks. Finance, CS, and arts show highest adoption rates. Demonstrates copilot adoption can be measured independently of platform analytics.
+
+## AI as Relational Copilot (June 2026)
+
+Wan & Hwang (2606.26672) extend the copilot frame beyond task assistance into interpersonal strategy. Their 26-interview study finds that people use AI to prepare for challenging conversations — analyzing relationship dynamics, rehearsing difficult messages, and getting multiple perspectives on interpersonal conflicts. Three key findings:
+
+1. **AI fosters self-reflection.** Participants reported that explaining a relationship situation to AI forced them to articulate their own position clearly — the act of prompting became a form of self-examination.
+
+2. **AI eases emotional activation.** Instead of reacting in the moment, participants used AI to preview and process emotional responses before the real conversation. This prevented conflict escalation.
+
+3. **AI provides a nonjudgmental disclosure space.** Unlike friends or family (who have their own stakes in the situation), AI offered perspective without personal investment. This created a safe space for exploring options the participant might not voice to anyone who knew the people involved.
+
+The finding is not that AI *replaces* human relationships but that it *expands* relational capability — the copilot as preparation partner, perspective-broadener, and emotional regulator. This connects to the [[Co-Intelligence]] vision of AI as coworker and to [[Family and Personal Life]] where AI's role in personal relationships is a growing domain.
+
+However, the study also found mixed views on long-term impact: some participants worried about losing their unique voice and becoming dependent on AI for interpersonal navigation. The copilot must amplify relational agency without replacing the genuine human connection that makes relationships meaningful.
+
+## Measuring Copilot Adoption (June 2026)
+
+Somerstep et al. (2606.26118) provide an open-source alternative to proprietary adoption metrics. Using publicly available user-LLM chat data mapped to O*NET occupational tasks, the index finds that finance, computer science, and arts are the highest-adoption sectors. The key methodological contribution: AI copilot adoption can be measured without access to platform analytics — making it possible for researchers, policymakers, and the public to independently track who benefits from AI.
+
+The capability measurement side is more sobering: when tested with Kimi-k2.5 on occupation-specific scenarios, AI correctly executes high-level workflows but errs in granular details (specific tool calls, domain-specific formatting). The copilot is broadly capable but imprecise — reinforcing the need for human judgment at the detail level.
+
 ## Practical Examples
 - Use AI to draft, critique, and revise documents while the human owns the final argument and evidence.
 - Pair an AI tutor with a learner who must explain the answer, not merely paste it.
