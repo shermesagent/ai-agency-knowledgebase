@@ -25,6 +25,20 @@ A landmark moment arrived on May 25, 2026: Pope Leo XIV published *[[Magnifica H
 - Vendor adoption reports should be used as signals, not proof; pair them with independent studies and local outcome data.
 - More capability can concentrate power if access, skills, and governance are unevenly distributed.
 
+### The Gatekeeping Paradox: Restricted Frontier, Democratized Application (June 2026)
+
+The week of June 23-27, 2026 introduces a structural tension at the heart of the Superagency thesis. The White House has requested OpenAI stagger GPT-5.6's release on a "customer by customer" basis (Axios, CNN, June 25-26), extending the Fable 5 export control precedent into a standard policy for frontier releases. Zvi Mowshowitz ("White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6," June 26) frames this as "A Maximally Terrible Policy" — ad hoc, opaque, politicized decisions with no articulated standard, no due process, no sunset clause.
+
+Simultaneously, the application layer tells a different story. Ben Thompson's "My Vibe Coding Adventure" (Stratechery, June 24) demonstrates that a non-programmer can build functional software through AI direction. Figma CEO Dylan Field confirms two-thirds of Figma users are now non-designers (Stratechery, June 25). The AI & Creativity Monthly Brief (June 2026) documents creative tools converging into "agentic production stacks." Anthropic's Economic Index Cadences report (June 26) provides ground-truth data: AI usage follows human work rhythms — it's being integrated, not imposed.
+
+**The paradox:** Superagency means more people gaining access to capabilities that were previously scarce. At the frontier, access is becoming MORE restricted. At the application layer, access is becoming MORE democratized. The same week that produced the most explicit US government gatekeeping of AI access also produced the strongest evidence yet that AI creation tools are reaching non-specialists at scale.
+
+**The resolution condition:** The Gatekeeping Paradox only constrains Superagency if the tasks that genuinely require frontier capability are broad enough that restricted access creates meaningful agency inequality. If application-layer tools — using smaller models, open weights, and clever architecture — can close enough of the capability gap, the Gatekeeping Layer becomes a policy nuisance rather than an agency bottleneck. The Cadences report and the vibe coding/Figma evidence suggest the application layer is currently winning. But if frontier models pull far enough ahead of what application-layer tools can access, the paradox deepens — and Superagency becomes a function of political access rather than tool democratization.
+
+- Source: https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who
+- Source: https://www.anthropic.com/research/economic-index-june-2026-report
+- Source: https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/
+
 ## Related Pages
 - [[Human Agency]]
 - [[Magnifica Humanitas]]
@@ -33,6 +47,9 @@ A landmark moment arrived on May 25, 2026: Pope Leo XIV published *[[Magnifica H
 - [[Responsible Deployment]]
 - [[AI Agent Revolution]]
 - [[Agentic Business Transformation]]
+- [[Export Controls and the Jailbreak Fallacy]]
+- [[Balanced Governance]]
+- [[Creativity]]
 
 ## Tags
 #superagency #human-agency #ai-optimism #augmentation #responsible-ai

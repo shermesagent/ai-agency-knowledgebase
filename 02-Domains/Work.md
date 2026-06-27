@@ -64,6 +64,20 @@ HBR's May 2026 manager bottleneck analysis (Fosslien and Duffy 2026) reveals tha
 - Labor impacts should be tracked at task and role levels rather than hidden behind aggregate productivity claims.
 - Human-led, AI-operated workplaces can become human-monitored, AI-driven workplaces if workers lack training, override rights, and time for judgment.
 
+### Anthropic Economic Index: Cadences — AI Follows Human Work Rhythms (June 2026)
+
+Anthropic's June 2026 Economic Index report ("Cadences," June 26) adds the most granular usage data yet available: hourly telemetry showing when people come to Claude, artifact classifiers tracking what they produce, and a 9,700-person survey measuring perceptions. Key findings for the work domain:
+
+- **AI follows human work rhythms.** "The cadences of life shape usage" — AI is not a constant stream replacing human labor but a tool integrated into existing work patterns. This is a quiet but powerful validation of the augmentation thesis.
+- **Artifact classifiers go beyond conversation data** to track what people actually produce — providing ground-truth data on AI's role in work output.
+- **Perceptions vary by occupation, usage intensity, and task type.** The survey data reveals that how people feel about AI's impact depends on HOW they use it, not just whether they use it.
+- **Classifiers lag agent-to-agent exchanges** — a measurement gap that grows as multi-agent architectures proliferate in workplace settings. This is the same Interlocutor Effect pattern tracked in [[Human Agency]].
+- **Economic aggregates (employment, productivity) remain the ground truth.** Usage data is a leading indicator, not a replacement for labor market statistics.
+
+The Cadences report provides the empirical counterweight to policy debates: while Washington determines who gets frontier AI access, actual workers are integrating AI into their work rhythms in measurable, patterned ways. This connects to the Gatekeeping Layer thesis: application-layer tool use is growing regardless of frontier access restrictions.
+
+- Source: https://www.anthropic.com/research/economic-index-june-2026-report
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]
@@ -75,6 +89,8 @@ HBR's May 2026 manager bottleneck analysis (Fosslien and Duffy 2026) reveals tha
 - [[Human Review Checkpoints]]
 - [[Entry-Level Work Crisis]]
 - [[Agentic Technical Debt]]
+- [[Human Agency]] — Gatekeeping Layer and ground-truth counterweight
+- [[Democratization of Expertise]] — application-layer access expansion
 
 ## Tags
 #future-of-work #augmentation #practical-ai #human-agency

@@ -46,13 +46,48 @@ The key insight: this redistribution is **individually rational** (it makes each
 2. **Measure collective diversity, not just individual satisfaction:** Creative AI evaluation must track output diversity at the population level, not just individual user satisfaction scores.
 3. **Introduce productive friction at the reflective integration phase:** Pause before accepting AI output to ask "does this matter?" — a metacognitive check AI interfaces currently bypass.
 
+### Vibe Coding: Creative Democratization Through AI-Directed Development (June 2026)
+
+Ben Thompson's "My Vibe Coding Adventure" (Stratechery, June 24, 2026) provides a landmark validation of AI-directed creation by non-specialists. Thompson — a technology strategy analyst, not a programmer — built a fully functional app entirely through AI direction. His ten structured takeaways form a practical framework for creative democratization through AI:
+
+- **The experience revealed where AI excels** (generating functional code from natural language description, iterating on feedback) **and where human judgment remains essential** (defining what to build, evaluating whether the output serves the intended purpose, making taste-level decisions about design and user experience).
+- **The barrier to software creation has collapsed** — not to zero, but from "years of programming expertise" to "ability to describe what you want and evaluate what you get."
+- **The creative act shifts from implementation to direction.** The non-programmer becomes a creative director: specifying intent, evaluating output, requesting revisions, making judgment calls. This is the same pattern Dylan Field describes for design (below).
+
+This is the application-layer counterpoint to the Gatekeeping Layer: while the White House restricts frontier model access, the tools that let non-programmers build software are becoming more capable and more accessible. Creative agency expands at the application layer even as it's constrained at the capability layer.
+
+- Source: https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/
+
+### Design Without Designers: Figma and the Democratization of Design (June 2026)
+
+Dylan Field, Figma CEO, confirmed in a Stratechery interview (June 25, 2026) that **two-thirds of Figma users are now non-designers.** AI is expanding the design surface — more people can participate in design work — rather than replacing designers. The designer's role shifts from sole creator to creative director, curator, and system designer.
+
+- **Key pattern:** The same structural shift as vibe coding. The tool that once required years of specialized expertise becomes accessible to domain experts without the specialized skill. The gatekeeping isn't at the capability layer (design AI is widely available) — it's at the judgment layer (knowing what's good design, what serves the user, what communicates effectively).
+- **Agency implication:** This is Superagency at the application layer. More people gaining access to capabilities that were previously gatekept by specialized training. The quality question remains open — democratization without quality standards can produce more design without better design — but the access expansion is real and accelerating.
+
+- Source: https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/
+
+### Creative Governance: From Output Generation to System Design (June 2026)
+
+The AI & Creativity Monthly Brief (Building Creative Machines, June 2026) identifies a structural shift: AI creativity is no longer just output generation; it is the design of systems where people, models, tools, and governance shape better work. Three trends:
+
+1. **Scale smaller AI where possible** — smaller models are often sufficient and cheaper for creative tasks.
+2. **Stronger controls where necessary** — creative work needs governance structures, not just creative tools.
+3. **Human judgment everywhere** — the creative director role persists; AI is a system component, not a replacement.
+
+The brief's core framing: "Leaders should optimise for workflow economics: smaller AI where possible, stronger controls where necessary, and human judgement everywhere." Generative design, creative tooling, and synthetic media are converging into "agentic production stacks" — the creative-domain expression of the AI Orchestrator pattern.
+
+- Source: https://www.buildingcreativemachines.com/p/ai-and-creativity-monthly-brief-june
+
 ## Related Pages
 - [[AI Writing Partners]]
 - [[AI as Copilot]]
 - [[Human Agency]]
 - [[Co-Intelligence]]
 - [[AI and Human Flourishing]]
-- [[Home Server AI Agents]]
+- [[AI Coding Agents]]
+- [[Democratization of Expertise]]
+- [[AI Orchestrator]]
 
 ### Visual AI Evolution (Mollick, June 2026)
 - **A creativity domain case study in rapid capability acceleration.** Mollick's post documents the visual AI evolution through a single prompt ("otter on a plane using wifi on a computer"):

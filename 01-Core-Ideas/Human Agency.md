@@ -75,6 +75,32 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - **The responsiveness-dependent substitution parameter:** Systems with weak exploratory routines are most vulnerable to AI-induced rigidity. Systems with high adaptive responsiveness can use AI to expand exploratory mobility. This means the same AI tool can either amplify or erode agency depending on the institutional context, developmental stage, and interaction architecture.
 - **Connection to cognitive surrender:** This is the formal theory underlying the Cognitive Surrender phenomenon tracked across this wiki. When AI always has an answer, humans stop asking questions — not because they're lazy, but because the AI-assisted optimization process removes the exploration that reveals what questions are worth asking. The fix is not "use AI less" but "design AI interaction to preserve exploratory responsiveness" — deliberately introduce exploration mechanisms, keep some questions open, maintain the capacity to traverse unfamiliar trajectories.
 
+### The Gatekeeping Layer: Ad Hoc Frontier Access as Agency Constraint (June 2026)
+
+The White House's request that OpenAI stagger GPT-5.6's release — approving access "customer by customer" (Axios, CNN, June 25-26, 2026) — represents the most dramatic shift in AI governance architecture since the technology's emergence. Zvi Mowshowitz's analysis ("White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6," June 26, 2026) frames this as a structural agency problem:
+
+- **The policy:** Ad hoc, opaque, politicized White House decisions on who gets frontier intelligence. No articulated standard. No due process. No sunset clause. Sam Altman confirmed to staff: "this is not our preferred long term model."
+- **The trigger:** GPT-5.6 has "Mythos-like capability" — the same trigger that led to Fable 5's export controls. This is now the standard for frontier releases, not a one-off Anthropic action.
+- **The agency consequence:** Agency distribution becomes a function of political access, not merit, need, or potential. The winners are determined by who has existing government relationships, who fits an undefined "government-approved" standard. This is the opposite of Superagency — agency distributed by connection rather than by capability.
+- **The structural irony:** The Gatekeeping Layer creates a two-tier agency architecture. At the frontier capability level, access is MORE restricted, MORE politicized, MORE opaque. At the application layer (vibe coding, Figma AI, creative agents), access is MORE democratized, MORE accessible, MORE broadly distributed. The Superagency question — "who gets their agency amplified?" — is being answered simultaneously in opposite directions at different layers of the AI stack.
+
+The practical agency test: for any given task, is the bottleneck the Gatekeeping Layer (can't access the model) or the application layer (no tool makes the capability accessible)? The answer determines whether political access reform or tool democratization is the more urgent agency intervention.
+
+- Source: https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who
+- Source: https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release
+- Source: https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house
+
+### The Ground-Truth Counterweight: Anthropic Economic Index Cadences (June 2026)
+
+While Washington debates who should access frontier AI, Anthropic's Economic Index Cadences report (June 26, 2026) provides the counter-narrative: ground-truth data on how actual people, in their actual work, are actually using AI.
+
+- **Hourly telemetry:** "The cadences of life shape usage" — AI is not a constant stream but a tool used in patterns that reflect human work rhythms. This is a quiet but powerful validation of the augmentation thesis: AI is being integrated into human workflows, not replacing them.
+- **Artifact classifiers:** Track what people actually produce with AI — going beyond conversation data to output data.
+- **9,700-person survey:** Measures how people perceive AI's impact and what they want from it. Perceptions vary by occupation, usage intensity, and task type.
+- **Agency implication:** Policy should be built on how AI is actually used, not on imagined scenarios. The Cadences data provides the empirical substrate for agency conversations — it tells us whose agency is actually being amplified, for what tasks, at what times, and with what perceptions of impact.
+
+- Source: https://www.anthropic.com/research/economic-index-june-2026-report
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]
@@ -87,6 +113,9 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - [[Cognitive Surrender]] — Doctorow's Reverse Centaur framing
 - [[AI Agent Revolution]] — participatory AI and agent transparency
 - [[Balanced Governance]] — affective default lock-in and interaction governance
+- [[Export Controls and the Jailbreak Fallacy]] — the Fable 5 precedent
+- [[Creativity]] — application-layer democratization
+- [[Work]] — Anthropic Economic Index ground truth
 
 ## Tags
 #human-agency #augmentation #superagency #ai-optimism #techno-humanism #governance #ai-agents
