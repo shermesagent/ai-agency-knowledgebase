@@ -44,6 +44,45 @@ Zvi's core argument: "Every day that Fable remains unavailable further damages A
 
 The governance failure is structural, not personal: the decision lacked public evidence, independent review, proportionality (why Mythos too?), and due process. The only outside expert who read the classified report says there was no jailbreak. The White House is characterizing even UK AISI access as "frontier models running amok." This is not about safety — it's about an architecture of legitimacy that doesn't exist.
 
+### The Reopening: Negotiated Return (June 27, 2026)
+
+On June 27, 2026 — after 16 days of limbo — the White House permitted Anthropic to restore Mythos/Fable 5 access to a select group of US companies and government agencies. The Gatekeeping Layer operated in reverse for the first time. The architecture now has both a lock AND a key.
+
+**What changed:**
+- Tiered, KYC-based access for "select US organizations" — not a return to the pre-June 12 open-access model, but a managed-access architecture. This is the template Zvi predicted: tiered release with negotiated terms.
+- **Tom Brown replaced Dario Amodei in negotiations** (Axios, June 26) — the administration was "happier talking to Anthropic lately." Personnel changes appear to have been a meaningful diplomatic factor.
+- **Prediction market closure.** Zvi's June 17 markets gave ~60% restoration by July 1. The June 27 reopening validates the market mechanism: aggregate belief about negotiation outcomes was more accurate than any individual forecast.
+- **Evidence influenced policy.** Katie Moussouris's revelation — that the trigger was "fix this code" with no capability uplift — and sustained independent analysis (Zvi's series, Eigenwise, WIRED coverage) created the factual basis for reopening. The system is slow, opaque, and ad-hoc — but it can be influenced by evidence and argument.
+
+**What this means for the jailbreak fallacy argument:**
+- The original argument — that jailbreaks are mathematically inevitable and cannot be the real reason for the ban — has been functionally vindicated. The policy adjusted when the weakness in the jailbreak rationale was exposed.
+- **But the precedent stands.** The White House demonstrated it CAN shut down a frontier model based on a narrow security claim. The reopening doesn't erase the precedent — it adds a second precedent (negotiated return) alongside the first (arbitrary shutdown).
+- **The honesty penalty persists.** Anthropic's transparency about capabilities and benchmarks triggered the shutdown. The reopening required weeks of negotiations, personnel changes, and sustained public pressure. Future labs will weigh: is transparency worth the risk of a shutdown even if reopening is possible? The cost of honesty is lower than it was on June 12, but it's not zero.
+
+Source: Maxwell Zeff, "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations" (WIRED, June 27, 2026). https://www.wired.com/story/anthropic-restores-access-to-mythos/
+
+### Europe's Sovereign AI Response: The Geopolitical Consequence
+
+The Gatekeeping Layer is reshaping geopolitics. Europe — watching the Mythos shutdown, the GPT-5.6 staggered release, and the UK's denied carveout request — is concluding that dependence on US-controlled frontier AI is a strategic vulnerability.
+
+Steven Levy's Backchannel column (WIRED, June 26) captures the dynamic: "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump." The ad-hoc nature of US gatekeeping — no articulated standard, no due process, no carveout for allies — is providing the political motivation for sovereign AI investment that capital gaps alone could not justify.
+
+**The encryption parallel extends to geopolitics.** In the 1990s, US export controls on encryption motivated European and Asian competitors to build their own cryptographic infrastructure — and when the controls fell away, those competitors had developed independent capability. The same pattern is emerging with AI: gatekeeping that alienates allies accelerates the development of non-US alternatives, then leaves US labs competing against the ecosystem their own government's policies motivated into existence.
+
+**The UK carveout denial is a warning.** Keir Starmer personally requested an exemption for British nationals and companies — denied. If the UK, America's closest intelligence-sharing ally, cannot get a carveout, what ally can? The message to every allied nation is: build your own, or accept that your access to frontier AI depends on ad-hoc White House decisions.
+
+Source: Steven Levy, "Europe Is Fed Up and Wants Its Own AI" (WIRED, June 26, 2026). https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/
+
+### The Enforcement Treadmill: Geolocation Controls Are Porous
+
+As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds — proxy services, fake identities sourced on Telegram, and creative evasion techniques (WIRED, June 26). The cat-and-mouse game demonstrates a structural truth: **geolocation enforcement is a treadmill, not a wall.**
+
+The same pattern that made encryption export controls fail in the 1990s applies to AI access controls: capable, motivated users will route around them. The restrictions primarily affect casual users and legitimate organizations while determined actors find workarounds. This is the enforcement dimension of the jailbreak fallacy — if a jailbreak cannot be prevented at the model level, geolocation cannot be enforced at the network level.
+
+**The digital divide at the gatekeeping level.** The workaround ecosystem creates a new form of access inequality: those with technical sophistication and resources can access frontier AI regardless of geolocation restrictions; those without cannot. The Gatekeeping Layer doesn't eliminate access — it redistributes it from market-based to sophistication-based.
+
+Source: Zeyi Yang & Matt Burgess, "How People in China Keep Outsmarting Anthropic's Geolocation Restrictions" (WIRED, June 26, 2026). https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/
+
 ## Best Supporting Sources
 
 - **Zvi Mowshowitz, "The Once And Future Fable #3: Fix This Code" (Don't Worry About the Vase, June 17, 2026)** — The definitive post-mortem. Reveals the "jailbreak" was the prompt "fix this code" with no capability uplift; Katie Moussouris's confirmation; the full Lutnick letter; UK denial; prediction market data. Reliability: 5/5, Relevance: 5/5. https://thezvi.substack.com/p/the-once-and-future-fable-3-fix-this

@@ -37,6 +37,25 @@ This is the first time export controls have been used to recall a commercial AI 
 
 Sources: Zvi Mowshowitz, "American Government Takes Down Claude" (June 13); Fortune, Reuters, Time, Forbes, Business Insider (June 13).
 
+### The Fable 5 Restoration: The Reopening Layer (June 27, 2026)
+
+After 16 days of limbo, the White House has permitted Anthropic to restore Mythos/Fable 5 access to a select group of US companies and government agencies — the Gatekeeping Layer operating in reverse. This is the first time frontier AI access has been restricted AND then reopened through negotiation, establishing a crucial precedent: **the gatekeeper has both a lock and a key.**
+
+**Key developments:**
+- The White House negotiated tiered, KYC-based access — not a return to the pre-June 12 status quo, but a managed-access model for "select US organizations." Zvi's predicted tiered release architecture is materializing.
+- **Dario Amodei was replaced by Tom Brown in negotiations** (Axios, June 26), and the administration reported being "happier talking to Anthropic lately" — personnel changes appear to have been a meaningful factor in reopening.
+- **Prediction markets were right.** Zvi's June 17 markets gave ~60% restoration by July 1. The June 27 reopening validates the market's read on negotiation dynamics.
+- **The "fix this code" post-mortem vindicated.** Katie Moussouris's revelation (that the trigger was "fix this code" with no capability uplift) and sustained independent analysis appear to have influenced the policy outcome. The system worked: evidence, argument, and diplomatic engagement shifted policy — slowly and opaquely, but they shifted it.
+- **Claude Code v2.1.190** (late June) introduced strings hinting at Fable 5 return with weekly usage quotas — the technical infrastructure for managed access was being built alongside the policy negotiation.
+
+**Implications for the agent revolution:**
+- **Managed access replaces open access.** The agent revolution's original premise — frontier AI available to anyone with an API key — is now: frontier AI available through managed political gates with KYC requirements. This is meaningfully better than a permanent ban, but it's not the open-access model the agent ecosystem was built on.
+- **The negotiation precedent cuts both ways.** The White House can be influenced by evidence and argument — a genuine optimism signal. But restrictions can also be used as negotiating leverage for other concessions, creating future bargaining dynamics around every frontier release.
+- **Access becomes tiered permanently.** The distinction between "select US organizations" and everyone else is now an operational governance architecture, not a temporary emergency measure. The agent revolution will develop along two tracks: those inside the gates with frontier access, and those outside using open-weights and application-layer tools.
+- **Geopolitical fragmentation accelerates.** Europe's sovereign AI push (Steven Levy, WIRED, June 26) and China's geolocation workaround ecosystem (WIRED, June 26) are direct responses to the Gatekeeping Layer. The agent ecosystem is fragmenting along national lines in real time.
+
+Sources: Maxwell Zeff, "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations" (WIRED, June 27, 2026). https://www.wired.com/story/anthropic-restores-access-to-mythos/
+
 ### The Co-Existence Transition (Mollick, June 2026)
 - Ethan Mollick retired the "co-intelligence" frame in favor of "co-existence" — working with AI agents that are *sometimes, but not always, better than you*
 - The agent revolution made the chatbot-era frame obsolete: AI now writes 80% of Anthropic's code, coding agents produce 17x more code
