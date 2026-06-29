@@ -19,6 +19,16 @@ AI is entering family life through multiple channels — school, entertainment, 
 - Monitor children's AI use the same way you monitor their internet use: know what they're accessing, talk about it, set boundaries.
 - Use role-aware AI for family learning: when using AI for homework help, have the AI explain concepts to the parent (who then teaches the child) rather than having the AI tutor the child directly. This preserves the parent's instructional role while using AI as a teaching assistant for the parent — the ParaTutor pattern.
 
+## The Personal AI Adoption Surge (June 2026)
+
+OpenAI's Codex paper (2606.26959, June 25, 2026) reveals that non-developer individual AI agent users multiplied **137x** since August 2025, with organizational non-developer users up 189x. This is the quantitative signature of AI entering personal and family life at scale — not through workplace mandates, but through individual choice. The same agent tools that produce 99.8% of output tokens at OpenAI are now in the hands of individuals whose adoption has grown two orders of magnitude in ten months.
+
+**The awareness gap is widening, not closing.** When the Cambridge empathy gap study was published, the data showed 50% of students using ChatGPT while only 26% of parents were aware. If individual AI agent adoption has grown 137x since then, and parental awareness mechanisms have not kept pace, the gap between what children and families are actually doing with AI and what parents know about it is widening by the month.
+
+**Keystroke dynamics as a family AI signal.** The keystroke dynamics paper (2606.28090) provides an HCI-level lens on how everyday users interact with LLMs: harder tasks produce more keystrokes, slower typing, and increased pauses. This has implications for family AI use: when children interact with AI, keystroke patterns may reveal whether they're thinking through problems (more keystrokes, more pauses) or passively accepting answers (fewer keystrokes, rapid acceptance). Parents can't read children's minds, but they can observe interaction patterns: is the child typing questions, revising prompts, and engaging with the AI — or pasting a single prompt and copying the answer? The keystrokes tell the story.
+
+Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arxiv.org/abs/2606.28090
+
 ## Risks / Limits
 - **Children are AI's most overlooked stakeholders.** Most AI products are designed for adult users with adult judgment. Children lack the cognitive infrastructure to evaluate AI's limitations and treat AI interactions as social relationships.
 - **Local AI sovereignty vs. child safety is a genuine tension.** Gemma 4 12B running locally provides data privacy but makes platform-level content filtering and parental controls impossible to enforce.

@@ -52,6 +52,22 @@ Free tiers are demos — the powerful models that make a real difference are beh
 - **Developer with AI coding agent**: Claude Code handling multi-hour autonomous tasks (2,200+ flight queries, adversarial agent research teams) while the human provides direction and verification
 - **Home server AI**: Running Gemma 4 12B locally to index family documents, summarize personal archives, and answer questions from private data — full data sovereignty
 
+## The Measured Shift: Agentic Adoption Has Data (June 2026)
+
+OpenAI's "The Shift to Agentic AI: Evidence from Codex" (2606.26959, June 25, 2026) provides the first large-scale quantitative evidence of the chatbot-to-agent transition — and the numbers are striking:
+
+- **99.8% of output tokens at OpenAI now come from Codex agents, not ChatGPT.** The chatbot is vestigial; the agent is the primary interface for knowledge work.
+- **98% of OpenAI employees use Codex agents** for work tasks — delegating multi-step, complex jobs rather than asking single questions.
+- **25% of agent tasks exceed eight hours.** These are sustained autonomous workflows, not quick exchanges.
+- **Non-developer individual users multiplied 137x since August 2025;** organizational users 189x. The agent revolution has crossed from developer tool to general knowledge-work infrastructure.
+- **Productivity multipliers:** Legal workers 13x output boost; researchers over 50x.
+
+These metrics transform Practical AI from a set of recommended practices into a measured phenomenon. The question is no longer "can AI agents help with real work?" — it's "who has access to the 50x multiplier, and who's still waiting?"
+
+**The keystroke test for practical engagement:** The keystroke dynamics paper (2606.28090) provides a practical self-check: harder tasks produce more keystrokes, slower typing, and increased pauses. If you notice you're typing LESS as you use AI MORE, it may signal cognitive surrender rather than skill — you're accepting AI output without the wrestling that produces understanding. Countermeasure: draft your own answer first, then ask AI to critique it. The keystrokes are the evidence of your thinking.
+
+Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arxiv.org/abs/2606.28090
+
 ## Risks / Limits
 
 - **The cognitive debt trap**: Every practical AI workflow accumulates unverified reasoning obligations. The Cognitive Debt model (Meng, 2606.15078) shows this is individually rational but collectively fragile — the Minsky moment arrives when subjective confidence is highest.

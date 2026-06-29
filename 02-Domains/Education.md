@@ -40,6 +40,21 @@ Today’s education sources sharpen the practical stance: schools should neither
 - Evaluate tutoring pilots with [[AI Field Experiment Evidence]]: learning gains, time-on-task, student confidence, teacher workload, error escalation, and equity of access.
 - Use TeachAI and MIT TSL materials to create shared school norms before informal student use becomes the de facto policy.
 
+## Predicting Difficulty from Reasoning Traces (June 2026)
+
+The Epi2Diff framework (2606.28186, June 2026) introduces a new capability with direct educational applications: predicting human item difficulty from LLM reasoning traces. The framework maps LLM reasoning traces into cognitively grounded "episode sequences" — grouping trace segments into functional problem-solving states (comprehension, planning, implementation, verification) — and uses the dynamics between these states to predict how difficult human learners will find the same items.
+
+**Key findings:**
+- Epi2Diff achieved an **8.1% average relative gain** over supervised LLM fine-tuning baselines on SAT-derived classification benchmarks.
+- **Harder items induce more effortful, iterative, and implementation-centered episode dynamics** — not merely longer responses. The structure of reasoning, not its length, predicts difficulty.
+- The framework extracts compact features: reasoning scale, effort allocation, and state transition patterns.
+
+**Why this matters for education:** This is an agency amplifier for teachers and assessment designers, not a replacement. The framework can predict which test items or practice problems students will find difficult BEFORE those items reach human learners — enabling preemptive scaffolding, difficulty calibration, and misconception anticipation. Critically, the predictions are interpretable: you can see WHY an item is predicted to be hard (e.g., it requires multiple state transitions between planning and implementation) rather than just receiving a difficulty score. This interpretability is what distinguishes it from a black-box difficulty predictor — it gives educators actionable information about the cognitive demands of their materials.
+
+**Connection to AI tutoring:** Combined with the TEI framework (2605.30666, which measures tutoring quality from four conversation signals) and the correct-answer-trap finding (2605.23925, which showed AI tutors miss flawed reasoning when answers are correct), Epi2Diff adds the pre-emptive dimension: predict difficulty before the student struggles, rather than diagnosing struggle after it happens.
+
+Source: https://arxiv.org/abs/2606.28186
+
 ## Risks / Limits
 - Students can outsource cognition unless assignments reward process, defense, revision, and metacognition.
 - Tools may leak student data or create surveillance dynamics if districts do not set procurement and retention rules.

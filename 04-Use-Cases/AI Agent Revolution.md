@@ -216,6 +216,22 @@ The landmark empirical progress report on workplace agents. Styles (2606.13715) 
 
 **Superagency connection:** This is the strongest empirical evidence yet that agent safety is an architectural choice, not a capability ceiling. The design patterns that make agents more reliable at tasks also make them safer. The open-weight cost collapse further validates the home-server AI thesis. Source: https://arxiv.org/abs/2606.13715
 
+### The Measured Shift: Codex Quantitative Evidence (June 2026)
+
+OpenAI's "The Shift to Agentic AI: Evidence from Codex" (2606.26959, June 25) provides the first large-scale quantitative evidence of the chatbot-to-agent transition, with metrics that validate and extend the WorkBench findings:
+
+- **99.8% of internal output tokens now come from Codex agents, not ChatGPT.** The chatbot is vestigial inside OpenAI — the agent is the primary interface.
+- **98% of OpenAI employees use Codex agents** for work tasks, delegating multi-step jobs rather than asking single questions.
+- **25% of agent tasks exceed eight hours.** Sustained autonomous workflows, not quick exchanges — agents don't just respond, they execute.
+- **Non-developer adoption explosion:** Individual users 137x since August 2025; organizational users 189x. The agent revolution has crossed the developer-to-knowledge-worker chasm.
+- **Productivity multipliers:** Legal workers 13x output boost; researchers over 50x.
+
+**The data gives the agent revolution an empirical baseline.** The WorkBench data shows agents going from 43% to 89% task completion in two years. The Codex data shows the internal adoption curve: from near-zero agent usage to 99.8% of output tokens. Together, these paint a picture of a transition that is both technically real (WorkBench completion rates) and behaviorally adopted (Codex usage metrics). The gap between these two — what agents CAN do vs. what people actually USE them for — is the adoption frontier, and it's closing fast.
+
+**The Gatekeeping Layer tension:** The Codex data was published on June 25 — the same week the White House requested OpenAI stagger GPT-5.6's release customer-by-customer. The Measured Shift shows what happens INSIDE the gates: 99.8% agent output share, 137x non-developer growth. The Gatekeeping Layer (see digest June 27-28) determines who gets THROUGH the gates. The combined picture: agency amplification is real and measured where access exists; agency distribution is political where access is gated.
+
+Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arxiv.org/abs/2606.26959
+
 ### Import AI #461: Alignment Not on Track; Sequent Launch (June 15, 2026)
 Jack Clark's newsletter reports three developments:
 
