@@ -84,6 +84,22 @@ Mirowski et al. (2606.14411) built and evaluated Fabula, an interactive fiction-
 ### GenUI: Rethinking AI-Powered Design Exploration (June 2026)
 Chen et al. (2606.13843) ran a comparison study with 24 UX designers and product managers using two AI design tools: a conventional depth-first, high-fidelity GenUI tool (like ChatGPT for UI mockups) and a contrastive breadth-first, low-fidelity, structured-input tool. Key findings: (1) structured input surfaces key facets but raises the barrier to starting; (2) breadth-first workflows reveal more possibilities but previewing multi-screen ideas remains hard; (3) professionals favor high fidelity because GenAI heightens fidelity expectations, even though low fidelity has real exploratory value. **Relevance for writers:** The same design tension applies to AI writing. Freeform chat invites exploration but masks structure. Structured scaffolding (narrative plans, beat-level iteration) requires more upfront work but produces better exploration. The tool that makes writing feel easiest may be the worst for developing craft. Source: https://arxiv.org/abs/2606.13843
 
+### Four Types of LLM Reliance Among Writers (June 2026)
+
+A mixed-methods study at a minority-serving R1 university (arXiv 2606.28749) identifies four distinct patterns of LLM reliance among undergraduate writers, revealing that "AI reliance" is not one behavior but a taxonomy:
+
+1. **Minimal/Strategic Reliance:** Deliberate, bounded use for specific tasks. Writers who use AI to check grammar, generate alternatives for a specific sentence, or simulate a reader — but who do their own drafting and thinking. This maps to Mode B (AI as Co-Pilot).
+
+2. **Efficiency-Driven Reliance:** Heavy use to save time, often substituting AI output for drafting. These writers aren't avoiding thinking — they're optimizing for throughput. The risk is that efficiency becomes the only metric, and craft development is deferred indefinitely.
+
+3. **Anxiety-Driven Reliance:** Reliance born from writing insecurity, not laziness. These writers turn to AI because they fear their own writing is inadequate. The AI becomes a safety behavior — and like many safety behaviors, it prevents the exposure that would build genuine confidence. Intervention here requires addressing the anxiety, not just teaching "better prompting."
+
+4. **Identity-Protective Reliance:** Use patterns that preserve the writer's sense of authorship. These writers use AI heavily but construct narratives about their process that maintain their identity as writers. The gap between actual AI use and self-reported authorship is the defining feature.
+
+The taxonomy matters for the Superagency thesis: different reliance patterns require different interventions. Telling an anxiety-driven writer to "be more intentional" is ineffective without addressing the underlying insecurity. Telling an efficiency-driven writer that "writing is thinking" is ineffective without changing the incentive structure that rewards output volume over quality. One-size-fits-all AI literacy fails — the interventions must match the reliance pattern.
+
+This also reframes the Mode A / Mode B distinction. Mode A vs. Mode B is about *what the writer does*. The Four Types taxonomy adds *why the writer does it* — and the "why" determines which interventions will work. A writer in Mode A because of anxiety needs different support than a writer in Mode A because of efficiency incentives. Source: https://arxiv.org/abs/2606.28749
+
 ## Related Pages
 - [[Creativity]]
 - [[AI as Copilot]]

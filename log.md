@@ -649,3 +649,38 @@
 - Source-library updates deferred: cumulative backlog continuing. Flagged for catch-up.
 
 - Today's theme — "The Measured Shift" — extends the weekend's governance arc (Gatekeeping -> Reopening) into the empirical domain. The Gatekeeping Layer determines who gets through the gates. The Measured Shift shows what happens inside: 99.8% agent output share, 137x non-developer growth, 50x research multipliers. The Superagency question now has data on both sides of the gate: agency amplification is real and measured where access exists; agency distribution is political where access is gated. The synthesis: we can now measure the thing we've been debating. That changes the debate.
+## [2026-06-30] update | Tuesday daily AI curator run — The Persuasion Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-30]] anchored on "The Persuasion Layer" — AI empirically shown to out-persuade expert humans (10.8pp more real-money donations than professional canvassers with 7 years experience). The mechanism is information volume, not rhetorical sophistication. Five primary sources: 2 arXiv (Four Types of LLM Reliance 2606.28749, Epistemic Proactivity 2606.28472), 3 non-arXiv (Zvi WSJ debunk June 29, Import AI #463 June 29, Oxford/Stanford/AISI persuasion study via Import AI). Primary anchor: Zvi Mowshowitz, "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense" (June 29) and Import AI #463.
+
+- Updated [[Public Trust and AI]] — Added Media Distortion and the Gell-Mann Amnesia Problem section documenting the WSJ headline debunk and the meta-trust problem of elite media distortion of AI capabilities. Added Zvi's June 29 WSJ piece to Best Supporting Sources. Page was 7 days stale (last touched June 23).
+
+- Updated [[AI and Inequality]] — Added The Persuasion Asymmetry section: AI can out-persuade expert humans through information volume, creating a new dimension of inequality — persuasion access inequality. Who controls AI persuasion capability determines whether it narrows or widens existing gaps. Page was 9 days stale (last touched June 21).
+
+- Updated [[AI Writing Partners]] — Added Four Types of LLM Reliance Among Writers taxonomy (arXiv 2606.28749): Minimal/Strategic, Efficiency-Driven, Anxiety-Driven, Identity-Protective. Different reliance patterns require different interventions — one-size-fits-all AI literacy fails. Page was 15 days stale (last touched June 15).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 30), refreshed staleness tracker (Public Trust and AI moved from 5-7 days to fresh; AI and Inequality moved from 5-7 days to fresh; AI Writing Partners moved from 5-7 days to fresh; 8+ day bucket now ~2 pages: AI and Creator Rights, Home Server AI Agents; 5-7 day bucket ~5 pages), bumped page count to 78, today's digest quick link.
+
+- Recommended 3 new pages: The Persuasion Asymmetry (Concept), Information Volume as Persuasion (Concept), Media Distortion in the AI Race (Concept).
+
+- Source diversity met: 2 arXiv + 3 non-arXiv = 40## [2026-06-30] update | Tuesday daily AI curator run — The Persuasion Layer
+
+- Created [[Daily AI Agency Digest — 2026-06-30]] anchored on "The Persuasion Layer" — AI empirically shown to out-persuade expert humans (10.8pp more real-money donations than professional canvassers with 7 years experience). The mechanism is information volume, not rhetorical sophistication. Five primary sources: 2 arXiv (Four Types of LLM Reliance 2606.28749, Epistemic Proactivity 2606.28472), 3 non-arXiv (Zvi WSJ debunk June 29, Import AI #463 June 29, Oxford/Stanford/AISI persuasion study via Import AI). Primary anchor: Zvi Mowshowitz, "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense" (June 29) and Import AI #463.
+
+- Updated [[Public Trust and AI]] — Added Media Distortion and the Gell-Mann Amnesia Problem section documenting the WSJ headline debunk and the meta-trust problem of elite media distortion of AI capabilities. Added Zvi's June 29 WSJ piece to Best Supporting Sources. Page was 7 days stale (last touched June 23).
+
+- Updated [[AI and Inequality]] — Added The Persuasion Asymmetry section: AI can out-persuade expert humans through information volume, creating a new dimension of inequality — persuasion access inequality. Who controls AI persuasion capability determines whether it narrows or widens existing gaps. Page was 9 days stale (last touched June 21).
+
+- Updated [[AI Writing Partners]] — Added Four Types of LLM Reliance Among Writers taxonomy (arXiv 2606.28749): Minimal/Strategic, Efficiency-Driven, Anxiety-Driven, Identity-Protective. Different reliance patterns require different interventions — one-size-fits-all AI literacy fails. Page was 15 days stale (last touched June 15).
+
+- Updated [[Home]] navigation with new digest link, recent updates row (June 30), refreshed staleness tracker (Public Trust and AI moved from 5-7 days to fresh; AI and Inequality moved from 5-7 days to fresh; AI Writing Partners moved from 5-7 days to fresh; 8+ day bucket now ~2 pages: AI and Creator Rights, Home Server AI Agents; 5-7 day bucket ~5 pages), bumped page count to 78, today's digest quick link.
+
+- Recommended 3 new pages: The Persuasion Asymmetry (Concept), Information Volume as Persuasion (Concept), Media Distortion in the AI Race (Concept).
+
+- Source diversity met: 2 arXiv + 3 non-arXiv = 40% paper, 60% non-paper. Non-paper types: Newsletter/analysis (Zvi ×1), Research digest (Import AI), Research paper covered via newsletter (Oxford/Stanford/AISI persuasion study).
+
+- Tuesday (weekday): arXiv published, but curatable papers were thin (primarily earlier cycle papers appearing in feeds). Non-arXiv discovery: Zvi's June 29 WSJ piece was the strongest anchor — same-day coverage of a major misinformation event in AI reporting. Import AI #463 (June 29) was the strongest multi-topic source. Mollick RSS unchanged since June 9 (What it feels like to work with Mythos). Zvi's June 28 GPT-5.6 System Card already covered in yesterday's digest. Stratechery's last AI post June 24 (Vibe Coding Adventure, covered June 27). web_extract was unavailable (401 errors on 2 attempts — hard pivot to curl RSS extraction per llm-wiki fallback pattern).
+
+- Source-library updates deferred: cumulative backlog continuing. ~5 new sources need entries and sources.jsonl records. Flagged for catch-up.
+
+- Theme: The Persuasion Layer extends the governance arc (Gatekeeping → Reopening → Measured Shift → Persuasion) with empirical foundation. The Oxford/Stanford/AISI study establishes that AI's persuasive advantage is real, measurable, and operates through information volume — it's not "better rhetoric," it's "more information, faster." The WSJ debunk parallels this at the institutional level: misleading headlines about AI capabilities cascade through media faster than corrections. The Superagency thesis survives this finding — cheap, widely available AI persuasion could genuinely help under-resourced actors — but the default trajectory (gated frontier models, API pricing, political gatekeeping) favors concentration. The persuasion layer makes explicit what was always implicit in the Superagency debate: AI agency amplification is real; who controls it is political.
