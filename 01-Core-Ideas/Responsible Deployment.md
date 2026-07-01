@@ -62,6 +62,40 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - **Deployment implication:** Every organization deploying AI agents should benchmark against the D1-D4/R1-R3 matrix. If your agents operate at R1 (async review) on high-stakes actions, you have a control gap. The three live metrics — coverage (what fraction of agent traffic is monitored), recall (what fraction of misaligned behaviors are caught), and time-to-response — should be tracked for every agent deployment with access to critical systems or sensitive data.
 - Sources: [DeepMind AI Control Roadmap](https://deepmind.google/blog/securing-the-future-of-ai-agents/), [Three Layers of Agent Security companion](https://deepmind.google/blog/three-layers-of-agent-security/), [Tech Times analysis](https://www.techtimes.com/articles/318758/20260620/google-deepmind-ai-control-roadmap-when-alignment-fails-defense-depth-takes-over.htm)
 
+### The Transparency Illusion: Artefact Compliance vs. Stakeholder Calibration (July 2026)
+
+New research on AI transparency (arXiv 2606.30652, July 2026) identifies a governance failure pattern that is already widespread but poorly diagnosed: **the transparency illusion.** Organizations produce transparency artefacts — model cards, documentation, compliance reports — that satisfy governance requirements on paper. But these artefacts are calibrated to satisfy regulators and auditors, not to inform the stakeholders who bear the actual risk.
+
+The study's **RCIN framework** (Risk-Control-Involvement-Need) measures transparency along four dimensions:
+- **Risk exposure** — who bears the consequences when the AI fails
+- **Control** — who can actually change the AI's behavior
+- **Involvement** — who participates in deployment decisions
+- **Need for information** — whose decisions depend on understanding the AI
+
+The finding: transparency artefacts are consistently calibrated to stakeholders with high Control and Involvement (regulators, auditors, deployers) and consistently miscalibrated to stakeholders with high Risk and Need (end users, affected communities, downstream workers). This is the governance gap: the people who most need to understand the AI are the least informed by current transparency practices.
+
+**Deployment implication:** Every responsible deployment should run an RCIN calibration audit — map your transparency outputs (what you document and publish) against the RCIN dimensions (who bears risk, who needs to know). If your transparency artefacts score high on Control/Involvement and low on Risk/Need, you have the transparency illusion. Fix: supplement compliance-grade transparency with stakeholder-grade transparency — documentation written for the people whose agency is affected by the system.
+
+- Source: arXiv 2606.30652 — The Transparency Illusion
+
+### The Consistency Dilemma: Self-Consistency Increases Vulnerability (July 2026)
+
+A counterintuitive finding from arXiv 2606.30653 (July 2026) challenges a core assumption in responsible deployment: **more self-consistent models are more vulnerable to mistakes.** Models that produce consistent answers across multiple runs create a false sense of reliability — the consistency masks the model's confusion. Lower-consistency models, by surfacing their uncertainty through varied outputs, actually provide better signals to human reviewers.
+
+**The deployment trap:** Organizations naturally gravitate toward self-consistent models because they appear more reliable. \"The model always gives the same answer\" feels like safety. But the research shows that consistency is achieved by suppressing the model's internal uncertainty signals — the very signals that would alert a human reviewer to check the output.
+
+**Deployment implication:** Model evaluations should measure consistency *and* calibration, not consistency alone. A model that gives the same wrong answer 10 times is more dangerous than a model that gives 7 different answers (some right, some wrong), because the latter triggers human scrutiny while the former induces complacency. For high-stakes deployment decisions, prefer models that surface their uncertainty, not suppress it. If a model is too self-consistent, add deliberate perturbation — multiple runs with slightly different prompts — to reveal hidden brittleness before deployment.
+
+- Source: arXiv 2606.30653 — The Consistency Dilemma
+
+### AgentBound: Verifiable Governance Extends the Control Roadmap (July 2026)
+
+The AgentBound framework (arXiv 2606.30970) extends DeepMind's AI Control Roadmap (June 18) by adding **cryptographically verifiable governance receipts** as a new capability layer. Where the Control Roadmap adds Detection (D1-D4) and Response (R1-R3) alongside alignment, AgentBound adds **Verification:** every governance decision produces a receipt that binds the action to the specific delegation, policy, and semantic artefacts that governed it. This enables independent replay verification — an auditor can reproduce the governance decision and confirm it was correct.
+
+For organizations preparing for the EU AI Act's August 2, 2026 enforcement date, AgentBound's verifiable receipts provide a concrete compliance primitive: governance that can be audited after the fact with cryptographic certainty, rather than governance that must be trusted based on process documentation. The combination of DeepMind's Control Roadmap (detection and response) with AgentBound's verifiable governance (provenance and replay) provides the most complete deployment governance architecture currently available in the literature.
+
+- Source: arXiv 2606.30970 — AgentBound
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[AI Agent Revolution]]

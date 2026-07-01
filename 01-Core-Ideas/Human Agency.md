@@ -90,6 +90,20 @@ The practical agency test: for any given task, is the bottleneck the Gatekeeping
 - Source: https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release
 - Source: https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house
 
+### Preference Construction: Agency Isn't Just Execution (July 2026)
+
+The CoPref/CoShop framework (arXiv 2606.30863, July 2026) formalizes a fundamental agency insight that the wiki has tracked implicitly: **agency is not just about executing known preferences — it's about discovering what you want in the first place.**
+
+The study challenges the standard assumption in AI agent design that users have "well-formed preferences" and agents just need to elicit them through clarifying questions. Real users, the authors argue, often lack the domain knowledge to have fully specified preferences. If an agent asks "do you prefer feature X or feature Y?" and the user has never encountered either, the question is unanswerable until the agent helps the user *learn enough to form a preference.*
+
+Drawing on the Search-Experience-Credence framework from Information Economics, the study introduces **CoPref** — a model of how users construct preferences through agent dialog actions — and **CoShop**, a benchmark where agents must converse with and make recommendations for users who are still forming their preferences. The result: no frontier model exceeds 56% accuracy, even with five turns of interaction. The failure mode isn't finding items — it's that **the interaction doesn't expand what users know about what they want.**
+
+**Superagency implication:** This is the theoretical mechanism for [[Superagency]] at the interaction level. AI that only executes known goals amplifies agency for people who already know what they want (expert users). AI that helps construct preferences amplifies agency for everyone else — which is most people, most of the time, in domains they're not experts in. The difference between "tell me what you want" and "let me help you discover what you want" is the difference between agency for the already-empowered and agency for everyone.
+
+This also connects to the **Organizational Behavior** finding (2606.30986): agent collectives organized around context architecture (not motivation) can jointly support collective intelligence — but only if the context architecture includes preference-discovery capabilities, not just preference-execution capabilities.
+
+- Source: arXiv 2606.30863 — CoPref/CoShop: Beyond Expert Users
+
 ### The Ground-Truth Counterweight: Anthropic Economic Index Cadences (June 2026)
 
 While Washington debates who should access frontier AI, Anthropic's Economic Index Cadences report (June 26, 2026) provides the counter-narrative: ground-truth data on how actual people, in their actual work, are actually using AI.

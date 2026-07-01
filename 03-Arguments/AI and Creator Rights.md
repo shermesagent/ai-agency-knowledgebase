@@ -38,6 +38,22 @@ A fiduciary design approach to creative AI would require: (1) creator consent fo
 - **DeviantArt's DreamUp**: An AI image generator that allows artists to opt out of having their work used for training.
 - **The EU AI Act's transparency requirements**: While not creator-specific, the Act's requirements for disclosing AI-generated content create a regulatory hook for provenance and attribution that could be extended to creator consent.
 
+## How AI Agents Handle Creative Characters (July 2026)
+
+New research on how AI agents handle character roles reveals an insight directly relevant to creator rights: **loose, adaptive agent guardrails outperform strict scripted boundaries** when characters face unexpected prompts.
+
+The "Conference of the Agents" study (arXiv 2606.30649, July 2026) built a simulated conference where AI agents role-played as NPCs with distinct pre-defined goals, then systematically tested them with adversarial and out-of-character prompts:
+
+- **Strict character scripting backfires under adversarial pressure.** Agents with rigid behavioral scripts broke character more easily when challenged because they had no mechanism to *adapt while staying in role*. Their strictness became brittleness.
+- **Loose, adaptive guardrails preserve character integrity better.** Agents given general character descriptions with adaptive conversational latitude maintained role coherence under pressure, even when confronted with prompts designed to break them.
+- **The agency insight:** When a creator's character becomes an AI agent (Cuppy, a voice assistant, a narrative character), the creator's control mechanism matters profoundly. Strict scripting — "Cuppy must always say X and never say Y" — is the intuitive creator-rights demand. But it's also the brittle strategy. The robust strategy — adaptive guardrails that allow latitude while preserving core character values — requires more sophisticated creator tools and more nuanced licensing agreements.
+
+This connects to the **preference construction** finding (arXiv 2606.30863): creators, like all users, don't always know what they want their characters to do until they see it. An AI agent that only executes pre-scripted character behaviors can't help a creator discover new creative possibilities for their own character. An agent with adaptive guardrails can. The creator-rights question isn't just "who controls the character?" but "what kind of control enables the creator to discover what they want?"
+
+**Practical implication:** Creator-rights agreements for AI character use should distinguish between (1) strict scripting rights (the creator defines all outputs), (2) adaptive guardrail rights (the creator defines character values and boundaries, the AI handles on-brand adaptation), and (3) open remix rights (the AI can reinterpret the character freely). The Conference of the Agents finding suggests that option (2) — adaptive guardrails — produces both better creative output AND better character integrity under pressure. But it also requires creators to have tools and platforms that support this level of control granularity, which most current licensing agreements don't contemplate.
+
+- Source: arXiv 2606.30649 — NPC agents in simulated creative conference environments
+
 ## Risks / Limits
 - **Licensing is a blunt instrument**: Creator consent requirements could prevent transformative uses that genuinely expand creative possibility. Fair use and remix culture have value.
 - **The power asymmetry is baked in**: Most creators sign away rights early in their careers because they lack leverage. Fiduciary design for creators requires changing the default power structure, not just adding consent checkboxes.

@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[Daily AI Agency Digest — 2026-06-30]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-29]] (The Measured Shift) · [[Daily AI Agency Digest — 2026-06-28]] (The Reopening Layer) · [[Daily AI Agency Digest — 2026-06-27]] (The Gatekeeping Layer) · [[Daily AI Agency Digest — 2026-06-26]] (The Governance Inversion Layer) · [[Daily AI Agency Digest — 2026-06-25]] (The Shaping Layer) · [[Daily AI Agency Digest — 2026-06-24]] (The Epistemic Integrity Layer) · [[Daily AI Agency Digest — 2026-06-23]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-22]] (The Control Layer) · [[Daily AI Agency Digest — 2026-06-21]] (Pass 1: The Engagement Gap) · [[Daily AI Agency Digest — 2026-06-21 (Curator Pass 2)]] (Pass 2: The Adoption Ladder) · [[Daily AI Agency Digest — 2026-06-20]] (The Diffusion Layer) · [[Daily AI Agency Digest — 2026-06-19]] (The Rules of Engagement) · [[Daily AI Agency Digest — 2026-06-18]] (The Architecture of Legitimacy) · [[Daily AI Agency Digest — 2026-06-17]] (The Design of Care) · [[Daily AI Agency Digest — 2026-06-16]] (The Debt We Don't See) · [[Daily AI Agency Digest — 2026-06-14]] (The Export Governance Shock) · [[Daily AI Agency Digest — 2026-06-13]] (The Recursive Turn) · [[Daily AI Agency Digest — 2026-06-12]] (The Infrastructure of Continuity) · [[Daily AI Agency Digest — 2026-06-11]] (The Access Architecture) · [[Daily AI Agency Digest — 2026-06-10]] (The Normative Turn) · [[Daily AI Agency Digest — 2026-06-09]] (The Agency Architecture) · [[Daily AI Agency Digest — 2026-06-08]] (The Alignment-Reality Gap) · [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
+→ [[Daily AI Agency Digest — 2026-07-01]] (The Organizational Layer) · [[Daily AI Agency Digest — 2026-06-30]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-29]] (The Measured Shift) · [[Daily AI Agency Digest — 2026-06-28]] (The Reopening Layer) · [[Daily AI Agency Digest — 2026-06-27]] (The Gatekeeping Layer) · [[Daily AI Agency Digest — 2026-06-26]] (The Governance Inversion Layer) · [[Daily AI Agency Digest — 2026-06-25]] (The Shaping Layer) · [[Daily AI Agency Digest — 2026-06-24]] (The Epistemic Integrity Layer) · [[Daily AI Agency Digest — 2026-06-23]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-22]] (The Control Layer) · [[Daily AI Agency Digest — 2026-06-21]] (Pass 1: The Engagement Gap) · [[Daily AI Agency Digest — 2026-06-21 (Curator Pass 2)]] (Pass 2: The Adoption Ladder) · [[Daily AI Agency Digest — 2026-06-20]] (The Diffusion Layer) · [[Daily AI Agency Digest — 2026-06-19]] (The Rules of Engagement) · [[Daily AI Agency Digest — 2026-06-18]] (The Architecture of Legitimacy) · [[Daily AI Agency Digest — 2026-06-17]] (The Design of Care) · [[Daily AI Agency Digest — 2026-06-16]] (The Debt We Don't See) · [[Daily AI Agency Digest — 2026-06-14]] (The Export Governance Shock) · [[Daily AI Agency Digest — 2026-06-13]] (The Recursive Turn) · [[Daily AI Agency Digest — 2026-06-12]] (The Infrastructure of Continuity) · [[Daily AI Agency Digest — 2026-06-11]] (The Access Architecture) · [[Daily AI Agency Digest — 2026-06-10]] (The Normative Turn) · [[Daily AI Agency Digest — 2026-06-09]] (The Agency Architecture) · [[Daily AI Agency Digest — 2026-06-08]] (The Alignment-Reality Gap) · [[Daily AI Agency Digest — 2026-06-07]] (Human Readiness & Reality Check) · [[Daily AI Agency Digest — 2026-06-06]] (Agentic Infrastructure & Small Business) · [[Daily AI Agency Digest — 2026-06-05]] (Human Oversight Gap & Agent Benchmarks) · [[Daily AI Agency Digest — 2026-06-04]] (Pass 1: Agency Architecture & Entrepreneurship) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 2)]] (Pass 2: Governance & Co-Existence) · [[Daily AI Agency Digest — 2026-06-04 (Curator Pass 3)]] (Pass 3: Democratization & Digital Divides) · [[Daily AI Agency Digest — 2026-06-03]] · [[Daily AI Agency Digest — 2026-06-02]] (Pass 1, Creativity & Writing) · [[Daily AI Agency Digest — 2026-06-02 (Curator Pass 2)]] (Work & Labor) · [[Daily AI Agency Digest — 2026-06-01]] · [[Daily AI Agency Digest — 2026-05-31]] · [[Daily AI Agency Digest — 2026-05-30]] · [[Daily AI Agency Digest — 2026-05-29]]
 
 ---
 
@@ -66,6 +66,7 @@ _Last 14 days of Git activity. Latest commits first._
 
 || Date | Pages Changed |
 ||------|---------------|
+|| 2026-07-01 | AI and Creator Rights, Home Server AI Agents, Human Agency, Responsible Deployment, Home |
 ||| 2026-06-30 | Public Trust and AI, AI and Inequality, AI Writing Partners, Home |
 || 2026-06-29 | Practical AI, Family and Personal Life, Education, AI Agent Revolution, Home |
 | 2026-06-27 | Creativity, Human Agency, Superagency, Work, Home |
@@ -121,9 +122,10 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 �
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~2 pages | AI and Creator Rights (last touched ~June 2), Home Server AI Agents (last touched June 14) |
-| 5–7 days | ~5 pages | AI Tutors, Task-Level AI Adoption, Agentic Workflow Patterns, Healthcare, Democratization of Expertise |
-| < 5 days | ~65 pages | Actively curated (today: Public Trust and AI, AI and Inequality, AI Writing Partners moved to fresh; yesterday: Practical AI, Family and Personal Life, Education, AI Agent Revolution) |
+| 37+ days | ~6 pages | AI as Normal Technology (May 24), Compute and Agency (May 24), Positive Alignment (May 25), Agentic Convergence Trap (May 26), Agentic Technical Debt (May 29), Dissociative Agent Governance (May 29) |
+| 8+ days | ~8 pages | Magnifica Humanitas, Frontier Firm, Leadership Lab Crowd Model, Future of Work, Entrepreneurship, AI and Human Flourishing, Parallel Orchestration, The Turing Trap |
+| 5–7 days | ~4 pages | AI Tutors, Task-Level AI Adoption, Agentic Workflow Patterns, Healthcare |
+| < 5 days | ~60 pages | Actively curated (today: AI and Creator Rights, Home Server AI Agents, Human Agency, Responsible Deployment moved to fresh; yesterday: Public Trust and AI, AI and Inequality, AI Writing Partners) |
 
 ---
 
@@ -131,7 +133,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24 �
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-06-30|Today's Digest]] · [[00-Daily-Digests/2026-06-29|Yesterday]]
+- [[00-Daily-Digests/2026-07-01|Today's Digest]] · [[00-Daily-Digests/2026-06-30|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

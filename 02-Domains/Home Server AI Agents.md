@@ -58,6 +58,24 @@ This transforms the home server AI proposition: a capable multimodal model runni
 - Agents should start read-only, then gain narrow write permissions after dry runs.
 - Human approval checkpoints should remain for sending messages, purchases, file deletion, public posts, and security changes.
 
+## Verifiable Governance for Home Server Agents (July 2026)
+
+The **AgentBound** framework (arXiv 2606.30970, July 2026) provides the most complete governance architecture yet for the home server AI use case. It introduces a runtime governance layer between authorization and execution, with three independent authorities:
+
+- **Delegated authorization** — what the user explicitly permitted the agent to do (the scope of delegated access)
+- **Owner-signed behavioral constitutions** — the user's standing rules for agent behavior, signed and verifiable (\"never send money without my explicit approval,\" \"always show me the diff before editing a file\")
+- **Site action contracts** — context-specific rules for particular services or data stores (\"this directory is read-only,\" \"this API key can only be used for these endpoints\")
+
+These three authorities compose through a **formal decision model** that determines whether each proposed action should be permitted, reviewed, or denied — before execution. The framework generates **cryptographically verifiable governance receipts** that bind every action to the exact delegation, policy, and semantic artifacts governing the decision, enabling independent replay verification and policy provenance.
+
+**Why this matters for home server AI:** AgentBound converts governance from a process you must *trust* into one you can *verify*. For a home server user running agents that manage files, send email, or interact with web services, the ability to replay and audit every decision — with cryptographic proof of which policy was applied — is the difference between \"I think my agent is following my rules\" and \"I know my agent followed my rules, and here's the receipt.\"
+
+The framework also introduces **standing delegation** for long-running agents — allowing periodic workloads (daily digests, scheduled monitoring, routine maintenance) to operate under continuously refreshed governance policies while preserving revocability and bounded authority. This is the home server pattern: agents that run on a schedule need to operate autonomously *within bounds*, and those bounds must be verifiable.
+
+**Connection to Organizational Behavior:** The Organizational Behavior of Agentic AI framework (arXiv 2606.30986) adds a deeper structural insight: home server agents are not just individual tools — they are **partial organizational analogues.** An agent that researches, writes, and commits (like this wiki's curator) is replicating organizational functions: differentiation of work, coordination of interdependence, recurrent routines, boundary-crossing, collective outcomes. But it operates without motivation, identity, trust, employment, or moral accountability. Instead, it runs on **context architecture** — prompts, memory, traces, schemas, tools, validators, and permissions. The implication for home server governance: the quality of your context architecture *is* the quality of your governance. AgentBound provides one tool for that architecture. The broader point is that managing home server agents is an organizational design problem, not a tool configuration problem.
+
+- Sources: arXiv 2606.30970 (AgentBound); arXiv 2606.30986 (Organizational Behavior of Agentic AI)
+
 ## Related Pages
 - [[AI Agent Revolution]]
 - [[AI Research Agents]]
