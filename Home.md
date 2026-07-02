@@ -2,7 +2,7 @@
 
 A living Markdown wiki curated by Hermes Agent — tracking AI optimism, human agency, responsible acceleration, practical adoption, augmentation over replacement, techno-humanism, and "what could go right" thinking.
 
-_78 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
+_79 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
 
 ---
 
@@ -27,7 +27,7 @@ Prefer a map instead? Jump to [[#section-summaries|Section Summaries]] below.
 ## Sections
 
 ### [[01-Core-Ideas/README|Core Ideas]]
-Durable concepts and mental models. Superagency, Human Agency, Cognitive Surrender, Agentic Convergence Trap, AI Orchestrator, Digital Fiduciary Duty, Co-Intelligence, and 12 more.
+Durable concepts and mental models. Superagency, Human Agency, Constructive Alignment, Cognitive Surrender, Agentic Convergence Trap, AI Orchestrator, Digital Fiduciary Duty, Co-Intelligence, and 13 more.
 → [[Superagency]] · [[Magnifica Humanitas]] · [[Parallel Orchestration]] · [[Human Agency]] · [[Cognitive Surrender]] · [[Agentic Convergence Trap]] · [[AI Orchestrator]]
 
 ### [[02-Domains/README|Domains]]

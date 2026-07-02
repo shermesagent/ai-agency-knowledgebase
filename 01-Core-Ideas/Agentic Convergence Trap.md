@@ -23,6 +23,14 @@ For the Superagency framework, this is a crucial warning: deploying AI without d
 - **Mitigation difficulty:** Maintaining strategic variation requires deliberate governance processes that go against the efficiency logic that justified AI adoption in the first place. Organizations must be willing to accept some "inefficiency" in exchange for differentiation.
 - **Not always bad:** Some convergence (e.g., on safety standards, accessibility practices, compliance) is desirable. The trap applies specifically to strategic differentiation that creates value through uniqueness.
 
+## Bounded vs. Unbounded Capability Metrics (July 2026)
+
+Fogelson, Thompson, and colleagues (arXiv 2607.00913) add a mathematical dimension to the convergence trap. "Two AI Metrics Diverged" shows that whether frontier AI concentrates in few hands depends on how capability is measured. **Bounded metrics** (those with ceilings) always favor "meek models" — budget-constrained systems catch up to frontier systems over time. **Unbounded metrics** (capabilities like software engineering, synthetic biology, or rhetorical persuasiveness) concentrate in frontier hands forever — the rich get richer.
+
+This means the convergence trap isn't uniform across all domains. In bounded-domains (routine analysis, standardized reporting, compliance), AI-driven convergence is the risk — everyone ends up the same. In unbounded domains (strategic innovation, scientific discovery, political persuasion), AI-driven concentration is the risk — a few actors pull away. Organizations and policymakers need to know which domains they're operating in.
+
+Source: https://arxiv.org/abs/2607.00913
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Frontier Firm]]
@@ -30,6 +38,7 @@ For the Superagency framework, this is a crucial warning: deploying AI without d
 - [[Agency Expansion Framework]]
 - [[AI and Inequality]]
 - [[Optimism Without Naivety]]
+- [[Constructive Alignment]]
 
 ## Tags
 #ai-agents #governance #counterarguments #future-of-work #risk

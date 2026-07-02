@@ -73,5 +73,15 @@ Source: https://arxiv.org/abs/2606.28186
 - [[Human Review Checkpoints]]
 - [[Agentic Literacy Debt]]
 
+## Epistemic AI Literacy: The 11.1% Benchmark (July 2026)
+
+The EAIL framework (arXiv 2607.00211) reframes AI literacy as a process-oriented epistemic phenomenon. Studying student-AI co-programming at scale, researchers identified observable dimensions: mastery-oriented aims, outsourcing, explanation-seeking, verification-seeking, prompt monitoring, and epistemic justification.
+
+**The headline finding: only 11.1% of student-GenAI interactions showed high epistemic engagement.** 78.8% relied on non-mastery-oriented aims and unreliable strategies like outsourcing and verification-seeking. This provides a benchmark against which AI literacy interventions can be measured — and a warning that widespread AI adoption WITHOUT epistemic skill development may produce a generation that outsources their cognitive development.
+
+The framework distinguishes itself from self-report literacy scales by measuring process-level data: not what students *say* they do, but what they *actually* do in AI interactions. Combined with the Mittal et al. field experiment (2606.11669, showing chat interfaces reduce learning) and the TEI framework (2605.30666, measuring tutoring quality), EAIL adds the diagnostic layer: we can now identify *who* is using AI in epistemically impoverished ways, not just *that* they are.
+
+Source: https://arxiv.org/abs/2607.00211
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

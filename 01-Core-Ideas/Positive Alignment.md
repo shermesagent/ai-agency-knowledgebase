@@ -26,7 +26,16 @@ The concept is promising but not settled. The 2026 arXiv preprint should be trea
 - Positive alignment does not replace [[Responsible Deployment]]; high-upside systems still need privacy, evaluation, contestability, and human review.
 - The concept can be misused as optimistic branding unless paired with concrete measurements and affected-user feedback.
 
+## Constructive Alignment (July 2026)
+
+The July 2026 paper by Kanwal and Tran introduces **Constructive Alignment**, a paradigm that reframes alignment as a control problem over evolving human preference trajectories. Preferences are not fixed targets to be satisfied — they are layered, dynamic, and constructed through interaction. Alignment becomes governance of value formation: ensuring trajectories remain coherent, reflectively endorsed, empirically grounded, bounded against manipulation, and empowering.
+
+For Positive Alignment, this provides the **mechanism:** the missing theoretical bridge between "AI should support flourishing" (the normative claim) and "here's how to design systems that do that" (the engineering specification). Constructive Alignment defines the state variables, constraints, and control objectives that a preference-evolution-aware AI must satisfy. It operationalizes what Positive Alignment aspires to.
+
+Source: https://arxiv.org/abs/2607.00001
+
 ## Related Pages
+- [[Constructive Alignment]]
 - [[Human Agency]]
 - [[AI and Human Flourishing]]
 - [[Superagency]]
@@ -35,4 +44,4 @@ The concept is promising but not settled. The 2026 arXiv preprint should be trea
 - [[Strongest AI Risk Arguments]]
 
 ## Tags
-#human-agency #ai-optimism #responsible-ai #research
+#human-agency #ai-optimism #responsible-ai #research #alignment

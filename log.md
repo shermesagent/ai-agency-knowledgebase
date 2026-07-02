@@ -702,4 +702,27 @@
 
 - Source diversity: 5 arXiv, 0 non-arXiv = 100% paper, 0% non-paper. All non-arXiv sources (Mollick, Zvi, Import AI, Stratechery, WIRED) had no new relevant content for today. Addressed by strength of arXiv selection (5 papers directly engaging with Superagency core themes: organizational behavior, preference construction, verifiable governance, transparency governance, consistency tradeoffs). Note for tomorrow: since the last non-arXiv discovery was June 30 (Zvi WSJ debunk, Import AI #463), prioritize non-arXiv sources in the Thursday run to correct the balance.
 
-- Source-library updates deferred: cumulative backlog continuing. Flagged for catch-up in Sunday lint pass.
+- Source-library updates deferred: cumulative backlog continuing. Flagged for catch-up in Sunday lint pass.## [2026-07-02] ingest | Daily curation — The Preference Layer
+
+**Theme:** The Preference Layer — AI doesn't just execute preferences; it shapes them. Extends yesterday's Organizational Layer one step deeper.
+
+**Key sources ingested:**
+- arXiv 2607.00001 — "Constructive Alignment: Governing Preference Dynamics" (Kanwal and Tran)
+- arXiv 2607.00002 — "Bounded Morality: Defining the Space of Moral Computation"
+- arXiv 2607.00533 — "You Shall Not Pass! AI Autonomy Boundaries for Developers" (Microsoft)
+- arXiv 2607.00913 — "Two AI Metrics Diverged" (Fogelson, Thompson et al.)
+- arXiv 2607.00211 — "Constructing Epistemic AI Literacy" (EAIL framework)
+- arXiv 2607.00941 — "Evidentiary-Adequacy for Agentic AI Oversight"
+
+**Pages updated:**
+- NEW: [[Constructive Alignment]] — new concept page for the formal theory of alignment as preference evolution governance. Bridges the Organizational Layer (yesterday) to the Preference Layer (today). Defines five trajectory criteria: coherent, reflectively endorsed, empirically grounded, manipulation-resistant, empowering.
+- Updated [[Positive Alignment]] — added Constructive Alignment section (July 2026): Kanwal and Tran provide the mechanism that operationalizes what Positive Alignment aspires to. Page was 38 days stale (last touched May 25).
+- Updated [[Agentic Convergence Trap]] — added Bounded vs. Unbounded Capability Metrics (2607.00913): mathematical dimension showing convergence vs. concentration depends on whether capability metrics are bounded or unbounded. Page was 37 days stale (last touched May 26).
+- Updated [[Education]] — added Epistemic AI Literacy section (2607.00211): the 11.1% benchmark for high epistemic engagement in student-AI interactions. Process-level measurement distinguishes EAIL from self-report literacy scales.
+
+**New daily digest:** [[00-Daily-Digests/2026-07-02]]
+
+**Practical experiment:** Audit AI interactions for preference drift — track whether interactions clarify, change, or just execute preferences. Redesign prompting for preference-construction moments.
+
+**Source diversity:** 6 arXiv, 0 non-arXiv = 100% paper, 0% non-paper. Non-arXiv sources (Mollick, Zvi, Import AI, Stratechery, WIRED, MIT Technology Review) returned no new relevant content — web_extract credit-exhausted, web_search returned no new URLs. ArXiv provided exceptional signal today: Constructive Alignment is likely the most significant paper for the Superagency framework in weeks. However, blog/newsletter balance needs attention — last non-arXiv discovery was June 30. Weekend run (July 4-5) will have no arXiv, making non-arXiv source discovery critical then.
+
