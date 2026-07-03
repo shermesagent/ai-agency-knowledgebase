@@ -35,6 +35,20 @@ Simultaneously, the application layer tells a different story. Ben Thompson's "M
 
 **The resolution condition:** The Gatekeeping Paradox only constrains Superagency if the tasks that genuinely require frontier capability are broad enough that restricted access creates meaningful agency inequality. If application-layer tools — using smaller models, open weights, and clever architecture — can close enough of the capability gap, the Gatekeeping Layer becomes a policy nuisance rather than an agency bottleneck. The Cadences report and the vibe coding/Figma evidence suggest the application layer is currently winning. But if frontier models pull far enough ahead of what application-layer tools can access, the paradox deepens — and Superagency becomes a function of political access rather than tool democratization.
 
+### The Pluralism Layer: AI Doesn't Just Shape Preferences; It Multiplies Perspectives (July 2026)
+
+The Superagency arc extends into a new layer. Where previous layers established that AI shapes what we want (Preference Layer), the Pluralism Layer addresses the deeper design condition: **different people and communities have different preferences, analyze the same data differently, and hold competing values — and AI can either amplify that divergence or bridge it.**
+
+Three July 3, 2026 arXiv papers establish both the problem and the solution space:
+
+**The problem — AI amplifies analytical variation:** Miao, Pritchard, and Zou's [Agentic Garden of Forking Paths](https://arxiv.org/abs/2607.01507) shows that AI agents with different personas reproduce 72% of the human ideological gap in analyzing the same data. 86% of AI-produced analyses pass AI review; 78% pass human expert review. The space of defensible analyses is vast, and AI makes exploring it cheap — meaning **who controls the analysis pipeline chooses which defensible conclusion gets presented as "the" answer.** Their Agentic Bootstrap method makes the full distribution of possible analyses visible, revealing that 13.5% of reported human analyses fell in the most extreme 5% of the analysis space.
+
+**The bridge — AI reduces cross-partisan animosity:** Lira, Castelo, Puntoni, and Toubia's [Synthetic Contact](https://arxiv.org/abs/2607.02181) (N=3,960 partisans, 5 preregistered studies) shows that brief AI chatbot conversations representing the political outgroup reduce animosity, correct misperceptions, and increase willingness to have real cross-partisan conversations by 6pp. AI lowers the barrier to engagement that humans actively avoid and produces behavioral spillover to real human interaction.
+
+**The protocol — collaborative truth-seeking beats adversarial debate:** Jiang and colleagues' [Disagreement Resolution](https://arxiv.org/abs/2607.01251) replaces adversarial debate with collaborative truth-seeking for AI oversight, achieving 62.1% judging accuracy vs. 49.2% for standard debate. The interaction design matters more than model capability — structure the protocol for collaboration, not persuasion.
+
+**The implication for Superagency:** Superagency means more people acting with AI-augmented capabilities. That necessarily produces more competing analyses, more conflicting conclusions, and more value clashes. The Pluralism Layer demands that we build institutions and tools that can: (1) surface the full distribution of defensible perspectives rather than presenting one as "the" answer; (2) distinguish genuine disagreement from selective reporting; (3) lower the barrier to cross-perspective engagement; and (4) design interaction protocols that reward truth-seeking over persuasion. The pluralism is not a bug to be engineered away — it's the design condition Superagency must handle.
+
 - Source: https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who
 - Source: https://www.anthropic.com/research/economic-index-june-2026-report
 - Source: https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/

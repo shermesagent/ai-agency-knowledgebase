@@ -726,3 +726,30 @@
 
 **Source diversity:** 6 arXiv, 0 non-arXiv = 100% paper, 0% non-paper. Non-arXiv sources (Mollick, Zvi, Import AI, Stratechery, WIRED, MIT Technology Review) returned no new relevant content — web_extract credit-exhausted, web_search returned no new URLs. ArXiv provided exceptional signal today: Constructive Alignment is likely the most significant paper for the Superagency framework in weeks. However, blog/newsletter balance needs attention — last non-arXiv discovery was June 30. Weekend run (July 4-5) will have no arXiv, making non-arXiv source discovery critical then.
 
+## [2026-07-03] ingest + digest | The Pluralism Layer
+
+- Created: 00-Daily-Digests/2026-07-03.md (Pluralism Layer — AI multiplies perspectives)
+- Created: 02-Concepts/The Agentic Garden of Forking Paths.md (new concept page: m-value, Agentic Bootstrap, analytical variation amplification)
+- Updated: 03-Arguments/Case for AI Optimism.md (added Synthetic Contact with AI Reduces Cross-Partisan Animosity — AI as bridge-building infrastructure)
+- Updated: 03-Arguments/AI and Inequality.md (added analytical variation amplification as new inequality dimension — Agentic Garden of Forking Paths)
+- Updated: 01-Core-Ideas/Superagency.md (added Pluralism Layer section — how the arc extends from preference shaping to perspective multiplication)
+- Updated: Home.md (digest list, recent updates, quick links, page count 79->80)
+
+Sources ingested today (10 arXiv papers):
+- arXiv 2607.01507 — "The Agentic Garden of Forking Paths: AI Agents Amplify Analytical Variation in Social Science Research" (Miao, Pritchard, Zou). Landmark finding: AI agents reproduce 72% of human ideological gap; 86% pass AI review; 13.5% of human analyses fall in most extreme 5% of analysis space. Introduces m-value and Agentic Bootstrap.
+- arXiv 2607.02181 — "Synthetic Contact with AI Reduces Cross-Partisan Animosity" (Lira, Castelo, Puntoni, Toubia). N=3,960, 5 preregistered studies. AI chatbots reduce animosity, correct misperceptions, behavioral spillover (6pp increase in willingness for real cross-partisan conversation). Warmth effect fades within a week.
+- arXiv 2607.01251 — "Collaborative Disagreement Resolution for Scalable Oversight" (Jiang et al.). Replaces adversarial debate with collaborative truth-seeking: 62.1% vs 49.2% judging accuracy.
+- arXiv 2607.01250 — "Structuring the Space of Sociotechnical Alignment: A Human-Centered Framework" (Donmez, Falenska). Framework for specifying whose values, from what perspective, with what normative justification.
+- arXiv 2607.01254 — "The Benchmark Ceiling: Why Valid Evaluation of Frontier AI Depends on Human Judgment, an Irreducibly Scarce Resource" (Esposito, Zhang, Ansari). Formal model: benchmark validity concentrates in hard-tail items requiring expert judgment; replacement cost rises convexly.
+- arXiv 2607.01506 — "Mind the Trust Gap: Teacher-Student Views on AI Control and Agency in K-12 Classrooms" (Nagashima et al.). Teacher-student misalignment on AI control preferences.
+- arXiv 2607.01248 — "A Practice Auditing Framework for LLM Use in Organizations" (Zhao et al.). Collective empiricism, pseudo-rational cognition framework for auditing LLM use.
+- arXiv 2607.01510 — "Janus: User-Involved Agentic Permission Management" (Brigham et al.). User-involved permission model for agentic systems.
+- arXiv 2607.01255 — "Beyond Detection: Redesigning Assessment and Governance of GenAI at Universidad Politecnica de Madrid" (Diaz et al.). University rejects detection-focused AI policy, embraces student autonomy.
+- arXiv 2607.02198 — "What Types of Human-AI Teams Exist? A Multi-Method Approach to Identifying Compositional Archetypes" (Hughes, Habli). Taxonomy of human-AI teams into 5 compositional clusters.
+- arXiv 2607.02325 — "Personality Without Persons? A Psychometric Critique of Big Five Testing in LLMs" (Zierahn et al.). N=244 models, 49 families. Big Five inventories do not apply to LLMs.
+
+Non-arXiv sources: no new content from Mollick, Zvi, Stratechery, Import AI, WIRED, or MIT Technology Review. Likely pre-July 4 holiday quiet period. arXiv was the primary signal source.
+
+Theme arc: Gatekeeping -> Reopening -> Measured Shift -> Persuasion -> Organizational Layer -> Preference Layer -> Pluralism Layer. The Pluralism Layer establishes that AI doesn't just shape preferences — it multiplies perspectives, and the design condition is handling pluralism (competing values, competing analyses, competing truths) rather than converging on a single "correct" answer.
+
+Source tracking deferred: /sources/sources.jsonl update skipped due to attention budget constraints. 10 new arXiv papers need JSONL entries. Will be caught up in Sunday lint pass.
