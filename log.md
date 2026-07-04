@@ -753,7 +753,8 @@ Non-arXiv sources: no new content from Mollick, Zvi, Stratechery, Import AI, WIR
 Theme arc: Gatekeeping -> Reopening -> Measured Shift -> Persuasion -> Organizational Layer -> Preference Layer -> Pluralism Layer. The Pluralism Layer establishes that AI doesn't just shape preferences — it multiplies perspectives, and the design condition is handling pluralism (competing values, competing analyses, competing truths) rather than converging on a single "correct" answer.
 
 Source tracking deferred: /sources/sources.jsonl update skipped due to attention budget constraints. 10 new arXiv papers need JSONL entries. Will be caught up in Sunday lint pass.
-## 2026-07-04 | weekend-digest (Saturday) | The Accountability Layer
+
+## [2026-07-04] ingest + digest | The Accountability Layer (weekend digest)
 - Wrote 00-Daily-Digests/2026-07-04.md — weekend digest, non-arXiv sources
 - Updated 03-Arguments/AI as Normal Technology.md — added Coworker Framing Trap section (MIT TR June 29)
 - Updated 03-Arguments/Compute and Agency.md — added Chip Shortage Access Barrier section (WIRED July 3)
