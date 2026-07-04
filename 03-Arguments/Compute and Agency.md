@@ -21,11 +21,22 @@ AI can democratize expertise at the user level while still concentrating power a
 - Local/open models are not automatically safer or fairer; they still need evaluation and responsible deployment.
 - Large-scale infrastructure can also enable beneficial services that smaller systems cannot provide.
 
+## Chip Shortage Access Barrier (July 2026)
+
+AI-driven semiconductor demand is creating a chip shortage that's pushing consumer electronics prices to record highs. WIRED reports that phones, computers, and consoles are all affected by what's being called the "AI-driven chip shortage."
+
+**Why it matters for compute and agency:** Compute access is a prerequisite for agency in AI-augmented environments. When hardware prices rise because AI demand consumes chip manufacturing capacity, the gap between those who can afford to participate and those who can't widens. This creates a new dimension of compute inequality: not just who controls the infrastructure, but who can afford the endpoint devices.
+
+**The dual concentration problem:** AI infrastructure concentrates at the data-center level (cloud providers, frontier labs) while simultaneously making endpoint hardware more expensive. This double-squeeze — concentrated control at the top, rising barriers at the bottom — is a structural threat to the democratization that Superagency envisions.
+
+**Source:** "All Your Favorite Gadgets Are Getting Way More Expensive… Again," WIRED, July 3, 2026. https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]
 - [[Strongest AI Risk Arguments]]
 - [[Democratization of Expertise]]
+- [[Human Agency]]
 
 ## Tags
 #risk #governance #human-agency #counterarguments

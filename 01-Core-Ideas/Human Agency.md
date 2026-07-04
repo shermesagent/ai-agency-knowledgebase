@@ -115,6 +115,29 @@ While Washington debates who should access frontier AI, Anthropic's Economic Ind
 
 - Source: https://www.anthropic.com/research/economic-index-june-2026-report
 
+### The Accountability Layer: Infrastructure for Sustained Agency (July 2026)
+
+The arc from the Preference Layer through the Pluralism Layer reaches its operational foundation in the **Accountability Layer** — the infrastructure of error detection, worker voice, whistleblowing, and structural conditions that make human agency corrigible rather than cosmetic. Without accountability mechanisms, agency claims are untested and agency-eroding patterns go undetected.
+
+**Five mechanisms at three levels:**
+
+**Individual — Framing as oversight architecture:** MIT Technology Review (June 29, 2026) reports that calling AI agents "coworkers" makes humans worse at spotting errors and more likely to offload accountability compared to calling them "tools." This extends the framing insights already in this page (AI-conformity, The New Social Image) into a specific, testable accountability mechanism: the language introduced with AI deployment directly shapes error detection rates. The "tool" frame activates inspection; the "coworker" frame activates trust. Choosing "coworker" is choosing reduced oversight.
+
+**Organizational — Worker voice as governance:** Google DeepMind unionization talks are stalled, with employees frustrated by executive unwillingness to engage (WIRED, July 3, 2026). This is accountability infrastructure at the source: if the humans building frontier AI can't exercise voice about development and deployment decisions, the signal available to external governance is diminished. Worker voice is not a side issue — it's the observability channel that feeds all governance frameworks.
+
+**Structural — Three conditions for accountable systems:**
+1. **Whistleblower infrastructure:** Flare (WIRED, July 1, 2026) creates an external channel for reporting AI flaws — accountability that doesn't depend on internal corporate processes.
+2. **Platform neutrality:** Cursor's SpaceX acquisition (WIRED, July 2, 2026) tests whether model-neutral platforms survive vertical integration. Platform neutrality is structural accountability — user choice gives models something to be accountable *for*.
+3. **Compute access:** AI-driven chip shortages push hardware prices up (WIRED, July 3, 2026). Compute is a prerequisite for participation; rising prices gate participation by wealth.
+
+**Test for any agency claim:** Does the system preserve or erode accountability? If its error detection depends on the same humans who are being cognitively offloaded; if its workers can't speak up about misbehavior; if its flaws can't be reported externally; if its platform locks users to one model — then agency is not expanded, it's just delegated. The Accountability Layer converts [[Superagency]] from an aspiration into a verifiable claim: show me the mechanisms, then we can talk about agency.
+
+- Source: https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
+- Source: https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
+- Source: https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/
+- Source: https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/
+- Source: https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]
@@ -130,6 +153,8 @@ While Washington debates who should access frontier AI, Anthropic's Economic Ind
 - [[Export Controls and the Jailbreak Fallacy]] — the Fable 5 precedent
 - [[Creativity]] — application-layer democratization
 - [[Work]] — Anthropic Economic Index ground truth
+- [[AI as Normal Technology]] — coworker framing and error detection
+- [[Dissociative Agent Governance]] — whistleblower and voice infrastructure
 
 ## Tags
 #human-agency #augmentation #superagency #ai-optimism #techno-humanism #governance #ai-agents

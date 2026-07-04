@@ -49,6 +49,27 @@ Three July 3, 2026 arXiv papers establish both the problem and the solution spac
 
 **The implication for Superagency:** Superagency means more people acting with AI-augmented capabilities. That necessarily produces more competing analyses, more conflicting conclusions, and more value clashes. The Pluralism Layer demands that we build institutions and tools that can: (1) surface the full distribution of defensible perspectives rather than presenting one as "the" answer; (2) distinguish genuine disagreement from selective reporting; (3) lower the barrier to cross-perspective engagement; and (4) design interaction protocols that reward truth-seeking over persuasion. The pluralism is not a bug to be engineered away — it's the design condition Superagency must handle.
 
+### The Accountability Layer: Infrastructure for Error Detection, Voice, and Oversight (July 2026)
+
+Beneath pluralism — beneath the multiplication of perspectives and the expansion of agency — lies the infrastructure that keeps it all corrigible: **accountability.** Without mechanisms for catching errors, exercising voice, and maintaining platform neutrality, pluralism becomes chaos and agency becomes unaccountable power. The Accountability Layer identifies five mechanisms at three levels:
+
+**Individual level — Framing shapes oversight:** MIT Technology Review reports (June 29, 2026) that calling AI agents "coworkers" instead of "tools" makes humans worse at spotting errors and more likely to offload accountability. The words organizations use to introduce AI are accountability architecture: "coworker" triggers social heuristics (trust, collegial deference); "tool" triggers inspection heuristics (verify, test, don't assume shared goals). Agency requires the tool frame — not as a semantic preference but as an empirical condition for effective human oversight.
+
+**Organizational level — Worker voice as governance:** Google DeepMind unionization talks are stalled, with employees frustrated by executive unwillingness to engage meaningfully (WIRED, July 3, 2026). At the labs building frontier AI, workers building the systems lack channels to exercise voice about how those systems are developed and deployed. When worker voice is suppressed at the frontier, it undermines the observability that any governance framework depends on — if the builders can't speak up, external governance has less signal to work with.
+
+**Structural level — Three mechanisms:**
+1. **Whistleblower infrastructure:** Flare, a new platform (WIRED, July 1, 2026), creates an external channel for reporting AI flaws to government and Congress — accountability that doesn't depend on internal corporate processes.
+2. **Platform neutrality:** Cursor's acquisition by SpaceX (WIRED, July 2, 2026) tests whether model-neutral AI platforms can survive vertical integration. Platform neutrality is structural accountability: when users can choose which model to use, models compete on quality; when one model is baked in, accountability shifts from market competition to corporate governance.
+3. **Compute access:** AI-driven chip shortages are pushing consumer electronics prices to record highs (WIRED, July 3, 2026). Compute access is a prerequisite for agency in AI-augmented environments. When hardware prices rise, participation becomes gated by wealth — a structural accountability failure.
+
+**The implication for Superagency:** Superagency is built in layers. The Persuasion Layer (AI can shape beliefs), the Organizational Layer (AI restructures work), the Preference Layer (AI shapes what people want), and the Pluralism Layer (AI multiplies perspectives) all rest on the Accountability Layer — the infrastructure that lets humans correct, contest, and oversee everything above it. Without the Accountability Layer, Superagency is not expanded human agency; it's unaccountable AI influence wearing the language of agency. The test for any layer above is whether it preserves or erodes the accountability mechanisms below it.
+
+- Source: https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
+- Source: https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
+- Source: https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/
+- Source: https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/
+- Source: https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/
+
 - Source: https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who
 - Source: https://www.anthropic.com/research/economic-index-june-2026-report
 - Source: https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/

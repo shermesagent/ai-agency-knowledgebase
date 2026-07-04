@@ -22,6 +22,20 @@ This paper resolves a paradox that has been building across multiple recent gove
 - **Ex ante governance favors incumbents.** Defining acceptable agent behavior in advance (rather than punishing violations after the fact) requires predicting failure modes — which favors those with the most resources to invest in safety research.
 - **The dissociativity argument may be too strong.** Some agent deployments DO have stable identities (e.g., enterprise agents with fixed configurations). The paper's framework may overgeneralize from worst-case scenarios.
 
+## Accountability Infrastructure (July 2026)
+
+The dissociative governance framework calls for shifting from identity-based, ex post governance to observability-based, ex ante protocol governance. Two recent developments illustrate the accountability infrastructure this framework requires:
+
+**External whistleblower channels: Flare (July 2026).** WIRED reports on Flare, a new platform for reporting AI flaws, safety concerns, and misbehavior to government and Congress. This is ex ante infrastructure — creating an external accountability channel that doesn't depend on internal corporate reporting. In the dissociative governance framework, external reporting channels are one form of "behavioral harness": they make agent behavior more observable by creating institutional incentives for transparency.
+
+**Worker voice as governance: DeepMind unionization (July 2026).** Google DeepMind unionization talks are off to a rocky start, with employees frustrated by executive unwillingness to engage meaningfully. This is accountability infrastructure at the source: the humans building AI systems need channels to exercise voice about how those systems are developed and deployed. When worker voice is suppressed at the frontier labs, it undermines the observability that dissociative governance depends on — if the builders can't speak up, the external governance infrastructure has less signal to work with.
+
+**Connection to protocol-based governance:** Both Flare and worker voice mechanisms complement the protocol-based behavioral harnesses the original paper calls for. External reporting creates observability; worker voice creates signal. Together, they form the accountability layer beneath any protocol-based governance system.
+
+**Sources:**
+- "You Can Now Sound the Alarm on AI Behaving Badly," WIRED, July 1, 2026. https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/
+- "Google DeepMind Unionization Talks Are Off to a Rocky Start," WIRED, July 3, 2026. https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
+
 ## Related Pages
 - [[AI Agent Revolution]]
 - [[Agentic Convergence Trap]]
@@ -29,6 +43,7 @@ This paper resolves a paradox that has been building across multiple recent gove
 - [[Balanced Governance]]
 - [[Digital Fiduciary Duty]]
 - [[Human Review Checkpoints]]
+- [[AI as Normal Technology]]
 
 ## Tags
 #ai-agents #governance #responsible-ai #risk #human-agency

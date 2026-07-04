@@ -753,3 +753,15 @@ Non-arXiv sources: no new content from Mollick, Zvi, Stratechery, Import AI, WIR
 Theme arc: Gatekeeping -> Reopening -> Measured Shift -> Persuasion -> Organizational Layer -> Preference Layer -> Pluralism Layer. The Pluralism Layer establishes that AI doesn't just shape preferences — it multiplies perspectives, and the design condition is handling pluralism (competing values, competing analyses, competing truths) rather than converging on a single "correct" answer.
 
 Source tracking deferred: /sources/sources.jsonl update skipped due to attention budget constraints. 10 new arXiv papers need JSONL entries. Will be caught up in Sunday lint pass.
+## 2026-07-04 | weekend-digest (Saturday) | The Accountability Layer
+- Wrote 00-Daily-Digests/2026-07-04.md — weekend digest, non-arXiv sources
+- Updated 03-Arguments/AI as Normal Technology.md — added Coworker Framing Trap section (MIT TR June 29)
+- Updated 03-Arguments/Compute and Agency.md — added Chip Shortage Access Barrier section (WIRED July 3)
+- Updated 01-Core-Ideas/Dissociative Agent Governance.md — added Accountability Infrastructure section (WIRED July 1, 3)
+- Updated 01-Core-Ideas/Human Agency.md — added The Accountability Layer section
+- Updated 01-Core-Ideas/Superagency.md — added The Accountability Layer entry to layer arc
+- Updated Home.md — digest link, recent updates, staleness tracker, quick links
+- Sources: WIRED RSS (5 articles), initial web_search rounds. web_search returned empty arrays after ~10 queries; web_extract failed with 401 after 2 calls. Pivoted to cross-pollination + WIRED RSS per weekend-source-discovery.md.
+- Sources captured: MIT TR "AI agents are not your coworkers" (June 29), WIRED "Google DeepMind Unionization" (July 3), WIRED "Flare AI flaw reporting" (July 1), WIRED "Cursor SpaceX platform neutrality" (July 2), WIRED "Gadgets getting more expensive / AI chip shortage" (July 3)
+- Theme arc: Persuasion → Organizational → Preference → Pluralism → Accountability layers. The Accountability Layer provides the infrastructure (error detection, voice, whistleblowing, platform neutrality, compute access) that keeps all higher layers corrigible.
+- Cleared: AI as Normal Technology, Compute and Agency, Dissociative Agent Governance from 37+ day stale list. Now all stale pages are in the 8+ day bucket.

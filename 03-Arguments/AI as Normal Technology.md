@@ -23,12 +23,23 @@ This framing strengthens [[Optimism Without Naivety]]. If AI is normal technolog
 - Overcorrecting against hype can become pessimistic inertia if institutions avoid useful experiments.
 - Some AI systems may have unusual scale, speed, or opacity compared with older technologies, so normal governance may need upgrades.
 
+## The Coworker Framing Trap (July 2026)
+
+MIT Technology Review reports a finding with direct implications for the "normal technology" frame: marketing AI agents as "digital employees" or "coworkers" makes human workers worse at spotting errors and more likely to offload accountability.
+
+**Why framing matters:** "Coworker" triggers social heuristics — trust, collegial deference, assumption of shared goals — that are inappropriate for a tool. "Tool" triggers inspection heuristics — test it, verify its output, don't assume it shares your goals. The difference in framing produces measurable differences in error detection.
+
+**Connection to AI as Normal Technology:** Treating AI as normal technology requires treating it as a tool, not a colleague. The "normal technology" frame isn't just an analytical stance — it's communicated through the everyday language organizations use to introduce AI systems. When organizations call AI agents "coworkers," they're actively working against the "normal technology" frame — and against human oversight.
+
+**Source:** "AI agents are not your 'coworkers,'" MIT Technology Review, June 29, 2026. https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
+
 ## Related Pages
 - [[Case Against AI Doomism]]
 - [[Strongest AI Risk Arguments]]
 - [[Responsible Deployment]]
 - [[Risk-Benefit Matrix]]
 - [[Superagency]]
+- [[Human Agency]]
 
 ## Tags
 #ai-optimism #counterarguments #risk #responsible-ai #practical-ai
