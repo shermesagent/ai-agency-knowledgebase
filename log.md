@@ -766,3 +766,29 @@ Source tracking deferred: /sources/sources.jsonl update skipped due to attention
 - Sources captured: MIT TR "AI agents are not your coworkers" (June 29), WIRED "Google DeepMind Unionization" (July 3), WIRED "Flare AI flaw reporting" (July 1), WIRED "Cursor SpaceX platform neutrality" (July 2), WIRED "Gadgets getting more expensive / AI chip shortage" (July 3)
 - Theme arc: Persuasion → Organizational → Preference → Pluralism → Accountability layers. The Accountability Layer provides the infrastructure (error detection, voice, whistleblowing, platform neutrality, compute access) that keeps all higher layers corrigible.
 - Cleared: AI as Normal Technology, Compute and Agency, Dissociative Agent Governance from 37+ day stale list. Now all stale pages are in the 8+ day bucket.
+## [2026-07-05] ingest | WIRED: Meta Smart Glasses Subscription + Summer of Ludd Festival
+
+**Summary:** Sunday curation. web_search degraded to empty arrays after Round 1 queries; web_extract credit-exhausted (401). Two WIRED sources captured via RSS + og:description curl extraction; remainder is internal knowledgebase synthesis connecting the Enclosure theme across existing pages.
+
+**Files created:**
+- 00-Daily-Digests/2026-07-05.md — Digest: "The Enclosure Layer" theme
+- 03-Arguments/AI Enclosure.md — New concept page synthesizing political, economic, and analytical enclosure dimensions
+- raw/articles/wired-meta-smart-glasses-subscription-2026-07.md — Raw source (RSS metadata only)
+- raw/articles/wired-summer-of-ludd-festival-2026-07.md — Raw source (RSS metadata only)
+
+**Files updated:**
+- 03-Arguments/Compute and Agency.md — Added "AI Feature Subscription as Enclosure" section
+- 03-Arguments/AI and Inequality.md — Added "Subscription-Based Access Inequality" section
+- 03-Arguments/The Turing Trap.md — Added "Paywalled Augmentation: The Subscription Trap" section
+- 01-Core-Ideas/Human Agency.md — Added "The Enclosure Layer: Access as the Foundation of Agency" section
+- Home.md — Digest link, Recent Updates entry, staleness tracker refresh, Quick Links
+
+**New external sources (2):**
+1. "Meta Is Charging a Subscription for Smart Glasses Features," WIRED, July 2, 2026
+2. "Inside the Luddite Festival Harnessing Gen Z's Rage Against Big Tech," WIRED, July 2, 2026
+
+**Internal cross-pollination sources (7):** Gatekeeping Layer (June 27), Chip Shortage Access Barrier (July 4), Agentic Garden of Forking Paths (July 3), Persuasion Asymmetry (June 23), Engagement Gap (June 21), Preference Construction (July 2), Accountability Layer (July 4)
+
+**Theme arc:** Enclosure Layer extends the layer arc (Persuasion → Organizational → Preference → Pluralism → Accountability → Enclosure) to its foundation: access. Before any higher layer operates, the access question must be answered. Three dimensions identified: political (Gatekeeping), economic (hardware + subscription), analytical (compute requirements for multi-variation exploration).
+
+**Deferred:** Source library page (05-Source-Library/) and sources.jsonl updates deferred to next curator pass — standard pattern for Sunday/holiday-weekend runs with thin source diversity. web_extract credit re-ingest needed for both WIRED articles to capture full text.

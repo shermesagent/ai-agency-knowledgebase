@@ -31,12 +31,30 @@ AI-driven semiconductor demand is creating a chip shortage that's pushing consum
 
 **Source:** "All Your Favorite Gadgets Are Getting Way More Expensive… Again," WIRED, July 3, 2026. https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/
 
+## AI Feature Subscription as Enclosure (July 2026)
+
+Meta's new smart glasses subscription — charging a recurring fee for "expanded access" to the most advanced AI features on hardware users already own — extends the compute access barrier into a new dimension: **subscription enclosure.** (WIRED, July 2, 2026)
+
+The chip shortage (above) gates compute access at the hardware level: can you afford the device? Subscription enclosure gates it at the feature level: can you afford the device AND the monthly fee for its most capable features? This is the shift from "buy once, own forever" to "buy hardware, rent AI."
+
+**Why it matters for compute and agency:** The three dimensions of compute access now are:
+1. **Hardware access** — can you afford the device? (chip shortage)
+2. **Feature access** — can you afford the subscription for advanced features? (subscription enclosure)
+3. **Infrastructure control** — who owns the cloud, the models, the deployment platforms? (traditional compute concentration)
+
+Subscription enclosure is particularly insidious because it converts capability from a capital expense (one-time purchase) to an operating expense (recurring payment). For individuals and small organizations, this makes AI capability conditional on continued income — you don't lose access to the hardware, but you lose access to what makes it most useful. This is the Enclosure Layer in the agency arc: before accountability, before pluralism, before preference formation — there is access. And access is increasingly a subscription product.
+
+**The open-source counterforce:** Open-weight models (Llama, Mistral, Qwen) and local inference (Apple Intelligence, on-device LLMs) provide access outside the subscription model. The question for agency is whether the open/local alternative is good enough for the task or whether capability enclosure creates a meaningful access gap. For many agency-critical applications — preference discovery, analytical variation exploration, persuasion support — open models may already be sufficient, making subscription enclosure a convenience barrier rather than a capability barrier. But for frontier tasks, the gap remains.
+
+**Source:** "Meta Is Charging a Subscription for Smart Glasses Features," WIRED, July 2, 2026. https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]
 - [[Strongest AI Risk Arguments]]
 - [[Democratization of Expertise]]
 - [[Human Agency]]
+- [[The Turing Trap]]
 
 ## Tags
 #risk #governance #human-agency #counterarguments

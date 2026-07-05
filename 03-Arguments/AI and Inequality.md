@@ -22,6 +22,28 @@ The inequality question is the sharpest test of the Superagency thesis: does AI 
 - [The Turing Trap](https://arxiv.org/abs/2201.04200), Erik Brynjolfsson, 2022 — foundational framework: automation vs. augmentation determines distribution of benefits.
 - [Where Is AI in GDP Statistics?](https://www.piie.com/), Korinek, Solaiman, Zago / PIIE, 2026 — documents invisible AI economy; "a windfall that cannot be seen cannot be shared."
 
+## Subscription-Based Access Inequality (July 2026)
+
+Meta's move to charge a recurring subscription for advanced AI features on smart glasses users already own (WIRED, July 2, 2026) introduces a new dimension to AI-driven inequality: **subscription-based access inequality.**
+
+Unlike the one-time hardware barrier (can you afford the device?) or the skills barrier (do you know how to use it?), the subscription barrier is recurring and cumulative. Every AI feature that moves from one-time purchase to monthly subscription creates a new recurring cost. For users who can afford the subscription, AI capability expands. For users who can't, it doesn't — even though they own the same hardware.
+
+This connects to three existing inequality dimensions tracked in this page:
+
+- **The engagement gap:** Even when access is equal (everyone gets the same AI tutor), engagement is not. Subscription access adds a prior filter — not everyone even gets the same AI. The engagement gap compounds with the access gap: those who can't afford the subscription never get the chance to under-engage.
+
+- **The persuasion asymmetry:** If AI persuasion capability is gated behind frontier model access (Gatekeeping Layer) AND consumer-facing AI features are gated behind subscriptions (Enclosure Layer), then persuasive AI is accessible only to those who pass BOTH gates. The "cheap and widely available" scenario that the Oxford/Stanford study identified as the inequality-reducing path requires both gates to be open.
+
+- **The analytical variation amplification:** The Agentic Garden of Forking Paths found that exploring the full space of defensible analyses requires running many AI variations. If each variation consumes compute or requires subscription-tier access, analytical exploration becomes accessible to institutions (who can pay) but not individuals (who cannot). The m-value and Agentic Bootstrap — tools for making analytical variation visible — require compute accessibility to deploy.
+
+**The structural shift:** When AI features move from one-time purchase to subscription, the economics of access shift from capital expenditure (pay once) to operating expenditure (pay forever). For wealthy individuals and well-funded institutions, this is a minor accounting change. For everyone else, it's a structural barrier that compounds monthly. This is the Enclosure Layer in the inequality arc: before any of the other inequality dimensions activate, the access question must be answered. And access is increasingly a subscription product.
+
+**The Luddite countercurrent:** The Summer of Ludd festival (WIRED, July 2, 2026) — teaching Gen Z how to "live offline amid the suffocating presence of Big Tech" — represents the cultural response to subscription enclosure. When access is gated and features are rented, a segment of the population responds by opting out entirely. This creates its own inequality dynamic: the digitally disengaged as a new class, separated not by lack of access but by principled refusal of the terms of access.
+
+**Source:** "Meta Is Charging a Subscription for Smart Glasses Features," WIRED, July 2, 2026. https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/
+
+**Source:** "Inside the Luddite Festival," WIRED, July 2, 2026. https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

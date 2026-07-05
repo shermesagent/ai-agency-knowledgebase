@@ -46,8 +46,23 @@ MIT Technology Review's May 2026 labor market analysis (Rotman) provides the emp
 ## Governance as Escape Hatch
 
 Microsoft's June 2026 Agent 365 platform — with ASSERT (policy-driven safety evaluation) and the open Agent Control Specification — represents a governance response to the Turing Trap: making agent behavior observable, testable, and remediable at the code level rather than the policy level. When augmentation vs. substitution can be audited and governed at the infrastructure layer, the trap becomes escapable through design rather than hope. The AI-IARA framework (van Zyl, 2026) extends this logic to psychological capacities: if AI systems are audited for their effects on human Awareness, Interpretation, Intention, Action, Relational Agency, and Autonomy, augmentation becomes measurable — not just aspirational.
+## Paywalled Augmentation: The Subscription Trap (July 2026)
+
+The Turing Trap has a new structural dimension: **pricing architecture as augmentation gate.** When AI features that augment human capability (reasoning assistance, analytical exploration, preference discovery) are gated behind recurring subscriptions — while automation features (summarization, basic Q&A) remain free or cheap — the trap closes not by design choice but by pricing structure.
+
+Meta's smart glasses subscription (WIRED, July 2, 2026) is the leading edge of this pattern: the hardware you own has "expanded access" features behind a monthly fee. The most advanced AI capabilities — the ones most likely to augment rather than merely automate — are the ones gated. The free tier is task completion; the paid tier is capability expansion.
+
+**Why this is a new kind of trap:** Brynjolfsson's original formulation contrasted augmentation (human + AI) with substitution (AI replacing human). The subscription version creates **two-tier augmentation**: those who can afford the subscription get augmented; those who can't get automated — or simply left behind. The trap is no longer whether AI replaces humans in general but whether it replaces some humans while augmenting others, based on ability to pay rather than task suitability.
+
+**Connection to the readiness dimension:** The WEF's "five faces of human readiness" framework identified a bottom-up narrative of employee anxiety that could push organizations toward substitution. The subscription dimension adds a top-down economic filter: even if an organization is committed to augmentation in principle, if the augmentation features require per-seat subscriptions, the economics may favor substitution for roles where the ROI of augmentation subscriptions is harder to justify. The Readiness Dimension's psychological barriers (anxiety, distrust) combine with the Subscription Trap's economic barriers (recurring cost, ROI justification) to produce substitution by default.
+
+**Connection to the Enclosure Layer:** The Turing Trap's subscription dimension is part of the broader Enclosure Layer in the agency arc. Before accountability, before pluralism, before preference — there is access. And when access to augmentation is subscription-gated, the trap closes at the access layer: augmentation becomes a product for those who can afford it, substitution becomes the default for those who can't.
+
+**Source:** "Meta Is Charging a Subscription for Smart Glasses Features," WIRED, July 2, 2026. https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/
+
 - [[AI and Inequality]]
 - [[Task-Level AI Adoption]]
+- [[Compute and Agency]]
 
 ## Tags
 #augmentation #future-of-work #human-agency #risk

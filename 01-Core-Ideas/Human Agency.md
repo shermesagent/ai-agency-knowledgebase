@@ -138,6 +138,35 @@ The arc from the Preference Layer through the Pluralism Layer reaches its operat
 - Source: https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/
 - Source: https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/
 
+### The Enclosure Layer: Access as the Foundation of Agency (July 2026)
+
+The arc from the Gatekeeping Layer through the Accountability Layer traces the conditions for AI to serve human agency. But there's a foundation below all of them: **access.** Before accountability, before pluralism, before preference formation — you need to be able to reach the AI. The Enclosure Layer identifies the structural mechanisms that gate that access.
+
+**Three dimensions of enclosure (July 2026):**
+
+1. **Political enclosure — the Gatekeeping Layer (June 27):** The White House's ad hoc, customer-by-customer approval process for GPT-5.6 access. Agency distribution becomes a function of political access, not merit or need. This operates at the frontier capability level.
+
+2. **Economic enclosure — hardware and subscription (July 2-4):** AI-driven chip shortages push hardware prices up (WIRED, July 3); Meta charges recurring subscriptions for advanced AI features on hardware users already own (WIRED, July 2). This operates at the consumer and organizational level. The shift from "buy once, own forever" to "buy hardware, rent AI" converts AI capability from a capital expense to an operating expense — making agency conditional on continued payment.
+
+3. **Analytical enclosure — compute requirements (July 3):** The Agentic Garden of Forking Paths found that exploring the full space of defensible analyses requires running many AI variations. If each variation consumes compute gated by subscription or API pricing, analytical exploration becomes accessible to institutions but not individuals. The tools for making analytical variation visible (m-value, Agentic Bootstrap) require compute accessibility to deploy.
+
+**The cultural response:** The Summer of Ludd festival (WIRED, July 2, 2026) — teaching Gen Z to "live offline amid the suffocating presence of Big Tech" — represents the cultural countercurrent to enclosure. When access is gated and features are rented, a segment of the population responds by opting out entirely. This is cultural resistance, not policy resistance — and it creates its own agency dynamic: the digitally disengaged as a class whose agency is defined by refusal rather than access.
+
+**The Superagency test at the access layer:** The Superagency thesis holds that AI can expand agency broadly. The Enclosure Layer asks: *for whom?* If agency-enhancing AI features require political approval, hardware purchase, AND ongoing subscription, then agency through AI is not a capability that technology bestows — it's a product that access determines. The test for any agency claim: can a person with a smartphone, a free account, and no political connections achieve this? If the answer is no, the claim is qualified by the enclosure.
+
+**The open-source counterforce is real but bounded:** Open-weight models (Llama, Mistral, Qwen) and local inference (Apple Intelligence, on-device LLMs) provide access outside the subscription model. For many agency-critical applications — preference discovery, basic reasoning, content creation — open/local alternatives may already be sufficient. But for frontier tasks (complex analytical variation, deep reasoning, persuasion optimization), the capability gap between open and gated models remains. The Enclosure Layer narrows at the commodity level and widens at the frontier.
+
+**Practical agency test:** For any given AI capability, ask three questions:
+1. Can I access it with a free account on commodity hardware?
+2. If the price doubled tomorrow, would I still have access?
+3. Is there an open/local alternative that does 80% of the job?
+
+If the answer to all three is "yes," your agency in that domain is resilient against enclosure. If the answer to any is "no," your agency is contingent — and the contingency deserves explicit tracking.
+
+- Source: https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/
+- Source: https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/
+- Source: https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]
