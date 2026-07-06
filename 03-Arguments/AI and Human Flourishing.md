@@ -26,6 +26,24 @@ The core question of the Superagency wiki is whether AI expands or contracts hum
 - Audit personal AI use for the "surveillance effect": if an AI tool makes you feel watched rather than supported, redesign the interaction pattern.
 - Measure human flourishing outcomes (learning, capability development, creative satisfaction, time reclaimed) not just AI performance metrics.
 
+## Mollick's Behavioral Framework: Think First, Write First, Meet First (July 2026)
+
+Ethan Mollick's ["The twilight of the chatbots"](https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots) (June 30, 2026) provides the most practical articulation yet of the behavioral conditions under which AI supports rather than undermines human flourishing. The core insight: **it's not *whether* you use AI but *how* you sequence the human and machine portions of cognitive work.**
+
+Three domains with specific protocols:
+
+**The Learning Brain — Tutor, not answer-giver:** AI's default posture is to provide answers. But research shows it's *how you use AI* that determines whether it helps or hurts learning. Specialized tutor prompts (Mollick shares one used in education studies) can flip AI from answer-giver to Socratic tutor. The key practice: when using AI for learning, ask it to "explain the answer in a way I can teach someone else" rather than "give me the answer." This preserves the cognitive work of understanding while leveraging AI's explanatory capacity.
+
+**The Creative Brain — Sequence is everything:** AI beats 91-99% of humans on standard creativity tests (Alternative Uses, Torrance). But it tends to produce variations on a theme — VR, blockchain, environment, AI itself. The solution is sequencing: **always generate your own ideas first.** Write them down before touching AI. Then use AI to push further ("combine ideas #3 and #7 in an extreme way"). Once you see AI's ideas, the anchoring effect makes it hard to think outside those boundaries.
+
+**The Collective Brain — Facilitate, don't replace:** AI summarizing meetings you skip raises existential questions about why you're meeting at all. The constructive path: use AI as facilitator (devil's advocate, surfacing unheard voices, identifying patterns humans miss) rather than as replacement (transcripts + summaries = no interaction). Mollick provides a prompt where AI creates custom tarot cards mid-meeting to guide discussion.
+
+**"Against Brain Damage":** "AI doesn't damage our brains, but unthinking use can damage our thinking. What's at stake isn't our neurons but our habits of mind." For Mollick, who writes as thinking, the discipline is: full draft without AI → AI as reader ("was this unclear?") → AI as editor ("20 alternative endings"). The fear of "brain damage" is actually fear of our own laziness — and we have a choice.
+
+**Connection to flourishing:** This operationalizes the [[AI and Human Flourishing]] thesis. Flourishing is not a binary state (flourishing vs. not) but a practice — a set of habits, disciplines, and sequencing decisions that determine whether AI amplifies human capability or replaces the cognitive work that makes capability meaningful. Mollick's framework gives us the daily protocol for making AI serve flourishing rather than eroding it.
+
+Source: https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots
+
 ## Risks / Limits
 - AI can amplify existing expertise gaps on complex tasks — the flourishing case requires addressing access and skill-building simultaneously.
 - Student overconfidence about AI literacy may create a generation that trusts AI outputs without the skills to critically evaluate them.
@@ -40,6 +58,7 @@ The core question of the Superagency wiki is whether AI expands or contracts hum
 - [[AI-Augmented Scientific Collaboration]]
 - [[Creativity]]
 - [[Education]]
+- [[Frontier Firm]]
 
 ## Tags
 #human-agency #ai-optimism #augmentation

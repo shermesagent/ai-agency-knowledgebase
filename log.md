@@ -792,3 +792,21 @@ Source tracking deferred: /sources/sources.jsonl update skipped due to attention
 **Theme arc:** Enclosure Layer extends the layer arc (Persuasion → Organizational → Preference → Pluralism → Accountability → Enclosure) to its foundation: access. Before any higher layer operates, the access question must be answered. Three dimensions identified: political (Gatekeeping), economic (hardware + subscription), analytical (compute requirements for multi-variation exploration).
 
 **Deferred:** Source library page (05-Source-Library/) and sources.jsonl updates deferred to next curator pass — standard pattern for Sunday/holiday-weekend runs with thin source diversity. web_extract credit re-ingest needed for both WIRED articles to capture full text.
+## [2026-07-06] daily | The Sovereignty Layer: Returns, Restorations, and the Permanent Underclass
+
+- arXiv silent (Independence Day weekend extended into Monday)
+- 3 non-arXiv sources: Mollick (June 30), Zvi (July 3), Import AI (June 29)
+- Stratechery on summer break
+- Digest created: 00-Daily-Digests/2026-07-06.md
+
+Files updated:
+- 01-Core-Ideas/Positive Alignment.md — Added OpenAI's "Lab with a Plan" analysis, Anthropic/OpenAI values framing (Achiam's "machine God vs. tools")
+- 03-Arguments/AI and Human Flourishing.md — Added Mollick's behavioral framework: Think First, Write First, Meet First
+- 01-Core-Ideas/Frontier Firm.md — Added Post-Blip Frontier section: Fable restoration, NSPM-11, two-tier access architecture
+- 01-Core-Ideas/Agentic Convergence Trap.md — Added Borretti's "Permanent Underclass" essay: disempowerment as civilizational attractor state
+
+Cross-references added: Positive Alignment ↔ Frontier Firm ↔ Agentic Convergence Trap ↔ Export Controls and the Jailbreak Fallacy
+
+Deferred: source library updates, Home.md staleness tracker
+
+Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Zvi "Fable #6: The Return of the King" (thezvi.substack.com, July 3), Import AI #463 (importai.substack.com, June 29)

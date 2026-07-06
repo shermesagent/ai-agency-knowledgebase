@@ -31,6 +31,24 @@ This means the convergence trap isn't uniform across all domains. In bounded-dom
 
 Source: https://arxiv.org/abs/2607.00913
 
+## Disempowerment as Attractor State: Borretti's Permanent Underclass (July 2026)
+
+Fernando Borretti's essay ["No-One Escapes the Permanent Underclass"](https://borretti.me/article/no-one-escapes-the-permanent-underclass) (featured in Import AI #463, June 29, 2026) extends the convergence trap into its terminal form. While Van Esch et al. describe organizational convergence through shared AI platforms, Borretti describes civilizational convergence through the logic of state competition:
+
+**The mechanism — war drives disempowerment:**
+"In an existential conflict, where the existence of the state is threatened, the state will do what states throughout history have done to the powerless rich: arrest them and expropriate their assets. The advantage goes to the states where the humans remove themselves from the loop as much as possible." The same logic that drives firms to adopt AI for competitive advantage drives states to adopt AI for survival — and states face no market discipline that rewards preserving human agency.
+
+**The terminal state — humans as vestigial organs:**
+"Eventually the humans in nominal control of the AIs are a ceremonial, vestigial organ. The AIs present us with a situation report, and a list of choices, and they know every word that's going to come out of our mouths." The "hair-thin layer of people with shares in the companies that foomed" becomes the permanent overclass — until the next existential conflict, when states expropriate them too.
+
+**Even successful alignment doesn't solve this:**
+"Even if alignment works perfectly (a big if), this doesn't solve the problem of human autonomy: the machines that watch over us, and wait on us hand and foot, are omniscient, omnipotent masters, who can exterminate us at any time, and we can't resist them, because we have abolished our control over the future." This is the convergence trap at civilizational scale: every path that preserves AI capability leads to disempowerment. The only path that preserves agency may be the one that foregoes capability.
+
+**Connection to the convergence trap:** The organizational trap (firms converge on identical strategies) and the civilizational trap (states converge on identical disempowerment) share the same mechanism: competition removes the humans. The difference is scale. At the firm level, the convergence trap can be mitigated with governance, human review checkpoints, and deliberate variation. At the civilizational level, Borretti argues, the trap may be inescapable — not because AI is evil, but because the logic of existential competition between AI-augmented states makes human control a liability that gets optimized away.
+
+Source: https://borretti.me/article/no-one-escapes-the-permanent-underclass
+Source: https://importai.substack.com/p/import-ai-463-self-improving-robots
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Frontier Firm]]
@@ -39,6 +57,8 @@ Source: https://arxiv.org/abs/2607.00913
 - [[AI and Inequality]]
 - [[Optimism Without Naivety]]
 - [[Constructive Alignment]]
+- [[Positive Alignment]]
+- [[Export Controls and the Jailbreak Fallacy]]
 
 ## Tags
 #ai-agents #governance #counterarguments #future-of-work #risk
