@@ -102,6 +102,21 @@ Parreira et al. (2606.14054) provide empirical grounding for the surrender dynam
 
 This is the accountability dimension of cognitive surrender: when co-creation is continuous and ambient, the boundary between human and AI contribution dissolves — and with it, the ability to attribute responsibility, assess growth, or verify claims of agency. Source: https://arxiv.org/abs/2606.14054
 
+### "Doom Researching": The Repetitive Query Trap (July 2026)
+
+Adhikari et al. (arXiv 2607.02723) introduce a formal construct for a pattern everyone using AI has experienced but no one had named: **Doom Researching** — the repetitive, AI-assisted pursuit of information without synthesis or durable understanding. The concept captures what happens when AI makes research feel productive while producing no usable knowledge.
+
+**The model distinguishes three phases:**
+1. **Trigger:** An ambiguous question or anxiety-provoking topic activates a desire for certainty ("what's the right answer about this?")
+2. **Iterative querying:** The user asks the AI, reads the response, feels a brief moment of clarity, then notices ambiguity or edge cases and asks again — each iteration feels like progress but is actually circling
+3. **Residual uncertainty:** After the session, the user has consumed information but has not integrated it — the same doubts that triggered the first query remain, often intensified by exposure to more conflicting perspectives
+
+**Why this matters for cognitive surrender:** Doom Researching is cognitive surrender wearing the costume of intellectual engagement. The user is *doing something* — typing questions, reading answers, feeling the cognitive effort of parsing responses. But the outcome is the *opposite* of understanding: more information with less integration. It's the Researching version of the "meaning-shaped attention vampire" — output that looks like knowledge work but produces no durable learning.
+
+**The verification illusion:** The paper's core contribution is identifying why AI-assisted research is particularly susceptible to this trap. Traditional research had built-in verification: you had to find sources, read them, compare them, and synthesize them — each step forced engagement with the material. AI collapses that pipeline into a single conversational interface where the verification step is invisible. The user trusts the AI's answer without knowing what was omitted, what was simplified, or what alternative interpretations were flattened. The result is a **verification illusion** — the feeling of having verified something without having done the cognitive work that verification requires.
+
+**Connection to the Cognitive Debt model:** Doom Researching is the day-to-day mechanism by which cognitive debt accumulates. Each query cycle adds to the stock of unverified reasoning obligations without building the analytical capacity to verify them. When the next crisis comes, the user has more information but less ability to evaluate it — the Minsky moment made personal. https://arxiv.org/abs/2607.02723
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

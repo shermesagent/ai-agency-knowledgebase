@@ -91,6 +91,18 @@ A new finding from Okumura (arXiv 2606.24370, June 24) adds a critical dimension
 
 **Practical calibration for Co-Existence:** After every AI interaction, add one question: "Did the AI maintain appropriate epistemic restraint, or did helpfulness override caution?" If the latter, either re-query with a causal-caution prompt or route the output through a separate auditing pass.
 
+### The Verification Layer: When AI Knowledge Feels Real Without Being Understood (July 2026)
+
+A new construct from Adhikari et al. (arXiv 2607.02723, July 7, 2026) — **Doom Researching** — exposes a structural vulnerability in the Co-Existence frame. The pattern: a user asks AI about an ambiguous topic, receives a confident answer, feels a moment of clarity, notices subtle contradictions, asks again, receives a slightly different answer, and repeats. Each iteration *feels* like intellectual engagement — but the user accumulates information without integration. The session ends with more data and less understanding than when it began.
+
+**The verification illusion:** AI collapses the traditional research pipeline (find sources, read them, compare, synthesize) into a single conversational interface. The verification step — the cognitive work of assessing whether information is reliable, complete, and consistent — is invisible. The user trusts the AI's framing without knowing what was simplified, omitted, or misinterpreted. This creates the core failure mode for Co-Existence: working with AI that is "sometimes, but not always, better than you" requires knowing *when* the verification illusion is operating.
+
+**The Co-Existence calibration patch:** After any substantial AI research interaction, apply the **Two-Question Verification Test:**
+1. What claim did the AI make that I accepted without independent verification?
+2. If I had to explain this to someone without AI help, what would I actually *know* vs. what would I be *paraphrasing*?
+
+This operationalizes the Co-Existence calibration skill — it separates what you've actually understood from what you've merely consumed. https://arxiv.org/abs/2607.02723
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.

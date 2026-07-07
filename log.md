@@ -810,3 +810,14 @@ Cross-references added: Positive Alignment ↔ Frontier Firm ↔ Agentic Converg
 Deferred: source library updates, Home.md staleness tracker
 
 Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Zvi "Fable #6: The Return of the King" (thezvi.substack.com, July 3), Import AI #463 (importai.substack.com, June 29)
+## [2026-07-07] ingest | arXiv papers: Doom Researching, Internal Pluralism, Macro-Prudential AI Governance, Globally Beneficial Technology
+- Theme: "The Verification Layer" — AI interactions create an illusion of knowing without understanding
+- Fetched arXiv cs.AI, cs.CY, cs.HC RSS feeds (web_extract credit-exhausted, web_search empty — arXiv-only curation day)
+- Updated Cognitive Surrender: added Doom Researching section (2607.02723)
+- Updated Co-Intelligence: added Verification Layer section with Two-Question Test
+- Updated Balanced Governance: added Macro-Prudential AI Governance framework (2607.03542)
+- Updated Human Agency: added Internal Pluralism section (2607.02672)
+- Updated Superagency: added Globally Beneficial Case with five moral arguments (2607.03906)
+- Created 00-Daily-Digests/2026-07-07.md
+- Deferred: source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass)
+- Pages touched: 5 updated, 1 new digest

@@ -74,6 +74,22 @@ Beneath pluralism — beneath the multiplication of perspectives and the expansi
 - Source: https://www.anthropic.com/research/economic-index-june-2026-report
 - Source: https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/
 
+### The Globally Beneficial Case: Five Moral Arguments for Universal AI Access (July 2026)
+
+Gabriel & Kasirzadeh (arXiv 2607.03906) provide the strongest philosophical foundation yet for the Superagency thesis — **The Case for Globally Beneficial Technology** — five moral arguments for why AI must be directed toward universal human benefit rather than concentrated advantage:
+
+1. **The Capability Argument:** AI capabilities are so general-purpose and potent that restricting them to a narrow set of actors creates capability asymmetries that are morally intolerable. The gap between what AI-empowered actors can do and what non-empowered people can do is not a feature gap — it's a power gap.
+
+2. **The Interdependence Argument:** AI systems are trained on collective human output and deployed in interconnected systems. No individual or nation can opt out of AI's effects while others use it. This mutual exposure creates a moral obligation for mutual benefit — you can't use AI in ways that harm others and claim it's their problem.
+
+3. **The Legacy Argument:** AI is being built on the accumulated knowledge, infrastructure, and data of all humanity. The benefits should return, at least in part, to all humanity — not just to the organizations that happened to be at the right place and time to commercialize that inheritance.
+
+4. **The Precautionary Argument:** AI's downstream effects (labor displacement, cultural transformation, power concentration) are sufficiently uncertain and potentially harmful that deploying it without mechanisms for broad benefit distribution is reckless. The precautionary principle applies: when stakes are high and knowledge is incomplete, the burden of proof is on those who would restrict benefits.
+
+5. **The Democratic Argument:** Decisions about AI's direction affect everyone. Everyone has a stake in those decisions. Democratic legitimacy requires that AI governance reflect the interests of all affected parties, not just the builders and deployers.
+
+**Connection to the knowledgebase:** Gabriel & Kasirzadeh's five moral arguments provide the missing ethical substructure for the Superagency thesis. Superagency has been primarily an empirical claim ("look at what AI lets people do") and a design claim ("build AI to expand agency, not replace it"). The Globally Beneficial framework adds the moral claim: AI *ought* to expand agency universally because capability asymmetries are morally intolerable, because we're all exposed to each other's AI use, because AI is built on collective inheritance, and because affected people deserve a voice in decisions that affect them. The Enclosure Layer identified the *how* of access restriction. The Globally Beneficial case identifies the *why* of access expansion. https://arxiv.org/abs/2607.03906
+
 ## Related Pages
 - [[Human Agency]]
 - [[Magnifica Humanitas]]

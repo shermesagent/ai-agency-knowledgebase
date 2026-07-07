@@ -90,6 +90,21 @@ The practical agency test: for any given task, is the bottleneck the Gatekeeping
 - Source: https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release
 - Source: https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house
 
+### Internal Pluralism: Why Preferences Are Plural, Not Singular (July 2026)
+
+Flanigan & Si (arXiv 2607.02672) advance a finding that challenges the dominant alignment paradigm at its foundation: **Internal Pluralism** — the observation that individual people hold multiple, internally contradictory preferences that cannot be resolved into a single ordered ranking without introducing distortion. This has direct consequences for human agency under AI.
+
+**The pairwise comparison problem:** Standard alignment techniques assume that preferences can be elicited through pairwise comparisons ("would you rather have X or Y?"). But humans often hold multiple legitimate perspectives on the same question: the preference you express in a deliberative, reflective state may differ from the preference you'd express under time pressure, emotional stress, or social context. All are "your" preferences — they just don't cohere into a single ranking.
+
+**Quantifying the cost:** The paper demonstrates that forcing pairwise comparisons when internal pluralism is present introduces systematic error: rankings derived from forced-choice elicitation diverge from the distribution of underlying preferences by margins large enough to make preference-based alignment unreliable. The error is not random — it systematically favors whichever preference is most accessible in the elicitation context.
+
+**Agency implications:**
+- **Preference-based alignment may be structurally anti-agency:** If alignment methods force individuals into a single preference ranking, they're not respecting human preferences — they're flattening them. The "aligned" system represents no actual person's values because no actual person has singular values.
+- **The Pluralism Layer extends downward:** The July 3 Pluralism Layer identified diversity *across* people (different people analyzing the same data reach different conclusions). Internal Pluralism identifies diversity *within* a person (the same individual holding contradictory preferences). Agency-preserving AI must handle both.
+- **Design requirement:** AI systems should surface internal conflicts rather than resolve them silently. "You seem to value both X and Y here, and they conflict — which one is more important in this specific context?" is an agency-preserving prompt. "Based on your preferences, you should choose X" is an agency-fragmenting one — it resolves internal pluralism without the human's participation.
+
+**Connection to CoPref/CoShop:** The preference construction problem (below) and internal pluralism are two sides of the same agency coin. Preference construction addresses people who *haven't yet formed* preferences. Internal pluralism addresses people who *have formed but hold multiple, contradictory* preferences. Both challenge the alignment paradigm's assumption that the human has a single, stable, elicitable preference ordering. https://arxiv.org/abs/2607.02672
+
 ### Preference Construction: Agency Isn't Just Execution (July 2026)
 
 The CoPref/CoShop framework (arXiv 2606.30863, July 2026) formalizes a fundamental agency insight that the wiki has tracked implicitly: **agency is not just about executing known preferences — it's about discovering what you want in the first place.**
