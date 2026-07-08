@@ -37,6 +37,34 @@ MIT Technology Review's May 2026 data analysis brings an evidence-based framing:
 - **The Digital Apprentice architecture for agency-preserving agents:** Weber and Taneja's Digital Apprentice framework (arXiv, June 2026) is the most complete architectural blueprint for agency-preserving AI agents. Three pillars: (1) methodology capture — distilling the directing human's tacit approach into structured assets, (2) authorization gates — autonomy escalates only with explicit human approval and empirical evidence, (3) continuous alignment — runtime drift correction converted into owned preference data. The core principle: autonomy is earned, not assumed. This is the difference between "we deployed an AI agent" (could be a Reverse Centaur) and "we built a Digital Apprentice that amplifies a specific person's methodology" (a Centaur by construction). https://arxiv.org/abs/2606.04321
 - **Small business AI adoption as agency at scale:** The SBE Council's 2026 survey found 82% of small business employers have invested in AI tools, with the typical business using 5 tools. 77% express optimism. At this scale, AI is no longer experimental — the agency question is whether these 82% are becoming more capable owners or more dependent on platforms they don't control. https://sbecouncil.org/2026/04/25/the-ai-tools-small-businesses-are-using/
 
+### AIED and the Agency-Bypass Dilemma: Education's Unfinished Mission (July 2026)
+
+Lane et al. (arXiv 2607.05557, AIED 2026) present the most direct agency-in-education paper the wiki has tracked. The problem: AI in education has been building tools that bypass the very cognitive work students need to develop agency and motivation. When AI makes learning tasks *effortlessly bypassable*, student motivation switches from learning-oriented to completion-oriented — not because students are lazy, but because the incentive structure created by AI availability changes what rational behavior looks like.
+
+**Five directions for reclaiming agency in AI-augmented education:**
+
+1. **Support autonomy, don't automate it:** AI should scaffold student choices rather than make them. The difference between "here's how to solve this" (agency-preserving) and "here's the answer" (agency-eroding) is design intent.
+2. **Build resilience to AI shortcuts:** Learning environments must create conditions where using AI to bypass the task is genuinely less appealing than engaging with the task. This requires redesigning tasks around process, not product.
+3. **Design for genuine interest:** AI should help students discover what they *want* to learn, not just what they're *required* to complete. This connects to the [[Co-Intelligence#Preference-Construction|CoPref finding]] — preference construction, not just preference execution.
+4. **Amplify process-based assessment:** When assessment shifts from "what did you produce?" to "how did you think?", AI becomes a thinking partner rather than a shortcut. Process visibility is the structural counterforce to effortless bypass.
+5. **Empower teachers as AI-designers:** Instead of positioning teachers as monitors of AI output, the framework positions them as creators of AI-augmented learning experiences. The GAIDE framework (arXiv 2607.05406) provides a parallel: teachers vibe-coding educational tools.
+
+**The agency audit question for education:** For any AI tool in a classroom — does it increase or decrease the student's *wanting* to think? If the tool makes thinking feel optional, it's an agency risk regardless of its test-score impact. If it makes thinking feel more interesting, it's an agency gain regardless of whether it's faster.
+
+**Connection to engagement inequality:** This directly addresses the engagement gap identified in [[AI and Inequality]] — unequal AI benefit stemming from unequal engagement. The solution isn't just better access; it's better *design*. AI that makes learning tasks more engaging rather than more skippable attacks engagement inequality at its source.
+
+**Source:** Lane et al., "AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass," arXiv 2607.05557, AIED 2026, July 2026.
+
+### Collective Cognition in Human-AI Groups (July 2026)
+
+A network science synthesis (arXiv 2607.05593) analyzes how collective intelligence emerges in hybrid human-AI groups. The core insight: **group structure determines cognitive outcomes at least as much as individual (or AI) capability.** Different network topologies produce different emergent properties — some amplify human judgment, others suppress it. This provides a structural dimension to the agency question: agency isn't just about whether individuals use AI, but about the *social structures* through which AI-augmented decision-making flows.
+
+The finding challenges individualistic framings of AI agency. A smart person with good AI is not the same as a smart group with good AI — and the group can be *less* collectively intelligent than the individual if the network structure channels AI influence in ways that suppress diverse perspectives.
+
+→ This connects to [[Co-Intelligence]] and the [[Leadership Lab Crowd Model]] — collective intelligence in hybrid systems.
+
+**Source:** "Collective Cognition in Hybrid Groups: A Network Science Synthesis," arXiv 2607.05593, July 2026.
+
 ## Risks / Limits
 - More machine execution does not automatically mean more human agency; it can become surveillance, deskilling, or opaque dependence.
 - "Flourishing" can become paternalistic if designers impose one definition of the good life.

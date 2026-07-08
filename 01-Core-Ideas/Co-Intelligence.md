@@ -103,6 +103,18 @@ A new construct from Adhikari et al. (arXiv 2607.02723, July 7, 2026) — **Doom
 
 This operationalizes the Co-Existence calibration skill — it separates what you've actually understood from what you've merely consumed. https://arxiv.org/abs/2607.02723
 
+### Collective Cognition in Hybrid Groups: Network Topology Determines Outcomes (July 2026)
+
+A new network science synthesis (arXiv 2607.05593, July 2026) adds a structural dimension to the Co-Existence framework: **how human-AI groups are networked together determines whether the group is more or less intelligent than its members.** The finding challenges the individualistic assumption underlying most Co-Existence guidance — "use AI for what it's better at, do what you're better at." In groups, the network structure through which AI-augmented decisions flow can either amplify or suppress diverse human perspectives.
+
+**Key insight for Co-Existence:** The same person with the same AI can produce systematically different outcomes depending on whether they're operating as an isolated individual, a hub in a centralized network, or a node in a distributed network. Co-Existence calibration ("knowing when the AI is better than you") is necessary but not sufficient — in group settings, the question is: *does the group structure let you exercise that calibration?*
+
+**Connection to the Co-Existence levels:** The Cukurova taxonomy (Transactional→Synergistic) maps tightly onto network structures. A Transactional interaction (isolated individual+AIs) is one network topology; a Synergistic interaction (mutually-aware distributed group) is a fundamentally different one. The same AI capability produces different agency outcomes at different levels.
+
+→ This also connects to [[Human Agency#Collective Cognition|Collective Cognition]] and the larger question of whether AI-augmented groups can develop *genuine* collective intelligence rather than mere AI-amplified consensus.
+
+**Source:** "Collective Cognition in Hybrid Groups: A Network Science Synthesis," arXiv 2607.05593, July 2026.
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.

@@ -821,3 +821,13 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Created 00-Daily-Digests/2026-07-07.md
 - Deferred: source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass)
 - Pages touched: 5 updated, 1 new digest
+## [2026-07-08] ingest | arXiv papers + non-arXiv: The Infrastructure of Agency
+- Theme: "The Infrastructure of Agency" — AI reshaping structural conditions for human agency from global economics to education to team cognition to emotional support
+- Fetched arXiv cs.AI, cs.CY, cs.HC RSS feeds + Import AI 464 (Clark), Zvi's "No Space Like J-Space" via RSS
+- Updated Human Agency: added AIED agency-bypass dilemma (2607.05557) + Collective Cognition in Human-AI Groups (2607.05593)
+- Updated AI and Inequality: added The Jagged Global Economy section (2607.05404) — 141-country cross-national AI exposure, gender gradient, remittance channel
+- Updated Co-Intelligence: added Collective Cognition in Hybrid Groups (2607.05593) — network topology determines hybrid group intelligence
+- Created 00-Daily-Digests/2026-07-08.md — Top 5: AIED agency-bypass, Anthropic J-Space, Jagged Global Economy, Import AI 464 (Fable kernel + RLI 16.1%), ChatGPT as informal mental health infrastructure (187k conversations)
+- Source diversity: 9 arXiv + 2 non-arXiv (Import AI, Zvi) = 82% papers, 18% non-papers. Paper-heavy day.
+- Deferred: source library updates (sources.jsonl, 05-Source-Library pages), J-Space dedicated page
+- Pages touched: 3 updated (Human Agency, AI and Inequality, Co-Intelligence), 1 new digest

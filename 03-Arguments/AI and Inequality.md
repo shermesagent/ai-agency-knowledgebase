@@ -44,6 +44,26 @@ This connects to three existing inequality dimensions tracked in this page:
 
 **Source:** "Inside the Luddite Festival," WIRED, July 2, 2026. https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/
 
+### The Jagged Global Economy: Cross-National AI Exposure (July 2026)
+
+A new global mapping (arXiv 2607.05404, July 8, 2026) provides the most comprehensive cross-national picture of AI exposure to date — analyzing 141 countries and finding inequality patterns at the *international* level that mirror the individual-level patterns this page tracks.
+
+**Four structural findings:**
+
+1. **Concentration in wealthy nations:** High-income countries are 50% more exposed to frontier AI than middle-income countries. AI-intensive service sectors (finance, professional services, tech) are concentrated in wealthy economies. The AI transition is accelerating precisely where the capacity to adapt already exists.
+
+2. **The gender gradient at global scale:** Women are more exposed to AI-driven occupational change than men in 91% of the 141 countries studied. This is not a Western phenomenon — it's nearly universal. The structural reason: women are disproportionately employed in the service-sector occupations most amenable to AI augmentation/replacement.
+
+3. **The remittance channel — dependency without control:** The paper identifies a new transmission mechanism for AI inequality. AI job disruption in wealthy countries propagates to developing countries through migrant worker remittances. Workers from lower-income countries employed in AI-exposed sectors abroad face disruption — and when their jobs change, the financial flows to their home countries change. Their home countries experience AI-driven economic effects without deploying, using, or controlling the AI. This is dependency inequality: the most exposed are those with zero agency over the technology causing the exposure.
+
+4. **Asymmetric adaptation capacity:** The countries with the highest AI exposure (wealthy, service-intensive) have the most resources to adapt. The countries with the lowest exposure experience the most severe consequences — through remittance disruption — with the fewest resources to respond. This is the international version of the engagement gap: those who could benefit most from AI adaptation support are least equipped to access it.
+
+**The inequality through-line:** From the entry-level divide (young workers in AI-exposed occupations), through the persuasion asymmetry (access to persuasive AI), through the subscription enclosure (pay-forever access), to the global remittance channel (disruption without deployment) — AI inequality operates at every level from individual to international. Each layer compounds the ones below it. A worker in a developing country whose family depends on remittances from a migrant relative in an AI-exposed service job is experiencing every layer simultaneously: they can't access the AI, they can't afford the subscription, they can't deploy the persuasive capability, and their economic vulnerability is determined by choices made in countries they don't live in and companies they can't influence.
+
+→ This connects directly to the [[The Turing Trap]] framework: automation in one country creates augmentation losses in another, without the affected country having any say in deployment decisions.
+
+**Source:** "The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies," arXiv 2607.05404, July 2026.
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
