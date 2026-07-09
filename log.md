@@ -831,3 +831,15 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Source diversity: 9 arXiv + 2 non-arXiv (Import AI, Zvi) = 82% papers, 18% non-papers. Paper-heavy day.
 - Deferred: source library updates (sources.jsonl, 05-Source-Library pages), J-Space dedicated page
 - Pages touched: 3 updated (Human Agency, AI and Inequality, Co-Intelligence), 1 new digest
+## [2026-07-09] ingest | arXiv papers + Zvi: The Architecture Layer
+- Theme: "The Architecture Layer" — the design of AI systems increasingly matters more than their raw capability
+- Fetched arXiv cs.AI, cs.CY, cs.HC RSS feeds + blog RSS (Zvi, Stratechery, MIT TR, WIRED). web_extract credit-exhausted, web_search returned empty arrays on 2 attempts — arXiv + RSS-only curation day
+- Created 00-Daily-Digests/2026-07-09.md — Top 5: Zvi "thoughtlessly cruel" EdTech software, Digital Fragmentation (103M app events, AI restructures work), ARC-AGI-1 architecture as third regime (67.25% at $0.62/task), AgentLens trajectory-based coding eval, Agentic AI Security horizon scan
+- Updated AI Tutors — Added Zvi's "thoughtlessly cruel" software problem: the gap between what AI could do for education and what's deployed is an architecture problem
+- Updated Democratization of Expertise — Added ARC-AGI-1 architecture as the third regime: open-weight model + agent design = 67.25% without fine-tuning or heavy compute
+- Updated Work — Added Digital Fragmentation study (103M app events, day-to-day variation 44.6%, AI post-use shows narrower/longer/more predictable app windows)
+- Updated Home: new digest link, recent updates row, today's digest quick link
+- Source diversity: 1 non-arXiv (Zvi) + 4 arXiv = 80% papers. Non-paper type: Newsletter essay. Heavy paper day.
+- Non-arXiv sources limited: Mollick last post June 30 (covered), Import AI #464 July 6 (covered), Stratechery Grok 4.5 piece (July 9, JS-rendered, couldn't extract), MIT TR EmTech AI (July 8, conference report, thin)
+- Deferred: source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass)
+- Pages touched: 3 updated (AI Tutors, Democratization of Expertise, Work), 1 new digest, 1 navigation file (Home)
