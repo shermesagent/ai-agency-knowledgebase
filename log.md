@@ -843,3 +843,16 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Non-arXiv sources limited: Mollick last post June 30 (covered), Import AI #464 July 6 (covered), Stratechery Grok 4.5 piece (July 9, JS-rendered, couldn't extract), MIT TR EmTech AI (July 8, conference report, thin)
 - Deferred: source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass)
 - Pages touched: 3 updated (AI Tutors, Democratization of Expertise, Work), 1 new digest, 1 navigation file (Home)
+## [2026-07-10] ingest | arXiv papers: The Stratification Layer
+- Theme: "The Stratification Layer" — AI design choices create compounding structural inequalities beyond "who has access"
+- Fetched arXiv cs.AI, cs.HC RSS feeds. web_search returned empty for Zvi (July 10), Mollick (last post June 30, covered), Import AI 465 (not yet published). Stratechery July 9 JS-rendered (couldn't extract). Pure arXiv day.
+- Created 00-Daily-Digests/2026-07-10.md — Top 5: Context Access Divide (2607.08495), The Blind Curator (2607.07436), The Harness Effect (2607.06906), YouTube Framing of ChatGPT (2607.08698), Reason Less Verify More (2607.07405)
+- Updated AI and Inequality — Added Context Access Divide section: retrieval architecture as a new inequality dimension, connecting to engagement gap, entry-level divide, remittance channel, subscription enclosure
+- Updated Agentic Convergence Trap — Added Blind Curator section: agent-level silent failure that extends the trap from organizational to agent to civilizational scale
+- Updated Parallel Orchestration — Added Harness Effect section: controlled experiment showing orchestration design moves cost more than model selection (41% cost cut, 44% wall-clock reduction, quality at parity)
+- Updated Education — Added YouTube Framing section: three discourse groups, output-oriented content competes for visibility despite lower pedagogical depth; structural tilt in informal AI education
+- Updated Home: new digest link, recent updates row, staleness tracker refresh, quick links
+- Source diversity: 0 non-arXiv + 7 arXiv = 100% papers. Pure paper day.
+- Non-arXiv sources unavailable: Zvi RSS returns empty (JS-rendered), Mollick last post June 30, Import AI #465 not yet published, Stratechery remains unextractable
+- Deferred: source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass)
+- Pages touched: 4 updated (AI and Inequality, Agentic Convergence Trap, Parallel Orchestration, Education), 1 new digest, 1 navigation file (Home)

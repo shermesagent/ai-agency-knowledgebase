@@ -49,6 +49,21 @@ Fernando Borretti's essay ["No-One Escapes the Permanent Underclass"](https://bo
 Source: https://borretti.me/article/no-one-escapes-the-permanent-underclass
 Source: https://importai.substack.com/p/import-ai-463-self-improving-robots
 
+## The Blind Curator: Agent-Level Silent Failure (July 2026)
+
+The convergence trap operates at the organizational level — firms converge on identical strategies through shared AI platforms. A new paper (arXiv 2607.07436, July 10, 2026) identifies the same pattern at the agent level: **self-evolving agents that silently fail to improve because their internal judge is biased.**
+
+**The mechanism:** Self-evolving agents maintain skill libraries — adding good skills, retiring bad ones. Skill retirement is the structural constraint that keeps the library from deteriorating below the no-skill baseline. But retirement assumes an unbiased judge, which is false for LLM judges in reference-free tasks. The paper shows that a biased judge doesn't just add noise — it **silently switches off the curator.** False-pass bias (failures slipping through as passes) disables contribution-based retirement past a sharp threshold that no amount of data can cross.
+
+**The silent failure:** Aggregate metrics stay steady because the same corruption that disables retirement also starves skill synthesis. The agent's performance doesn't visibly degrade — it just stops improving. The failure is undetectable through normal monitoring. The paper provides a cheap defect-injection audit that tells an operator, before deployment, which side of the threshold their judge occupies.
+
+**Why this extends the convergence trap:** The organizational trap (firms converge on identical strategies) and the agent-level trap (agents converge on a skill plateau they can't escape) share the same structural feature: **the evaluation mechanism is captured by the same system it's supposed to govern.** In the organizational case, AI platforms provide the optimization targets that firms converge toward. In the agent case, the LLM judge provides the evaluation that determines which skills survive — and when that judge is biased, the survival mechanism becomes a stagnation mechanism.
+
+Combined with Borretti's civilizational-scale analysis, the convergence trap now operates at three levels: (1) **organizational** — firms using the same AI platforms converge on identical strategies, (2) **agent-level** — self-evolving agents with biased judges silently stop improving, (3) **civilizational** — states in existential competition optimize away human control. Each level compounds the one below it. An organization using converging strategies, deploying self-stagnating agents, in a security environment that rewards removing human oversight — that's not three separate problems. It's one problem at three scales.
+
+**Source:** "The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents," arXiv 2607.07436, July 2026.
+**Source:** "No-One Escapes the Permanent Underclass," Fernando Borretti, June 2026.
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Frontier Firm]]

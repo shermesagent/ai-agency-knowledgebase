@@ -83,5 +83,23 @@ The framework distinguishes itself from self-report literacy scales by measuring
 
 Source: https://arxiv.org/abs/2607.00211
 
+## YouTube Framing: How ChatGPT Is Sold vs. How It Should Be Taught (July 2026)
+
+A new multi-modal epistemic network analysis (arXiv 2607.08698, July 10, 2026) of 52 educational YouTube videos about ChatGPT reveals three structurally distinct discourse framings, each competing for the same learner attention:
+
+- **G1: Conceptual scaffold.** ChatGPT as a partner for thinking — helps generate ideas, asks questions, pushes reasoning. Learners in this frame described ChatGPT as a "thinking partner" or "tutor."
+- **G2: Retrieval practice.** ChatGPT as a tool for skill-building — quiz generation, concept testing, deliberate practice. Focus on cognitive engagement.
+- **G3: Output generation.** ChatGPT as a shortcut to finished products — write the essay, solve the math problem, complete the task. Learners raised concerns about over-reliance and cognitive offloading.
+
+Epistemic Network Analysis confirmed significant group differences with large effect sizes. **The stratification finding:** G3 (output generation) achieved comparable platform reach to G2 (skill-building) — yet with substantially weaker learning-oriented framing. Output-oriented content competes for visibility despite lower pedagogical depth.
+
+**Why this matters for AI literacy:** The EAIL finding (11.1% high epistemic engagement) and the chat interface risk (solutions over dialogue) both describe what happens *in* the interaction. YouTube framing describes what happens *before* the interaction — the mental model learners bring with them. If most content they encounter frames ChatGPT as an output machine, they'll approach it as an output machine. The 78.8% who defaulted to outsourcing and verification-seeking may not be making a conscious choice — they're following the framing they absorbed from YouTube, TikTok, and social media.
+
+**The structural tension:** The platform algorithm optimizes for engagement, not for epistemic quality. Output-oriented content is more engaging (instant results, dramatic reveals, "I passed without studying") than learning-oriented content (slow, iterative, "here's how to think about this"). The result is a structural tilt: informal AI education reaches its largest audiences through its shallowest framings. The gap between what good AI use looks like and what popular AI content promotes is widening — and the same learners who need strong epistemic scaffolding get the weakest framing.
+
+→ This connects to [[Epistemic AI Literacy]] (the 11.1% benchmark now has a structural explanation), [[Cognitive Surrender]] (output-oriented framing normalizes surrender before the learner even opens a chat), and [[AI Tutors]] (the gap between what AI tutoring could be and what platform-disseminated framing says it is).
+
+**Source:** "How YouTube Frames ChatGPT Use in Education: A Multi-Modal Epistemic Network Analysis," arXiv 2607.08698, July 2026.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

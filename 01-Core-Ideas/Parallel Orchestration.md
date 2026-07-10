@@ -81,6 +81,25 @@ Alternative considered terms and why they were rejected:
 - [[Superagency]] — The expansion of individual human agency through AI leverage
 - [[Cognitive Surrender]] — The risk embedded in Parallel Orchestration: trading deep understanding for broad oversight
 
+### The Harness Effect: Orchestration Design as the Stratification Mechanism (July 2026)
+
+A controlled experiment (arXiv 2607.06906, July 10, 2026) quantifies what this page argues qualitatively: **the orchestration layer matters more than the model.** Across 22 locked evaluation tasks and six foundation models (Claude Sonnet 4.6, Gemini 3.1, Gemini Flash 3.5, Qwen 3.6, GLM 5.1, Palmyra X6), changing only the orchestration layer — a frozen conventional production loop vs. the Writer Agent Harness — produced:
+
+- **Cost cut 41%** (blended $0.21→$0.12/task)
+- **Wall-clock reduced 44%** (48s→27s median)
+- **Tokens per task cut 38%** (14.2k→8.8k)
+- **Quality at parity** (0.78→0.81, statistically equivalent)
+
+The paper's central claim: **the orchestration layer moved cost per task more than the full spread of the model menu did.** A person who could afford a single task with the cheapest model in the conventional harness can afford nearly two tasks with any model in the improved harness. Efficiency is model-invariant — every model gets cheaper (33-61% range). But quality gains are capability-dependent, correlating almost perfectly with baseline model strength (r=0.99). Better orchestration amplifies strong models more than weak ones. Quality per dollar rises 82%.
+
+**What this means for Parallel Orchestration:** The practice this page describes — running multiple AI streams in parallel, switching attention between them, managing a portfolio of AI-powered projects — is downstream of orchestration design. When the orchestration layer is wasteful (conventional loop), parallel orchestration burns tokens and money. When the orchestration layer is efficient (Writer Agent Harness), the same practice delivers twice the capability per dollar. The person running 5 parallel AI streams with a conventional harness gets the output of ~3. The person running 5 with an efficient harness gets the output of ~9.
+
+**The stratification implication:** Parallel Orchestration — like any high-leverage practice — becomes a force multiplier for inequality when the people who could benefit most from it can't afford the orchestration design that makes it efficient. The Harness Effect is a stratification mechanism: organizations that invest in orchestration design get more capability from the same models at lower cost. Organizations that don't are burning tokens on slop — and can't afford to run enough parallel streams to benefit from the practice.
+
+→ This connects to [[Democratization of Expertise]] (orchestration as the access dimension the ARC-AGI-1 paper identified), [[AI and Inequality]] (the Context Access Divide adds retrieval architecture to the stratification stack), and [[AI Orchestrator]] (the single-project practice that Parallel Orchestration scales).
+
+**Source:** "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI," arXiv 2607.06906, July 2026.
+
 ### Sources
 
 This synthesis draws on structured research across 10 dimensions, totaling over 90 sources:

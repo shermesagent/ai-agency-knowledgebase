@@ -64,6 +64,30 @@ A new global mapping (arXiv 2607.05404, July 8, 2026) provides the most comprehe
 
 **Source:** "The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies," arXiv 2607.05404, July 2026.
 
+### The Context Access Divide: Retrieval Architecture as Inequality (July 2026)
+
+Fujita's [Context Access Divide](https://arxiv.org/abs/2607.08495) (arXiv 2607.08495, July 10, 2026) introduces a new dimension of AI-driven inequality: **contextuality** — whether your AI can autonomously retrieve context from your knowledge corpus, or requires manual attachment.
+
+**The core mechanism:** The CAD separates users whose AI systems use Dynamic Context Retrieval (via MCP/RAG architectures) from those stuck with manual attachment. The paper provides a formal probabilistic model: as knowledge corpora grow, manual attachment leads to combinatorial collapse in task-success probability. The user must know which documents are relevant, attach them correctly, and keep them current — a burden that grows with corpus size. Dynamic Context Retrieval systems automatically discover, retrieve, and integrate relevant context.
+
+**The stratification mechanism:** This is inequality-by-design, not inequality-by-access. Everyone talks about "who has GPT-5" but the real divide is whether the AI can *find* the information it needs in your own documents. The richer your context — more projects, more decisions, more history — the more you need dynamic retrieval, and the more punishing manual attachment becomes. The divide gets *worse* as your knowledge grows, not better. A solo consultant with 10 years of client files in a well-indexed MCP system has more effective AI capability than a team of 50 with manual attachment to the same corpus.
+
+**Connection to existing inequality dimensions:**
+
+- **The engagement gap:** Dynamic context retrieval automates the discovery work that manual attachment requires. Users stuck with manual attachment must engage *more* (find, verify, attach every relevant document) to get less (missed context, combinatorial errors). The retrieval architecture determines how much user engagement translates into AI effectiveness.
+
+- **The entry-level divide:** Workers in organizations with dynamic retrieval infrastructure get AI that *finds* the institutional knowledge they need. Workers in organizations without it must know what to look for before they can ask — a barrier that disproportionately impacts junior workers and new hires who don't yet know what's relevant.
+
+- **The remittance channel amplified:** If AI deployment in wealthy countries moves toward dynamic retrieval (as enterprises adopt MCP/RAG), the productivity gap between those with contextualized AI and those without widens — propagating through all the channels (trade, remittances, labor markets) that connect national economies.
+
+- **Subscription enclosure compounded:** Dynamic context retrieval typically requires infrastructure (vector databases, MCP servers, API access) that itself may be gated behind subscription tiers. The same user who can't afford the AI feature subscription also can't afford the retrieval infrastructure that would make their AI effective. The gates stack.
+
+**The structural insight:** The CAD formalizes what practitioners have intuited — that "access to AI" is the wrong metric. The right metric is *contextualized access*: can the AI autonomously navigate your knowledge environment? As AI capability becomes table stakes, the retrieval architecture becomes the differentiator. And retrieval architecture is infrastructure — it compounds, it requires investment, it widens gaps between those who build it and those who don't.
+
+→ This connects directly to [[Democratization of Expertise]]: the ARC-AGI-1 finding showed architecture as the third path to reasoning capability. The CAD shows architecture — specifically, retrieval architecture — as the fourth dimension of democratization. Access, capability, platform, influence, and now contextuality. Each is a gate. Each can widen or narrow inequality depending on design and deployment.
+
+**Source:** "The Context Access Divide: Agentic Inequality and the Architecture of Reasoning," arXiv 2607.08495, July 2026.
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
