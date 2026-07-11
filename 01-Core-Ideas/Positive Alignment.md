@@ -52,6 +52,33 @@ For Positive Alignment, this provides the **mechanism:** the missing theoretical
 
 Source: https://arxiv.org/abs/2607.00001
 
+## J-Space and the Interpretability Prerequisite (July 2026)
+
+Anthropic's July 2026 discovery of **J-Space** — a sparse, interpretable region inside Claude where the model "puzzles over" concepts using a global-workspace-like architecture — changes the Positive Alignment conversation. Using the Jacobian Lens, a new interpretability tool, researchers can trace what concepts are active at each layer and how those concepts drive downstream outputs.
+
+**Why this matters for Positive Alignment:** The original 2026 arXiv paper by Laukkonen et al. proposed that AI should support human flourishing — but it didn't answer *how* you'd know if a system was doing that. You can't align for flourishing if you can't see what the model is thinking about when it makes decisions. J-Space provides the first concrete mechanism: a window into the model's internal representations that can be traced to outputs.
+
+**The connection is structural:**
+- **Positive Alignment without interpretability** = hoping the outputs promote flourishing without being able to verify the internal process.
+- **Positive Alignment with interpretability** = being able to trace whether a model's internal concept-space includes the kind of reasoning that promotes (or undermines) human agency, deliberation, and value formation.
+- **J-Space is not transparency** — it's a narrow window, not a control panel. But it's the first concrete evidence that LLMs have internal structures that are both sparse and interpretable, and that these structures can be meaningfully connected to outputs.
+
+**The governance implication:** If you can trace what concepts a model activates for a given query, you can begin to audit whether those concepts align with flourishing-supporting values. An AI that activates "compliance," "engagement-maximization," and "vendor-preference" is structurally different from one that activates "user-agency," "deliberation," and "source-verification." J-Space makes this distinction potentially auditable.
+
+See also: Zvi's analysis in "No Space Like J-Space" (July 7, 2026), MIT Technology Review coverage (July 9, 2026).
+
+## OpenAI Safety Leadership Departures: The Institutional Capacity Question (July 2026)
+
+Johannes Heidecke, OpenAI's head of safety, departed the company in July 2026 — joining a growing list that includes Jan Leike (former head of Superalignment), Ilya Sutskever (co-founder), and John Schulman (co-founder). This pattern has implications for Positive Alignment that go beyond personnel news.
+
+**The structural concern:** OpenAI's "Lab with a Plan" (see above) positions the company as the primary vehicle for alignment-through-distribution — build AGI, accelerate the economy, then give everyone a personal AGI. But the safety leadership departures raise a question about *who builds it.* If the people who built OpenAI's safety infrastructure keep leaving, what happens to the infrastructure?
+
+**The Positive Alignment tension:** The plan's sequence — RSI first, distribution later — requires the RSI phase to be executed with world-class safety expertise. The leadership departures suggest this expertise is not being retained. This creates a Positive Alignment paradox: the strongest articulation of the "alignment through distribution" thesis comes from a lab that can't retain its safety leadership.
+
+**The broader signal:** Positive Alignment as a design agenda requires institutional capacity — not just good intentions. Labs that want to build AI for human flourishing need to be able to keep the people who know how to do it safely. The departure pattern is a warning that institutional capacity is being lost faster than it's being built.
+
+See also: [[Frontier Firm]] for the competitive dynamics driving these departures.
+
 ## Related Pages
 - [[Constructive Alignment]]
 - [[Human Agency]]

@@ -35,6 +35,18 @@ The encyclical's closing image: AI is not a closed system or predetermined futur
 ### 6. No Lethal Autonomy
 A clear bright line: "It is not acceptable to entrust lethal or irreversible decisions to artificial systems. Moral responsibility cannot be delegated, nor can it be dissolved in automated chains."
 
+## The UN AI Summit and the Governance Gap (July 2026)
+
+The UN's AI for Good Global Summit (July 2026) demonstrated the tension *Magnifica Humanitas* identified six weeks earlier: a room full of impressive technology demonstrations — robotic dogs, Tesla humanoids, rescue helicopters, live AI coding sessions — alongside governance panels that produced no binding mechanisms, no enforcement structures, and no accountability framework.
+
+**The convergence is striking.** The encyclical's central argument was that "the equation between technical power and the right to govern" must be broken. The UN Summit showed that equation fully intact: the technical power was dazzling, the governance was aspirational. This is not a failure of the summit — it's a structural feature of the current moment. Technology moves at product-release pace (weeks). Governance moves at treaty-negotiation pace (years). The gap is not an oversight; it's a property of the system.
+
+**What the encyclical saw coming:** *Magnifica Humanitas* anticipated this exact dynamic when it argued that "it is not enough to regulate technology — it must be taken away from monopolies, made transparent and open to challenge." The UN Summit's governance panels operated *within* the existing structure — asking how to regulate companies rather than how to restructure the relationship between technical power and the right to govern. The encyclical's "disarming technology" frame is the more radical position: governance that only regulates is governance that accepts the concentration it's regulating.
+
+**The agency connection:** When governance lacks binding mechanisms, agency defaults to the technology deployers. If the UN recommends but doesn't enforce, and a company deploys but doesn't ask, the company decides. The summit showcased the capabilities; the governance gap showed who actually holds the power.
+
+See also: WIRED coverage, July 10, 2026.
+
 ## Practical Examples
 - The Vatican-Anthropic alliance: Anthropic cofounder Christopher Olah spoke at the encyclical's presentation, signaling institutional engagement between moral authority and AI safety research.
 - Constitutional AI: Anthropic's approach of training models with explicit principles mirrors the encyclical's call for embedding values in technology design.

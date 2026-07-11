@@ -855,4 +855,19 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Source diversity: 0 non-arXiv + 7 arXiv = 100% papers. Pure paper day.
 - Non-arXiv sources unavailable: Zvi RSS returns empty (JS-rendered), Mollick last post June 30, Import AI #465 not yet published, Stratechery remains unextractable
 - Deferred: source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass)
-- Pages touched: 4 updated (AI and Inequality, Agentic Convergence Trap, Parallel Orchestration, Education), 1 new digest, 1 navigation file (Home)
+
+## [2026-07-11] ingest | RSS/blog curation: Pressure Points (Saturday)
+- Theme: "Pressure Points" — AI's trajectory testing institutional, environmental, and governance boundaries
+- Weekend protocol: web_search empty, web_extract credit-exhausted. Fell back to RSS feeds via curl (WIRED, MIT TR, One Useful Thing, Zvi). RSS feeds loaded successfully.
+- WIRED AI coverage strong this week: 6 articles including Anthropic J-Space coverage, OpenAI safety head departure, UN AI Summit governance gap, AI-found-15-year-Linux-bug, Microsoft 25% emissions jump, Apple/OpenAI hardware lawsuit.
+- MIT TR: Anthropic J-Space (July 9), EmTech AI 2026 platform theme (July 8).
+- Zvi: AI #176 Parts 1 & 2 (July 9-10) — weekly AI roundup split due to volume.
+- Mollick: No new posts since June 30. Import AI: #464 (July 6), next expected ~July 13.
+- Created 00-Daily-Digests/2026-07-11.md — Top 5: Anthropic J-Space interpretability breakthrough, OpenAI safety head departure (Johannes Heidecke), UN AI Summit governance gap, AI-found-15-year-Linux-bug, Microsoft 25% emissions jump. Plus Quick Hits: Apple/OpenAI lawsuit, Skylight family calendar.
+- Updated Positive Alignment (8+ days stale) — Added two sections: (1) J-Space and the Interpretability Prerequisite: tracing internal representations as the missing mechanism for auditing flourishing-supporting alignment. (2) OpenAI Safety Leadership Departures: institutional capacity for positive alignment being lost faster than built.
+- Updated Magnifica Humanitas (5+ days stale) — Added UN AI Summit section: governance gap validates encyclical's "disarming technology" frame. Technology demonstrations impressive; binding governance absent.
+- Updated Democratization of Expertise — Added AI-Powered Security Auditing source: 15-year Linux root bug found by AI. Democratization of security auditing with governance flip side.
+- Updated Frontier Firm (8+ days stale) — Added Frontier Firm Frictions section: Apple/OpenAI lawsuit (first major hardware-software IP battle) + Safety Leadership Exodus structural pattern (Heidecke joins Leike, Sutskever, Schulman departures).
+- Source diversity: 0 arXiv (weekend) + 11 non-arXiv (RSS/blog). Pure non-paper day.
+- Deferred: J-Space dedicated page (recommended July 8, referenced July 11). Source library updates (sources.jsonl, 05-Source-Library pages — tracked for Sunday lint pass).
+- Pages touched: 4 updated (Positive Alignment, Magnifica Humanitas, Democratization of Expertise, Frontier Firm), 1 new digest, 1 navigation file (Home), 1 log file (log.md).
