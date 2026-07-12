@@ -232,6 +232,24 @@ OpenAI's "The Shift to Agentic AI: Evidence from Codex" (2606.26959, June 25) pr
 
 Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arxiv.org/abs/2606.26959
 
+### ChatGPT Work: The Super App Agent Platform (July 2026)
+
+**Sources:** Reuters, Ars Technica, NYT (July 9, via MIT Technology Review "The Download," July 10)
+
+OpenAI launched ChatGPT Work — its "super app" blending its chatbot, coding tool, and the new GPT 5.6 models into an integrated agent platform. The framing: "designed to do your work for you and with you" (Ars Technica). This is OpenAI's answer to the agent revolution — not a chatbot upgrade, but a fundamental reimagining of what the AI interface is: an always-on agent that executes multi-step work alongside humans rather than a text box for discrete answers.
+
+**Platform architecture vs. discrete tools:** ChatGPT Work follows the WeChat/Chinese super-app playbook rather than the discrete-tool approach that defined the first wave of AI products. The integration — blending coding, research, and conversational capabilities into a single agent interface — is the platform play. OpenAI bets users don't want separate AI tools; they want one agent for everything.
+
+**The autonomous researcher disclosure:** Simultaneously, OpenAI disclosed it is developing "a fully automated researcher" (MIT Technology Review) — an agent capable of conducting independent research. This is what comes after ChatGPT Work: an agent that doesn't just do work WITH you but does work FOR you, independently, at researcher-level capability.
+
+**Implications for the agent revolution:**
+
+- **Agent consolidation:** The super-app model concentrates agent capability in a single platform. The 99.8% of internal output tokens already coming from Codex agents (see [[#The Measured Shift|above]]) suggests OpenAI knows the agent-first architecture works — ChatGPT Work is the external-facing version of what employees already use internally.
+- **The "for you" vs. "with you" tension:** Prepositions matter. "With you" preserves human agency. "For you" introduces delegation. ChatGPT Work's marketing uses both, hedging on the central question: how much autonomy does the user retain?
+- **The Acceleration Paradox:** ChatGPT Work shipped while OpenAI lost both its Head of Safety (July 10) and its CEO of AGI Deployment (July 9) within 48 hours. The institutional architecture for safe deployment is degrading at the same moment the most ambitious product deployment in AI history is accelerating. See [[Frontier Firm]] for the deeper analysis.
+
+See also: [[Frontier Firm]], [[AI Enclosure]], [[00-Daily-Digests/2026-07-12]].
+
 ### Import AI #461: Alignment Not on Track; Sequent Launch (June 15, 2026)
 Jack Clark's newsletter reports three developments:
 

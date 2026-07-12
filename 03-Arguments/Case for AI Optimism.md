@@ -24,6 +24,18 @@ Optimism about AI is not the same as naivety. The case for AI optimism rests on 
 - A home server runs Gemma 4 12B to index family documents, summarize personal archives, and answer questions from private data — full data sovereignty, no vendor lock-in.
 - 82% of small businesses now using AI across 5 tools on average — from accounting to design to customer communication — representing the largest-scale deployment of AI for individual agency expansion.
 - **South Korea as AI optimism at national scale:** Government-deployed AI textbooks in schools, AI eldercare robots in welfare centers, unmanned AI immigration at airports, humanoid robot monks ordained in Buddhist temples, AI web comics and virtual K-pop idols in popular culture. South Korea demonstrates that when government, religion, industry, and entertainment model AI adoption simultaneously, cultural permission and institutional embedding can achieve what model capability alone cannot — nationwide AI normalization.
+- **AI finds 15-year-old Linux root vulnerability** (WIRED, July 11, 2026): An AI-powered security auditing tool discovered a privilege-escalation bug in the Linux kernel that human code reviewers missed for 15 years. The augmentation promise delivered — AI extends human capability into domains where humans are structurally limited (exhaustive code review). See [[00-Daily-Digests/2026-07-11]].
+- **AI + Quantum computing generates novel peptides** (WIRED, July 12, 2026): Scientists are using AI and quantum computing to discover new peptide structures — the kind of scientific augmentation predicted by the Superagency thesis, where AI doesn't replace human expertise but extends it into previously infeasible search spaces.
+
+### The Interpretability Turn: J-Space and the New Optimism
+
+**Source:** "Anthropic found a hidden space where Claude puzzles over concepts," MIT Technology Review, July 9, 2026
+
+Anthropic's J-Space discovery — a sparse, interpretable region inside Claude where the model "puzzles over" concepts before producing output — is the most significant interpretability advance in years (see [[00-Daily-Digests/2026-07-11]] for full coverage). For the optimism case, J-Space matters because it answers a structural objection: **you can't trust what you can't understand.**
+
+The pessimist's argument against AI optimism has always included an interpretability component: these systems are black boxes, their reasoning is opaque, and deploying them at scale means delegating decisions to processes no one can audit. J-Space doesn't eliminate opacity — it's a narrow window, not a control panel — but it's the first concrete evidence that LLMs have internal structures that are *both sparse and interpretable*, and that these structures can be meaningfully traced to outputs.
+
+**The optimism signal:** Interpretability scales. The techniques that revealed J-Space in Claude can be applied to other models. The finding validates the research program — understanding how models think is possible, not just aspirationally but demonstrably. And interpretability is prerequisite to alignment: you can't align a system you can't understand. J-Space suggests that the understandability problem is solvable, which implies the alignment problem is approachable. That's a structural optimism signal at the deepest level — the technical objection to AI optimism (we can't understand these things) is weakening under empirical pressure.
 
 ## Risks / Limits
 - **Open-weights democratization is a double-edged sword.** The same features that enable local AI sovereignty (no platform filtering, no usage monitoring) make child-safe AI and content moderation impossible to enforce at the model level.
