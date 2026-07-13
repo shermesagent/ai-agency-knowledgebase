@@ -889,3 +889,23 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Source diversity: 0 arXiv + 14+ non-arXiv = 100% non-paper. Weekend protocol. Non-paper types: News aggregator (MIT TR), News reporting (WIRED, Reuters, Ars, FT, Bloomberg, CNN), Newsletter (Zvi), Business (Quartz), Science (New Scientist).
 
 - Pages touched: 3 updated (Frontier Firm, AI Agent Revolution, Case for AI Optimism), 1 new digest, 1 navigation file (Home), 1 log file (log.md).
+## [2026-07-13] daily-curation | Monday digest — "Measured Agency"
+
+**Sources ingested:** 13 (11 arXiv papers + 2 news signals)
+- arXiv cs.AI RSS: CogniConsole, GATS, KV-PRM, Toward Auditable AI Scientists, L-MAD, Scoped Verification, LongMedBench, ARCANA, OpenProver (+5 more)
+- arXiv cs.CY RSS: L2-Bench, Geopolitical Alignment, DAO Governance, GenAI 911 Training
+- arXiv cs.HC RSS: Configurable AI Coding Assistants, Concrete Elaboration in LLM Tutoring, Central Tendency Bias, Experimental Evidence on Learning Impact
+- News: Remote Labor Index (Import AI / CAIS / Scale Labs: 2.5% → 16.1%), NYT Economists' AI Warning (Jack Clark signatory)
+
+**Files created:**
+- 00-Daily-Digests/2026-07-13.md — daily digest (theme: "Measured Agency")
+
+**Files updated:**
+- 02-Domains/Future of Work.md — added Remote Labor Index section and economists' warning section
+- 03-Arguments/AI and Human Flourishing.md — added CogniConsole (inference-time control), augmentation vs automation experiment, central tendency bias sections
+- 02-Domains/Entrepreneurship.md — added Remote Labor Index freelance implications, configurable AI coding assistants sections
+
+**Tool status:** web_extract credit-exhausted (401); web_search degraded (empty returns for most queries). arXiv-only curation with 2 news signals from initial web_search captures.
+
+**Staleness tracker:** 3 pages from 8+ day tier updated. Next curator run should target Agentic Workflow Patterns and Task-Level AI Adoption.
+

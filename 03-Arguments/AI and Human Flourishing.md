@@ -20,6 +20,29 @@ The core question of the Superagency wiki is whether AI expands or contracts hum
 - [Superagency](https://www.superagency.ai/), Reid Hoffman with Greg Beato, 2025 — foundational optimistic thesis for AI as agency-expanding technology.
 - [Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection](https://arxiv.org/abs/2606.04150), Shi, Fang, Maez, Goldenberg, June 2026 — OpenAI collaboration; 28-day longitudinal study: daily AI conversations shifted preference from humans to AI (10.3% decrease in human preference, 11.6% increase in AI preference). Finding: emotional dependence emerges incidentally during task-oriented AI use, not just through companion apps. Policy must address general-purpose systems and cumulative trajectory-level changes. https://arxiv.org/abs/2606.04150
 
+### Inference-Time Control as an Agency Mechanism: CogniConsole (July 2026)
+
+The **CogniConsole** paper (arXiv 2607.08774) argues that many LLM failure modes arise from **under-specified control**, not insufficient capability. The error isn't "the model can't do it" — it's "the model doesn't know exactly what you want." CogniConsole proposes **inference-time control as a first-class abstraction**: explicit templates, schemas, and feedback loops that sit between user intent and model output. Results: structured scaffolding systematically reduces variance and failure rates.
+
+**Why this matters for flourishing:** The dominant narrative is "better models → better outcomes." CogniConsole suggests a second path: **better control interfaces → better outcomes with existing models.** This has direct implications for human agency — if control can be externalized into UI primitives (sliders, templates, confidence thresholds) rather than prompt-engineering skills, the agency benefits of AI become accessible to non-experts. It also connects to a separate finding today: 72.6% of developers want *more* control over AI coding assistants — not just "smarter AI" but "AI I can shape."
+
+**The flourishing connection:** Human flourishing requires self-direction — the ability to set one's own goals and work toward them. Inference-time control is the technical mechanism that lets AI serve self-direction rather than replace it. When an AI system has good control interfaces, the human stays at the helm. When it doesn't, the human drifts into monitoring.
+
+### Augmentation vs. Automation: Experimental Confirmation (July 2026)
+
+A randomized experiment on the learning impact of generative AI (arXiv 2607.08849, cs.HC) provides the cleanest evidence yet that **how you use AI determines whether it expands or contracts capability:**
+
+- AI access → 0.27σ test score improvement (substantial)
+- **Augmentation users** (AI to explain, tutor, elaborate): gains persist one week later
+- **Automation users** (AI to do the work): gains vanish when AI is removed — they hadn't learned
+- **Key mechanism:** Students shifted time from drafting to reading and searching. The time reallocation matters more than the AI assistance.
+
+This is the experimental validation of Mollick's "Think First" behavioral framework already documented in this page. The difference between "give me the answer" and "explain this so I can teach someone else" is the difference between skill atrophy and skill growth — and it's now causally demonstrated. The flourishing implication: AI that expands human capability requires **deliberate sequencing.** You can't just hand someone AI and expect flourishing to follow. See also the [[Practical Experiment]] in today's digest for a daily protocol based on this finding.
+
+### Central Tendency Bias: AI Options ≠ Human Choice (July 2026)
+
+A separate finding (arXiv 2607.09018, cs.HC) complicates the "AI expands options" narrative: when AI presents multiple design variations, humans disproportionately select **center-proximal options.** The AI can generate 20 diverse alternatives, but cognitive anchoring funnels selection toward the middle. Implication: **generation diversity ≠ selection diversity.** Expanding agency requires not just more options, but interfaces that counteract anchoring — randomization, forced comparison, or structured deliberation. This connects to CogniConsole's thesis: the interface between human and AI is where agency lives or dies.
+
 ## Practical Examples
 - Design AI tools that surface uncertainty and alternatives rather than presenting single authoritative answers — this builds calibrated trust rather than false confidence.
 - When deploying AI in educational or professional contexts, pair tool access with domain expertise development — don't just give people AI, invest in their knowledge.
