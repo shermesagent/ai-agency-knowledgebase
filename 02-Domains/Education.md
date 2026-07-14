@@ -101,5 +101,33 @@ Epistemic Network Analysis confirmed significant group differences with large ef
 
 **Source:** "How YouTube Frames ChatGPT Use in Education: A Multi-Modal Epistemic Network Analysis," arXiv 2607.08698, July 2026.
 
+## AI-Assisted Education Inequality: Learning Behavior, Not Access (July 2026)
+
+A 318-student, 125-minute structured experiment (arXiv 2607.10101) advances what may be the most important empirical finding for AI-in-education equity this year: **unequal AI benefit is driven by learning behavior, not by differential access.**
+
+Students from higher-ranking universities benefited more from AI assistance in the experiment — but when researchers controlled for learning behavior (specifically, proactive and critical engagement strategies vs. passive acceptance), the background-based advantage gap shrunk substantially or disappeared. The mechanism is behavioral adoption, not access. Providing equal AI access does not produce equal AI benefit because the quality of interaction matters more than the availability of the tool.
+
+**Implications for education practice:**
+- Teaching students HOW to use AI critically is more important than giving them access to it. Access without skill creates the illusion of equity while preserving underlying gaps.
+- The behavioral dimension maps directly onto the EAIL framework (2607.00211): the 78.8% of students showing non-mastery-oriented strategies are not just learning less — they are systematically falling behind peers who engage proactively.
+- The finding challenges the dominant equity narrative in AI education, which focuses on hardware access and tool availability. Those matter, but they're the first mile. The behavioral gap is the last mile — and it's where inequality actually concentrates.
+- **The engagement inequality loop:** Students with stronger pre-existing skills adopt more proactive AI use → AI amplifies their advantage → the gap widens → but the gap looks like it's about the AI, when it's actually about the pre-existing skill. Breaking this loop requires explicit instruction in critical AI use — not just tool distribution.
+
+→ This connects directly to [[AI and Inequality]] (engagement gap as mechanism), [[Agentic Literacy Debt]] (the compounding cost of poor AI interaction habits), and [[AI Tutors]] (the tutoring quality depends on the student's interaction quality, not just the tutor's design).
+
+**Source:** arXiv 2607.10101 — "Learning behavior accounts for background-related advantage in AI-assisted education"
+
+## Teacher-Built Teammates: No-Code Plugin Authoring (July 2026)
+
+The Teacher-Built Teammates framework (arXiv 2607.09674) introduces **LearnAdapt**, a no-code platform on PedOS 1.1 Lumina that lets educators create custom AI plugins by describing desired interactions in plain English. Teachers can preview and safety-check the resulting plugins before classroom use — converting AI from a pre-packaged product into a design medium.
+
+**Why this matters:** The dominant model of AI in education positions teachers as monitors and consumers of AI output. The Teacher-Built Teammates model positions them as creators of AI-augmented learning experiences. This is the education-sector instantiation of the agency-expansion thesis: the users closest to the learning context have the best information about what kind of AI assistance would help — and now they have the tools to create it without programming.
+
+**Connection to the Agency-Bypass Dilemma:** Lane et al.'s framework for reclaiming agency in AI education explicitly calls for empowering teachers as AI-designers. LearnAdapt provides the tool layer to make that call operational. When teachers can build, test, and iterate on AI plugins that match their specific classroom contexts, AI becomes an expression of pedagogical judgment rather than a substitute for it.
+
+→ See [[Human Agency#AIED and the Agency-Bypass Dilemma|AIED Agency-Bypass]] and [[GAIDE framework]]
+
+**Source:** arXiv 2607.09674 — "From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring"
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

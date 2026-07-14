@@ -210,6 +210,28 @@ If the answer to all three is "yes," your agency in that domain is resilient aga
 - Source: https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/
 - Source: https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who
 
+### The Intervenability Layer: Agency Through Intervention Architecture (July 2026)
+
+The abstention and semantic drift findings from today converge on a single structural requirement: **intervenability** — the designed-in capacity for humans to intervene in AI operations at multiple levels of effort and granularity. This is not a safety measure layered on top of AI; it is an architectural property of the AI system itself.
+
+The Intervenability framework (arXiv 2607.10322) defines intervention as a spectrum: lightweight corrections to individual decisions (low mental effort), through case-level overrides, up to substantial reconfiguration of operating parameters (high mental effort). The key insight is that intervention architecture must be a **design requirement**, not a retrofit. When AI systems are designed with intervenability from the start, human interventions improve the AI, creating a cycle where each intervention reduces the need for future interventions. When intervenability is bolted on after deployment, interventions are costly, rare, and don't feed back into system improvement.
+
+**Connection to the Abstention Layer:** The AgentAbstain finding (2607.10059) — that even frontier agents achieve only 59.5% accuracy at knowing when to abstain — means that the AI cannot be trusted to stop itself. Intervenability is the structural answer: if the agent won't stop, the human must be able to. The abstention gate and the intervention point are two sides of the same architectural primitive.
+
+**Connection to Semantic Drift:** The two-month longitudinal experiment (2607.09790) found that operator control can invert over time — the human becomes the follower. Intervenability provides a **dynamic arbitration loop** that periodically recalibrates the human-AI influence balance, preventing the control inversion threshold from being reached silently.
+
+**Agency test for intervenability:** For any AI system you use or deploy, ask:
+1. At what specific points can you intervene — not just "accept or reject the output," but shape individual decisions, override intermediate steps, or reconfigure behavior?
+2. What is the mental-effort cost of each intervention type? (If intervening requires reading a research paper or writing code, it's not an intervention — it's a workaround.)
+3. Does the system learn from interventions? (Or does it reset to default after each override?)
+4. Is the intervention architecture documented and testable — or is it a verbal promise?
+
+An AI system with zero documented intervention points is an **agency risk by design**, regardless of how capable or accurate it appears. The intervenability test converts the agency preservation question from an abstract ideal into an inspectable, auditable property.
+
+**The Reverse-Centaur test at the intervention layer:** Doctorow's Reverse Centaur is a human serving the machine. Intervenability asks: can the human redirect the machine, or can the human only feed it? If interventions are possible and effective, it's a Centaur. If the human is reduced to accepting, rejecting, or feeding input into an uninterruptible pipeline, it's a Reverse Centaur — regardless of what the marketing says.
+
+→ Sources: [Intervenability](https://arxiv.org/abs/2607.10322), [AgentAbstain](https://arxiv.org/abs/2607.10059), [Semantic Drift](https://arxiv.org/abs/2607.09790)
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

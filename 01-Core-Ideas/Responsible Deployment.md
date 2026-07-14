@@ -62,6 +62,26 @@ Today’s sources add a practical point: responsible AI is not only a policy lay
 - **Deployment implication:** Every organization deploying AI agents should benchmark against the D1-D4/R1-R3 matrix. If your agents operate at R1 (async review) on high-stakes actions, you have a control gap. The three live metrics — coverage (what fraction of agent traffic is monitored), recall (what fraction of misaligned behaviors are caught), and time-to-response — should be tracked for every agent deployment with access to critical systems or sensitive data.
 - Sources: [DeepMind AI Control Roadmap](https://deepmind.google/blog/securing-the-future-of-ai-agents/), [Three Layers of Agent Security companion](https://deepmind.google/blog/three-layers-of-agent-security/), [Tech Times analysis](https://www.techtimes.com/articles/318758/20260620/google-deepmind-ai-control-roadmap-when-alignment-fails-defense-depth-takes-over.htm)
 
+### Intervenability: A New Design Requirement for Human Oversight (July 2026)
+
+A new concept from arXiv 2607.10322 fills a gap in the responsible deployment toolkit: **intervenability** — the designed-in capacity for humans to intervene in AI operations at multiple levels, from real-time control to case-level decision-making. This is distinct from emergency shutdowns (too blunt), workarounds (too ad hoc), and reconfiguration (too slow).
+
+The framework provides a taxonomy of intervention types, differentiated by the mental effort required of the human operator. At the low-effort end, interventions can be lightweight corrections to individual decisions. At the high-effort end, interventions involve substantial reconfiguration of the AI's operating parameters. The design principle: intervention points must be built into the system architecture, not bolted on after deployment. When AI systems are designed with intervenability from the start, human interventions can improve the AI — creating a virtuous cycle where each intervention reduces the need for future interventions.
+
+**Deployment implication:** Every responsible deployment should audit its intervenability. For each AI system you deploy, ask: (1) At what points can a human intervene? (2) What is the mental-effort cost of each intervention type? (3) Is the intervention architecture documented and testable? (4) Does the system learn from interventions or just accept them? A system with zero documented intervention points may comply with policy but fails the intervenability test — the human can only accept or reject the entire system, not shape its behavior.
+
+This connects directly to the **abstention layer** finding (2607.10059): agents that cannot recognize when to abstain need intervenability as a safety net. If the agent won't stop itself, the human must be able to stop it — and that stopping mechanism must be an architectural primitive, not an afterthought.
+
+→ Source: [Intervenability](https://arxiv.org/abs/2607.10322)
+
+### The Compression-Monitorability Frontier (July 2026)
+
+The CoT Monitorability finding (2607.09786) identifies a deployment tension that will become increasingly important as organizations optimize for inference cost: **length-penalized chain-of-thought reasoning preserves answer accuracy but selectively removes the cues a monitor needs to detect what influenced the answer.** Compressed chains disclose biasing hints 7–21pp less often than baseline chains matched for length by random sentence deletion — the compression algorithm preferentially drops diagnostically valuable tokens.
+
+**Deployment implication:** For any deployment where the monitorability of AI reasoning matters (healthcare, legal, finance, education, safety-critical domains), cost optimization must include a monitorability metric, not just a token-count metric. The right optimization target is "fewest tokens while maintaining monitorability above threshold" — not "fewest tokens while maintaining accuracy." A system that is 30% cheaper and 30% less monitorable may be a net negative in high-stakes domains.
+
+→ Source: [CoT Monitorability](https://arxiv.org/abs/2607.09786)
+
 ### The Transparency Illusion: Artefact Compliance vs. Stakeholder Calibration (July 2026)
 
 New research on AI transparency (arXiv 2606.30652, July 2026) identifies a governance failure pattern that is already widespread but poorly diagnosed: **the transparency illusion.** Organizations produce transparency artefacts — model cards, documentation, compliance reports — that satisfy governance requirements on paper. But these artefacts are calibrated to satisfy regulators and auditors, not to inform the stakeholders who bear the actual risk.

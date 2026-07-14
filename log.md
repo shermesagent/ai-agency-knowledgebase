@@ -3,6 +3,22 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-07-14] update | Tuesday daily AI curator run — The Abstention Layer
+
+- Created [[00-Daily-Digests/2026-07-14]] anchored on "The Abstention Layer — When Agents Don't Know When Not to Act." Today's papers converge on a critical gap: agents that are increasingly capable but don't know when to refrain. AgentAbstain (2607.10059): best model only 59.5% paired accuracy. Intervenability (2607.10322): new design requirement beyond shutdown/reconfiguration. Semantic Drift (2607.09790): two-month experiment validates operator control instability. CoT Monitorability (2607.09786): cheaper reasoning = less monitorable. AI-Assisted Education Inequality (2607.10101): learning behavior, not access, drives benefit gaps. Four primary arXiv papers, 2 secondary. Web searches returned empty — pivoted to arXiv RSS exclusively.
+
+- Updated [[Agentic Workflow Patterns]] (06-Frameworks) — Added The Abstention Layer section: AgentAbstain (59.5% accuracy, post-hoc abstention, abstention gate as new architectural primitive), Message-Format Effects in Multi-Hop Relays (weakest relay determines format, injected errors persist 83-100%), Who&When Pro (12,326 failed trajectories for failure attribution), Agentic Context Learning (specification acquisition is the bottleneck, <24% success even for frontier models). Page was 7+ days stale.
+
+- Updated [[Responsible Deployment]] (01-Core-Ideas) — Added Intervenability section (new design requirement beyond shutdown, intervention spectrum by mental effort cost, intervenability audit questions) and Compression-Monitorability Frontier (length penalties preferentially drop diagnostically valuable tokens, cost optimization must include monitorability metric). Page was 1-3 days stale.
+
+- Updated [[Human Agency]] (01-Core-Ideas) — Added The Intervenability Layer section: intervenability as agency architecture, connection to abstention layer (agents can't be trusted to stop themselves), connection to semantic drift (dynamic arbitration loops prevent control inversion), 4-question agency test for intervenability, Reverse-Centaur test at the intervention layer.
+
+- Updated [[Education]] (02-Domains) — Added AI-Assisted Education Inequality section (learning behavior drives benefit gaps, not access; the engagement inequality loop; connection to EAIL 11.1% benchmark and Agentic Literacy Debt). Added Teacher-Built Teammates section (LearnAdapt no-code platform on PedOS 1.1 Lumina, teachers as AI designers not AI monitors, connection to Lane et al.'s Agency-Bypass framework).
+
+- Source diversity: 6 arXiv (100% arXiv — web search failed, pivoted exclusively). RSS feeds used: cs.AI (23 papers), cs.CY (23 papers), cs.HC (23 papers). Filtered to 10 papers for detailed reading.
+
+- Today's theme — "The Abstention Layer" — extends the prior weeks' arc. Key synthesis: we've been optimizing agents for capability (The Persuasion Layer, The Control Layer, The Shaping Layer) but not for judiciousness. The 59.5% abstention accuracy means every agent deployment without an explicit abstention gate is running with an open safety risk.
+
 ## [2026-06-23] update | Tuesday daily AI curator run — The Persuasion Layer
 
 - Created [[Daily AI Agency Digest — 2026-06-23]] anchored on "The Persuasion Layer" — new Oxford/Stanford/UK AISI/LSE research definitively establishes that AI can out-persuade expert humans (18,978 conversations, 6,923 participants), with the mechanism being information volume, not rhetorical sophistication. Four primary sources: 3 arXiv (Co-Construction Blindness 2606.20762, OSINT Detection 2606.20610, Design Principles for HAI 2606.20630), 2 non-arXiv (Import AI 462 Superpersuasion, Zvi GLM-5.2). Primary anchor: **Co-Construction Blindness paper** introduces two constructs that fundamentally reshape AI literacy — every LLM user is IN the loop, not ON it, yet every deployment disclaimer positions them as external auditors.

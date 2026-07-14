@@ -14,6 +14,44 @@ The "manager of managers" pattern from HBR (Fosslien and Duffy 2026) describes a
 
 **The hybrid model-routing pattern** (SemiAnalysis, May 2026, validated by Zvi Mowshowitz): Use Claude Opus for planning, architecture, intent-heavy tasks, and first implementations — then switch to GPT-5.5/Codex for well-specified execution tasks, bug fixes, and tasks where literal instruction-following is the primary requirement. This pattern emerged because "Codex is still worse at inferring your true intent than Claude Code" but excels at following explicit specifications. The implication: agent workflow design increasingly involves routing to the right model for the right task type, not picking one model for everything. This generalizes beyond coding: for any complex workflow, decompose tasks into intent-heavy (plan, design, critique) and specification-heavy (execute, verify, format) and route accordingly.
 
+## The Abstention Layer: Agents Must Know When NOT to Act (July 2026)
+
+The shaping-layer research established that architecture determines agent outcomes. Today's papers add a new layer: the **abstention layer** — the capability to recognize when NOT to act. This is distinct from task capability and, critically, does not improve when task performance improves.
+
+### AgentAbstain: Only 59.5% Abstention Accuracy
+
+The first systematic evaluation of agentic abstention (2607.10059) reveals that calibrated abstention — knowing when to refuse action under ambiguity, conflicting constraints, or tool failures — is largely independent of general task-solving ability. Across 263 paired tasks (each with a should-act and should-abstain variant), the best frontier model achieves only 59.5% paired accuracy. Worse, agents exhibit **post-hoc abstention:** they execute irreversible actions before recognizing they should have abstained.
+
+**Workflow implication:** Every agentic workflow that executes actions with real consequences needs an explicit abstention gate — a pre-execution check that the agent cannot skip. This is a new architectural primitive beyond prompt chaining or routing. The abstention gate evaluates: (1) Is the instruction unambiguous? (2) Are there conflicting constraints? (3) Have all tools returned cleanly? (4) Is this action reversible? If any check fails, the agent must escalate, not proceed.
+
+**Connection to Digital Apprentice:** Weber & Taneja's authorization gates were proposed as earned-autonomy primitives. AgentAbstain provides the empirical evidence that these gates are necessary even for frontier models — autonomy must be earned because current agents cannot reliably earn it through their own judgment.
+
+### Message-Format Effects in Multi-Hop Agent Relays
+
+Faithful, Not Corrective (2607.09678) introduces a controlled relay testbed: 12 atomic facts transmitted across 6 hops in 5 formats (free NL, structured JSON, triples, etc.), scored against programmatic ground truth.
+
+**Key findings with workflow implications:**
+- Under faithful-relay instructions, a **strong relay is nearly lossless** — the documented "telephone game" collapse does not occur
+- A **weak (1.5B) relay** shows 8.7× variance across formats, driven by an encoding toll (rigid formats hurt at ingress) and drift resistance (JSON schema helps in transit)
+- **Injected errors persist 83–100%** of the time in every format — format choice is a faithful, error-localizing channel, not an error-correcting code
+- Per-hop cognitive load leaves fidelity unchanged within ±1.8 points but raises generation cost by 24–53%
+
+**Workflow implication:** In multi-agent pipelines, format choice must follow the **weakest relay** in the chain. If any agent in your pipeline is a smaller model, use rigid structured formats (JSON) to contain drift — even though those formats impose an encoding toll on the smaller model, the in-transit drift resistance more than compensates. And never assume errors self-correct: once wrong information enters the chain, it persists.
+
+### Automated Failure Attribution: Who&When Pro
+
+The Who&When Pro benchmark (2607.09996) provides 12,326 failed trajectories with golden labels for automated failure attribution — identifying where and why agentic systems fail. The construction method is instructive: failures are injected only after exactly replaying a successful prefix, isolating the failure point with precision. The emerging patterns in how models attribute failures across modalities and protocols provide empirical guidance for building better agent monitoring.
+
+**Workflow implication:** Failure attribution should be a first-class monitoring primitive in agentic workflows. When an agent fails, the monitoring system should not just log "the agent failed" but identify the failure type (planning error? tool misuse? context misinterpretation?) and the failure point (which step in the pipeline?). Who&When Pro's taxonomy can serve as a starting taxonomy for production agent monitoring.
+
+### Agentic Context Learning: Specification Acquisition Is the Bottleneck
+
+Context learning (2607.09794) — the task of learning and applying novel, task-specific knowledge from context absent from pre-training — remains under 24% success even for frontier models. The bottleneck is not content acquisition (reading what's in the context) but **specification acquisition** (learning the domain-specific formats, local rules, and completeness conditions that are often specified in the context but not in the user query). 55.4% of rubric items evaluate specification acquisition vs. only 22.6% for content acquisition.
+
+A simple intervention (PSCI — private specification-contract induction) raises performance by ~5.6pp across multiple model families, but the absolute ceiling remains below 30%. This means: for any workflow where the agent must learn novel task formats from context (e.g., adapting to a new API, processing documents in an unfamiliar schema), expect high failure rates. The fix is not better prompting — it's providing specifications explicitly rather than expecting the agent to infer them from the context.
+
+→ Sources: [AgentAbstain](https://arxiv.org/abs/2607.10059), [Faithful, Not Corrective](https://arxiv.org/abs/2607.09678), [Who&When Pro](https://arxiv.org/abs/2607.09996), [Agentic Context Learning](https://arxiv.org/abs/2607.09794)
+
 ## The Shaping Layer: Architecture Determines Agent Behavior (June 2026)
 
 The emerging research on agent architectures converges on a single thesis: **architecture shapes agent outcomes more than model capability.** Three new papers from June 25, 2026 make this concrete:
