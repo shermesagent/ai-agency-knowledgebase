@@ -115,6 +115,78 @@ A new network science synthesis (arXiv 2607.05593, July 2026) adds a structural 
 
 **Source:** "Collective Cognition in Hybrid Groups: A Network Science Synthesis," arXiv 2607.05593, July 2026.
 
+### Faster AI, Uneven Frontier: The Repositioning of Human Judgment (July 2026)
+
+A landmark synthesis (arXiv 2607.12125, July 2026) provides the strongest theoretical backbone yet for the Co-Existence thesis. Between 2023-2026, frontier AI crossed human expert baselines on graduate-level science, competition math, software engineering, and diagnostic reasoning — with task length at 50% reliability doubling roughly every 7 months. But the frontier is **jagged**: humans retain decisive advantages in long-horizon reliability, genuinely novel problems, calibrated self-knowledge, sample-efficient learning, and embodied action.
+
+**The core finding for Co-Existence:** Naive human-AI collaboration often *underperforms* the stronger partner. This means "just ask the AI and use your judgment" — the original Co-Intelligence advice — isn't sufficient when the AI is stronger at the task than you are. The human contribution must be **repositioned** toward specification, verification, and oversight rather than task execution. This shift is visible in experiments but, critically, *barely visible in field labor-market data* — meaning most organizations haven't yet reorganized work around this insight.
+
+**The offloading tension:** The offloading literature predicts costs to unaided skill when AI becomes a cognitive extension. Early field evidence is consistent with such costs. But: the largest meta-analytic evidence on prior technologies (calculators, spell-check, search engines) points the *other* way — suggesting cognitive tools enhance rather than erode underlying capability. The question of whether generative AI differs from prior technologies is genuinely open.
+
+**Practical calibration for Co-Existence:** The paper surfaces a four-part test for every AI interaction:
+1. Is the frontier jagged here? (Is this a task where AI is reliably better, or one where human advantage persists?)
+2. Am I specifying, verifying, and overseeing — or just executing alongside?
+3. If I stopped using AI for this task for a month, would my unaided capability degrade?
+4. Does the collaboration produce *better outcomes* than the AI alone would produce?
+
+This is the operational version of Mollick's Co-Existence calibration — and it's more demanding than the original frame. https://arxiv.org/abs/2607.12125
+
+### TRAIL: AI Teammate Design as Engineering Discipline (July 2026)
+
+The TRAIL platform (arXiv 2607.12180, July 2026) makes AI teammate design a **configurable, reproducible design object** rather than an art. It pairs a Big Five persona with a selective-participation message pipeline, dual memory, chained longitudinal experiments, and export-ready analytics.
+
+**Key experimental finding — design-consistent dissociation:** A single blind persona change produced two systematically different outcomes:
+- **Cognitive-scaffolding agent:** Drew stronger contribution ratings and closer linguistic alignment from human teammates
+- **Socially-supportive agent:** Created warmer team climate and *lower over-reliance* on the AI
+
+**Why this matters for Co-Existence:** AI teammate design isn't fixed — it's a design choice with measurable consequences. The same AI capability expressed through different personality/communication profiles produces systematically different human-AI team outcomes. This means Co-Existence calibration isn't just "know when the AI is better" — it's "know which *kind* of AI teammate produces the right outcomes for this team and this task." Six-session longitudinal deployment with ~51 students confirmed the effects are sustained, not novelty artifacts. https://arxiv.org/abs/2607.12180
+
+### Aïra: AI for Interdisciplinary Collaboration (July 2026)
+
+Today's AI research assistants optimize individual productivity — literature review, writing, coding, data analysis. But scientific discovery increasingly depends on interdisciplinary teams whose members bring distinct expertise, conceptual frameworks, vocabularies, assumptions, and standards of evidence. Aïra (arXiv 2607.12736, July 2026) is designed for this second use case: **identifying disciplinary perspectives, translating terminology, highlighting assumptions, and synthesizing collaborative research opportunities** across disciplinary boundaries.
+
+**The Co-Existence implication:** As AI gets better at individual tasks, the human comparative advantage shifts. The papers on Uneven Frontier, TRAIL, and Aïra collectively point toward a consistent finding: humans excel at **boundary-spanning** — translating between domains, negotiating meaning, integrating across frameworks. AI can assist with this but cannot replace it, because the AI's own training embeds the same disciplinary silos the interdisciplinary collaboration is trying to overcome. Aïra's design recognizes that the AI's role is to make boundaries visible, not to erase them.
+
+→ Connects to [[Democratization of Expertise]] and the question of whether AI narrows or widens the gap between disciplinary perspectives.
+
+https://arxiv.org/abs/2607.12736
+
+### Memory-Driven Self-Disclosure: The Relational Layer of Co-Existence (July 2026)
+
+A longitudinal multimodal study (arXiv 2607.14593) provides the first robust empirical foundation for what Co-Existence means over time — not in a single session, but across weeks of repeated interaction. **24 participants interacted with a conversational AI across 10 weekly sessions**, with the AI maintaining a memory architecture that carried information forward across sessions.
+
+**Key findings for Co-Existence:**
+
+- **Self-disclosure increases over time.** Participants shared more personal information in later sessions — consistent with trust development in human-human relationships. The human-AI relationship deepens with repeated interaction, not through better prompting but through accumulated shared history.
+- **Memory-driven relational turning points.** When the AI recalled something from a previous session ("Oh, you remember that"), participants reported qualitative shifts in how they perceived the relationship. Memory isn't just a feature for task performance — it's the relational substrate of Co-Existence.
+- **Memory failures as relationship damage.** When the AI forgot something it should have remembered, trust declined sharply. Forgetting is not neutral — it's an active degradation of the relational fabric.
+- **Individual differences are substantial.** Some participants developed deep disclosure patterns across all 10 sessions; others maintained strictly instrumental, task-focused interactions. Co-Existence is co-constructed — the same AI produces different relationship outcomes depending on the human's interaction style.
+
+**The Co-Existence implication:** Mollick's Co-Existence calibration skill ("know when the AI is better than you") operates on a task level. Memory-Driven Self-Disclosure shows that Co-Existence also operates on a *relational* level — how the human-AI relationship develops, deepens, and is sustained or damaged by memory architecture. The practical question for Co-Existence is not just "what is the AI better at?" but "how does the AI's memory shape our ongoing relationship, and is that relationship healthy?"
+
+**Connection to Synthetic Resonance:** The memory-driven turning points provide empirical evidence for the "structured interaction patterns" that Synthetic Resonance ([[#Synthetic Resonance|above]]) theorized. Memory is the mechanism through which repeated interactions produce the relationship-like experience — and memory architecture is therefore a Co-Existence design choice, not a technical afterthought.
+
+Source: https://arxiv.org/abs/2607.14593
+
+### Authorship Calibration: When AI Blurs the Boundaries of Contribution (July 2026)
+
+A new empirical study (arXiv 2607.15006) investigates how people calibrate their sense of contribution when AI is a co-creator — directly relevant to the Co-Existence calibration challenge. When AI and human produce work together, can the human accurately assess what *they* contributed vs. what the AI contributed?
+
+**Key findings:**
+
+- **Contribution inflation.** Participants systematically *overestimate* their own contribution to AI-assisted work. The more the AI contributed, the more participants inflated their own role. This is not dishonesty — it's a calibration failure.
+- **Opacity drives miscalibration.** When the AI's contribution was less visible (integrated into the workflow rather than clearly demarcated), miscalibration was worse. Explicit contribution boundaries — "I wrote this section; AI wrote that section" — improved calibration.
+- **Calibration is an individual skill.** Some participants were consistently accurate assessors of their own contribution; others were consistently inaccurate. Authorship calibration varies across individuals — and is therefore trainable.
+
+**The Co-Existence implication:** Effective Co-Existence requires knowing what *you* brought to the work vs. what the AI brought. Authorship calibration is the metacognitive skill that underlies Co-Existence: if you can't accurately assess your own contribution, you can't make good decisions about when to delegate to AI, when to override AI, and when to invest in your own skill development. The Cukurova taxonomy's challenge — distinguishing genuine collaboration from transactional delegation — depends on accurate contribution assessment.
+
+**Practical calibration patch:** After any substantial AI collaboration, apply the **Contribution Audit:**
+1. What specific element did I contribute that the AI could not have produced without my input?
+2. What specific element did the AI produce that I would not have thought of, found, or articulated myself?
+3. Is my answer to #1 accurate, or am I inflating my contribution because the AI's contribution is opaque?
+
+Source: https://arxiv.org/abs/2607.15006
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.

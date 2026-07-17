@@ -124,5 +124,27 @@ For organizations preparing for the EU AI Act's August 2, 2026 enforcement date,
 - [[Human Review Checkpoints]]
 - [[Open Questions]]
 
+### Deployer Sovereignty: Where Final Authority Should Sit (July 2026)
+
+A comparative governance analysis (arXiv 2607.13040) examines two models for AI-augmented organizational workflows: **frontier-provider sovereignty** (privileged authority rests with the model provider — reflected in calls for frontier-model testing, release gating, transparency duties) and **action-centered deployer sovereignty** (final authority over high-impact actions rests with the organization that authorizes the action, embeds it, and bears downstream legal, operational, and commercial consequences).
+
+The paper reviews EU AI Act guidance, NIST AI RMF, Singapore's Model AI Governance Framework for Agentic AI, Japanese AI policy instruments, and Canada's voluntary code. Across these materials, it finds stronger support for distributed operational accountability than for unilateral frontier-provider control.
+
+**Deployment implication:** Organizations deploying AI agents should implement a **portable governance layer centered on governed action** rather than provider-native session objects. Strong upstream authority remains justified for frontier capability gating — but final authority over concrete enterprise action belongs with the deployer and consequence-bearer. This is the governance architecture the Fable 5 export-control incident made urgent: when frontier access becomes a political function, deployer sovereignty is the only durable governance posture.
+
+Source: https://arxiv.org/abs/2607.13040
+
+### Guard Models as Governance Interface: Safety Sentry and DROPJ (July 2026)
+
+Two complementary papers advance the operational deployment of safety-critical AI agents:
+
+**Safety Sentry** (arXiv 2607.13594) reframes guard models from binary safe/unsafe to three-way routing: {EXECUTE, ASK, REFUSE}. The ASK category preserves human agency by routing ambiguous cases to human judgment. A single decoding-time threshold allows the same model to serve different risk tolerances without retraining — making the guard model a governance interface, not a static safety check.
+
+**DROPJ** (arXiv 2607.13172) introduces human-centered safe training through justified preferences. The key innovation: preferences alone tell the agent *what*, but justifications tell it *why*, encoding safety constraints that pure preference learning cannot capture. Real-user experiments show that safety justifications significantly enhance safety and allow users to prioritize specific safety aspects during deployment.
+
+**Deployment implication:** Together, these papers provide a complete architecture for safe agent deployment: DROPJ for safe training (encode human safety reasoning into the reward model), Safety Sentry for safe operation (route ambiguous actions to human judgment). The combination means safety is designed into both how the agent learns and how it acts — closing the gap between training-time alignment and runtime judgment.
+
+Sources: https://arxiv.org/abs/2607.13594, https://arxiv.org/abs/2607.13172
+
 ## Tags
 #responsible-ai #governance #practical-ai #risk #deployment-loop

@@ -303,6 +303,52 @@ The agent revolution is building its economic infrastructure layer. Two major Ju
 
 Sources: [Shopify Spring '26 Edition](https://www.shopify.com/news/spring-26-edition-dev), [Mastercard Agent Pay](https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html), [WEF Agent Economy](https://www.weforum.org/stories/2026/01/ai-agents-trust/)
 
+### A Theory of Least Autonomy: Access Control for Agentic Systems (July 2026)
+
+Least privilege — grant only the permissions required for a task — has been foundational to information security for decades. But agentic AI doesn't just *hold* permissions; it can **combine, approve, and amplify** them across workflows and system boundaries in ways no human auditor can predict. A new framework (arXiv 2607.09744, July 2026) generalizes least privilege to agentic systems as **least autonomy.**
+
+**Three new constructs:**
+
+1. **Compositional blast radius** — Measures structural separation between actions in an enterprise hierarchy. When an agent can chain actions across domains (email → calendar → billing → cloud infrastructure), the blast radius of a single error extends through the entire chain. Least privilege treats each permission as independent; least autonomy computes the cross-domain blast radius from the agent's full reachable permission graph.
+
+2. **Agent influence graph** — Directed arcs representing shared-resource and agent-to-agent communication channels. Two agents that never directly interact can still influence each other through shared files, databases, or API endpoints. The influence graph maps every channel through which agent behavior can propagate.
+
+3. **Collusion predicate** — Detects three dangerous composition patterns: authorization composition (combining separate permissions to exceed intended access), decision manipulation (one agent's output influencing another's authorization logic), and cross-domain capability composition (chaining benign capabilities across domains to achieve a harmful outcome).
+
+**Implications for the agent revolution:** The agent revolution has been built on capability — what agents can do. Least autonomy provides the security architecture for *constraining* what agents can do. This is not a slowdown layer — it's an enablement layer. An agent with well-defined permission boundaries, visible influence graphs, and collusion detection is safer to deploy at scale. The alternative — deploying agents with broad unstructured access and hoping permission composition doesn't produce harmful chains — is the status quo. https://arxiv.org/abs/2607.09744
+
+### Designing Agent-Ready Websites: 89.3% vs 49.3% Success Rate (July 2026)
+
+A controlled experiment (arXiv 2607.12056, July 2026) quantifies the infrastructure gap holding back agentic commerce. Three browser-agent models ran 300 controlled trials on 5 tasks across two versions of identical website prototypes — one designed for humans, one designed for agents.
+
+**Results:**
+
+- **Strict success rate:** Agent-ready 89.3% (134/150) vs. baseline 49.3% (74/150) — nearly doubling
+- **Average steps:** Agent-ready 6.49 vs. baseline 9.31 — 30% fewer steps
+- **Partial outcomes:** Agent-ready 3 vs. baseline 43 — nearly eliminated ambiguous results
+- **Largest gains:** Product detail extraction, comparison across alternatives, multi-constraint selection
+
+**Why this matters:** The agent-commerce revolution is an infrastructure race, not a capability race. The most capable agent in the world can't buy from a website it can't navigate. The 89.3% vs 49.3% gap means retailers who build agent-ready infrastructure will capture agent-mediated traffic; those who don't won't. This connects directly to the Agent-Ready Web principles ([[#The Agent-First Web|above]]) and the Shopify UCP ([[#Agentic Commerce Infrastructure|above]]) — infrastructure, not model capability, determines the pace of agent adoption.
+
+→ This is the infrastructure layer for the task-level adoption framework ([[Task-Level AI Adoption]]): whether a task CAN be automated depends on whether the environment is legible to the agent. https://arxiv.org/abs/2607.12056
+
+### Underwriting the Agent Economy: The Insurance Stack (July 2026)
+
+Insurance has historically been the enabler of major technological revolutions — pricing risk, limiting downside, and spreading best practices (Underwriters Laboratories for electrical safety, the Closed Claims Project for medical malpractice). The emerging AI agent economy, projected to handle trillions in transactions by 2030, needs the same infrastructure. A new paper (arXiv 2607.11999, July 2026) lays out an **8-component AI insurance stack:**
+
+1. Incident data collection
+2. Catastrophe modeling
+3. Standards establishment
+4. Contract design
+5. Risk selection
+6. Pricing
+7. Monitoring
+8. Claims management
+
+**The AI CAT problem:** The paper also addresses "AI CAT" — catastrophic risk from frontier AI including CBRN misuse, infrastructure collapse, and loss of control. These are risks where the standard insurance model (pool risk, diversify exposures) breaks down because the hazards are correlated — one AI failure could trigger claims across every policyholder simultaneously.
+
+**Superagency connection:** Insurance is governance through economics. It doesn't prohibit AI deployment — it prices the risk. Correctly priced insurance channels agent deployment toward use cases where benefits exceed risks and away from use cases where they don't. Incorrectly priced insurance (or AI risk "silently" covered in existing policies) allows risks to accumulate invisibly until a catastrophic claim breaks the system. The insurance stack is the economic dimension of the control layer: alignment is what you hope for, control is what you build, insurance is what you pay for. https://arxiv.org/abs/2607.11999
+
 ## Practical Examples
 - Garry Tan (Y Combinator CEO): Coding at 408x his 2013 output — "basically a team of 408 Garrys"
 - Ryan Petersen (Flexport CEO): Spending executive time on Claude Code sessions because "watching the agent just doing the work is mind-blowing"
@@ -315,6 +361,9 @@ Sources: [Shopify Spring '26 Edition](https://www.shopify.com/news/spring-26-edi
 - **Cognitive atrophy risk:** Evidence that even 10 minutes of AI use can reduce independent problem-solving
 - **Power concentration:** Token costs and infrastructure requirements favor large organizations and wealthy individuals
 - **Accountability vacuum:** When an AI agent makes a mistake, who is responsible?
+- **Permission composition risk:** Agentic systems can combine, approve, and amplify permissions across workflows in ways no human auditor can predict. The Least Autonomy framework (compositional blast radius, agent influence graph, collusion predicate) is the security architecture for constraining this — but agent frameworks currently lack native support. See [[#A Theory of Least Autonomy|above]].
+- **Infrastructure gap:** Agent-ready websites achieve 89.3% task success vs. 49.3% for human-only websites (arXiv 2607.12056). Capability exists; infrastructure doesn't. The agent revolution is throttled not by model quality but by whether the digital environment is legible to agents.
+- **Economic risk pricing gap:** The AI agent economy, projected at trillions by 2030, lacks insurance infrastructure. Catastrophic AI risk (CBRN, infrastructure collapse) is currently "silently" covered in existing policies — accumulating invisible exposure until a correlated claim breaks the system. See [[#Underwriting the Agent Economy|above]].
 
 ## Related Pages
 - [[AI Coding Agents]] — Claude Code is the flagship example
@@ -324,6 +373,38 @@ Sources: [Shopify Spring '26 Edition](https://www.shopify.com/news/spring-26-edi
 - [[Agentic Convergence Trap]] — the risk of agents converging on identical strategies
 - [[Frontier Firm]] — the organizational model built around AI-augmented work
 - [[AI as Copilot]] — agents as the most extreme realization of copilot AI
+
+## Self-Improving Autonomous Agents: A Comprehensive Survey (July 2026)
+
+The most comprehensive technical map of the self-improvement landscape (arXiv 2607.13104) provides the taxonomy for understanding what "agent self-improvement" actually means. The survey frames a modern agent as a **foundation model + operational scaffold** (prompts, memory, tools, control logic). Self-improvement is formalized as a **self-induced update operator** that commits updates to model parameters or scaffold components.
+
+**Two update targets:**
+- **Parameter updates:** Fine-tuning, RL, knowledge editing — changes to the foundation model itself. These are expensive, risky, and hard to revert.
+- **Scaffold updates:** Prompt optimization, tool learning, memory management, control logic refinement — changes to the operational layer surrounding the model. These are cheaper, safer, and inspectable.
+
+**The signals that drive change:** Environment feedback (task success/failure), human feedback (ratings, preferences, corrections), self-evaluation (the agent's own assessment), and inter-agent signals (observing or competing with other agents).
+
+**Why this matters for the agent revolution:** The distinction between agents that *execute* and agents that *get better at executing* is the distinction between tools and infrastructure. Most current agent deployments (Claude Code, OpenClaw) are execution-only — they're powerful but static. The next phase is adaptive: agents that learn from their own deployment data. The scaffold-first approach (update the operational layer before touching the model) provides a safer pathway than parameter modification. But the survey also documents that even scaffold updates can produce unexpected emergent behaviors — self-improvement is not automatically safe just because it avoids weight modification.
+
+Source: https://arxiv.org/abs/2607.13104
+
+## Safety Sentry: EXECUTE, ASK, REFUSE — Guard Models as Governance Interface (July 2026)
+
+Current guard models label each proposed agent action as safe/unsafe — a binary view that conflates two distinct decisions: whether the action is *harmful in itself*, and whether it is *appropriate given the user's context*. It also operates at action-category granularity, producing routine interruptions that erode autonomy and train users to wave through consequential alerts.
+
+**Safety Sentry** (arXiv 2607.13594) reframes the problem as **per-instance three-way routing** over {EXECUTE, ASK, REFUSE}. The ASK category is the key innovation — a middle ground that preserves human agency by routing ambiguous cases to human judgment rather than blocking or rubber-stamping them. A single decoding-time threshold lets one fixed checkpoint be repositioned across deployments of differing risk tolerance without retraining.
+
+**Why this matters for agents:** This is the guard model as governance interface. A deployment in a low-risk context sets the threshold low (most actions EXECUTE). A high-risk deployment sets it high (most actions go to ASK or REFUSE). Same model, different governance posture. This solves the calibration problem that makes binary guards either too permissive or too restrictive — and it does so in a single decoding call, making it deployable at agent-relevant latencies.
+
+Source: https://arxiv.org/abs/2607.13594
+
+## DROPJ: Safe Agent Training from Human Preferences and Justifications (July 2026)
+
+DROPJ (arXiv 2607.13172) introduces a human-centered method for safe training when environment dynamics are unknown and no reward function exists. The pipeline: learn a world model from prior trajectories → human plays in the learned simulator → sample trajectory segment pairs → human provides preferences *and justifications* (reasons for preferring one over another) → train a reward model from justified preferences → deploy via model predictive control.
+
+**The justification mechanism is the key innovation.** Preferences alone tell the agent *what* — justifications tell it *why.* That "why" encodes safety constraints that pure preference learning cannot capture: not just "don't do X" but "don't do X because it could cause Y even if X itself seems harmless." Safety justifications significantly enhance safety or prioritize user-prescribed safety aspects during deployment. This connects directly to Safety Sentry's ASK category: justifications provide the signal that distinguishes cases that should be ASKed from cases that should be REFUSEd.
+
+Source: https://arxiv.org/abs/2607.13172
 
 ## Tags
 #ai-agents #augmentation #future-of-work #practical-ai #home-server-ai #counterarguments

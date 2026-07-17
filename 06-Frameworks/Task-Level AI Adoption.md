@@ -20,6 +20,27 @@ Use four labels during workflow review:
 3. **Human-only:** tasks where relationship, values, embodied context, or legitimacy are central.
 4. **Prohibit AI:** tasks where privacy, safety, law, or dignity make delegation inappropriate.
 
+### Infrastructure Readiness: The Task-Level Agent Gap (July 2026)
+
+A new controlled experiment (arXiv 2607.12056, July 2026) reveals that task-level adoption depends on infrastructure, not just AI capability. Three browser-agent models ran 300 trials on identical website prototypes:
+
+- **Agent-ready websites:** 89.3% strict success rate, 6.49 average steps
+- **Human-only websites:** 49.3% strict success rate, 9.31 average steps
+
+The gap is not about AI capability — it's about whether the digital environment is **legible** to the agent. The same agent, same task, same products — only the website's design changed, and success rates nearly doubled.
+
+**Practical implication:** Add a fifth dimension to the task-level classification framework: **infrastructure readiness.** Before labeling a task as "automate" or "augment," ask: does the digital environment support agent access? A task that is technically automatable may fail in practice because the website, API, database, or platform was designed for human interaction only.
+
+**The four agent-readiness audit questions:**
+1. Can the agent programmatically discover what it needs (product details, form fields, available actions)?
+2. Can the agent reliably navigate multi-step workflows without hitting CAPTCHAs, client-side rendering blocks, or rate limits?
+3. Can the agent complete and submit structured transactions (forms, orders, applications)?
+4. Does the platform distinguish between "malicious bot" and "user-delegated agent" — or block both indiscriminately?
+
+This connects to the Agent-Ready Websites finding (see [[AI Agent Revolution#Designing Agent-Ready Websites|Designing Agent-Ready Websites]]), the Agent-First Web design principles, and the normative infrastructure gap identified in the agentic web literature. The task-level adoption framework must account for an environment that was not built for the agents now trying to operate within it.
+
+→ Also see: [[AI Agent Revolution]] for the Least Autonomy framework (access control for agentic systems), the Agent Economy Insurance Stack (economic governance), and the Theory of Least Autonomy (security architecture).
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

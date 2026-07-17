@@ -27,17 +27,44 @@ Democratic participation is fundamentally constrained by human attention and ban
 - **AI pre-mediation for dispute resolution:** Use a structured LLM pipeline (dialogue module → preference prediction → response critique → structured summary) to prepare for negotiations. The Bergen & Kraus (June 2026) experiment shows AI pre-mediation matches human mediators on trust and confidence while achieving 36% lower preference-inference error. Run pre-mediation in parallel across all parties before the human conversation begins.
 - **Audit AI governance against the Architecture of Legitimacy:** Does your organization's AI governance have due process for AI decisions? Public evidence for AI-related actions? Independent review? The Fable/Mythos shutdown demonstrates what happens when the answer to all three is no — use it as a case study for designing better internal governance.
 
+### Policy-as-Prompt Moderation: Prompts Alone Aren't Governance (July 2026)
+
+As content moderation shifts toward community-based approaches and AI-assisted volunteer moderation, a "policy-as-prompt" approach emerges: write community rules as a natural-language prompt, pass them to an LLM, and let the LLM moderate. A new analysis (arXiv 2607.12149, July 2026) finds this is **insufficient for ensuring meaningful community governance.**
+
+**The core problem:** LLMs can *apply* policy but cannot *deliberate* about it. Community governance depends on an interpretive community — shared understanding of what rules mean in context, negotiated exceptions, evolving norms that adapt to new situations. An LLM given policy-as-prompt lacks all three. It applies rules literally without the social context that makes rules legitimate.
+
+**The governance gap:** The paper distinguishes between AI as *governance mechanism* (fine — the AI can execute rule application) and AI as *governance authority* (not fine — the AI lacks the interpretive community to deliberate about what the rules should mean). The failure mode: communities shift to AI moderation for efficiency, discover it works for clear-cut cases, and gradually cede interpretive authority to the AI for ambiguous cases — hollowing out the community's own governance capacity.
+
+**Practical response:** The paper offers multiple considerations toward more effective prompt governance, but ultimately concludes that prompts alone are not appropriate for meaningful community governance. The structural fix is to treat the AI as a *tool in* the governance process rather than a *substitute for* it — keep the interpretive community (human moderators, community discussions, norm evolution) intact and route only well-defined, unambiguous cases to AI. https://arxiv.org/abs/2607.12149
+
+### CBRN Threshold Exceedance Framework: Evaluative Governance (July 2026)
+
+A new framework (arXiv 2607.12200, July 2026) addresses a pressing governance problem: how to assess whether access to a frontier model materially increases a non-expert's ability to plan CBRN misuse. Existing evaluations differ in non-expert definitions, threat scope, baselines, scoring rubrics, and decision rules — making results incomparable across studies.
+
+**The TEC Framework** decomposes evaluation into independently executable components:
+1. Determining non-expert participant eligibility
+2. Defining the CBRN threat scope
+3. Statistically estimating material uplift (generative: from scratch; revisionist: refining an existing plan)
+
+**Empirical finding:** Under controlled pre-release conditions, model-assisted plans sometimes received expert-equivalent instructional ratings, but *confirmed material uplift was limited to the radiological domain.* Domain heterogeneity matters — lumping all CBRN domains together obscures where the real risks are.
+
+**Governance implications:** The TEC framework represents evaluative governance — governance through measurement rather than prohibition. By decomposing evaluation into standard components, it enables: cross-model comparison (does Model A pose more radiological uplift risk than Model B?), auditability (external reviewers can replicate the evaluation), and calibration (policy thresholds can be set based on empirical uplift estimates rather than speculation). Methodological lessons include: prespecify criteria, use explicit baselines, separate generative from revisionist estimates, and carefully distinguish screening signals from confirmed risk determinations. https://arxiv.org/abs/2607.12200
+
+→ Both Policy-as-Prompt Moderation and the CBRN TEC Framework connect to the [[The Infrastructure Layer]] — governance systems must be redesigned to function in an AI-mediated world, not retrofitted to accommodate AI as an afterthought.
+
 ## Risks / Limits
 - AI-delegated deliberation introduces "qualitatively new design and alignment challenges that are poorly understood and under-theorized."
 - AI representatives may converge on consensus positions that erase genuine disagreement that democratic processes need to surface.
 - The decentralization governance vacuum means that as AI systems become more distributed, traditional regulatory address may fail entirely.
 - AI in civic contexts must not become a technocratic bypass of democratic authorization.
+- **Policy-as-prompt risk:** AI moderation without interpretive community hollows out governance capacity over time — the efficiency gains are real, but the institutional atrophy compounds.
+- **Evaluative governance risk:** Measurement frameworks (like TEC) can become performative — what gets measured gets gamed. The distinction between screening signals and confirmed risk determinations must be maintained rigorously.
 
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
 - [[AI and Inequality]]
-- [[Open Questions]]
+- [[The Infrastructure Layer]]
 - [[Open Questions]]
 
 ## Tags

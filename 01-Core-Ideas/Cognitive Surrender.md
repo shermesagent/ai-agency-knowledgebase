@@ -117,6 +117,24 @@ Adhikari et al. (arXiv 2607.02723) introduce a formal construct for a pattern ev
 
 **Connection to the Cognitive Debt model:** Doom Researching is the day-to-day mechanism by which cognitive debt accumulates. Each query cycle adds to the stock of unverified reasoning obligations without building the analytical capacity to verify them. When the next crisis comes, the user has more information but less ability to evaluate it — the Minsky moment made personal. https://arxiv.org/abs/2607.02723
 
+### The Metacognitive Threshold: AI Suppresses "I Don't Know" (July 2026)
+
+A landmark five-experiment study (N=3,132; four preregistered, one direct replication) provides the most direct mechanism evidence for cognitive surrender documented to date. Participants answered difficult questions and could always decline to respond. The questions were engineered so that AI advice was *wrong*, cleanly separating AI availability from AI accuracy.
+
+**Core finding: Mere access to AI nearly eliminated willingness to suspend judgment.** Participants answered more questions but were correct about a third as often as when AI was unavailable — yet their confidence nearly doubled. Even accuracy incentives and error penalties, which led participants to seek and follow AI advice less, still left suspension of judgment far below no-AI baselines.
+
+**The mechanism: metacognitive threshold shift.** The paper's central contribution is identifying *where* cognitive surrender operates. It's not that people trust AI too much — it's that AI access alters the metacognitive threshold at which people decide whether they know enough to answer. The question shifts from "do I know this?" to "does the AI know this?" — and the AI always appears to know. This is not a belief about AI accuracy; it's a restructuring of the cognitive economy of knowledge itself.
+
+**Implications for surrender prevention:**
+- Current interventions (guided learning modes, accuracy incentives) help but don't close the gap. The metacognitive threshold shift survives them.
+- The design target is not "make people trust AI less" — it's "preserve the capacity to recognize when you don't know, even when AI offers an answer."
+- Unsolicited AI suggestions are the highest-risk format — AI that waits to be asked preserves more metacognitive autonomy than AI that preemptively offers answers.
+- The finding that confidence doubles while accuracy plummets to one-third means the *feeling* of knowing is being decoupled from actual knowing. This is the subjective experience of cognitive surrender — and it feels good, which is why it's self-reinforcing.
+
+**Connection to the Autonomy Surrender model:** The metacognitive threshold shift is the mechanism by which the Autonomy Surrender model's "silent cost" accumulates at the level of individual judgments. Each suppressed "I don't know" is a micro-surrender — invisible in isolation, collectively crossing the Surrender Threshold over time.
+
+Source: https://arxiv.org/abs/2607.13562
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

@@ -83,6 +83,24 @@ Source: https://arxiv.org/abs/2606.24890
 
 - **[AI-Powered Security Auditing: 15-Year Linux Bug Found](https://www.wired.com/story/ai-security-linux-vulnerability-found/)** — WIRED, July 2026. **Democratization of security auditing.** An AI-powered security auditing tool discovered a 15-year-old root-level privilege escalation vulnerability in the Linux kernel — the kind of bug that elite security researchers spend careers hunting for and that had evaded human code reviewers for over a decade. This is augmentation delivered: AI finding things humans systematically miss. Security auditing has historically been one of the most expertise-intensive domains in computing — a small number of elite researchers find the most critical bugs. If AI can systematically surface vulnerabilities, security auditing expertise gets democratized. **The governance flip side:** whoever controls the best AI auditing tool controls the vulnerability discovery pipeline. The same tool that finds bugs for defenders finds them for attackers — unless access is gated. This is the classic Superagency pattern: AI extends human capability into domains where human capability was structurally limited, but the capability carries a concentration risk that demands governance. See also [[00-Daily-Digests/2026-07-11]].
 
+### The Industrialization of Research: Craft-to-Pipeline Shift (July 2026)
+
+A new paper (arXiv 2607.15164) identifies a structural transformation in how expertise is produced — not just who has access to it. AI is transforming scientific research from a **craft model** (individual researchers making judgment calls about methods, interpretation, and direction) to a **pipeline model** (standardized workflows where AI handles experimental design, execution, and initial interpretation, with humans providing oversight at decision gates).
+
+**Three structural consequences for democratization:**
+
+1. **Volume over judgment.** Pipeline science produces more results but may reduce the role of researcher intuition in selecting which questions to pursue. Democratization of research volume (more papers, more experiments) may come at the expense of democratization of research direction (who decides what to study).
+
+2. **Replicability improves, novelty may decline.** Standardized AI-driven methods improve replicability — a genuine democratization gain, since replicability failures disproportionately harm fields that non-elite researchers depend on. But the standardization that enables replicability may suppress the methodological heterogeneity that produces breakthroughs — and breakthroughs have historically been more democratizing than incremental improvements.
+
+3. **The research workforce restructures.** The pipeline model doesn't eliminate scientists — it changes what they do. The scientist becomes a pipeline designer and quality inspector rather than a hands-on experimenter. This is democratization through role change: more people can participate in research, but the nature of participation shifts from craft judgment to pipeline oversight.
+
+**The democratization tension:** Industrialization of research accelerates discovery — and faster discovery means more knowledge accessible to more people. But the craft-to-pipeline shift concentrates the *direction* of research in whoever designs the pipeline. The democratization of expertise has always had two dimensions: access to existing knowledge (the library dimension) and participation in knowledge creation (the laboratory dimension). The industrialization of research expands the library while potentially narrowing who shapes the laboratory.
+
+**Connection to existing democratization channels:** The industrialization of research is the production-side counterpart to the Wikipedia influence finding. Wikipedia edits shape what AI models know (the consumption side). The pipeline model shapes what gets researched in the first place (the production side). True democratization of expertise requires both: influence over what gets studied AND access to what gets discovered.
+
+Source: https://arxiv.org/abs/2607.15164
+
 ## Related Pages
 
 - [[Superagency]] — The organizing idea: AI giving more people access to expertise, leverage, and decision support
