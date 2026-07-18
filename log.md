@@ -967,3 +967,10 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 
 **Staleness tracker:** 3 pages from 8+ day tier updated. Next curator run should target Agentic Workflow Patterns and Task-Level AI Adoption.
 
+## [2026-07-18] created page | 00-Daily-Digests/2026-07-18.md — Saturday synthesis digest: "The Four-Layer Agency Architecture"
+## [2026-07-18] updated page | 01-Core-Ideas/Agentic Technical Debt — add Four-Layer Debt categories (Abstention/Infrastructure/Sovereignty/Participation Debt)
+## [2026-07-18] updated page | 03-Arguments/Balanced Governance — add Four-Layer Agency Architecture governance integration
+## [2026-07-18] updated page | 01-Core-Ideas/Positive Alignment — add Four-Layer Alignment Stack
+## [2026-07-18] updated page | 04-Use-Cases/AI Coding Agents — add Participation Layer evidence (2,991-project OSS, 25,264 PR, Mycelium, Abstention)
+## [2026-07-18] note | Source discovery unavailable — web_search empty, web_extract 401, arXiv down (Saturday). Pivoted to cross-week synthesis.
+

@@ -18,6 +18,46 @@ Coding agents are one of the most concrete places to observe augmentation: they 
 - **Vibe Coding for Visualization Implementation (arXiv 2606.19703, June 2026):** Empirical study of 16 participants using "vibe coding" tools for data visualization. Documents diverse practices across prompting, evaluation, and iteration — and the challenges users encounter when visual precision matters. Connects to the tension between speed (vibe coding) and quality (agentic engineering) documented in [[AI Orchestrator]].
 - **DeepMind AI Control Roadmap: One Million Coding Agent Tasks Analyzed (June 2026):** DeepMind built an internal monitoring prototype for its coding agents and analyzed one million task trajectories against the MITRE ATT&CK taxonomy. Key finding: the large majority of flagged anomalies traced to **agent misinterpretation or overeagerness** — agents that pushed further than intended while pursuing legitimate goals — not adversarial or intentionally deceptive behavior. This has a critical operational implication: a monitoring system calibrated only for deliberate misbehavior would miss the anomaly category that currently dominates. Different anomaly categories need different calibration. The monitoring system is now in production protecting Gemini Spark against unintentional data deletion and other real-time issues. The roadmap also warns that **chain-of-thought monitoring has an expiration date** (see [[Responsible Deployment#DeepMind AI Control Roadmap: The Control Layer as Deployment Primitive (June 2026)|Responsible Deployment]] for the D1-D4 escalation framework). Source: [DeepMind AI Control Roadmap](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
 
+## AI Agents as Team Members: The Participation Layer Evidence (July 2026)
+
+The July 14-18 digests built a four-layer agency architecture. The July 17 Participation Layer findings directly update the AI Coding Agents narrative — and the evidence is the strongest yet that the coding agent revolution is happening through *institutional strengthening* rather than replacement.
+
+### Bots Strengthen Collaborative Institutions (2,991 Projects)
+
+**[arXiv 2607.13679](https://arxiv.org/abs/2607.13679)** — The first large-scale empirical study of what happens when AI bots become regular participants in collaborative software development. Studying **2,991 GitHub open-source projects**, the paper finds:
+
+- **More repeated engagement** among all contributors (not just bot operators)
+- **Fewer conflict-ridden pull requests**
+- **More distinctive project outputs**
+- **Fewer blocking "veto" comments**
+
+The mechanism: bots handle routine coordination tasks (issue triage, dependency updates, formatting enforcement) that previously generated friction. By absorbing the coordination overhead, bots free human contributors for substantive work — and reduce the friction that escalates into conflict.
+
+**Coding agent implication:** This is the strongest empirical counterpoint yet to the deskilling/replacement narrative. Bot-adopting projects produce *more* distinctive outputs than non-adopting projects. The key distinction is complementarity vs. substitution — bots that complement human work strengthen institutions; bots that substitute for human judgment may produce convergence. The [[Agentic Convergence Trap]] is conditional, not inevitable.
+
+### Early Adoption Patterns: 25,264 Agentic PRs Analyzed
+
+**[arXiv 2607.14037](https://arxiv.org/abs/2607.14037)** — Analysis of **25,264 agentic pull requests** across **7,402 GitHub projects** during the first wave of Claude Code, Codex, and OpenClaw adoption:
+
+- **Adoption is concentrated** — a small number of high-adoption projects account for most agentic activity
+- **Single-human oversight dominates** — one human oversees multiple agentic tools, reviewing and merging agent-generated code
+- **Small projects adopt more aggressively** — institutional inertia is real
+- **Multiple agents per project** — Claude Code for architecture, Codex for implementation, OpenClaw for maintenance
+
+**Coding agent implication:** The single-human oversight model validates the Superagency thesis at the code level: AI amplifies what one person can ship. But it also makes the throughput bottleneck measurable: if one human oversees five agents, at what point does oversight quality degrade? The 94% sabotage detection failure (Ye et al., June 2026, documented above) shows that degradation can be near-total without the human realizing it.
+
+### The Abstention Layer for Coding Agents
+
+The 59.5% abstention accuracy finding (arXiv 2607.10059, July 14) applies directly to coding agents. A coding agent that can't recognize when it shouldn't act — when a refactor is too risky, when a dependency update introduces breaking changes, when a security-sensitive code path requires human review — is an agent accumulating [[Agentic Technical Debt]]. The post-hoc abstention failure mode (agent commits code, then CI catches the break) is the coding agent version of the generic abstention gap.
+
+### Shared Context: Mycelium for Human-Agent Team Science
+
+**[arXiv 2607.13220](https://arxiv.org/abs/2607.13220)** — Introduces **Mycelium**, an active shared context graph for human-AI team science. The core insight: as AI agents join software teams, the bottleneck shifts from model capability to *shared context* — whether agents and humans can maintain a common understanding of the codebase, decisions, architecture, and current hypotheses. Mycelium tracks entities, relationships, and provenance across human and AI contributions.
+
+**Coding agent implication:** Current coding agents operate session-to-session with limited memory. Mycelium provides the infrastructure for coding agents that *remember* — that know what was tried, what was rejected, and why architectural decisions were made. This is the difference between AI *assisting* a codebase and AI *participating* in a codebase's development over time.
+
+→ Connects to: [[AI Agent Revolution]], [[Agentic Workflow Patterns]], [[Future of Work]], [[AI Orchestrator]], [[Agentic Technical Debt]]
+
 ## Practical Examples
 - Use agents to create failing tests first, propose a patch, run checks, and summarize the diff for human review.
 - Route low-risk maintenance tasks to AI workflows while keeping architecture, security, data migration, and user-impact decisions human-led.

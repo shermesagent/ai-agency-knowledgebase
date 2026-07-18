@@ -79,6 +79,27 @@ Johannes Heidecke, OpenAI's head of safety, departed the company in July 2026 �
 
 See also: [[Frontier Firm]] for the competitive dynamics driving these departures.
 
+## The Four-Layer Alignment Stack (July 2026)
+
+The Abstention→Infrastructure→Sovereignty→Participation framework (developed across the July 14-18, 2026 daily digests) provides a structural answer to Positive Alignment's central question: what would an AI architecture that *actively supports* human flourishing look like? The answer is: it would need all four layers.
+
+### Layer 1: Abstention Alignment
+**An AI that supports flourishing must know when NOT to act on behalf of the human.** The 59.5% abstention accuracy finding (arXiv 2607.10059) means current agents fail this requirement 40% of the time. Positive Alignment requires agents that can recognize ambiguity, ask for clarification, and defer consequential decisions — because flourishing requires *agency*, and agency requires *choice*. An agent that acts without recognizing when it shouldn't is not supporting human flourishing — it's usurping it. **The Positive Alignment specification:** abstention accuracy must be a design target, not an emergent property. Agents designed for Positive Alignment should be *trained* for abstention (recognizing when the right answer is "I don't know" or "you should decide"), not just tested for it.
+
+### Layer 2: Infrastructure Alignment
+**An AI that supports flourishing must operate on a substrate designed for agency preservation.** The 89.3% vs 49.3% agent-ready infrastructure gap (arXiv 2607.12056) means most agents operate on environments that were designed for human-only users — and those environments don't signal action boundaries, irreversibility, or confirmation requirements. Positive Alignment requires agent-ready infrastructure with explicit *agency-preserving signals*: "this action is irreversible," "this decision requires human confirmation," "this boundary cannot be crossed." The Least Autonomy framework (arXiv 2607.09744) provides the access control layer: permission composition that prevents agent amplification of individually-harmless actions into collectively-harmful chains. **The Positive Alignment specification:** infrastructure must be designed not just for agent *capability* (what can the agent do?) but for agent *wisdom* (what should the agent recognize?).
+
+### Layer 3: Sovereignty Alignment
+**An AI that supports flourishing must preserve human metacognitive capacity.** The Disappearing "I Don't Know" finding (arXiv 2607.13562) is a direct threat to Positive Alignment: if AI access suppresses the human ability to recognize uncertainty, then AI cannot support flourishing — it can only provide answers while eroding the judgment that flourishing requires. Deployer sovereignty (arXiv 2607.13040) operationalizes this: the human who bears consequences must hold final authority. But Positive Alignment goes further — the human must also *retain the capacity to exercise that authority.* **The Positive Alignment specification:** AI systems designed for flourishing must include calibration infrastructure — feedback that shows the human what the AI contributed, what the human contributed, and where uncertainty lives. The goal is not just sovereignty (final authority) but *flourishing sovereignty* (authority exercised with genuine understanding).
+
+### Layer 4: Participation Alignment
+**An AI that supports flourishing must strengthen the institutions it joins.** When Bots Join the Team (arXiv 2607.13679) provides the evidence: bots that complement human work strengthen institutions; bots that substitute for human judgment may erode them. Positive Alignment requires that agent participation patterns be designed for *institutional strengthening.* The participation architecture must distinguish between complementarity deployments (AI handles coordination so humans can focus on substance) and substitution deployments (AI makes decisions humans used to make). **The Positive Alignment specification:** participation patterns must be governed by their institutional effects — more collaboration, less conflict, more distinctive output — not just by their productivity metrics.
+
+### The Stack Integration
+Positive Alignment as originally conceived (Laukkonen et al., 2026) is a normative claim: AI should support human flourishing. The four-layer framework provides the *engineering specification*: four design targets that, together, produce AI that supports flourishing rather than eroding it. Constructive Alignment (Kanwal & Tran, July 2026) provides the control framework. J-Space interpretability provides the audit mechanism. The four-layer stack provides the *architecture* — the design blueprint that connects the normative claim to the engineering specification to the audit mechanism.
+
+→ Key sources: [[Constructive Alignment]], [[AI and Human Flourishing]], [[Superagency]], [[Agentic Technical Debt]], [[Co-Intelligence]]
+
 ## Related Pages
 - [[Constructive Alignment]]
 - [[Human Agency]]

@@ -65,6 +65,28 @@ The distinction matters for governance because the instruments are different. Al
 
 See [[Responsible Deployment#DeepMind AI Control Roadmap: The Control Layer as Deployment Primitive (June 2026)|Responsible Deployment]] for the full D1-D4/R1-R3 framework and operational metrics. Source: [DeepMind AI Control Roadmap](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
 
+### The Four-Layer Agency Architecture: A Governance Integration (July 2026)
+
+The July 14-18 daily digests constructed a four-layer framework for agent agency design: **Abstention → Infrastructure → Sovereignty → Participation.** Each layer has governance implications that this page now integrates into Balanced Governance:
+
+**Layer 1 — Abstention Governance:** The 59.5% abstention accuracy finding (arXiv 2607.10059) means governance frameworks must require *explicit abstention architecture* for deployed agents. Current governance focuses on what agents should and shouldn't do (content policies, safety filters). Abstention Governance adds: what agents should *recognize* they cannot do, and what happens when they proceed anyway. The post-hoc abstention failure mode — acting first, recognizing error later — requires governance instruments that can detect and reverse agent actions, not just prevent them. CAVA's runtime evidence packages (arXiv 2607.13716) provide the verification layer for Abstention Governance.
+
+**Layer 2 — Infrastructure Governance:** The 89.3% vs 49.3% agent-ready website gap (arXiv 2607.12056) plus the Least Autonomy framework (arXiv 2607.09744) mean governance must extend to the *substrate* agents operate on, not just the agents themselves. The Least Autonomy principle — measuring compositional blast radius, agent influence graphs, and collusion predicates — operationalizes infrastructure governance. Current governance treats the internet as a neutral substrate; Infrastructure Governance treats it as a designed environment that either amplifies or constrains agent risk. The Macro-Prudential Governance framework (see below) provides the systemic stability layer at this level.
+
+**Layer 3 — Sovereignty Governance:** Deployer sovereignty (arXiv 2607.13040) — final authority rests with the consequence-bearer, not the model provider — is the governance architecture that emerged from the Fable 5 export-control shock. The Disappearing "I Don't Know" finding (arXiv 2607.13562) adds a critical constraint: sovereignty governance requires humans who *retain metacognitive capacity.* Governance instruments that place humans in decision loops fail if those humans can't accurately assess what they know. Sovereignty Governance must include calibration infrastructure — feedback mechanisms that preserve human metacognitive accuracy alongside agent capability.
+
+**Layer 4 — Participation Governance:** When Bots Join the Team (arXiv 2607.13679, 2,991 projects) provides the first large-scale evidence for participation governance design: bots that complement human coordination strengthen institutions; bots that substitute for human judgment may erode them. The governance implication: participation patterns must be *governed*, not just observed. An organization's governance framework should distinguish between complementarity deployments (bots handling coordination) and substitution deployments (bots making strategic decisions), with different oversight requirements for each.
+
+**Integration with existing governance frameworks:** The four-layer architecture maps onto the governance instruments this page already tracks:
+- **Alignment governance** (training, evaluation) → primarily Layer 1 (Abstention: training agents to recognize when not to act)
+- **Control governance** (monitoring D1-D4, response R1-R3) → primarily Layer 2 (Infrastructure: monitoring what agents do on the substrate)
+- **Commons governance** (community stewardship, Ostrom principles) → primarily Layer 3 (Sovereignty: distributed authority over AI-relevant resources)
+- **Macro-prudential governance** (systemic stability, stress testing) → primarily Layer 4 (Participation: what happens when agent participation scales across institutions)
+
+The four-layer framework doesn't replace existing governance instruments — it shows which layer each instrument addresses and which gaps remain. An organization with strong Abstention Governance (alignment training) but no Infrastructure Governance (substrate monitoring) is governing agents that know when to stop but operate on a substrate designed for agents that never stop. A complete governance architecture requires all four layers.
+
+→ Key sources: [[Agentic Technical Debt]], [[Cognitive Surrender]], [[Agentic Workflow Patterns]], [[AI Coding Agents]]
+
 ### Macro-Prudential AI Governance: Basel III for Intelligent Systems (July 2026)
 
 Mehta (arXiv 2607.03542) proposes the most operationally concrete governance framework this wiki has tracked: **Macro-Prudential AI Governance** — a direct import of the regulatory architecture developed for financial systemic risk after the 2008 crisis, repurposed for AI. The insight: financial regulation spent decades learning that firm-level soundness (micro-prudential regulation) does not prevent system-level collapse. AI governance is making the same mistake — focusing on model-level safety while ignoring systemic risks that emerge from the interaction of many individually-safe AI deployments.
