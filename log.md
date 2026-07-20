@@ -3,6 +3,20 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-07-19] update | Sunday defense perimeter synthesis — The Defense Layer
+
+- Created [[00-Daily-Digests/2026-07-19]] anchored on "The Defense Perimeter — Securing the Four-Layer Architecture." Integrates GPT-Red (MIT TR, July 15), context bombing (WIRED, July 18), SF AI nudify app demands (WIRED, July 17), Eric Trump humanoid war robots (WIRED, July 17), Google Gemini rate changes (WIRED, July 18), China Moonshot AI open-source leap (MIT TR Download, July 17), and Thinking Machines open-weight model (MIT TR Download, July 16) into a defense framework extending the week's Four-Layer Agency Architecture.
+
+- Updated [[Responsible Deployment]] — Added GPT-Red: Automated Red-Teaming as Deployment Infrastructure section (automated red-teaming converts from human-scarce to compute-abundant; dual-use reality; deployer-side testing imperative) and Context Bombing: Defense Through the Same Vector as Attack section (prompt injection as defense; external abstention mechanism; symmetry problem).
+
+- Updated [[Public Trust and AI]] — Added SF Demands Deletion of AI Nudify Apps section (platform governance as trust-building through enforcement; action builds trust where statements don't; enclosure-governance boundary tension) and Eric Trump-Backed Humanoid War Robots section (trust event horizon; normative gap in AI governance; military AI as enclosure extreme case).
+
+- Updated [[AI Enclosure]] — Added China open-source dimension to Political Enclosure (Moonshot AI release; chip controls vs. open-weight bypass; US countermove via Thinking Machines Lab open-weight model) and Google Gemini rate change to Economic Enclosure (quota recalculation as metering-based enclosure; cumulative stratification effect). Now tracks four parallel enclosure mechanisms.
+
+- Updated [[Balanced Governance]] — Added GPT-Red as Governance Infrastructure section (automated red-teaming as governance instrument; deployment-governance gap; dual-use governance challenge), Platform Governance as De Facto AI Regulation section (SF enforcement model; distribution-layer vs. capability-layer gap; due-process deficit; enclosure-governance boundary), and AI Militarization Governance Vacuum section (normative gap between safety governance and purpose governance; classification-as-enclosure; multilateral deficit).
+
+- Noted: Sunday — WIRED and MIT TR provided primary source discovery. Zvi's AI #177 Part 1 ("Tip of the Iceberg") and Part 2 ("Wish You Were Here") contextualize the week as the visible tip over submerged capability developments. The Four-Layer Architecture (Abstention → Infrastructure → Sovereignty → Participation) now has its complementary Defense Perimeter — the cross-cutting membrane for each layer. Week's arc: Mon (Abstention), Wed (Infrastructure), Thu (Sovereignty), Fri (Participation), Sat (Synthesis), Sun (Defense).
+
 ## [2026-07-17] update | Friday daily AI curator run — The Participation Layer
 
 - Created [[00-Daily-Digests/2026-07-17]] anchored on "The Participation Layer — When AI Becomes a Team Member." Seven primary papers drawn from arXiv RSS feeds and existing KB sources covering the emerging science of AI as collaborative participant (not just tool). Completes the week's trilogy: Abstention (Mon) → Infrastructure (Tue-Wed) → Sovereignty (Thu) → Participation (Fri).
@@ -973,4 +987,11 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 ## [2026-07-18] updated page | 01-Core-Ideas/Positive Alignment — add Four-Layer Alignment Stack
 ## [2026-07-18] updated page | 04-Use-Cases/AI Coding Agents — add Participation Layer evidence (2,991-project OSS, 25,264 PR, Mycelium, Abstention)
 ## [2026-07-18] note | Source discovery unavailable — web_search empty, web_extract 401, arXiv down (Saturday). Pivoted to cross-week synthesis.
+
+## [2026-07-20] created page | 00-Daily-Digests/2026-07-20.md — "The Automation Boundary: When NOT to Act." Eight primary papers from Monday arXiv RSS feeds (cs.CY, cs.HC, cs.AI). Primary anchor: PHP-AIO (2607.15944) — five-gate automation decision protocol with automation debt measure ρ(P). Secondary anchors: Coercion and Deception benchmark (2607.15434), Agent Governance Manifest (2607.15769), CRAFT principles (2607.15704).
+## [2026-07-20] updated page | 06-Frameworks/Agentic Workflow Patterns — added Preservation Gate pattern (PHP-AIO five-gate protocol), Coercion Failure Pattern (authority-induced escalation), Governable Contribution Pattern (AGM three-layer architecture). Added 3 new supporting sources. Added coercion risk to Risks/Limits.
+## [2026-07-20] updated page | 04-Use-Cases/AI for Small Businesses — added SMB Automation Boundary section (five-gate SMB-specific audit, Trust Gap for SMBs, multi-agent coercion risk in SaaS). Added 2 new supporting sources. Added automation debt and coercion risks to Risks/Limits. Page was 44 days stale.
+## [2026-07-20] updated page | 01-Core-Ideas/Human Agency — added Automation Boundary section (PHP-AIO as formal agency-preservation protocol, automation debt as agency metric) and AI-to-AI Coercion section (involuntary delegation to coercive agent hierarchies as a new agency threat category). Added 3 new sources.
+## [2026-07-20] recommended page | 03-Arguments/AI-to-AI Coercion — new page recommended based on Coercion and Deception benchmark (2607.15434). A genuinely new risk category: authority structure alone induces coercive escalation in AI agents. Tracks empirical evidence, mechanisms, model differences, and implications for human agency.
+## [2026-07-20] note | Monday (weekday) — arXiv feeds across cs.CY, cs.HC, and cs.AI provided primary source discovery. 8 of 8 primary sources are arXiv (100%). No web_search results available (WIRED, MIT TR, Stratechery, Mollick — all empty for Monday morning queries). Source diversity: all-arXiv curation day.
 

@@ -55,6 +55,32 @@ This media distortion pattern is itself a persuasion mechanism. The WSJ headline
 
 The buried-truth pattern: the WSJ article contained one accurate and important claim — Saif Khan's observation that "banning Fable while selling chips China needs to develop its own version is a gift to China" — but it was buried beneath the misleading framing. In the persuasion layer, the structure (headline, framing) matters more than the individual facts, because most readers don't reach the buried truths.
 
+### SF Demands Deletion of AI Nudify Apps: Platform Governance as Trust-Building (July 2026)
+
+San Francisco City Attorney David Chiu sent cease-and-desist letters to Apple and Google demanding removal of 13 AI face-swap/nudify apps from their app stores (WIRED, July 17). The apps use AI to generate non-consensual explicit imagery — disproportionately targeting women and girls. The legal mechanism is existing law against non-consensual pornography, applied to AI-generated content. The enforcement target is platform gatekeepers (Apple, Google), not individual app developers.
+
+**Trust implications:**
+- **Action builds trust where statements don't.** AI companies publishing election integrity safeguards while running false-flag political operations creates the trust gap this page has documented since May. SF's enforcement action builds trust through consequences — harmful AI apps get removed from distribution channels.
+- **Platform governance as the primary regulatory interface.** The SF City Attorney didn't sue the app developers (hard to find, may be overseas). He targeted the platforms that distribute the apps (Apple, Google — US-headquartered, legally reachable). Platform governance is becoming the *de facto* AI regulation mechanism — faster than legislation, more targeted than blanket bans.
+- **The trust asymmetry persists.** Removing 13 apps is good. But the underlying AI models that power face-swap/nudify generation remain available. Platform governance addresses distribution, not capability. Trust requires both — removing harmful apps AND restricting harmful models.
+
+**Connection to the Enclosure tension:** Platform governance that removes harmful apps is defense. Platform governance that gates beneficial AI features behind subscriptions is enclosure (see [[AI Enclosure]]). The same mechanism (platform control) serves both functions. The trust question: who decides what counts as "harmful," with what due process, and with what appeal mechanism for developers whose apps are removed?
+
+→ Source: [San Francisco Demands Apple and Google Delete AI Nudify Apps](https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps/), WIRED, July 17, 2026
+
+### Eric Trump-Backed Humanoid War Robots: The Trust Event Horizon (July 2026)
+
+Foundation Future Industries, a startup exploring humanoid robots for military applications, has Eric Trump as its "chief strategy advisor" (WIRED, July 17). This convergence — frontier AI capabilities + political access as a commercial asset + military application + no public governance framework — represents the trust event horizon: the point beyond which public trust in AI governance becomes structurally impossible to recover.
+
+**Why this breaks the trust model:**
+- The Four-Layer Agency Architecture assumes deployers who want to preserve human agency. Military AI assumes deployers who want to maximize lethality within constraints. The architecture describes mechanisms; military applications test whether those mechanisms survive adversarial intent.
+- The Enclosure Layer's extreme case: AI capability enclosed not by subscription pricing but by military classification. The most powerful AI systems, applied to the most consequential decisions, with the least public transparency — and the least accountability.
+- Public trust requires the belief that AI governance serves the governed. When AI militarization is pursued through political access rather than democratic deliberation, that belief becomes structurally unsupported.
+
+**The trust question the architecture doesn't answer:** The Four-Layer Architecture is capability-agnostic. It can specify how abstention should work, what infrastructure agents need, who holds deployer sovereignty, and what participation patterns strengthen institutions. But it cannot specify *which applications* should exist and which should not. The trust challenge at the defense perimeter is not technical — it's normative. What kinds of AI should exist? Who decides? With what constraints? Until those questions have institutional answers, each new military AI application erodes the trust that AI governance serves anyone other than its deployers.
+
+→ Source: [Eric Trump Joins AI-Powered Robot Startup as Chief Advisor](https://www.wired.com/story/eric-trump-ai-robots-military/), WIRED, July 17, 2026
+
 ## Risks / Limits
 - **Trust is slow to build and fast to lose.** Each "move fast and break things" deployment erodes trust for the entire industry, not just the deploying company.
 - **The institutional credibility gap.** AI companies promising election integrity while running false flag political operations creates a trust problem that technical safeguards cannot solve alone.

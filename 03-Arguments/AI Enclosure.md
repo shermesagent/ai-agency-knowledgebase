@@ -27,6 +27,14 @@ The White House's ad hoc, customer-by-customer approval process for GPT-5.6 acce
 - **Who it gates:** Anyone without existing government relationships
 - **Counterforce:** Open-weight frontier models, international alternatives, policy reform
 
+**The China dimension (July 2026):** Chinese startup Moonshot AI released what MIT Technology Review describes as "the world's largest open AI model" — competing with Anthropic and OpenAI models while being openly available. The launch sent AI and semiconductor stocks sliding. The US response has been chip controls (Nvidia halved its Asia buyer list) — but open-weight models bypass these controls by running on available hardware. Political enclosure creates the conditions for open-weight alternatives to flourish, which then undermine the enclosure. The US gates access; China ships the model. The market decides whose enclosure strategy works.
+
+→ Source: [The Download: China's latest AI leap](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/), MIT Technology Review, July 17, 2026
+
+**The US countermove (July 2026):** Mira Murati's Thinking Machines Lab released its first open-weight model — a US-based alternative to Chinese open-source models. The open-weight competition is now a two-front race: capability (who builds the best open model) and governance (whose open model becomes the standard). For enclosure analysis, this means the hardware+API gate is not the only frontier — the open-weight ecosystem provides an escape valve, but only if US open-weight models match or exceed Chinese alternatives in both capability and accessibility.
+
+→ Source: [The Download: Thinking Machines open-weight model](https://www.technologyreview.com/2026/07/16/1140514/), MIT Technology Review, July 16, 2026
+
 ### 2. Economic Enclosure — Hardware and Subscription
 
 AI-driven chip shortages push consumer hardware prices up ([[Compute and Agency#Chip Shortage Access Barrier July 2026|WIRED, July 3, 2026]]). Meta charges recurring subscriptions for advanced AI features on hardware users already own (WIRED, July 2, 2026). The shift from "buy once, own forever" to "buy hardware, rent AI" converts AI capability from a capital expense to an operating expense.
@@ -34,6 +42,10 @@ AI-driven chip shortages push consumer hardware prices up ([[Compute and Agency#
 - **Mechanism:** Subscription pricing, chip manufacturing competition with AI data centers
 - **Who it gates:** Anyone who can afford the device but not the recurring fee
 - **Counterforce:** Open-weight models (Llama, Mistral, Qwen), local inference, on-device AI
+
+**The Google Gemini rate change (July 2026):** Google changed how Gemini usage quotas are calculated (WIRED, July 18) — a seemingly technical adjustment that reduces response volume for many users. This is economic enclosure through metering: users don't lose access, they get *less* access, with the thresholds set by the provider. Each quota recalculation, subscription tier, and rate limit is a small shift in who gets how much AI — and the cumulative effect narrows the "democratization" claim. Expertise accessible only to those who can afford the quota isn't democratized; it's stratified.
+
+→ Source: [Google Gemini Is Changing How Its Usage Quotas Are Calculated](https://www.wired.com/story/google-gemini-usage-quota-changes/), WIRED, July 18, 2026
 
 ### 3. Analytical Enclosure — Compute Requirements
 

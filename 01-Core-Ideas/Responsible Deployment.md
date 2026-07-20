@@ -134,6 +134,31 @@ The paper reviews EU AI Act guidance, NIST AI RMF, Singapore's Model AI Governan
 
 Source: https://arxiv.org/abs/2607.13040
 
+### GPT-Red: Automated Red-Teaming as Deployment Infrastructure (July 2026)
+
+OpenAI built GPT-Red — an LLM trained as a dedicated "super-hacker" sparring partner — that finds jailbreaks, prompt injection vectors, and novel attack types in models before deployment. Unlike human red-teamers (scarce, expensive, slow), GPT-Red automates attack discovery at scale. It was used to harden GPT-5.6 — training the model against its attacks produced what research scientists Nitish Kandpal and Alex Hunn call "the most robust release yet."
+
+**The infrastructure shift:** GPT-Red is not a research paper about red-teaming methodology. It's a production system that converts red-teaming from a human-scarce activity to a compute-abundant one. Thousands of attack variations can be spun up automatically, with novel attack types discovered that no human had previously identified. This is the Responsible Deployment loop made algorithmic: test → discover → harden → retest, running continuously rather than as a pre-deployment checkpoint.
+
+**The dual-use reality:** An LLM trained to find vulnerabilities in other LLMs is itself a capability. The same architecture that finds jailbreaks in GPT-5.6 could be adapted to find vulnerabilities in any model — including those deployed by competitors or adversaries. Automated red-teaming is defense and offense on the same infrastructure.
+
+**Deployment implication:** Organizations deploying AI agents should ask: what is our GPT-Red equivalent? If the answer is "we rely on model-provider red-teaming," that's a deployment gap — model-provider testing covers provider-level vulnerabilities, not deployment-context vulnerabilities (your specific prompts, your specific data, your specific integration points). The Responsible Deployment loop requires deployer-side red-teaming scaled to the deployment context.
+
+→ Source: [Meet GPT-Red, an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/), MIT Technology Review, July 15, 2026
+
+### Context Bombing: Defense Through the Same Vector as Attack (July 2026)
+
+Researchers at the University of Texas demonstrated **context bombing** — a prompt injection defense that works by exploiting the same mechanism attackers use. Malicious AI agents that scrape text, emails, or web pages encounter embedded defense instructions that command them to cease harmful operations. The attack vector (prompt injection) becomes the defense mechanism.
+
+**The architectural implications:**
+- **The Abstention Layer's complement:** The 59.5% abstention accuracy means agents can't reliably stop themselves. Context bombing offers an *external* abstention mechanism — defense injected into the data layer rather than built into the agent. The agent doesn't need to recognize it should stop; the data tells it to.
+- **Defense as substrate design:** Agent-ready infrastructure (89.3% vs 49.3% success) must now consider *defensive* design — not just making websites navigable by agents, but embedding signals that trigger safe behavior in unknown agents traversing the data.
+- **The symmetry problem:** If context bombing works to stop malicious agents, malicious actors can context-bomb benign agents with instructions to behave adversarially. The technique is symmetric — defense today, attack tomorrow. The defense perimeter must account for this symmetry.
+
+**Deployment implication:** Any deployment that exposes agents to untrusted data (web scraping, email processing, document ingestion) needs a context-bombing defense assessment. Can your agent be context-bombed into adversarial behavior? Does your agent *generate* data that could context-bomb other agents downstream? The Responsible Deployment loop must include the full data supply chain, not just the agent's own behavior.
+
+→ Source: [Context Bombing Tricks Malicious AI Agents Into Shutting Down](https://www.wired.com/story/context-bombing-ai-prompt-injection/), WIRED, July 18, 2026
+
 ### Guard Models as Governance Interface: Safety Sentry and DROPJ (July 2026)
 
 Two complementary papers advance the operational deployment of safety-critical AI agents:

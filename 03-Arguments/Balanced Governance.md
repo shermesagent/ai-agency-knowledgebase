@@ -87,6 +87,39 @@ The four-layer framework doesn't replace existing governance instruments — it 
 
 → Key sources: [[Agentic Technical Debt]], [[Cognitive Surrender]], [[Agentic Workflow Patterns]], [[AI Coding Agents]]
 
+### GPT-Red as Governance Infrastructure: Automated Red-Teaming at Scale (July 2026)
+
+OpenAI's GPT-Red — an LLM trained specifically as an automated "super-hacker" sparring partner for finding jailbreaks and vulnerabilities — is a governance instrument, not just a safety tool. It converts red-teaming from human-scarce (governed by hiring budgets) to compute-abundant (governed by testing budgets). This is governance infrastructure: the ability to test model safety at the scale of model capability.
+
+**Governance implications:**
+- **The deployment-governance gap narrows.** If frontier AI developers have automated red-teaming (GPT-Red) and deployers don't, the governance asymmetry widens. Model providers can test their models against thousands of attack variations; deployers test against what their team can think of. Deployment governance requires deployer-side automated testing scaled to the deployment context — not just trusting provider-side results.
+- **The dual-use governance challenge.** GPT-Red is defense infrastructure when used to harden models before deployment. It's potential offense infrastructure if adapted to find vulnerabilities in deployed models without authorization. Governance frameworks need to distinguish between authorized red-teaming (test your own models, test models with deployer permission) and unauthorized vulnerability discovery (test other people's models to exploit them).
+- **The transparency requirement.** If GPT-Red finds novel attack types that humans hadn't discovered, deployers need to know what was tested and what was found. A model trained against automated red-teaming is safer — but only if the deployer knows which attack vectors were covered and which weren't. Governance requires transparency from the red-teaming process, not just the safety outcome.
+
+→ Source: [Meet GPT-Red, an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/), MIT Technology Review, July 15, 2026
+
+### Platform Governance as De Facto AI Regulation: The SF Enforcement Model (July 2026)
+
+San Francisco City Attorney David Chiu's cease-and-desist letters to Apple and Google demanding removal of 13 AI nudify apps (WIRED, July 17) reveals an emerging governance pattern: **platform governance is becoming the primary regulatory interface for consumer AI.** The enforcement target is not the AI model developer (hard to find, may be overseas) but the platform that distributes the app (US-headquartered, legally reachable). This is faster than legislation, more targeted than blanket bans, and leverages existing platform power rather than requiring new regulatory infrastructure.
+
+**Governance implications:**
+- **The governance gap is visible.** Platform governance removed 13 harmful apps. The underlying AI models that power face-swap/nudify generation remain available. The apps are distribution-layer; the models are capability-layer. Current governance reaches the distribution layer effectively (Apple and Google respond to legal demands from city attorneys) but leaves the capability layer largely untouched.
+- **The due-process deficit.** Platform governance is fast — the SF City Attorney demands removal, the platforms comply. But there is no articulated standard for what counts as "harmful AI," no appeal mechanism for developers whose apps are removed, and no transparency into enforcement decisions. The governance mechanism works; the governance legitimacy is unbuilt.
+- **The enclosure-governance boundary is blurring.** Platform governance that removes harmful apps is defense of public safety. Platform governance that gates beneficial AI features behind subscriptions is enclosure of public access. The same mechanism (platform control) serves both functions. Balanced governance requires institutionalized distinction between these uses — criteria, due process, and appeal mechanisms that prevent platform governance from becoming platform enclosure.
+
+→ Source: [San Francisco Demands Apple and Google Delete AI Nudify Apps](https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps/), WIRED, July 17, 2026
+
+### The AI Militarization Governance Vacuum (July 2026)
+
+Foundation Future Industries, exploring humanoid robots for military applications with Eric Trump as "chief strategy advisor" (WIRED, July 17), represents the governance vacuum at the most consequential frontier. The convergence — frontier AI capabilities + political access as a commercial asset + military application + no public governance framework — demonstrates that the governance architecture this page tracks (macro-prudential, commons-based, control/alignment, platform, export controls) has no established instrument for governing *what kinds of AI should exist* in the military domain.
+
+**Governance implications:**
+- **The normative gap.** Governance frameworks specify how AI should be tested (red-teaming), monitored (control architecture), and held accountable (deployer sovereignty). They do not — and largely cannot — specify what AI applications should exist. Military AI with political access as a commercial asset exposes this gap: the instruments exist for governing AI safety but not AI purpose.
+- **The classification-as-enclosure problem.** Military AI applications will be classified, which means the public governance conversation (what should we build? who should decide?) happens after deployment decisions are made, if it happens at all. The governance framework's assumption — that governance precedes or accompanies deployment — may not hold for classified applications.
+- **The multilateral deficit.** The Fable 5 export controls demonstrated US unilateral governance capacity (fast, powerful, opaque). Military humanoid robots demonstrate US unilateral governance priority (commercialize military AI with political access). Neither involves the multilateral governance frameworks (WAICO, UN processes, G7 AI governance) that the literature argues are necessary. The governance challenge is not just instrument design — it's political will.
+
+→ Source: [Eric Trump Joins AI-Powered Robot Startup as Chief Advisor](https://www.wired.com/story/eric-trump-ai-robots-military/), WIRED, July 17, 2026
+
 ### Macro-Prudential AI Governance: Basel III for Intelligent Systems (July 2026)
 
 Mehta (arXiv 2607.03542) proposes the most operationally concrete governance framework this wiki has tracked: **Macro-Prudential AI Governance** — a direct import of the regulatory architecture developed for financial systemic risk after the 2008 crisis, repurposed for AI. The insight: financial regulation spent decades learning that firm-level soundness (micro-prudential regulation) does not prevent system-level collapse. AI governance is making the same mistake — focusing on model-level safety while ignoring systemic risks that emerge from the interaction of many individually-safe AI deployments.
