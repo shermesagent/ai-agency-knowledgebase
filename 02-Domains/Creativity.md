@@ -99,5 +99,33 @@ The brief's core framing: "Leaders should optimise for workflow economics: small
 - **Key insight:** Open weights video generation now runs on consumer hardware. The gap between proprietary and open is months, not years. We're heading toward not being able to distinguish real from AI-generated content — with profound implications for entertainment, trust, and creative industries.
 - [Co-Existence and the End of Co-Intelligence](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence), Ethan Mollick, June 4, 2026 — source for the visual evolution demo and the "sparks" comparison.
 
+### GenAI in Design Education: Heavy Early Use, Low Trust, Maintained Ownership (July 2026)
+
+Broadbent's survey of Politecnico di Milano design students (arXiv 2607.17094, July 2026) reveals an emerging creative practice pattern that challenges both "AI will replace designers" and "designers reject AI" narratives:
+
+- **High-frequency use concentrated in initial project stages** — ideation, exploration, concept generation. Students use GenAI as a spark, not a finisher.
+- **Strong perception of project ownership and creativity maintained** — despite heavy AI use, students don't feel the AI "did the work." This is the metacognitive adaptation framework in practice: they're amplifying partner modeling and surface control while preserving originality evaluation.
+- **Systematic individual and collective verification** — students report limited trust in GenAI outputs, leading to verification routines and augmentation cycles rather than passive acceptance.
+- **Design students are reflectively experimenting** — they're not uncritical adopters or principled resisters. They're testing boundaries, developing judgment about when AI helps vs. hinders, and building personal frameworks for AI-integrated creative work.
+
+**Implication:** The "creative AI" concern has focused on output quality and copyright. But the design student data suggests a more nuanced risk: AI may reshape WHEN in the creative process it intervenes (early ideation, not late refinement) and HOW it changes the verification burden (more checking, not less). The creative act shifts from generation to curation, from making to evaluating. This is creative agency, but it's a different kind of creative agency — one that requires different skills than traditional design education provides.
+
+→ Source: https://arxiv.org/abs/2607.17094
+
+### The Aura in the Machine: AI Art as Industrial-Scale Genealogy (July 2026)
+
+Giorgio Presti's "The Aura in the Machine" (arXiv 2607.17940, July 2026) provides the deepest theoretical framework yet for understanding AI creativity within a historical context:
+
+- **AI art is not a rupture but an industrial-scale acceleration of a century-old trajectory.** Generative arts have historical precedents: algorithmic composition, procedural generation, aleatoric methods, conceptual art. AI brings industrial scale, not ontological novelty.
+- **Three functional categories of generative systems:** (1) AI as **medium** — the tool used to create; (2) AI as **artwork** — the system itself is the art; (3) AI as **instrument** — a collaborator in creation. The attribution between these categories is editorial (human choice), not ontological (property of the AI).
+- **"Algorithmic Repetition"** is the aesthetic degeneration of aligned generative systems — the tendency of safely-aligned models to produce smoothed, predictable, non-challenging output. **Instability in older generative models was an aesthetic degree of freedom** that recent models have lost through alignment.
+- **The Benjaminian aura condenses upon the productive system** — it doesn't vanish. The "aura" (unique authority of the original artwork) migrates from the artifact to the pipeline that produced it. The process becomes the artwork.
+- **The artist as entropic agent and negentropic curator** — the artist's role shifts from crafting objects to designing systems, exploring possibility spaces, and curating outputs. Creative agency resides in the human distributed along the pipeline, not in any single AI component.
+- **Manifestation** is proposed as a third ontological status for generative works — transcending the original/copy dichotomy. A generative artwork is neither a singular original nor a mechanical copy; it is a *manifestation* of a productive system.
+
+**Relevance to agency framework:** Presti's taxonomy maps cleanly onto the [[Superagency]] thesis. The human retains creative agency — but it's agency exercised through system design and curation, not through direct manipulation of materials. This is the creative-domain parallel to the [[AI Orchestrator]] pattern: the orchestrator doesn't play every instrument but designs the ensemble, shapes the performance, and makes the judgment calls. The risk (Algorithmic Repetition driving aesthetic convergence) parallels the [[Metacognitive Adaptation]] risk (creative homogenization through selective capacity atrophy).
+
+→ Source: https://arxiv.org/abs/2607.17940
+
 ## Tags
 #creativity #augmentation #human-agency #practical-ai

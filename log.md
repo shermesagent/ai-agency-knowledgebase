@@ -3,7 +3,17 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
-## [2026-07-19] update | Sunday defense perimeter synthesis — The Defense Layer
+## [2026-07-21] update | The Development Layer — AI absorbs expertise pathways
+
+- Created [[00-Daily-Digests/2026-07-21]] anchored on "The Development Layer — When AI Absorbs the Pathway to Expertise." 10 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web searches returned empty for Mollick, WIRED, MIT TR, Stratechery, Zvi). Five core findings: (1) GenAI absorbs the junior→senior software engineering pathway (Yu & Moon); (2) informal learning emerges in everyday LLM use at 31.9% cognitive engagement (Chen et al.); (3) higher ed AI perceptions diverge — students normalize, staff resist (Gerard et al., N=1,665, 2024-2026); (4) models recover user's intended task only 22-32% under ambiguity vs. humans at 48% (Dai et al.); (5) RAIL Guard closed-loop responsible AI achieves 96.9% convergence vs. 49.1% block-and-retry (Verma et al.). Practical experiment: the 60-Second Struggle Rule.
+
+- Updated [[Education]] (11 days stale) — Added "The Normalization Gap: Students vs. Institutions" section covering the Ulster University longitudinal study (2607.16223) and the CS instructor AI policy study (2607.16475). Key finding: students normalize AI faster than institutions can police it, and policy responses focused on detection rather than education are structurally losing ground. Connects the normalization data to the EAIL 11.1% benchmark and the CSAIL "Secret Cyborg" pattern.
+
+- Updated [[Work]] (12 days stale) — Added "The Erosion of the Junior→Senior Pathway" section (2607.17067) documenting the Absorption pattern through which GenAI redirects entry-level work into senior-AI workflows, structurally reproducing expertise loss through university classrooms. Extends the pattern to law, medicine, consulting, journalism, and design. Added "AI Individualism: Personalization and Pseudo-Autonomy" section (2607.17826): first systematic study of how N=169 users customize social AI, with seven motivations identified and the pseudo-autonomy risk documented.
+
+- Updated [[Creativity]] (24 days stale) — Added "GenAI in Design Education: Heavy Early Use, Low Trust, Maintained Ownership" section (2607.17094): Politecnico di Milano design students use GenAI heavily in early stages but maintain project ownership through systematic verification. Added "The Aura in the Machine: AI Art as Industrial-Scale Genealogy" section (2607.17940): Presti's theoretical framework positioning AI art as industrial-scale acceleration of historical generative arts trajectory. Three functional categories (medium/artwork/instrument), Algorithmic Repetition as aesthetic degeneration, the Benjaminian aura condensing on the productive system, and Manifestation as third ontological status.
+
+- Noted: Tuesday — arXiv-only curation day. No web sources surfaced for Mollick, WIRED, Stratechery, or Zvi. Week's arc likely: Monday (yesterday, covered by prior run) → Tuesday (Development Layer) → Wednesday-Sunday ahead.
 
 - Created [[00-Daily-Digests/2026-07-19]] anchored on "The Defense Perimeter — Securing the Four-Layer Architecture." Integrates GPT-Red (MIT TR, July 15), context bombing (WIRED, July 18), SF AI nudify app demands (WIRED, July 17), Eric Trump humanoid war robots (WIRED, July 17), Google Gemini rate changes (WIRED, July 18), China Moonshot AI open-source leap (MIT TR Download, July 17), and Thinking Machines open-weight model (MIT TR Download, July 16) into a defense framework extending the week's Four-Layer Agency Architecture.
 

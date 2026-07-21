@@ -129,5 +129,22 @@ The Teacher-Built Teammates framework (arXiv 2607.09674) introduces **LearnAdapt
 
 **Source:** arXiv 2607.09674 — "From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring"
 
+## The Normalization Gap: Students vs. Institutions (July 2026)
+
+Gerard et al.'s three-wave longitudinal study at Ulster University (arXiv 2607.16223, July 2026; N=1,665 across 2024-2026) provides the most rigorous evidence yet for a pattern Ethan Mollick has described anecdotally: the widening gap between student AI use and institutional AI policy.
+
+**Key findings across three survey waves (2024-2026):**
+- **Students rapidly normalized AI use** — moving from tentative experimentation to routine engagement. AI is no longer "novel" for students; it's background infrastructure.
+- **Teaching staff expressed persistent concerns** about academic integrity, assessment design, and critical thinking. These concerns did not diminish over time — if anything, they intensified as student AI use became more pervasive and sophisticated.
+- **The student-staff gap widened** — institutional policy struggled to keep pace with actual practice. The faster students adopted, the more policy fell behind.
+- **Doctoral and non-teaching staff occupied intermediate positions** — pragmatic adoption combined with institutional caution. They're close enough to students to see the utility and close enough to institutions to feel the constraints.
+
+**Implications for the EAIL 11.1% benchmark:** This longitudinal data contextualizes the finding that only 11.1% of student-GenAI interactions show high epistemic engagement. When students are operating in an institutional vacuum — using AI pervasively while policy lags — there is no structural pressure toward epistemically rich AI use. The normalization happens *without* institutional scaffolding. By the time policy catches up, student AI habits are already formed.
+
+**Connection to the CS instructor policy study (2607.16475, July 2026):** Gu et al.'s interviews with 13 US CS instructors find that AI policies primarily seek to "AI-proof" assessments without addressing student learning. Instructors report extra burden from policing AI use behaviors and worsening relationships with students. The recommend shift from policing (catching AI use) to guiding (teaching healthy AI use). Combined with the Ulster study, the picture is clear: institutional responses that focus on detection rather than education are losing ground — students are normalizing AI faster than institutions can police it.
+
+→ Source (Normalization): https://arxiv.org/abs/2607.16223
+→ Source (CS Policies): https://arxiv.org/abs/2607.16475
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

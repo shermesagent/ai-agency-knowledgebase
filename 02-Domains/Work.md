@@ -81,6 +81,30 @@ The Cadences report provides the empirical counterweight to policy debates: whil
 
 - Source: https://www.anthropic.com/research/economic-index-june-2026-report
 
+### The Erosion of the Junior→Senior Pathway (July 2026)
+
+Yu & Moon's study (arXiv 2607.17067, July 2026) identifies a structural pattern with implications beyond software engineering. Through 14 interviews with juniors and seniors in South Korea, they reveal **Absorption** — GenAI redirects entry-level work into senior-AI workflows, eroding the pathway through which juniors become seniors:
+
+- **Juniors lose the "productive struggle"** — the difficult, iterative problem-solving through which expertise once developed. When AI handles the hard parts, the learning doesn't happen.
+- **The loss is structurally reproduced** — universities normalize GenAI use in classrooms, so students never encounter the struggle in the first place. The erosion happens before they enter the workforce.
+- **Perceptual asymmetry prevents self-correction** — seniors don't see the erosion happening (they're getting their work done faster), and juniors don't know what they're missing (they never experienced the pre-AI pathway). Neither side can diagnose the problem from within.
+
+**What this means for work more broadly:** The absorption pattern isn't unique to software engineering. Any profession with a structured progression from novice to expert — law (junior associates), medicine (residents), consulting (analysts), journalism (fact-checkers/reporters), design (junior designers) — faces the same structural risk. AI takes the tasks that once built expertise, and no institutional mechanism replaces them. The [[Entry-Level Work Crisis]], the [[Agentic Technical Debt]] caused by junior-AI code lacking experienced review, and the [[AI as Normal Technology]] normalization — these are all symptoms of the same underlying pattern.
+
+→ Source: https://arxiv.org/abs/2607.17067
+
+### AI Individualism: Personalization and Pseudo-Autonomy (July 2026)
+
+Skjuve et al. (arXiv 2607.17826, July 2026) provide the first systematic study of how users customize social AI. Through reflexive thematic analysis of 169 users' open-ended responses:
+
+- **Seven motivations for customization:** enhanced pragmatic support, emotional companionship, trust and reliability, pushback, tailored human likeness, creativity/playfulness, and **AI functioning as an extension of the self.**
+- **Customization is a co-creative process** — users don't just configure settings; they engage in ongoing negotiation with the AI to shape its personality, style, and boundaries. This strengthens support, autonomy, ownership, and engagement.
+- **The "pseudo-autonomy" risk:** customization creates an illusion of individual control over powerful AI systems. Users feel empowered by their personalized AI while the underlying platform remains opaque, unaccountable, and outside their control. The personal relationship masks the structural relationship.
+
+**Workplace implications:** As employees personalize AI tools (custom ChatGPTs, personalized Copilot configurations, custom Claude Projects), they develop attachment, trust, and reliance on specific AI configurations. This has both benefits (stronger engagement, better fit to individual work style) and risks (loyalty to the AI over the organization, difficulty transitioning when tools change, and the pseudo-autonomy trap of feeling in control while being dependent on a platform). The [[Future of Work]] must account for this personalization layer — it's not just about AI adoption rates but about the *quality of relationship* workers develop with their AI tools.
+
+→ Source: https://arxiv.org/abs/2607.17826
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]
