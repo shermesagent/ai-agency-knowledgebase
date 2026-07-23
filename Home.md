@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-07-23 | Future of Work, Task-Level AI Adoption, Creativity, Education, Home |
 | 2026-07-21 | Education, Work, Creativity, Home |
 | 2026-07-19 | Responsible Deployment, Public Trust and AI, AI Enclosure, Balanced Governance, Home |
 | 2026-07-18 | Four-Layer synthesis: Superagency, Human Agency, Responsible Deployment, AI Enclosure, Balanced Governance, Public Trust, Democratization of Expertise, Home |
@@ -136,8 +137,8 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. M
 | Age | Count | Examples |
 |-----|-------|----------|
 | 8+ days | ~1 page | Leadership Lab Crowd Model |
-| 5–7 days | ~5 pages | Agentic Technical Debt (last July 1), AI for Small Businesses, Task-Level AI Adoption, Agentic Workflow Patterns, Healthcare |
-| < 5 days | ~76 pages | Actively curated (today: Education, Work, Creativity — Development Layer synthesis) |
+| 5–7 days | ~3 pages | Agentic Technical Debt (last July 1), AI for Small Businesses, Healthcare |
+| < 5 days | ~79 pages | Actively curated (today: Future of Work, Task-Level AI Adoption, Creativity, Education — Exchange Layer synthesis) |
 
 ---
 
@@ -145,7 +146,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. M
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-07-21|Today's Digest]] · [[00-Daily-Digests/2026-07-19|Yesterday]]
+- [[00-Daily-Digests/2026-07-23|Today's Digest]] · [[00-Daily-Digests/2026-07-22|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

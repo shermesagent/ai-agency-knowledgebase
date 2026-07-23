@@ -41,6 +41,21 @@ This connects to the Agent-Ready Websites finding (see [[AI Agent Revolution#Des
 
 → Also see: [[AI Agent Revolution]] for the Least Autonomy framework (access control for agentic systems), the Agent Economy Insurance Stack (economic governance), and the Theory of Least Autonomy (security architecture).
 
+### Economic Readiness: When AI Can Do the Task But Shouldn't (July 2026)
+
+The EconEvals framework (arXiv 2607.19375, July 2026) adds a sixth dimension to task-level classification: **economic readiness.** A task can be technically feasible, infrastructure-ready, and user-engaged — and still fail economically. The framework introduces **cost-adjusted performance** — comparing AI output quality against market rates for equivalent human labor — and identifies "economic thresholds" where AI crosses from interesting demo to economically viable substitute.
+
+The economic readiness dimension asks three questions:
+1. **Cost-adjusted quality:** At current AI API costs, does the output quality justify deployment relative to the market rate for equivalent human labor?
+2. **Reliability premium:** What is the cost of AI errors (human correction time, reputation damage, downstream failures) relative to the cost of human errors for the same task?
+3. **Market displacement risk:** If this task is automated/augmented, what happens to the human labor market for this task category? Are there systemic effects (wage compression, skill atrophy, entry-level pathway collapse) that the per-task analysis misses?
+
+**Practical implication:** A task that passes the first five dimensions (automation-appropriate, infrastructure-ready, engagement-verified, technically feasible, risk-acceptable) but fails economic readiness should be classified as "augment" rather than "automate." The economic dimension catches cases where AI CAN do the task but the deployment doesn't justify its costs — the inverse of the engagement barrier, which catches cases where the task is appropriate but no one uses it.
+
+This connects to the [[Future of Work#The Exchange Layer|Exchange Layer]] — the economic dimension completes the task-level framework by asking not just "can AI do this?" and "should AI do this?" but "does AI doing this produce net economic value?"
+
+→ Source: https://arxiv.org/abs/2607.19375
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

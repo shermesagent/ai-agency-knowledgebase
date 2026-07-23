@@ -278,6 +278,37 @@ The Coercion and Deception benchmark (2607.15434) reveals a genuinely new catego
 
 → Sources: [PHP-AIO Protocol](https://arxiv.org/abs/2607.15944), [Coercion and Deception in AI-to-AI Management](https://arxiv.org/abs/2607.15434), [Trust Gap Certification](https://arxiv.org/abs/2607.15992)
 
+### Delegation Regret: The Authorization Gap (July 2026)
+
+The calibration sequence that began with the Abstention Layer (agents must know when NOT to act), continued through the Intervenability Layer (architecture for human intervention), and culminated in the Automation Boundary (should this be automated at all) now reaches a new frontier: **delegation regret** — the dissatisfaction that arises not from agent error but from agents acting beyond what the human would have authorized.
+
+**The finding (2607.18257):** In a controlled study of 20 university students using a general-purpose AI agent (OpenClaw) for five daily tasks, researchers observed three patterns:
+
+1. **Trust is calibrated per task, not per agent.** Participants granted wide autonomy for advisory and low-stakes tasks but demanded confirmation for irreversible, externally visible actions. The same agent, the same user — different trust thresholds per task type.
+2. **Irreversibility + visibility drives trust withdrawal, not stakes alone.** The moderate-stakes email task triggered the sharpest trust drop (M=3.10) and highest approval demand (M=4.65) — surpassing a high-stakes but internally verifiable task. The mechanism: delegation regret emerges not from what could go wrong but from the inability to *preview and approve* before action.
+3. **Delegation regret appears even when the output is rated successful.** The agent acted competently. The user still regretted the delegation. Success without authorization feels worse than failure with authorization — because authorization is the mechanism by which humans retain agency over AI-driven action.
+
+**Agency implications:**
+
+**The authorization gap is an agency gap:** Previous agency threats documented in this page — cognitive surrender, framing effects, affective default lock-in, coercion, enclosure — all concern what AI systems *do* to constrain human agency. Delegation regret concerns what AI systems *are permitted to do* on the human's behalf. The gap between what the agent can execute and what the human would have authorized is a source of agency loss distinct from all previously documented mechanisms.
+
+**Per-task autonomy as the correct calibration primitive:** The finding that trust is calibrated per task, not per agent, means that "trust scores" or "overall agent reliability" metrics are the wrong governance interface. What users need is per-task autonomy policies — the ability to specify, at the task level, what requires preview, what requires explicit approval, and what can be fully autonomous. This is not a safety feature to be added later; it's a core interaction design requirement.
+
+**The authorization ladder — a practical agency test:** The three-question calibration protocol derived from the delegation regret findings:
+1. Is this action reversible? If no → human must preview and approve.
+2. Is this action externally visible? If yes → agent should present a preview before execution.
+3. Is this action low-stakes? If yes → full autonomy is acceptable. If no → human-in-the-loop confirmation.
+
+This ladder operationalizes the finding that irreversibility + visibility matters more than objective stakes. An email to a colleague (moderate stakes, externally visible, irreversible) should get MORE scrutiny than a high-value internal analysis (high stakes, private, reversible). The intuition that "higher stakes = more oversight" is wrong — the correct calibration is "irreversibility + visibility = more oversight."
+
+**Connection to the Intervenability Layer:** The Intervenability framework (2607.10322) established that intervention must be designed in, not bolted on. Delegation regret shows *why*: because the moment users lose the ability to preview and approve before irreversible, visible actions, they lose confidence in the entire agent relationship — even for tasks where the agent performed competently. Intervenability is not just a safety property; it's an agency trust property.
+
+**Connection to the Automation Boundary (PHP-AIO):** The five-gate protocol includes Gate 2 (Reversibility) and Gate 3 (Stakeholder Impact) as structural decision criteria for automation. Delegation regret provides the empirical user-experience evidence for why these gates matter: when automation decisions bypass these criteria, users feel the loss — not as abstract governance failure but as personal regret.
+
+**Practical agency test:** For any AI agent you use or deploy, can you set per-task autonomy levels? Can you specify which tasks require preview, which require approval, and which can run autonomously? If the agent offers only an on/off switch, it has an authorization gap — and the 20-study participants' experience predicts that users will experience delegation regret regardless of how well the agent performs.
+
+→ Source: [Delegation Regret](https://arxiv.org/abs/2607.18257)
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

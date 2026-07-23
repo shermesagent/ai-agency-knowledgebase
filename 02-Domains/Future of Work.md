@@ -71,10 +71,45 @@ A new end-to-end framework for rapid professional reskilling (arXiv 2607.14044) 
 
 Source: https://arxiv.org/abs/2607.14044
 
+### Economic Evaluations of Language Models: The EconEvals Framework (July 2026)
+
+The EconEvals framework (arXiv 2607.19375, July 2026) introduces the first systematic approach to evaluating AI through an economic lens — not just whether models CAN perform tasks, but whether their performance at current cost, reliability, and scalability justifies economic deployment. Key contributions:
+
+- **47 economically relevant task categories** spanning professional services, creative production, analysis, and coordination.
+- **Cost-adjusted performance metric:** AI output quality ÷ (API cost + error correction cost), compared against market rates for equivalent human labor.
+- **Economic thresholds:** The point at which AI performance crosses from "interesting demo" to "economically viable substitute" — different thresholds for different tasks and labor markets.
+
+**Implication:** The gap between AI capability and AI economic viability is the policy window. If AI can do the task at 90% quality for 50% of the cost, deployment may be economically rational but socially disruptive. If it's 70% quality for 110% cost, deployment won't happen regardless of technical capability. The Remote Labor Index (2.5% → 16.1%) measures capability; EconEvals provides the economic complement.
+
+→ Source: https://arxiv.org/abs/2607.19375
+
+### Algorithm-Mediated Markets: When Shippers Become Algorithms (July 2026)
+
+A case study in AI-mediated market concentration (arXiv 2607.19967, July 2026): when LLMs mediate price-setting in freight markets, algorithm-to-algorithm negotiation produces outcomes that diverge from competitive equilibrium. Key finding: **when AI agents negotiate on both sides of a transaction**, the structural properties of the negotiation environment — information asymmetries, speed advantages, coordination capabilities — favor the party with superior AI deployment.
+
+This generalizes beyond freight: any market where both buyers and sellers deploy AI agents creates a new class of market dynamics that traditional competition policy isn't designed to address. The relevant question shifts from "is the market competitive?" to "are the AI agents negotiating on equal footing?"
+
+→ Source: https://arxiv.org/abs/2607.19967
+
+### UX Principles for Human-AI Agent Interaction in the Workplace (July 2026)
+
+A framework (arXiv 2607.19941, July 2026) with five design principles for workplace AI agents — directly relevant to the Future of Work because interaction design determines whether AI augments or alienates:
+
+1. **Action transparency:** Preview what the agent WILL do before it acts.
+2. **Reversibility by default:** Irreversible actions require explicit human confirmation.
+3. **Boundary legibility:** Users must understand the agent's action space at a glance.
+4. **Trust calibration per task:** Different tasks deserve different autonomy levels.
+5. **Escalation clarity:** When the agent encounters ambiguity, the escalation path must be explicit.
+
+These principles operationalize the [[The Abstention Layer]] and [[The Calibration Layer]] for workplace deployment. They're the design-side complement to governance frameworks: governance determines what agents CAN do; UX principles determine whether humans can effectively supervise what agents DO.
+
+→ Source: https://arxiv.org/abs/2607.19941
+
 ## Practical Examples
 - Redesign one recurring process as a [[Frontier Firm]] workflow: AI drafts or routes the work, humans set goals and inspect exceptions, and the team measures whether quality and agency improve.
-- Use [[Task-Level AI Adoption]] to label tasks as augment, automate, preserve-human, or prohibit-AI.
+- Use [[Task-Level AI Adoption]] to label tasks as augment, automate, preserve-human, or prohibit-AI — and add the economic readiness check from EconEvals before deployment.
 - Build internal learning ladders so junior workers use AI to learn faster rather than merely skipping practice.
+- Apply the five UX principles when procuring or building workplace AI agents: if the agent can't preview actions before executing, it's not ready for deployment.
 
 ## Risks / Limits
 - Avoid treating one positive case study as universal proof.

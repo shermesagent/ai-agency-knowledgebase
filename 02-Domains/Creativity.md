@@ -67,6 +67,20 @@ Dylan Field, Figma CEO, confirmed in a Stratechery interview (June 25, 2026) tha
 
 - Source: https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/
 
+### GenAI Floods the Market for Books: Creative Market Dilution (July 2026)
+
+A direct empirical test (arXiv 2607.20349, July 2026) of the "meaning-shaped attention vampire" problem at market scale. As AI-generated books enter markets, three mechanisms produce dilution:
+
+1. **Supply-side flooding:** AI-generated content increases supply faster than demand, compressing margins for all authors.
+2. **Discoverability collapse:** The volume of AI-generated content makes it harder for human-authored work to stand out — the signal-to-noise ratio degrades.
+3. **Trust erosion:** Consumer trust in book quality declines when even a fraction of AI-generated books are low quality, because consumers can't reliably distinguish at point of purchase.
+
+This is the economic expression of the "No AI Penalty" paradox: if readers genuinely can't distinguish human from AI-authored work, the incentive to pay human creators collapses — even as readers continue to prefer human work when they know its origin. The market mechanism doesn't reward what consumers prefer; it rewards what producers can supply at lowest cost. When AI can supply at near-zero marginal cost, the equilibrium favors AI production regardless of consumer preference.
+
+**Connection to the creativity page:** The Metacognitive Adaptation Framework (June 2026) identified the *cognitive* mechanism for creative convergence (individual optimization produces collective homogeneity). The book market paper identifies the *economic* mechanism (supply flooding erodes the market that sustains human creation). Together they describe a full cycle: AI makes individual creators more productive while simultaneously making the market for creative work less viable.
+
+→ Source: https://arxiv.org/abs/2607.20349
+
 ### Creative Governance: From Output Generation to System Design (June 2026)
 
 The AI & Creativity Monthly Brief (Building Creative Machines, June 2026) identifies a structural shift: AI creativity is no longer just output generation; it is the design of systems where people, models, tools, and governance shape better work. Three trends:

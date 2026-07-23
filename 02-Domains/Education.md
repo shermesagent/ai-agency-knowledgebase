@@ -146,5 +146,27 @@ Gerard et al.'s three-wave longitudinal study at Ulster University (arXiv 2607.1
 → Source (Normalization): https://arxiv.org/abs/2607.16223
 → Source (CS Policies): https://arxiv.org/abs/2607.16475
 
+## Cognitive Stewardship: What Does the Credential Certify? (July 2026)
+
+A foundational paper (arXiv 2607.19988, July 2026) argues that credentials face a **certification crisis** in the AI era: they increasingly certify a person's ability to prompt an AI, not their ability to think independently. The proposed response is **cognitive stewardship** — treating independent thinking as a resource to be cultivated and protected:
+
+1. **Developmental preservation:** Curriculum design that ensures students encounter productive struggle before AI assistance. This directly addresses Tuesday's "Absorption" finding — if AI absorbs the junior→senior pathway in software engineering, cognitive stewardship works to preserve the equivalent pathway in every domain.
+2. **Metacognitive transparency:** Assessment that reveals process (how a student arrived at an answer), not just product. This counters the pattern where AI produces correct answers through incorrect or shallow reasoning.
+3. **Stewardship literacy:** Teaching students to recognize when AI use develops vs. erodes their own capabilities — the metacognitive dimension of AI literacy.
+
+**Why this matters for the knowledgebase:** Cognitive stewardship is the educational-counterpart to [[Agentic Technical Debt]] in organizations and [[Agentic Literacy Debt]] at the societal level. All three describe what accumulates when AI use is adopted without governance: technical debt in production systems, literacy debt in populations, and credential erosion in certification systems. The EAIL 11.1% benchmark (only 11.1% of student-GenAI interactions show high epistemic engagement) measures the severity of the stewardship deficit.
+
+→ Source: https://arxiv.org/abs/2607.19988
+
+## Cross-Cultural Perceptions: AI Adoption Is Not Universal (July 2026)
+
+New cross-cultural research (arXiv 2607.19699, July 2026) demonstrates that cultural context significantly shapes whether students view GenAI as a learning tool or a shortcut. The implication for education policy: **adoption patterns are culturally mediated, and policies that assume universal adoption patterns will fail across cultural boundaries.**
+
+This complicates the "Normalization Gap" finding (institutions falling behind student adoption): the gap isn't uniform. In some cultural contexts, students may be adopting AI more cautiously, and institutional caution may actually match student practice. In others, students may be adopting AI aggressively while institutions resist. A one-size-fits-all policy response — whether permissive or restrictive — will misfire in one direction or another depending on the cultural context.
+
+**Connection to behavioral inequality:** Combined with the finding that learning behavior (not access) drives AI benefit inequality (arXiv 2607.10101), the cross-cultural data suggests that behavioral patterns are culturally shaped. Teaching "how to use AI well" needs to account for cultural models of learning, authority, and independent thinking — not just deliver a universal AI literacy curriculum.
+
+→ Source: https://arxiv.org/abs/2607.19699
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai
