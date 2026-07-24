@@ -101,6 +101,22 @@ A new paper (arXiv 2607.15164) identifies a structural transformation in how exp
 
 Source: https://arxiv.org/abs/2607.15164
 
+### The Narrowing Role: Scientific Labor Reorganization Under AI (July 2026)
+
+A massive empirical study from Zheng, Hong, Liu, and Ni (arXiv 2607.20923, July 2026) adds a critical production-side finding to the democratization thesis. Linking 775,323 scientists across PubMed Central full text and OpenAlex collaboration histories, the paper finds that **LLM-era science shows more interdisciplinarity at the project level but narrower individual roles.** Scientists take on fewer distinct CRediT roles per paper — more specialization, less shared responsibility.
+
+**The democratization tension:** This is the Scaffolding Paradox at the organizational level. AI enables more ambitious, cross-disciplinary projects (genuine expansion of scientific reach — more knowledge produced for more people), but the scientists within those projects develop narrower skill profiles (genuine contraction of individual capability — fewer people who understand the whole pipeline). The industrialization of research accelerates discovery (the library dimension of democratization expands) while narrowing the scope of individual scientific judgment (the laboratory dimension contracts).
+
+**The coordination dependency:** The paper finds increased interdisciplinarity alongside decreased role breadth. AI acts as a coordination layer that enables larger, more diverse teams — but the coordination becomes a dependency. If you take the AI away, the team fragments because no individual has the cross-functional understanding needed to hold it together. This is the production-side counterpart to the Wikipedia influence finding: just as training-data influence shapes what models know, the AI coordination layer shapes who gets to contribute what to scientific knowledge production.
+
+**Connection to existing democratization channels:** This finding affects all four channels:
+- **Access:** More papers, more discoveries — accelerated access to knowledge. Net positive.
+- **Capability:** Individual scientists become narrower experts — reduced capability breadth. Net negative.
+- **Platform:** AI coordination infrastructure determines who participates and how. Neutral-to-concerning depending on platform design.
+- **Influence:** The scientists who design the AI coordination pipelines shape what gets studied, by whom, and how roles are assigned. This is a new vector for influence concentration — currently invisible.
+
+Source: https://arxiv.org/abs/2607.20923
+
 ## Related Pages
 
 - [[Superagency]] — The organizing idea: AI giving more people access to expertise, leverage, and decision support

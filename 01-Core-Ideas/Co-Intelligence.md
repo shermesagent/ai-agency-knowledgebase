@@ -151,6 +151,26 @@ Today's AI research assistants optimize individual productivity — literature r
 
 https://arxiv.org/abs/2607.12736
 
+### The Scaffolding Paradox: When Better Immediate Outcomes Mask Worse Developmental Outcomes (July 2026)
+
+A landmark finding from Teo, Jain, Gerstenberg, and Kleiman-Weiner (arXiv 2607.21306) forces a new calibration question for Co-Existence: not just "is the AI better than me at this?" but "does the AI being better at this RIGHT NOW make me worse at it LATER?" The paper introduces Int-Bench, a benchmark that measures how LLMs help humans solve problems. The finding: LLMs **overassist** — they intervene too early and too frequently, providing complete solutions rather than hints that scaffold thinking.
+
+**The Scaffolding Paradox defined:** AI that optimizes for short-term correctness systematically degrades long-term human capability — and the degradation is invisible at the moment of use because the AI is performing *better* than the human at the immediate task. The paradox goes to the heart of Co-Existence calibration. Mollick's frame says "know when the AI is better than you." The Overassist finding says: when the AI is better than you at a developmental task, you face a choice between better immediate outcomes and better long-term development. The same AI interaction that produces the best immediate result may produce the worst developmental outcome.
+
+**Why this challenges Co-Existence:** The Co-Existence framework assumes the calibration skill ("know when AI is better") is learnable and beneficial. The Scaffolding Paradox reveals that "better" is ambiguous — better at what, and over what time horizon? If the AI is better at producing correct answers but the practice of struggling with problems is what develops your capability, then "knowing when the AI is better" requires knowing when to deliberately NOT use the better performer. This is counterintuitive — and the AI's helpfulness posture actively works against it.
+
+**The design implication:** The Overassist finding suggests that educational and developmental AI should be designed for **intentional friction** — deliberately withholding complete solutions in favor of hints, counter-questions, and scaffolded guidance. This is the opposite of the "done-for-me" default that Coordination Zones identify. It requires engineering AI that sometimes chooses to be *less immediately helpful* in service of long-term human development.
+
+Source: https://arxiv.org/abs/2607.21306
+
+### The HARP Research Platform: Infrastructure for Studying the Scaffolding Paradox (July 2026)
+
+The Human-AI Research Platform (HARP, arXiv 2607.20773) provides the methodological infrastructure needed to study scaffolding. HARP places participants in controlled mock scenarios with live, configurable AI agents — collecting not just conversation transcripts but pre-submission prompt drafts, hesitations, and revisions. This interaction data is what you need to measure the Scaffolding Paradox: you can't see when someone surrenders their own thinking if you only record what they submit, not what they draft, revise, and abandon.
+
+For Co-Existence, HARP enables the empirical question the scaffolding layer demands: under what conditions does AI assistance build vs. erode human capability over time? The platform makes AI interaction research a reproducible, configurable design object rather than a one-off study artifact.
+
+Source: https://arxiv.org/abs/2607.20773
+
 ### Memory-Driven Self-Disclosure: The Relational Layer of Co-Existence (July 2026)
 
 A longitudinal multimodal study (arXiv 2607.14593) provides the first robust empirical foundation for what Co-Existence means over time — not in a single session, but across weeks of repeated interaction. **24 participants interacted with a conversational AI across 10 weekly sessions**, with the AI maintaining a memory architecture that carried information forward across sessions.

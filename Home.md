@@ -136,9 +136,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. M
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~1 page | Leadership Lab Crowd Model |
-| 5–7 days | ~3 pages | Agentic Technical Debt (last July 1), AI for Small Businesses, Healthcare |
-| < 5 days | ~79 pages | Actively curated (today: Future of Work, Task-Level AI Adoption, Creativity, Education — Exchange Layer synthesis) |
+| 8+ days | ~3 pages | Agentic Technical Debt (last July 1), AI for Small Businesses, Healthcare |
+| 5–7 days | ~2 pages | Digital Fiduciary Duty, Frontier Firm |
+| < 5 days | ~80 pages | Actively curated (today: Co-Intelligence, Education, Democratization of Expertise, Leadership Lab Crowd Model — Scaffolding Layer synthesis) |
 
 ---
 
@@ -146,7 +146,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. M
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-07-23|Today's Digest]] · [[00-Daily-Digests/2026-07-22|Yesterday]]
+- [[00-Daily-Digests/2026-07-24|Today's Digest]] · [[00-Daily-Digests/2026-07-23|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

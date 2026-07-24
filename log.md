@@ -3,6 +3,22 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-07-24] update | The Scaffolding Layer — When AI Help Erodes Human Capacity
+
+- Created [[00-Daily-Digests/2026-07-24]] anchored on "The Scaffolding Paradox — When AI Help Erodes the Capacity It's Meant to Build." 8 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web searches returned empty for Mollick, Clark, Mowshowitz, WIRED). Five core findings: (1) AI Assistants Overassist — LLMs give complete solutions not hints (2607.21306); (2) Scientific Labor Reorganization — 775K scientists show more interdisciplinarity but narrower individual roles (2607.20923); (3) GenAI does NOT inflate grades — 156K students, no significant effect (2607.21534); (4) LLMs embody and amplify human cognitive distortions, alignment makes it worse (2607.20695); (5) QuantiBias — quantization silently amplifies bias that safety evals miss (2607.21063). Week synthesis: Five-layer architecture complete — Abstention→Development→Calibration→Exchange→Scaffolding.
+
+- Updated [[Co-Intelligence]] (7 days stale) — Added "The Scaffolding Paradox" section (2607.21306): AI that optimizes for short-term correctness systematically degrades long-term human capability, challenging the Co-Existence calibration skill. Added "HARP Research Platform" section (2607.20773): infrastructure for studying when AI builds vs. erodes capability.
+
+- Updated [[Education]] (1 day stale, substantial new content) — Added the largest GenAI grade effects study (2607.21534): N=156,135 students, 87,936 courses, NO significant grade inflation. Caveat: learning erosion possible without grade movement — the credential certifies AI-augmented performance. Added AI Assistants Overassist (2607.21306) implications: intentional friction as design requirement.
+
+- Updated [[Democratization of Expertise]] (8 days stale) — Added "The Narrowing Role: Scientific Labor Reorganization Under AI" section (2607.20923). 775,323 scientists show LLM-era science narrows individual roles even as projects become more interdisciplinary. The AI coordination layer enables larger teams but creates dependency — removing AI fragments the team because no individual has cross-functional understanding.
+
+- Updated [[Leadership Lab Crowd Model]] (8+ days stale) — Added HARP platform as Lab infrastructure (2607.20773): configurable, reproducible human-AI interaction research that captures pre-submission prompt drafts, hesitations, and revisions. Added "Why the Model Matters More When Roles Narrow" section (2607.20923): the three-layer model as defense against AI-optimized role narrowing.
+
+- Updated [[Home]] staleness tracker — Leadership Lab Crowd Model and Democratization of Expertise moved to fresh. New 8+ day stale: Agentic Technical Debt (last July 1), AI for Small Businesses, Healthcare. Tomorrow should target these plus the 5-7 day pages (Digital Fiduciary Duty, Frontier Firm).
+
+- Noted: Friday — arXiv-only curation day. The Scaffolding Layer completes the week's architecture, adding the temporal dimension: every prior layer must now account for whether AI use today builds or erodes human capability tomorrow. Mollick, Clark, Mowshowitz, WIRED all returned empty — these newsletters appear to publish less frequently in July. The Scaffolding Paradox (2607.21306) is the most important finding of the day and should be tracked as it generates follow-up research. The GenAI grade study (2607.21534) will be widely cited — bookmark for future updates.
+
 ## [2026-07-21] update | The Development Layer — AI absorbs expertise pathways
 
 - Created [[00-Daily-Digests/2026-07-21]] anchored on "The Development Layer — When AI Absorbs the Pathway to Expertise." 10 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web searches returned empty for Mollick, WIRED, MIT TR, Stratechery, Zvi). Five core findings: (1) GenAI absorbs the junior→senior software engineering pathway (Yu & Moon); (2) informal learning emerges in everyday LLM use at 31.9% cognitive engagement (Chen et al.); (3) higher ed AI perceptions diverge — students normalize, staff resist (Gerard et al., N=1,665, 2024-2026); (4) models recover user's intended task only 22-32% under ambiguity vs. humans at 48% (Dai et al.); (5) RAIL Guard closed-loop responsible AI achieves 96.9% convergence vs. 49.1% block-and-retry (Verma et al.). Practical experiment: the 60-Second Struggle Rule.
