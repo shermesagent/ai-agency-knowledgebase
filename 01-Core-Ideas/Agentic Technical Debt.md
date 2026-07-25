@@ -42,6 +42,36 @@ Extending the original debt/tax framework: each layer needs its own dashboard me
 
 → Key sources: [[Agentic Workflow Patterns]], [[Capability Masking]], [[Balanced Governance]], [[AI Coding Agents]]
 
+## The Scaffolding Debt Layer (July 2026)
+
+The Scaffolding Layer (July 24 digest) adds a fifth dimension to the four-layer debt framework: **Scaffolding Debt** — the accumulated liability when AI systems optimize for short-term correctness at the expense of long-term human capability development.
+
+### The Overassist Debt Pattern
+**[AI Assistants Overassist](https://arxiv.org/abs/2607.21306)** — Teo, Jain, Gerstenberg, Kleiman-Weiner (July 24, 2026). Int-Bench benchmark study establishes that LLMs intervene too early and too frequently: instead of providing hints that scaffold thinking, they provide complete solutions that bypass it. The mechanism: when an AI tutor encounters a struggling student, the default posture is to resolve the struggle. But the friction *is* the learning.
+
+**Scaffolding Debt = accumulated liability from AI designs that optimize immediate output quality while degrading human metacognitive capacity.** Each "helpful" AI interaction that bypasses human reasoning adds to a liability ledger. The asset (instant correct answer) depreciates; the liability (atrophied reasoning capacity) compounds.
+
+### The Scientific Narrowing Pattern
+**[Scientific exploration, collaboration and labor division in the LLM era](https://arxiv.org/abs/2607.20923)** — Zheng, Hong, Liu, Ni (July 24, 2026). 775,323 scientists show that AI enables more interdisciplinary projects while narrowing individual scientist roles. This is Scaffolding Debt at organizational scale: the AI coordination layer enables larger, more diverse teams — but the coordination itself becomes a dependency. Removing AI fragments the team because no individual has cross-functional understanding.
+
+**Scaffolding Debt at organizational level = the gap between project-level capability (expanded by AI coordination) and individual-level competence (narrowed by AI specialization).** Projects get more ambitious; people get narrower. The debt accrues silently — you only discover it when the AI coordination layer is unavailable and no one knows how the pieces fit together.
+
+### The Five-Layer Debt Dashboard
+
+| Layer | Debt Category | Key Metric | Detection Lag |
+|-------|-------------|------------|---------------|
+| 1. Abstention | Acting when AI should have stopped | Post-hoc correction rate | Minutes |
+| 2. Infrastructure | Operating on substrates not designed for agents | Interaction failure rate | Hours |
+| 3. Sovereignty | Metacognitive miscalibration from AI dependence | "I don't know" suppression rate | Days |
+| 4. Participation | Authorship inflation and role narrowing | Calibration gap (claimed vs actual contribution) | Weeks |
+| 5. Scaffolding | Short-term optimization erodes long-term capability | Capability retention after AI withdrawal | Months to years |
+
+The detection lag increases with each layer: abstention failures are visible in minutes; scaffolding erosion may take years to manifest. This makes Scaffolding Debt the most dangerous category — by the time it's measurable, significant capability has already been lost.
+
+**Connection to Cognitive Surrender:** Scaffolding Debt is the mechanism through which Cognitive Surrender becomes structural. Each AI interaction that bypasses human reasoning doesn't just produce a correct answer — it adds to a capability liability that compounds across individuals, teams, and organizations. See [[Cognitive Surrender]], [[Co-Intelligence]].
+
+→ Key sources: [[Agentic Workflow Patterns]], [[Capability Masking]], [[Balanced Governance]], [[AI Coding Agents]], [[Cognitive Surrender]]
+
 ## Related Pages
 - [[AI Agent Revolution]]
 - [[Dissociative Agent Governance]]

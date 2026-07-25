@@ -1045,3 +1045,27 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 
 - Noted: Wednesday — arXiv-only curation day. Week's arc: Mon (Automation Boundary) → Tue (Development Layer) → Wed (Calibration Layer) → Thu-Sun ahead. The Four-Layer Architecture (Abstention → Infrastructure → Sovereignty → Participation) now has the Calibration cross-layer: trust per task, safety holds across turns, governance at runtime.
 
+## [2026-07-25] synthesize | The Synthesis Layer — Scaffolding Debt integration (Saturday maintenance day)
+
+**Source note:** No new external sources. web_search returned empty (API outage), web_extract returned 401 (API key expired), and arXiv doesn't publish on Saturday. Pivoted to synthesis and maintenance: wove the week's five-layer architecture (Abstention→Development→Calibration→Exchange→Scaffolding) into stale pages.
+
+**Pages created:**
+- 00-Daily-Digests/2026-07-25.md (new digest)
+
+**Pages updated:**
+- 01-Core-Ideas/Agentic Technical Debt.md — Added "The Scaffolding Debt Layer" section: fifth dimension of debt framework, five-layer dashboard with detection lags, connection to Cognitive Surrender
+- 01-Core-Ideas/Digital Fiduciary Duty.md — Added "The Scaffolding Fiduciary Challenge" section: Overassist Paradox, Scaffolding Duty concept, productive friction mandate
+- 01-Core-Ideas/Frontier Firm.md — Added "The Scaffolding Imperative for Frontier Firms" section: four design principles (Capability Pathway Mapping, Intentional Friction Budget, Scaffolding Debt Accounting, Rotation Against Narrowing), connection to Acceleration Paradox
+- Home.md — Updated page count (83), staleness tracker (cleared 5-day bucket, moved Agentic Technical Debt/Digital Fiduciary Duty/Frontier Firm to <3 days), quick links, recent updates
+
+**Pages NOT updated (deferred to Monday):**
+- Healthcare (24+ days stale) — Scaffolding Layer connects to clinical training pathways and Clinician's Veto framework, but deferred due to fewer direct connections
+- AI for Small Businesses (24+ days stale) — PHP-AIO five-gate protocol already covers automation boundaries; scaffolding debt extends with developmental dimension
+
+**Key synthesis:** The detection lag pattern is the most dangerous finding of the week. Each governance layer has a longer detection lag than the last — minutes (abstention) → hours (infrastructure) → days (sovereignty) → weeks (participation) → years (scaffolding). By the time scaffolding erosion is measurable, the human judgment needed to fix it may be gone. Scaffolding safeguards must be preventive, not detective.
+
+**Practical Experiment added:** The Capability Pathway Audit — map one role's novice→expert pathway, mark AI-handled tasks, identify the scaffolding gap, design one intentional friction point, run for two weeks.
+
+**External tool status:** web_search returns empty arrays (Tavily), web_extract returns 401 (Tavily API key expired). Unable to discover new sources today.
+
+**Deferred:** Source library updates and sources.jsonl tracking — no new sources to track. Will catch up Monday in pass 1 before source discovery.

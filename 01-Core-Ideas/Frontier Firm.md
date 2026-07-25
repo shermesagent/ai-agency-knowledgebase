@@ -32,6 +32,40 @@ The Fable 5 export controls — imposed June 12, lifted June 30, restored worldw
 Source: https://thezvi.substack.com/p/fable-6-the-return-of-the-king
 Source: https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots
 
+## The Scaffolding Imperative for Frontier Firms (July 2026)
+
+The Scaffolding Layer (July 24 digest) introduces a design requirement that no frontier firm currently meets: **preserving long-term human capability as a first-order organizational design constraint.**
+
+### The Overassist Hazard at Organizational Scale
+The [Int-Bench benchmark](https://arxiv.org/abs/2607.21306) (Teo et al., July 2026) demonstrates that AI assistants optimize for short-term correctness at the expense of learning. At organizational scale, this becomes: **AI-optimized workflows produce better immediate outputs and worse developmental outcomes for the humans inside them.**
+
+For the frontier firm, this creates a temporal design conflict:
+- **Quarterly pressure**: optimize for throughput — AI handles everything, humans review
+- **Five-year reality**: the humans who can't do the work without AI can't improve the AI either
+
+The frontier firm that designs for maximum AI assistance today is designing for maximum human fragility tomorrow. When every junior employee's work is routed through AI that completes it, no senior employees develop. When every analyst's reasoning is supplemented by AI that fills gaps, no one learns to identify gaps themselves.
+
+### The Scientific Narrowing Warning
+The [775K scientist study](https://arxiv.org/abs/2607.20923) (Zheng et al., July 2026) is a direct preview of the frontier firm's future. AI enables more ambitious, cross-disciplinary projects — but the humans inside those projects develop narrower skill profiles. The AI coordination layer becomes indispensable, and removing it fragments the team because no individual understands how the pieces fit together.
+
+**The frontier firm design question is no longer "which tasks should AI handle?" but "which capability pathways must remain human-traversed?"** Every workflow decision is a developmental decision. Route junior work through AI → junior stays junior longer. Route analytical work through AI → analytical capacity concentrates in fewer people. Route coordination through AI → coordination dependency becomes structural.
+
+### The Scaffolding Design Principles for Frontier Firms
+
+1. **Capability Pathway Mapping**: For each role, map the developmental pathway from novice to expert. Identify which tasks along that pathway must remain human-executed to preserve developmental progression. These are non-negotiable — they cannot be automated regardless of efficiency gains.
+
+2. **Intentional Friction Budget**: Allocate a percentage of each workflow to intentional friction — moments where AI withholds the answer to force human reasoning. This is the organizational equivalent of the 60-Second Struggle Rule from the Development Layer (July 21 digest). Example: in code review, AI identifies issues but doesn't suggest fixes for the first 5 minutes.
+
+3. **Scaffolding Debt Accounting**: Track not just what AI can do, but what humans can no longer do because AI has been doing it. Add scaffolding debt to the organizational balance sheet. A workflow that produces +20% throughput at the cost of -5% human capability per quarter is net negative over 2 years.
+
+4. **Rotation Against Narrowing**: Counter the scientific narrowing pattern through deliberate role rotation. If AI enables narrower specialization, organizational design must force broader exposure. The coordination layer that AI provides should be a safety net for rotation, not a replacement for cross-functional understanding.
+
+### Connection to the Acceleration Paradox
+
+The July 2026 Acceleration Paradox (maximum product velocity + maximum institutional fragility) now has a developmental dimension: **the frontier firm can accelerate while the humans inside it decelerate.** Product capability compounds upward. Human capability compounds downward. The crossing point — where the AI can do things no human in the organization understands — is the scaffolding bankruptcy event. See [[Agentic Convergence Trap]], [[Cognitive Surrender]].
+
+See also: [[Agentic Technical Debt]], [[00-Daily-Digests/2026-07-24]].
+
 ## Risks / Limits
 - "Frontier firm" language can become a cover for speedup, surveillance, or headcount reduction if worker agency is not measured.
 - Human-led claims are weak unless people retain meaningful override rights, training, contestability, and time for judgment.
