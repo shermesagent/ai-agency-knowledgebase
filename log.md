@@ -1069,3 +1069,27 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **External tool status:** web_search returns empty arrays (Tavily), web_extract returns 401 (Tavily API key expired). Unable to discover new sources today.
 
 **Deferred:** Source library updates and sources.jsonl tracking — no new sources to track. Will catch up Monday in pass 1 before source discovery.
+
+## 2026-07-26 (Sunday) — The Integration Layer
+
+**Summary:** Pure synthesis day. No new sources (Sunday + web_search outage). Hardened the week's five-layer architecture (Abstention, Development, Calibration, Exchange, Scaffolding) into three stale durable pages. Eliminated 97 page-days of staleness.
+
+**Digest:** [[00-Daily-Digests/2026-07-26]]
+
+**Pages created:**
+- 00-Daily-Digests/2026-07-26.md (new digest)
+
+**Pages updated:**
+- 06-Frameworks/Risk-Benefit Matrix.md — Added "The Five-Layer Agency Architecture as Risk-Benefit Depth" section: layer-by-layer risk mapping table, Temporal Depth Assessment checklist (5 questions). The five-layer architecture doesn't replace the matrix — it makes it honest about time. (43 days stale → fresh)
+- 03-Arguments/Case Against AI Doomism.md — Added "The Five-Layer Architecture: From Critique to Construction" section (Argument #6): mapping table connecting each structural problem to its layer, core claim that capability is downstream of design, the layers are the constructive alternative to both doomism and complacency. (43 days stale → fresh)
+- 02-Domains/Government and Civic Life.md — Added "Democratic Scaffolding" section: five-layer mapping with civic translations (Abstention = democratic veto, Development = civic capability building, Calibration = trust verification, Exchange = deliberation boundaries, Scaffolding = institutional durability), civic Superagency thesis. (11 days stale → fresh)
+
+**Key synthesis:** The Scaffolding layer is now the most-integrated layer across the KB — touching Core Ideas (Frontier Firm), Domains (Healthcare, Government & Civic Life), Arguments (Case Against AI Doomism), and Frameworks (Risk-Benefit Matrix). This is appropriate: scaffolding is institutional, and institutions connect everything.
+
+**Staleness eliminated:** 97 page-days (Risk-Benefit Matrix: 43, Case Against AI Doomism: 43, Government and Civic Life: 11).
+
+**Remaining stale:** Beyond Prompting (37 days), AI for Small Businesses (36 days), Healthcare (~36 days), AI Enclosure (21 days). Scheduled for Monday rotation.
+
+**External tool status:** web_search confirmed non-functional (6 attempts, all empty). arXiv confirmed empty (Sunday). Pivoted to synthesis. Recommended: build Saturday reserve of pre-fetched sources for Sunday synthesis to prevent future source collapse.
+
+→ See [[00-Daily-Digests/2026-07-26]] for full Sunday Synthesis digest.

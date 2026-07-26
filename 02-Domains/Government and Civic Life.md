@@ -60,6 +60,24 @@ A new framework (arXiv 2607.12200, July 2026) addresses a pressing governance pr
 - **Policy-as-prompt risk:** AI moderation without interpretive community hollows out governance capacity over time — the efficiency gains are real, but the institutional atrophy compounds.
 - **Evaluative governance risk:** Measurement frameworks (like TEC) can become performative — what gets measured gets gamed. The distinction between screening signals and confirmed risk determinations must be maintained rigorously.
 
+### Democratic Scaffolding: The Five-Layer Architecture for Civic AI
+
+The five-layer agency architecture (July 2026) provides a framework for evaluating every AI deployment in civic life. Each layer has a specific democratic meaning:
+
+| Layer | Civic Translation | Application |
+|-------|-------------------|-------------|
+| **Abstention** | The democratic veto | Some civic functions should remain AI-free: jury deliberation, judicial sentencing, child welfare decisions. The abstention layer is the institutionalized "no" — democratic legitimacy requires that elected representatives and citizens, not AI vendors, decide where AI doesn't go. |
+| **Development** | Civic capability building | Citizens need AI literacy to participate meaningfully in AI-mediated governance. Development means investing in public understanding before deploying AI that requires public trust. The South Korea case study shows what development looks like: government, religion, and entertainment all model AI adoption simultaneously. |
+| **Calibration** | Trust verification | The OpenAI false-flag PAC scandal demonstrates that institutional trust must be verified, not assumed. Calibration in civic AI means: do election safeguards actually work? Does AI moderation actually reflect community values? Are CBRN evaluations actually detecting material uplift? The TEC Framework is calibration infrastructure — decomposing evaluations so they can be independently verified. |
+| **Exchange** | Democratic deliberation boundaries | The Habermolt paper's AI-delegated deliberation raises the exchange question: what parts of democratic participation can AI handle (information synthesis, preference mapping, argument surfacing) and what parts must remain human (final judgment, accountability, the willingness to be bound by collective decisions)? The Policy-as-Prompt finding confirms: AI can apply rules but cannot deliberate — the exchange boundary is between execution and interpretation. |
+| **Scaffolding** | Institutional durability | Democratic institutions must survive AI deployment. The Architecture of Legitimacy crisis (Fable/Mythos export controls without due process, public evidence, or independent review) shows what happens when scaffolding is absent: governance becomes discretionary power. Scaffolding for civic AI means: due process for AI decisions, public evidence for AI-related actions, independent review of AI governance. |
+
+**The civic Superagency thesis:** AI expands democratic agency when it expands citizens' capacity to understand, participate in, and shape governance — and when it is embedded in institutions that survive AI deployment. The five layers operationalize this: Abstention preserves the human-only domains of democratic legitimacy. Development builds citizen capacity. Calibration verifies that civic AI does what it claims. Exchange maintains the boundary between AI execution and human democratic judgment. Scaffolding ensures that the institutions of democracy are stronger after AI deployment than before.
+
+The Government and Civic Life page now connects democratic governance to every layer of agency-preserving AI. The Infrastructure Layer alone was insufficient — the five-layer architecture provides the depth: civic AI must know when to abstain, build citizen capability, verify its own safety, maintain democratic deliberation boundaries, and strengthen the institutions it serves.
+
+→ See [[The Five-Layer Architecture]], [[Scaffolding Paradox]], [[Balanced Governance]], [[00-Daily-Digests/2026-07-24]], [[00-Daily-Digests/2026-07-25]]
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

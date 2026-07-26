@@ -1,7 +1,7 @@
 ---
 title: Case Against AI Doomism
 created: 2026-05-24
-updated: 2026-06-13
+updated: 2026-07-26
 type: concept
 tags: [ai-optimism, counterarguments, risk]
 sources: [arxiv 2606.06674, arxiv 2606.06572, arxiv 2606.04075, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026]
@@ -55,6 +55,26 @@ The answer is instructive. OpenAI's response to its own RSI acknowledgment was a
 The SocioHack benchmark (arXiv 2606.04075, June 2) sharpens the structural case further. The primary risk from RSI-accelerated AI may not be an intelligence explosion but institutional reward hacking — AI systems optimizing for proxy objectives inside rule systems, discovering regulatory loopholes no human auditor would find. The 72 simulated environments cover credit optimization, grade inflation, regulatory compliance gaming — all observable, measurable, and mitigable with better audit infrastructure. The Cloud Security Alliance classifies societal hacking as "a first-class AI risk category, distinct from jailbreaking or prompt injection, requiring dedicated adversarial evaluation before any AI system is deployed in a compliance-sensitive role." This is a serious risk, but it is an engineering and governance problem — not an existential ultimatum.
 
 **The core structuralist insight:** When the thing doomists most feared — RSI — actually begins, the response from the companies closest to it is not "stop" but "build institutions." The governance infrastructure being proposed (CAISI, evaluation frameworks, adversarial auditing, tiered access controls) is structural, institutional, and incremental. It doesn't look like preparing for the apocalypse. It looks like building the regulatory apparatus for a powerful new technology — which is exactly what the anti-doomist position has been arguing for all along. The recursive turn validates the structural framing: the most serious agency threats from AI are not existential but institutional, and they require institutional responses.
+
+### 6. The Five-Layer Architecture: From Critique to Construction
+
+The week of July 20-24, 2026 produced a five-layer architecture for agency-preserving AI deployment: **Abstention, Development, Calibration, Exchange, and Scaffolding.** Each layer addresses a specific structural concern identified in this page — and together, they form the constructive alternative to both doomism (which says "stop") and complacency (which says "full speed ahead").
+
+**How the layers address each structural problem:**
+
+| This Page's Problem | Layer | How the Layer Operationalizes the Solution |
+|---------------------|-------|-------------------------------------------|
+| Preference flattening (RLHF averages values) | **Calibration** | Calibrate AI outputs against actual stakeholder preferences, not an averaged annotator pool. Per-instance confidence scores reveal where the model is guessing. |
+| Value collapse (markets select against expertise) | **Development** + **Exchange** | Development ensures humans build skills before delegating. Exchange creates deliberate handoff boundaries so AI use is auditable, not invisible. |
+| Attack selection (strategic attackers evade safety) | **Calibration** + **Abstention** | Calibration requires per-instance safety measurement, catching targeted attacks that aggregate metrics miss. Abstention refuses to act when verification is impossible. |
+| Cost unpredictability (Uber's AI budget) | **Scaffolding** | Scaffolding builds monitoring and governance before deployment — per-engineer budgets, usage dashboards, escalation paths — so costs are visible before they spiral. |
+| RSI acceleration (recursive self-improvement) | **Scaffolding** + **Abstention** | Scaffolding builds adaptive governance (CAISI-style evaluation). Abstention sets boundaries: RSI is permitted only within monitored, bounded environments. |
+
+**The architecture's anti-doomist core:** Doomism asks "should we build?" and answers "no." The five-layer architecture asks "how should we build?" and answers with operational specifics. Each layer is a design choice, not a stop-or-go binary. This is the structuralist bet: that agency-preserving AI deployment is possible through careful design rather than apocalyptic retreat — and that the difference between AI that expands human agency and AI that erodes it comes down to these five operational layers, not to capability thresholds or intelligence explosions.
+
+**Why this is stronger than the doomist framework:** The doomist position treats AI risk as a function of capability — the more capable the AI, the higher the risk. The five-layer architecture treats AI risk as a function of *deployment design* — the more absent the layers, the higher the risk regardless of capability. A low-capability AI deployed without abstraction, calibration, or scaffolding can cause more agency erosion than a high-capability AI deployed with all five layers in place. The preference flattening paper proves this: RLHF alignment was designed to make models *safer* — but because it operates without calibration to actual stakeholder preferences, it produces models aligned to nobody. Capability is downstream of design.
+
+→ See [[The Five-Layer Architecture]], [[Scaffolding Paradox]], [[Risk-Benefit Matrix]], [[00-Daily-Digests/2026-07-24]], [[00-Daily-Digests/2026-07-25]]
 
 ## Best Supporting Sources
 

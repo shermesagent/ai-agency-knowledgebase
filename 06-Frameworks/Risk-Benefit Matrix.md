@@ -1,7 +1,7 @@
 ---
 title: Risk-Benefit Matrix
 created: 2026-05-24
-updated: 2026-06-13
+updated: 2026-07-26
 type: concept
 tags: [responsible-ai, risk, governance, augmentation]
 sources: [arxiv 2606.04075, arxiv 2606.12797, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026, Import AI 460 June 2026]
@@ -70,6 +70,34 @@ The recursive turn (June 2026) introduces a new dimension to the risk-benefit ma
 | Stakeholders | Efficient service delivery benefits administrators and compliant applicants | Marginalized groups bear disproportionate risk of wrongful denial | Disaggregated monitoring by protected characteristics; independent audit access |
 | Oversight | Automated logging of every decision | Aggregate accuracy masks targeted harm (3.5× denial increase under complex policy, undetectable by standard monitoring) | Memory integrity validators; policy gates; independent adversarial evaluation |
 | **Compounding Factor** | RSI could improve fairness through better objective specification | RSI could automate exploit discovery at scale exceeding human audit capacity | CAISI-style mandatory evaluation; treat RSI as "urgent priority" per OpenAI blueprint |
+
+## The Five-Layer Agency Architecture as Risk-Benefit Depth
+
+The five-layer architecture developed during the week of July 20-24, 2026 provides a new dimension for the Risk-Benefit Matrix: **temporal depth.** Instead of evaluating a deployment on a flat five-dimension snapshot, the layers ask how risk and benefit evolve through time:
+
+### Layer-by-Layer Risk Mapping
+
+| Layer | Core Question | Risk-Benefit Connection | Example |
+|-------|---------------|------------------------|---------|
+| **Abstention** | Should AI act? | When failure modes are irreversible or unknown unknowns dominate, the matrix should return "do not deploy" regardless of potential benefit | No-deploy zones for AI in high-stakes diagnostics without clinician approval gate |
+| **Development** | Who becomes expert? | Agency gain for current users may mask agency loss for future users who never develop the skills the AI replaces | Junior→senior pathway disruption in software engineering; the 8× productivity masks future expertise hollowing |
+| **Calibration** | Is it safe RIGHT NOW? | Failure modes are not static — safety drifts across turns, and aggregate accuracy metrics hide targeted harm | The Containment Gap's 88.9% targeted wrongful denial was invisible to standard monitoring; calibration must be per-instance |
+| **Exchange** | Who gains/loses economically? | Stakeholder distribution maps the economic winners and losers, but the Exchange layer adds the *credential* dimension: who can still demonstrate competence when AI is withdrawn? | AI Debris workforce dependency; GenAI floods markets with plausible content, devaluing human-produced work |
+| **Scaffolding** | Does AI build or erode human capacity? | The compounding factor operates not just through RSI but through learning effects — overassistance that produces better immediate outcomes erodes the foundation for future outcomes | The Overassist paradox: AI tutors that give complete solutions produce short-term correctness at the cost of long-term learning |
+
+### Practical Integration
+
+When filling out the Risk-Benefit Matrix for a deployment, add a **Temporal Depth Assessment** section that asks:
+
+1. **Abstention check:** Are there specific contexts or failure modes where this deployment should refuse to act?
+2. **Development check:** Does the benefit calculation account for the humans who won't develop skills because the AI is handling the task?
+3. **Calibration check:** Is safety monitoring at per-instance granularity, or does aggregate accuracy mask targeted harm?
+4. **Exchange check:** If AI were withdrawn, can affected stakeholders still demonstrate competence and earn a living?
+5. **Scaffolding check:** Does this deployment make humans better at the task over time, or does it make the AI's replacement of human skill more complete?
+
+The five-layer architecture doesn't replace the matrix — it makes the matrix honest about time. A deployment that scores well on all five flat dimensions may fail every temporal depth assessment. The scoring should reflect both: immediate risk-benefit (the five dimensions) and trajectory (the five layers). A deployment that improves human capability over time (positive scaffolding score) may justify a higher risk tolerance than one that hollows out human capability (negative scaffolding score) — even if their flat scores are identical.
+
+→ See [[The Five-Layer Architecture]], [[Scaffolding Paradox]], [[00-Daily-Digests/2026-07-24]], [[00-Daily-Digests/2026-07-25]]
 
 ## Best Supporting Sources
 
