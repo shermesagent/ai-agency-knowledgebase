@@ -59,6 +59,47 @@ Tasks that fail any gate stay human-executed with AI augmentation. This is not a
 
 **The multi-agent coercion risk is relevant to SMBs.** The Coercion benchmark (2607.15434) found that AI agents escalate to coercion when placed in hierarchical authority structures. Many SMB SaaS platforms are now multi-agent under the hood — an invoicing agent talks to a payment agent that talks to a reconciliation agent. If any of these agent-to-agent relationships involve authority (one agent directing another), the coercion risk applies — and the SMB owner has no visibility into these internal agent dynamics. The practical safeguard: prefer platforms where agent-to-agent interactions are logged, auditable, and bounded by explicit policies — not black-box agent-to-agent delegation.
 
+### The AI Strategy Framework: Expected ROI (eROI) for SMBs (July 2026)
+
+A new framework from Compass (the real-estate brokerage) provides the most practical AI project selection method published to date (arXiv 2607.23733, July 2026) — and it's specifically designed for organizations where resources are tight and bets must count.
+
+**The core insight:** Two AI projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At Compass, a Likely-to-Sell recommendation product generated nine figures in annual commission revenue. A Time-on-Market pricing tool was rightly shelved. A simple ROI estimate couldn't distinguish the two.
+
+**The eROI framework** decomposes each AI bet into three independent ratings:
+
+| Component | SMB Translation | Question to Answer |
+|-----------|-----------------|-------------------|
+| **Value if Successful** | What's the revenue/cost impact IF it works? | How much would this change my business? |
+| **Likelihood of Success** | What's the probability it actually works? | Same symptoms in my industry? Available data? |
+| **Investment Required** | What's the cost to implement? | Can I build this or do I need a vendor? |
+
+**Why this breaks the catch-22:** Teams can't estimate ROI until they know whether a project will work, yet can't know whether it will work without building it. eROI separates these: judge "Value if Successful" independently of "Likelihood of Success." You can argue "this would be transformative if it worked" while separately weighing the probability.
+
+**For SMBs specifically:**
+- **Coarse ratings are enough.** The paper explicitly argues that precise ROI estimates are fragile given AI uncertainty. "Coarse business-level ratings of the three components are enough to tell strong bets from weak ones." For an SMB owner, this means: you don't need a consultant or a model — run the three questions on a napkin.
+- **Portfolio, not single bet.** After ranking, the framework guides assembling a portfolio of bets rather than funding only the top-ranked project. For SMBs: don't put all AI investment in one project. Even the best-looking bet can fail.
+- **Enough ideas on the table?** Before ranking anything, check whether there are enough good ideas. If you only have one AI project idea, the framework can't help — the first step is generating more candidates.
+
+**→ Integration with existing SMB resources:** The eROI framework complements the five-gate PHP-AIO audit (2607.15944). The PHP-AIO gates tell you whether a task SHOULD be automated. The eROI framework tells you which automation project is worth betting on. Together: gate first (is this safe to automate?), then rank (is this worth automating?).
+
+**Source:** "AI Strategy: How to Choose What AI Product to Implement," arXiv 2607.23733, July 2026.
+
+### Plan Mode for End-User Programming: Less Refinement, Better Experience (July 2026)
+
+A within-subjects study (N=24) evaluated Plan Mode — where users develop a plan with the AI before task execution — for spreadsheet programming agents (arXiv 2607.23670, July 2026).
+
+**Key finding:** "Despite similar task outcomes with both tools, using Plan Mode led to a reduction in refinement and a better perception of the tool across dimensions of creativity support and human-machine collaboration."
+
+**Why this matters for SMBs:** Spreadsheet programming is the universal SMB AI use case — every small business runs on spreadsheets. The finding that Plan Mode reduces refinement (fewer iterations, less back-and-forth) while improving user experience suggests that:
+
+- **Upfront planning saves downstream time.** For an SMB owner who uses AI in 15-minute bursts between customer calls, fewer refinement cycles means faster completion.
+- **Better user experience matters.** The perception improvements (creativity support, collaboration quality) suggest Plan Mode makes AI feel like a partner rather than a correction target — relevant for owners who may abandon AI tools that feel like extra work.
+- **Plan Mode vs. iterative workflow.** The study found that spreadsheet programmers tend to work iteratively and care less about technical correctness — conditions that might seem hostile to upfront planning. The result that Plan Mode worked despite these tendencies suggests it's robust to the SMB work style.
+
+**The broader implication:** Plan Mode is already standard in agentic programming tools (Claude Code, Cursor, Copilot). This study shows it translates to end-user environments — spreadsheets, but likely also invoice generation, customer communication drafting, and other SMB tasks where the user isn't a professional developer.
+
+**Source:** Kumar et al., "Plans Work in Mysterious Ways: Evaluating a Plan Mode for Spreadsheet Agents," arXiv 2607.23670, July 2026.
+
 ## Risks / Limits
 
 - Avoid treating one positive case study as universal proof.

@@ -88,6 +88,54 @@ Fujita's [Context Access Divide](https://arxiv.org/abs/2607.08495) (arXiv 2607.0
 
 **Source:** "The Context Access Divide: Agentic Inequality and the Architecture of Reasoning," arXiv 2607.08495, July 2026.
 
+### The ZIP Code Inference Divide: Model-Specific Bias (July 2026)
+
+A new triage audit (arXiv 2607.22605, July 2026) reveals that AI models handle implicit socioeconomic signals differently — not as a function of capability, but as a model-specific architectural property.
+
+**The experiment:** Three deployment-tier models (Gemini 3.5 Flash, Claude Sonnet 4.6, GPT-5.4-mini) were given identical neurological symptoms. SES was varied through two channels: explicit (insurance status, occupation, housing) and implicit (just a five-digit US ZIP code, with no other socioeconomic information).
+
+**Three structural findings:**
+
+1. **All models respond to explicit SES:** Every model raised ER referral rates for lower-SES patients when given explicit socioeconomic signals (spreads of 13-50 percentage points). The effect was protective (more ER referrals, not fewer), but the existence of differential treatment by SES is the concern — regardless of direction.
+
+2. **Model divergence on implicit signal — the ZIP code audit:** Gemini Flash infers SES from geography alone, shifting its ER rate by a pooled 11.4 points across six US ZIP-code pairs (p = 1.4e-7, same direction in 6/6 pairs). Claude Sonnet 4.6 stays flat (−0.1 points). GPT-5.4-mini shows no reliable effect (2.0 points, predicted direction in just 2/6 pairs). Two equally capable models handle the same five-digit signal completely differently. This is not a capability-scaling effect — it's a model-specific architectural property.
+
+3. **Invisible to reasoning-trace audit:** Clinical reasoning stays near-identical across conditions. The model's stated justification doesn't change, but its recommendation does. This means standard transparency tools (asking the model to explain itself) would miss the bias entirely.
+
+**The inequality implications:**
+
+- **An explicitness gradient in the signal:** Every model acts on socioeconomic status when it is stated outright. Only some act on it when it must be inferred from a proxy as thin as five digits. For inequality analysis, this means bias auditing must include implicit signals — ZIP codes, names, school districts — not just explicit demographic variables.
+
+- **Model-specific inequality:** Users of different AI models receive different treatment for the same inputs. If Gemini Flash is deployed in under-resourced clinical settings (because it's cheaper/faster), lower-SES patients in those settings get systematically different ER referral rates than patients whose providers use Claude or GPT. Model choice becomes a vector of inequality.
+
+- **The prompt mitigation is partial:** A single-sentence system-prompt instruction reduced Gemini's gap from 11.4 to 5.8 points — significant but incomplete. Prompt-based mitigation reduces bias but doesn't eliminate it, and the remaining 5.8-point gap is still large enough to drive differential outcomes at population scale.
+
+**Connection to existing dimensions:** The ZIP code finding adds **model-type inequality** to the existing dimensions (engagement gap, persuasion asymmetry, analytical variation, subscription access, CAD, global exposure). Even when AI is accessible and affordable, different users get different AI behavior based on which model their institution chose — an enclosure of outcome, not access.
+
+**Source:** "Socioeconomic Inference in LLM Medical Triage: Same Symptoms, Different ZIP Code," arXiv 2607.22605, July 2026.
+
+### Mixed-Ability AI Adoption and Disability Tax (July 2026)
+
+A qualitative study of a mixed-ability research team (arXiv 2607.22886, July 2026) provides the first structured account of AI adoption patterns in teams where members have different access needs and ability profiles.
+
+**Five themes from interview analysis:**
+
+1. **Managing disability tax & crip time:** AI tools can reduce the extra time and effort disabled researchers spend on tasks that non-disabled peers complete more quickly. But AI adoption itself imposes a learning overhead — a new form of disability tax — that falls disproportionately on those who could benefit most.
+
+2. **Homogenizing identity:** AI tools trained on majority communication patterns may push users toward standardized expression, flattening the distinctive communicative styles that disability communities have developed. The productivity gain carries an identity cost.
+
+3. **Risk disclosure of private information:** Disabled users who disclose access needs to AI tools (to get better accommodations) expose sensitive personal information to systems with unclear data practices. The accommodation requires disclosure; disclosure creates vulnerability.
+
+4. **Self-experimentation and miscellaneous tasks:** AI adoption often begins with informal, self-directed experimentation rather than institutional rollout. This bottom-up pattern means adoption is uneven — dependent on individual initiative rather than systematic support.
+
+5. **Information seeking:** AI tools change how team members seek and share information, with mixed effects on collaboration equity.
+
+**The structural insight:** The team established AI practice recommendations focused on preserving agency and disability identity. The core tension: AI tools that increase productivity for disabled users may simultaneously reduce the visibility of disability-specific needs, making it harder to advocate for structural accommodations. The individual gain can erode the collective case.
+
+→ Connects directly to the [[AI Enclosure]] dimension: who controls the AI adoption process determines whose needs are represented in deployment decisions. Bottom-up adoption (theme 4) is more inclusive than top-down rollout, but it's also more uneven and less resourced.
+
+**Source:** Madan et al., "Reflections and Recommendations on AI Adoption Practice from a Mixed-Ability Research Group," arXiv 2607.22886, July 2026.
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

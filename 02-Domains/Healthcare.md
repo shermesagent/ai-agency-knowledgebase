@@ -1,3 +1,12 @@
+---
+title: Healthcare
+created: 2026-06-15
+updated: 2026-07-27
+type: domain
+tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
+confidence: high
+---
+
 # Healthcare
 
 ## Core Idea
@@ -73,6 +82,40 @@ Fischer et al. (2606.14406) investigate what forms of friction actually promote 
 
 ### SpheriCity: Provenance-First AI for Sustainability Knowledge (June 2026)
 Qayyum et al. (2606.13854) built a conversational AI for city-level circularity assessment that foregrounds evidence traceability, structured synthesis, and interaction scaffolds. Expert review with 6 sustainability professionals found that **transparent sourcing, contextual explanation, and alignment with expert workflow** strongly shape expert trust. The provenance-first design pattern — where every claim is traceable to source documents — transfers directly to clinical AI: healthcare professionals need to verify AI recommendations against evidence, not trust model outputs. Source: https://arxiv.org/abs/2606.13854
+
+### NLP in Health Professions Education — The Scoping Review Gap (July 2026)
+
+A July 2026 scoping review (arXiv 2607.21605) is the first to systematically map NLP/AI applications across the full spectrum of health professions education. It identifies **7 application domains** — but only **4 studies on public health education**, revealing a massive research gap at the population-health level. The concentration is in clinical education (medical, nursing); community-facing health education — where Superagency's democratization thesis is most relevant — is barely studied.
+
+**The Superagency connection:** If AI education tools concentrate exclusively on clinical training, the Superagency pattern accrues to clinicians (who are already highly trained) rather than to patients, community health workers, and public health practitioners. The scoping review gap is an implementation gap: we're building AI tutors for doctors before building AI tutors for communities. The shaping layer in healthcare education is currently steering AI toward the already-empowered.
+
+Source: https://arxiv.org/abs/2607.21605
+
+### Co-Design and Overtrust — When Participation Produces Overconfidence (July 2026)
+
+A July 2026 study on LLM-based preference agents (arXiv 2607.21757) found a counterintuitive result: **people who co-designed an LLM-based preference agent rated its results as more accurate, even when they weren't.** Participation — ordinarily a good thing — produced overtrust when not paired with calibration.
+
+This has direct implications for patient-facing healthcare AI. Co-designing a symptom checker with patients increases trust. But if that trust isn't calibrated to the tool's actual accuracy, patients may act on incorrect recommendations with higher confidence than they would have given an off-the-shelf tool. The mechanism: participation creates psychological ownership, and ownership suppresses skepticism.
+
+**The calibration requirement:** Co-design must be paired with calibration feedback — showing users when the tool was wrong, why, and what the consequences were. Without this feedback loop, participatory design becomes a vector for overtrust rather than a safeguard against it. For healthcare AI, this means: involve patients in design, but also show them the error rates.
+
+Source: https://arxiv.org/abs/2607.21757
+
+### Five-Layer Architecture for Healthcare AI
+
+The five-layer agency architecture (developed Week 30, 2026-07-20 through 2026-07-24) maps onto healthcare AI as follows:
+
+| Layer | Healthcare Translation | Evidence in This Page |
+|-------|----------------------|----------------------|
+| **Abstention** | AI refrains from autonomous decisions where confidence thresholds aren't met. The Clinician's Veto requires abstention when uncertainty is epistemic. Doc In a Box escalates 28% of cases — abstention by design. | Clinician's Veto, calibrated per-prediction confidence thresholds |
+| **Development** | Build AI capability systematically: refill automation → diagnostic assistance → treatment recommendation. Each stage earns autonomy through demonstrated reliability. The scoping review gap shows we're under-developing public health AI education. | NLP scoping review, agentic AI for administration |
+| **Calibration** | Verify AI outputs against physician judgment. 97% agreement on refills. Distinguish aleatoric from epistemic uncertainty. The co-design finding — participation without calibration produces overtrust — is a calibration failure. | Doc In a Box, co-design/overtrust, ClinicalBERT bias amplification |
+| **Exchange** | AI presents recommendations with inferential transparency — showing its work, not just its conclusion. Physicians accept liability only when they can make substantive judgments under acknowledged uncertainty. The provenance-first design pattern (SpheriCity) transfers to clinical AI. | Inferential transparency requirement, SpheriCity provenance pattern |
+| **Scaffolding** | Build institutional infrastructure for AI deployment: FDA clearance, clinical evidence, reimbursement codes, liability frameworks. The Midjourney scanner diffusion challenge is a scaffolding problem — the technology exists but the institutional layer doesn't. | Midjourney Medical Scanner, Clinician's Veto liability allocation |
+
+**The healthcare Superagency thesis in five-layer terms:** AI expands clinical agency when it handles the scalable, repeatable work (Development layer), verifies its own outputs against clinician judgment (Calibration), presents reasoning transparently (Exchange), and is embedded in durable institutional frameworks (Scaffolding) — *and* when it knows to abstain where confidence is insufficient (Abstention). The five layers are not optional in healthcare — they are the minimum architecture for deployment that preserves rather than erodes clinical agency.
+
+This page was 32 days stale (filesystem: June 25). Refreshed with NLP scoping review, co-design/overtrust findings, and five-layer architecture integration.
 
 ## Related Pages
 - [[Risk-Benefit Matrix]]

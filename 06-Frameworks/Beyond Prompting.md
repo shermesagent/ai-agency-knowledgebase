@@ -1,7 +1,7 @@
 ---
 title: Beyond Prompting — Phase 2 → Phase 3 Transition
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-07-27
 type: framework
 tags: [framework, transition, maturity, prompting, agents, abstraction]
 confidence: high
@@ -46,6 +46,20 @@ The gap is not about better prompts. It is about structural abstraction.
 - Evaluation and observability built in
 - Where the 29% getting significant ROI live
 
+### Phase 3.5 — The Self-Evolving Frontier
+
+A July 2026 paper from Ren et al. places the next milestone: **agents that learn from experience.** [[FlowEvo|FlowEvo (arXiv 2607.21596)]] introduces a training-free framework where agents compile successful execution traces into reusable skill records that persist across sessions. Three mechanisms drive it:
+
+1. **Workflow-to-skill compilation:** Successful traces are extracted into callable artifacts with structured guidance. The agent doesn't just complete tasks — it captures *how* it completed them.
+
+2. **Skill-to-workflow feedback:** Accumulated skills are retrieved for future problems via direct execution or context injection. The agent's capability grows with each task.
+
+3. **Skill curation:** A monitoring mechanism tracks downstream utility and suppresses skills that cause negative transfer. The agent learns what *not* to reuse.
+
+**Results:** 82.8% success rate on interactive ALFWorld environments — **23.6 points above the strongest baseline** — while consuming less than half the tokens per episode of the most efficient competing approach. This is the efficiency signature of genuine learning: better results with less computation.
+
+**What this means for the transition:** Phase 3 agents set goals. Phase 3.5 agents remember how they achieved them and build on those memories. This is the difference between an agent that executes recipes and an agent that builds a cookbook. For school districts, Phase 3.5 implies agents that accumulate institutional knowledge — what worked for last semester's schedule, which communications template reduced parent confusion, how the budget reconciliation was verified. The agent doesn't just help with this year; it gets better at helping every year.
+
 ### Phase 4 — Multi-Agent Systems
 - Orchestrator-delegate architecture
 - Agents coordinate across systems
@@ -87,7 +101,21 @@ Districts face a compressed version of the enterprise transition. The Stanford S
 
 Moving too fast risks the first two. Moving too slow risks the third. The districts that thread the needle will be those that build Phase 3 infrastructure (agentic, evaluated, governed) while keeping human agency as the organizing principle.
 
-## Related Pages
+## The Five-Layer Architecture for Agentic Transitions
+
+The five-layer agency architecture, developed across [[00-Daily-Digests/2026-07-20]] through [[00-Daily-Digests/2026-07-24]], maps directly onto the Phase 2→3 transition:
+
+| Layer | Transition Mapping | FlowEvo Connection |
+|-------|-------------------|-------------------|
+| **Abstention** | Know when NOT to agentify. Some tasks stay human. The Stanford SCALE psychological wellbeing domain requires abstention from full automation in student-facing interactions. | Skill curation suppresses skills that cause negative transfer — the agent abstains from reusing what hurts. |
+| **Development** | Build agentic capability systematically: tool access → goal-setting → evaluation pipelines. This *is* the Phase 2→3 transition itself. | Workflow-to-skill compilation builds persistent capability from successful traces. Every success becomes infrastructure. |
+| **Calibration** | Verify agent output against human judgment. The LangChain survey's #1 blocker (quality/reliability) is a calibration problem. Observability, feedback loops, evaluation pipelines. | Interface, replay, and safety checks gate admission to the skill bank. Calibrated confidence before reuse. |
+| **Exchange** | Agents must communicate with humans and each other. Goal-setting replaces prompting precisely because exchange moves from instruction-following to intention-articulation. | Skill-to-workflow feedback — accumulated skills shared across sessions and tasks. The skill bank is an exchange medium. |
+| **Scaffolding** | Build institutional memory and governance structures. The persistent skill bank, approval workflows, audit trails — these are scaffolding. Without them, Phase 3 agents are powerful but ephemeral. | The skill bank *is* scaffolding. Skills that persist beyond individual sessions create institutional memory that strengthens the organization rather than just the individual agent. |
+
+**The FlowEvo lesson for districts:** The most valuable thing an agentic system can do is not execute a task — it's *remember how to execute it and get better at it over time.* A school district that deploys Phase 3 agents without Phase 3.5 skill accumulation gets temporary productivity. A district that builds skill banks gets compounding institutional intelligence. The transition from Phase 2 to Phase 3 is a step function. The transition from Phase 3 to Phase 3.5 is an exponential.
+
+**Staleness correction:** This page was 38 days stale (updated June 19). The Sunday July 26 staleness tracker listed AI for Small Businesses at 36d and AI Enclosure at 21d, but filesystem timestamps reveal both were updated in mid-July (July 20 and July 19 respectively). The actual stale pages as of July 27 are this one and [[02-Domains/Healthcare|Healthcare]] (32d). The staleness tracker has been corrected in today's digest.
 
 - [[AI Agent Revolution]] — The broader agent paradigm shift
 - [[AI for School Districts]] — Concrete use cases for district operations

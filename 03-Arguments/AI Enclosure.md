@@ -55,6 +55,39 @@ The Agentic Garden of Forking Paths (Miao, Pritchard, and Zou, July 2026) found 
 - **Who it gates:** Individual researchers, small organizations, resource-constrained actors
 - **Counterforce:** m-value and Agentic Bootstrap tools that make analytical variation visible from fewer runs
 
+### 4. Access Inversion — When Restriction Advantages Adversaries (July 2026)
+
+A new game-theoretic model (arXiv 2607.22957, July 2026) formalizes a counterintuitive enclosure risk: **access inversion** occurs when restricting a dual-use AI model gives adversaries an access advantage because they obtain effective substitutes faster than defenders.
+
+**The model:** A laboratory chooses among four release tiers: controlled access, a defender-first window, safeguarded open weights, and minimally restricted open weights. The policy ranking depends on six factors: relative usefulness, opportunistic misuse, offense-defense conversion, defensive spillovers, safeguard friction, and nonrecallable losses.
+
+**Key findings:**
+
+- **Adversary-substitution threshold:** Above a critical substitution rate, broad release overtakes control — i.e., when adversaries can get the model anyway, restricting it only slows defenders.
+- **Defender-first windows have value** when selected defenders can deploy protection before adversaries catch up. This is the narrow case for gated access: a time-limited head start for defense.
+- **Removable safeguards remain useful** when they deter enough opportunistic misuse — the casual abuser, not the dedicated adversary.
+- **Nonrecallable losses** (capabilities that can't be taken back once deployed) create an irreversible dimension that overrides other considerations.
+
+**The release review checklist:** The paper identifies six quantities a release review should estimate: actor-specific substitution times, marginal capability gains, deployment rates, defensive reach, newly enabled misuse, and nonrecallable losses. This is a concrete framework for making open-weight release decisions — moving from "open vs. closed" as a binary to "which tier, under which conditions."
+
+**→ Connects to [[AI Enclosure]]:** The access inversion model shows that political enclosure (Gatekeeping Layer) and economic enclosure (subscription/hardware) are not universally protective. Under adversary-substitution conditions, enclosure protects the adversary more than the defender. The enclosure calculus must be adversary-specific: "who gets the substitute faster?" — not "who gets the original?"
+
+**Source:** "Who Does Withholding Delay? A Game-Theoretic Model of Open-Weight AI Release Under Asymmetric Proliferation," arXiv 2607.22957, July 2026.
+
+### 5. Enforcement Architecture — How to Catch a GPU (July 2026)
+
+A taxonomy of verification and enforcement mechanisms for international AI agreements (arXiv 2607.22619, July 2026) provides the first structured evaluation framework for the proposals that have proliferated in the governance conversation.
+
+**The contribution:** "There is no structured way to evaluate whether these proposals are enforceable, to assess where they might fail in practice, or to determine which combination of policies is most effective." The taxonomy fills this gap by categorizing verification mechanisms (what can be detected) and enforcement mechanisms (what can be done about it).
+
+**Why it matters for enclosure:** The GPU is the physical manifestation of AI access. Chip controls (Nvidia halving its Asia buyer list), export restrictions, and hardware registration are the hardware dimension of enclosure. But as the open-weight model competition shows (Moonshot AI, Thinking Machines Lab), hardware controls don't prevent model development — they shift WHERE it happens and WHO controls it.
+
+**The enforcement paradox:** The same verification mechanisms that make international agreements enforceable also create the infrastructure for domestic enclosure. A global GPU registry that helps catch treaty violations is also a tool that governments can use to track who has what compute — potentially gating access at the hardware level.
+
+**→ Connects to the [[Human Agency]] Gatekeeping Layer:** The GPU taxonomy makes the hardware dimension of the gatekeeping layer concrete. Before any software-level access decision (API access, subscription tier, model tier), the hardware question must be answered: do you have the compute? And compute is increasingly tracked, regulated, and limited — at the international level.
+
+**Source:** "How to Catch a GPU: A Taxonomy of Verification and Enforcement Mechanisms for International AI Agreements," arXiv 2607.22619, July 2026.
+
 ## The Cultural Response: Opting Out
 
 The Summer of Ludd festival (WIRED, July 2, 2026) — teaching Gen Z to "live offline amid the suffocating presence of Big Tech" — represents the cultural countercurrent to enclosure. When access is gated and features are rented, a segment of the population responds by opting out entirely.
