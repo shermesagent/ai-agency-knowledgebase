@@ -188,6 +188,38 @@ A longitudinal multimodal study (arXiv 2607.14593) provides the first robust emp
 
 Source: https://arxiv.org/abs/2607.14593
 
+### Verification Without Distrust: The Decoupling of Trust and Verification (July 2026)
+
+A landmark empirical finding from Chen & Kristensson (arXiv 2607.24761, July 2026) forces a fundamental reexamination of Co-Existence verification. **Trust does NOT predict verification.** In a controlled study of 153 chatbot users, the researchers found that trust and verification behavior are *decoupled* — users verify AI output regardless of their stated trust level. High-trust users verify as much as low-trust users. This structural decoupling has received almost no research attention despite being one of the most important characteristics of sustainable human-AI collaboration.
+
+**The concept: "routine epistemic governance."** Rather than calibrating verification to trust, users engage in what the paper terms *routine epistemic governance* — verification, refinement, correction, and approval before automated actions. This is not a trust-based response; it's a *practice*. Like brushing your teeth or checking your mirrors, it's a habitual epistemic posture that operates independently of moment-to-moment trust assessments.
+
+**The satisfaction-control gap.** Critically: "Effective task outcomes do not produce a felt sense of agency." Users who achieved objectively good results with AI assistance reported *lower* felt agency than users who achieved poorer results but exerted more control. Task success and felt agency are not the same axis — and AI systems that optimize for task success at the expense of user control may undermine the very agency they're meant to amplify.
+
+**Why this challenges Co-Existence:** The Co-Existence calibration skill assumes that users calibrate their verification effort to their assessed trust in the AI — the more you trust the AI, the less you verify, and vice versa. The Verification Without Distrust finding shows this assumption is wrong. Users verify as a practice, not as a trust response. This means that designing for Co-Existence is not about building calibrated trust (helping users know when to trust and when to verify) — it's about designing for *sustainable verification practice* (making verification effortless enough to sustain as a habit).
+
+**The design implication:** The "routine epistemic governance" concept suggests a different design paradigm than "trustworthy AI." Instead of asking "how do we make this AI more trustworthy?", ask "how do we make verifying this AI's output a sustainable, low-friction practice?" The goal is not to reduce verification by increasing trust — it's to make verification so seamless that users can sustain it as a habitual epistemic posture regardless of trust level.
+
+**Connection to Generative Refusal:** The Verification Without Distrust finding provides the empirical foundation for [[Generative Refusal]] as a design pattern. If users verify as a practice regardless of trust, then designing AI to deliberately demand human articulation (rather than providing complete drafts) is not an imposition — it's supporting a practice that users already perform. The AI that asks questions instead of generating text is making routine epistemic governance *easier*, not harder.
+
+**Connection to the Scaffolding Paradox:** The satisfaction-control gap extends the Scaffolding Paradox ([[#The Scaffolding Paradox|above]]) in an important direction. The Scaffolding Paradox showed that AI overassistance degrades long-term capability. The satisfaction-control gap shows that even when AI doesn't degrade capability, it can degrade *the felt experience of agency* — users who get good results from AI don't feel like they accomplished something. The compound risk: AI that both makes you worse at things AND makes you feel like you didn't do the things it helped you with.
+
+Source: https://arxiv.org/abs/2607.24761
+
+### The Compressing-to-Accommodating Shift: AI's Architectural Impact on Expertise (July 2026)
+
+A major theoretical contribution from July 2026 (arXiv 2607.25240) provides the conceptual framework that the Co-Existence and Democratization discussions have been missing. The paper argues that AI is shifting civilization from **compressing complexity** (standardizing processes to make them manageable under information processing limits) to **accommodating complexity** (individualizing processes because AI can handle the information processing).
+
+**The "cognitive fixed cost" concept.** Standardization — one-size-fits-all education, mass-market products, uniform regulations — exists because processing individual variation is expensive. Understanding each student's unique learning profile, customizing every product, or tailoring each regulation to local conditions requires information processing that humans simply can't do at scale. AI eliminates that constraint. The *cognitive fixed cost* of individualization drops from "prohibitively expensive" to "near-zero." The implication is not gradual: institutions built around standardization are now *architecturally obsolete* — they exist because of a constraint that no longer applies.
+
+**The centralization paradox.** The paper identifies a critical tension: individualization means less need for central standardization. But the AI that enables individualization is itself centralized — a handful of companies build the infrastructure. The shift therefore changes what centralization *does*: from "enforcing commonality" to "controlling the infrastructure of individualization." Centralization doesn't disappear; it changes form. Who controls the AI that enables individual accommodation controls whether individualization actually happens — and on whose terms.
+
+**The Co-Existence connection:** The Compressing→Accommodating shift is the structural explanation for why Co-Existence matters. In a standardizing world, humans and AI compete on the same axis of standardized performance. In an accommodating world, AI handles the standardization layer while humans handle the individualization layer — judgment, taste, relationship, accountability, meaning. Co-Existence is not about dividing standardized tasks between human and AI; it's about recognizing that AI can now handle the standardization so humans can focus on what standardization previously suppressed: individual variation, context, and meaning.
+
+**→** This framework also reshapes [[Democratization of Expertise]]. Democratization has been implicitly framed as making specialized expertise *widely available*. The Compressing→Accommodating shift reframes it: democratization is about *eliminating the need for standardization* — letting people get what's right for them rather than what's right for the average.
+
+Source: https://arxiv.org/abs/2607.25240
+
 ### Authorship Calibration: When AI Blurs the Boundaries of Contribution (July 2026)
 
 A new empirical study (arXiv 2607.15006) investigates how people calibrate their sense of contribution when AI is a co-creator — directly relevant to the Co-Existence calibration challenge. When AI and human produce work together, can the human accurately assess what *they* contributed vs. what the AI contributed?

@@ -117,6 +117,29 @@ A massive empirical study from Zheng, Hong, Liu, and Ni (arXiv 2607.20923, July 
 
 Source: https://arxiv.org/abs/2607.20923
 
+### The Compressing-to-Accommodating Shift: AI's Structural Impact on Expertise (July 2026)
+
+A major theoretical contribution from July 2026 (arXiv 2607.25240) provides the conceptual backbone that the democratization thesis has been missing: a framework for *why* AI changes the structure of expertise, not just its distribution.
+
+**From compressing complexity to accommodating it.** The paper's core argument: civilization has always dealt with complexity by *compressing* it — standardizing processes, products, and institutions because processing individual variation is expensive. One-size-fits-all education, mass-market products, uniform regulations — these exist not because they're optimal but because they're *manageable*. Understanding individual needs at scale requires information processing that humans simply cannot perform.
+
+AI eliminates that constraint. The **cognitive fixed cost** — the cost of processing individual variation — drops from "prohibitively expensive" to "near-zero." When AI can understand each student's unique learning profile, each business's unique financial position, or each patient's unique medical history, the rationale for standardization collapses. Institutions built on standardization are now architecturally obsolete — they exist because of a constraint that no longer applies.
+
+**The centralization paradox.** Individualization means less need for centralized standardization — fewer one-size-fits-all policies, fewer mass-market defaults. But the AI that *enables* individualization is itself centralized — a handful of companies build the infrastructure. The shift therefore changes what centralization *does*: from "enforcing commonality" to "controlling the infrastructure of individualization." Centralization doesn't disappear; it changes form. Whoever controls the AI that enables individual accommodation controls whether individualization actually happens — and on whose terms.
+
+**How this reshapes the democratization thesis.** Democratization has been implicitly framed as making specialized expertise *widely available* — more people can access what experts know. The Compressing→Accommodating shift reframes democratization: it's about *eliminating the need for standardization itself*. The expertise that gets democratized isn't just "what experts know" — it's "what works for *you* specifically." The accountant's general advice becomes a financial analysis tailored to your business's exact QuickBooks data. The doctor's population-level recommendation becomes a treatment plan based on your specific biomarkers.
+
+**The democratization four-channel update.** The Compressing→Accommodating shift transforms all four democratization channels:
+
+- **Access:** Access shifts from "everyone gets the same AI output" to "everyone gets AI output tailored to their situation." The democratization is not of generic expertise but of *contextualized* expertise.
+- **Capability:** The narrowing role finding ([[#The Narrowing Role|above]]) becomes more concerning: if AI accommodates individual variation by handling the individualization layer, humans who specialize too narrowly lose the cross-functional understanding needed to oversee individualized recommendations.
+- **Platform:** The centralization paradox is the platform question: who controls the infrastructure of individualization? Nadella's agentic platform vision looks different through this lens — it's not just about who builds agents, it's about whether the platform enables individualization or enforces its own standardization.
+- **Influence:** The Wikipedia influence finding ([[#Wikipedia Advocacy|above]]) gains new urgency. If training data shapes what models know AND models enable individual accommodation, then whoever shapes training data shapes not just what AI believes but what individualization it enables — what variation it can see, what needs it can accommodate, what people it can truly serve.
+
+**Connection to Co-Existence:** The Compressing→Accommodating shift is the structural explanation for why [[Co-Intelligence#The Co-Existence Framework|Co-Existence]] matters. In a standardizing world, humans and AI compete on the same axis of standardized performance. In an accommodating world, humans handle the individualization layer (judgment, taste, relationship, accountability, meaning) while AI handles the standardization layer. The skill of Co-Existence IS the skill of operating in an accommodating world — knowing how to use AI for what standardization requires while reserving human judgment for what individualization demands.
+
+Source: https://arxiv.org/abs/2607.25240
+
 ## Related Pages
 
 - [[Superagency]] — The organizing idea: AI giving more people access to expertise, leverage, and decision support

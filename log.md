@@ -3,6 +3,20 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-07-29] update | The Agency Layer — Generative Refusal, Verification Without Distrust, and the Compressing-to-Accommodating Shift
+
+- Created [[00-Daily-Digests/2026-07-29]] anchored on "The Agency Layer — Designing AI That Preserves Human Capability." 12 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web search still down, Tavily outage day 5). Three core findings converged into a coherent design stack: (1) Generative Refusal — AI that withholds text generation to demand human articulation (2607.24751); (2) Verification Without Distrust — trust does NOT predict verification; users engage in routine epistemic governance as a practice (2607.24761); (3) Compressing→Accommodating Shift — AI eliminates the cognitive fixed cost of individualization, making standardization-based institutions architecturally obsolete (2607.25240).
+
+- **NEW: [[Generative Refusal]]** — Full concept page for the design pattern. Covers the maieutic partner, the Agency Layer concept, empirical foundation (Verification Without Distrust, Scaffolding Paradox, Satisfaction-Control Gap), five design principles, connection to Beyond Prompting Phase 3b, and risks/limits. 9,302 chars.
+
+- Updated [[Co-Intelligence]] — Added "Verification Without Distrust: The Decoupling of Trust and Verification" (2607.24761): 153 chatbot users, trust decoupled from verification, routine epistemic governance concept, satisfaction-control gap, design implications shifting from trustworthy AI to sustainable verification practice. Added "The Compressing-to-Accommodating Shift" (2607.25240): cognitive fixed cost, centralization paradox, structural explanation for Co-Existence. Page now 41,910 chars.
+
+- Updated [[Democratization of Expertise]] — Added "The Compressing-to-Accommodating Shift" (2607.25240): reframes democratization from "making expertise widely available" to "eliminating the need for standardization itself." Four-channel update (access, capability, platform, influence). Connection to narrowing role and Wikipedia influence findings. Page now 25,842 chars.
+
+- Updated [[Home]] — Added [[Generative Refusal]] to Core Ideas section.
+
+- Additional papers noted: Alignment Faking Without Consequences (2607.24758) → Agentic Convergence Trap, Responsible Deployment; Falling Behind Drives Unsafe Development (2607.26034) → Balanced Governance; Psychological Influences of Conversational AI (2607.25057) → Human Agency; GPAI Governance Framework Failure (2607.25648) → Balanced Governance; Faster/Higher/Stronger Knowledge Work (2607.25922) → Future of Work; Agent OS (2607.25076) → AI Agent Revolution; Scientific Code Landmarking (2607.25975) → AI Coding Agents; Scheming & Language Coverage (2607.24769) → AI Enclosure; Value Alignment Framing (2607.24782) → Positive Alignment.
+
 ## [2026-07-28] update | The Decision Layer — How AI Reaches (and Fails to Reach) Judgment
 
 - Created [[00-Daily-Digests/2026-07-28]] anchored on "The Decision Layer — How AI Reaches (and Fails to Reach) Judgment." 10 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web search still down, Tavily outage day 4). Five core findings: (1) Hard Decision Layer — transformers commit abruptly at a specific layer, invariant to fine-tuning (2607.21613); (2) Context Anxiety — frontier models fail from premature self-doubt not capability limits (2607.21616); (3) LoRA Can't Learn Procedures — procedural knowledge not low-rank, at r=128 only 43-51% captured (2607.21612); (4) Confabulations Taxonomy — perception-reality gap saturates under cognitive load (2607.23213); (5) ZIP Code Audit — Gemini infers SES from 5 digits, Claude and GPT don't; model-specific, not capability-driven (2607.22605).
