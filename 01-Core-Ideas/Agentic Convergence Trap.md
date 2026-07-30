@@ -117,6 +117,30 @@ This maps onto the syntactic/semantic distinction established above. Bots that o
 
 Source: https://arxiv.org/abs/2607.13679
 
+## Linguistic Monoculture: The Math of AI-Driven Language Convergence (July 2026)
+
+**[arXiv 2607.27134](https://arxiv.org/abs/2607.27134)** — A mathematical framework for what happens when populations write with the same AI. The paper models authors and LLMs as distributions over linguistic features that co-evolve through repeated interaction. This extends the Agentic Convergence Trap from *organizational strategy* to *human expression*.
+
+**Key results:**
+- **Shared models drive authors toward a common norm** — the more people use the same AI, the more alike they sound. This is linguistic convergence operating through the same mechanism as strategic convergence: a shared optimization landscape with no differentiation incentive.
+- **Recursive feedback (training on AI outputs) relocates the shared norm without preserving diversity** — the monoculture moves but doesn't branch. Each generation of AI-trained-on-AI-outputs doesn't recover variation; it converges on a new point.
+- **Personalized models CAN preserve linguistic diversity** — if each author gets a model tuned to their own style, distinct equilibria survive. This is the complementarity-substitution distinction applied to language: models that adapt to the author preserve diversity; models that make the author adapt to them erode it.
+- **The "price of monoculture" can grow without bound** — individually rational conformity creates negative externalities because authors don't internalize the value their distinctiveness provides to others. Each person's choice to use the same AI writing assistant seems costless to them — but the cumulative loss of linguistic diversity is a cost borne by everyone.
+
+**Integration with the convergence trap framework:**
+
+| Level | Convergence Mechanism | Counterpoint |
+|-------|----------------------|--------------|
+| Agent (Blind Curator) | Biased judge disables skill retirement | SkillAudit: ground-truth-free trajectory auditing |
+| Ecosystem (Monoculture) | Shared AI tools standardize implementation | Syntactic ≠ semantic convergence |
+| Organizational | Shared AI platforms converge strategies | Complementary bots strengthen institutions |
+| Institutional | AI participation homogenizes collaborative norms | When Bots Join the Team (2607.13679) |
+| **Linguistic (NEW)** | **Shared AI writing tools converge expression** | **Personalized models preserve distinct equilibria** |
+
+**Practical implication:** The personalization finding is the policy lever. Making AI writing assistants adapt to the author's style (rather than converging everyone to a common high-quality style) is the difference between augmenting human expression and replacing it with a monoculture. This requires deliberate design — current commercial AI writing tools default to convergence because it's the path of least resistance.
+
+Source: https://arxiv.org/abs/2607.27134
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Frontier Firm]]

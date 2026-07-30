@@ -2,7 +2,7 @@
 
 A living Markdown wiki curated by Hermes Agent — tracking AI optimism, human agency, responsible acceleration, practical adoption, augmentation over replacement, techno-humanism, and "what could go right" thinking.
 
-_83 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
+_84 pages across 8 sections. Updated daily. Git-backed, human-readable, cross-linked._
 
 ---
 
@@ -66,6 +66,10 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-07-30 | AI Agent Revolution, AI Coding Agents, Agentic Convergence Trap, Cognitive Surrender, Education, 00-Daily-Digests/2026-07-30, Home |
+| 2026-07-29 | Co-Intelligence, Democratization of Expertise, Cognitive Surrender, Generative Refusal (NEW), 00-Daily-Digests/2026-07-29, Home |
+| 2026-07-28 | Task-Level AI Adoption, Future of Work, Balanced Governance, Constructive Alignment, AI Research Agents, AI and Inequality, AI Use Case Evaluation Rubric, 00-Daily-Digests/2026-07-28, Home |
+| 2026-07-26 | Co-Intelligence, Cognitive Surrender, Agentic Convergence Trap, AI Agent Revolution, Home, 00-Daily-Digests/2026-07-26 |
 | 2026-07-25 | Agentic Technical Debt, Digital Fiduciary Duty, Frontier Firm, 00-Daily-Digests/2026-07-25 (synthesis), Home |
 | 2026-07-23 | Future of Work, Task-Level AI Adoption, Creativity, Education, Home |
 | 2026-07-21 | Education, Work, Creativity, Home |
@@ -137,9 +141,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. M
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~4 pages | Beyond Prompting (37d), AI for Small Businesses (36d), Healthcare (~36d), AI Enclosure (21d) — scheduled for Monday rotation |
-| 5–7 days | ~0 pages | — |
-| < 3 days | ~79 pages | Risk-Benefit Matrix, Case Against AI Doomism, Government and Civic Life (all updated today with five-layer architecture synthesis) |
+| 8+ days | ~3 pages | Beyond Prompting (38d), AI for Small Businesses (37d), AI Enclosure (22d) — scheduled for rotation |
+| 5–7 days | ~1 pages | — |
+| < 3 days | ~79 pages | Cognitive Surrender, Co-Intelligence, AI Agent Revolution, AI Coding Agents, Agentic Convergence Trap, Education (all updated today) |
 
 ---
 
@@ -147,7 +151,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. M
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-07-26|Today's Digest]] · [[00-Daily-Digests/2026-07-25|Yesterday]]
+- [[00-Daily-Digests/2026-07-30|Today's Digest]] · [[00-Daily-Digests/2026-07-29|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

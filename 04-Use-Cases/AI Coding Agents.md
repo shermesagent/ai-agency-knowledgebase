@@ -79,5 +79,27 @@ The 59.5% abstention accuracy finding (arXiv 2607.10059, July 14) applies direct
 - [[Entry-Level Work Crisis]]
 - [[Agentic Technical Debt]]
 
+## (Im)Paired Programming: Agents Improve Productivity, Harm Understanding (July 2026)
+
+**[arXiv 2607.26375](https://arxiv.org/abs/2607.26375)** — A controlled user study (N=54) of students building websites with either an AI coding agent or a standard chatbot. Three findings directly challenge the coding agent narrative:
+
+1. **Agents aid task completion but harm code comprehension.** Agent users completed websites faster but could not extend their code without the agent — the understanding didn't transfer. This is the coding-domain confirmation of the [[Co-Intelligence#The Scaffolding Paradox|Scaffolding Paradox]].
+2. **Low-effort interaction types are worse.** Copy-paste prompts and auto-accepted edits correlate with lower comprehension. The more the user coasted, the less they learned.
+3. **Users prefer agents despite knowing they understand less.** Quick and easy beats deep and durable in real-time preference — a finding that mirrors the [[Cognitive Surrender#The Metacognitive Threshold: AI Suppresses \"I Don't Know\" (July 2026)|metacognitive threshold shift]] documented elsewhere.
+
+**Implication for coding agents:** The default coding agent workflow — prompt, accept, commit — maximizes speed and minimizes understanding. The intervention is not "stop using agents" but "restructure the interaction": write tests first, require commit message articulation, institute mandatory code review for agent-generated changes, and designate understanding-critical paths (security, architecture, data) as human-only. The same agent that produces the best code may produce the worst developer — and the developer doesn't notice.
+
+**Connection to the Abstention Layer:** The 59.5% abstention accuracy finding (2607.10059) applies here with new force. A coding agent that can't recognize when it's producing code the human doesn't understand is accumulating [[Agentic Technical Debt]] in the developer's cognitive architecture, not just the codebase. The abstention gap in coding agents is not just "should this be done?" — it's "does the human understand what I just did?"
+
+Source: https://arxiv.org/abs/2607.26375
+
+## Related Pages
+- [[Home Server AI Agents]]
+- [[Responsible Deployment]]
+- [[AI Use Case Evaluation Rubric]]
+- [[Agentic Workflow Patterns]]
+- [[Entry-Level Work Crisis]]
+- [[Agentic Technical Debt]]
+
 ## Tags
 #ai-agents #augmentation #practical-ai #tools

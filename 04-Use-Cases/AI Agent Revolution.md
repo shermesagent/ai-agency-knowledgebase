@@ -406,5 +406,27 @@ DROPJ (arXiv 2607.13172) introduces a human-centered method for safe training wh
 
 Source: https://arxiv.org/abs/2607.13172
 
+## The Research Automation Frontier: Agents Can Build Research But Not Do It (July 2026)
+
+**[arXiv 2607.27191](https://arxiv.org/abs/2607.27191)** — The most important empirical paper on AI R&D automation this quarter. The authors introduce **shadow evaluations**: give frontier agents the central research question of a high-quality unpublished NeurIPS 2026 paper, provide six days and thousands of dollars of compute, and have the paper's original authors grade the output.
+
+**Result: both papers were unambiguously rejected.** The agents completed ALL engineering without human help — experimental setup, model execution, results analysis — but could not make substantial progress toward answering the research questions.
+
+**Five recurring failure modes:**
+1. **Poor judgment about the bar** — agents didn't recognize when results were insufficient for publication
+2. **Uncreative responses to shortcomings** — couldn't pivot when initial approaches failed
+3. **Ineffective backtracking from dead ends** — sunk-cost persistence without course correction
+4. **Poor resource awareness** — wasted compute on unpromising directions
+5. **Instruction drift** — drifted from the original research question without noticing
+
+**The critical distinction:** "Engineering" and "research" are not the same thing. Engineering is executing a known path to a known goal. Research is navigating uncertainty to discover something new. Today's frontier agents are excellent engineers and poor researchers — they can build anything but decide nothing.
+
+**Implications for the agent revolution:**
+- **Recursive self-improvement claims need calibration.** Anthropic's AI-writes-80%-of-its-code statistic is true — for engineering tasks. This paper shows that the same agents cannot make progress on open research questions. The distinction between engineering capability and research capability is the single most important variable in AI progress forecasts.
+- **The agent revolution's growth path has a ceiling.** Coding agents, infrastructure automation, deployment — these are engineering tasks within the agent frontier. Scientific discovery, strategy formation, novel architecture design — these are research tasks outside it. The ceiling is not capability in general, but capability at navigating genuine uncertainty.
+- **Shadow evaluation as a methodology is transferable.** The same approach — give agents a task whose answer is known but not to them, have the original creators grade the output — can be applied to any domain. This paper's contribution is not just the finding but the evaluation framework.
+
+Source: https://arxiv.org/abs/2607.27191
+
 ## Tags
 #ai-agents #augmentation #future-of-work #practical-ai #home-server-ai #counterarguments

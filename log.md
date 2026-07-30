@@ -3,6 +3,22 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-07-30] update | The Accountability Layer — When agents participate, who's responsible?
+
+- Created [[00-Daily-Digests/2026-07-30]] anchored on "The Accountability Layer." 10 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web search still down, Tavily outage day 6). Five core findings converged on the infrastructure for accountability, verification, understanding, and attribution when agents participate in knowledge work: (1) Agents can do the engineering of research but not the research — shadow evaluations of frontier agents on NeurIPS-quality papers, both rejected (2607.27191); (2) Contribution Dissolution — when agents mediate collaboration, the social conditions for attribution and accountability collapse (2607.26387); (3) (Im)Paired Programming — coding agents improve productivity but harm understanding, and users prefer agents despite knowing they understand less (2607.26375); (4) Linguistic Monoculture — mathematical framework for AI-driven language convergence; personalized models preserve diversity, shared models drive convergence (2607.27134); (5) Evaluation Scores Are Perishable Knowledge Claims — trust inflation from signal aggregation; top-5 by mean vs. weakest-link are disjoint (2607.26191). Includes the "Explain It Back" rule practical experiment.
+
+- Updated [[AI Agent Revolution]] — Added "The Research Automation Frontier" section (2607.27191): frontier agents complete all research engineering but fail at research judgment; five failure modes; engineering vs. research as the critical capability distinction for recursive self-improvement forecasts. Page now ~60K chars.
+
+- Updated [[AI Coding Agents]] — Added "(Im)Paired Programming" section (2607.26375): N=54 controlled study; agents harm code comprehension; low-effort interaction types worse; connection to Scaffolding Paradox and Abstention Layer. Page now ~14K chars.
+
+- Updated [[Agentic Convergence Trap]] — Added "Linguistic Monoculture" section (2607.27134): extends convergence from organizational strategy to human expression; five-level convergence framework; personalized models as policy lever. Page now ~21K chars.
+
+- Updated [[Cognitive Surrender]] — Added "Contribution Dissolution" section (2607.26387): extends surrender from individual to collective; two-phase dissolution mechanism; accountability as social practice not documentation problem. Page now ~25K chars.
+
+- Updated [[Education]] — Added "The Easy Trap" section (2607.26067): LLMs approximate curricular difficulty, not cognitive difficulty; systematic underestimation of misconception-driven items; structural blindness to cognitive architecture; permanent, not scalable away. Page now ~32K chars.
+
+- Additional papers noted: The Age of AI Agents Demands A New Scientific Paradigm (2607.26064) → Responsible Deployment; The Social Cost of an AI Teammate (2607.27179) → Co-Intelligence; AI Security Priorities (2607.26069) → Responsible Deployment.
+
 ## [2026-07-29] update | The Agency Layer — Generative Refusal, Verification Without Distrust, and the Compressing-to-Accommodating Shift
 
 - Created [[00-Daily-Digests/2026-07-29]] anchored on "The Agency Layer — Designing AI That Preserves Human Capability." 12 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web search still down, Tavily outage day 5). Three core findings converged into a coherent design stack: (1) Generative Refusal — AI that withholds text generation to demand human articulation (2607.24751); (2) Verification Without Distrust — trust does NOT predict verification; users engage in routine epistemic governance as a practice (2607.24761); (3) Compressing→Accommodating Shift — AI eliminates the cognitive fixed cost of individualization, making standardization-based institutions architecturally obsolete (2607.25240).

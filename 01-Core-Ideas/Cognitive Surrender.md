@@ -135,6 +135,22 @@ A landmark five-experiment study (N=3,132; four preregistered, one direct replic
 
 Source: https://arxiv.org/abs/2607.13562
 
+## Contribution Dissolution: The Collective Dimension of Surrender (July 2026)
+
+**[arXiv 2607.26387](https://arxiv.org/abs/2607.26387)** — Cognitive surrender has been understood as an individual phenomenon: *I* stop thinking because the AI does it for me. This paper extends the concept to the collective dimension, introducing **contribution dissolution**: when LLM agents are embedded in how teams research, design, write, and decide, the social conditions under which contributions can be witnessed, attributed, and held accountable collapse.
+
+**The mechanism operates in two phases:**
+
+1. **Individual dissolution:** Before collaboration begins, the individual worker's own uncertainty about what is genuinely theirs erodes. When an agent helps formulate an idea, synthesize research, or draft an argument, the boundary between the human's contribution and the AI's becomes fuzzy — *to the human themself.* This is not dishonesty; it's an epistemic uncertainty that cannot be resolved through introspection.
+
+2. **Collective dissolution:** When multiple team members all carry this uncertainty into collaboration, the reliability that makes productive intellectual exchange possible collapses. If Person A can't say what's theirs and Person B can't say what's theirs, the team can't attribute, can't hold accountable, and can't track provenance. The team produces output, but nobody can say who did what — and therefore nobody can be held responsible for any part of it.
+
+**Why this matters:** The paper argues that framing accountability as a *documentation problem* (AI use statements, watermarking, provenance logs) overlooks the conditions under which accountability is actually produced. Accountability isn't a record — it's a social practice that requires visibility, contestability, and the genuine possibility of being held to account. When agents operate within the workflow at the moment contributions are being formed — mediating, synthesizing, reformulating — these conditions may be structurally impossible to satisfy.
+
+**Connection to the broader surrender framework:** The metacognitive threshold shift (2607.13562) is the individual mechanism — AI alters when I think I know something. Contribution dissolution is the collective mechanism — AI alters when *we* can know who contributed what. Both share the same property: they feel fine in the moment (confidence goes up, productivity goes up) while the underlying capacity (knowing/accountability) degrades invisibly.
+
+Source: https://arxiv.org/abs/2607.26387
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

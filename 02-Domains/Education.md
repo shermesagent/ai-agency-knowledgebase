@@ -170,5 +170,20 @@ This complicates the "Normalization Gap" finding (institutions falling behind st
 
 → Source: https://arxiv.org/abs/2607.19699
 
+## The Easy Trap: LLMs Underestimate Misconception-Driven Difficulty (July 2026)
+
+**[arXiv 2607.26067](https://arxiv.org/abs/2607.26067)** — A large-scale empirical study (N=770 items) demonstrating that LLMs systematically misestimate student item difficulty in a specific and predictable way: **they approximate curricular difficulty (how advanced the topic is) rather than cognitive difficulty (how hard the concept really is).**
+
+**Key finding:** LLMs underestimate the difficulty of misconception-driven items — questions where students' pre-existing misconceptions (not lack of knowledge) are the primary source of error. Fractions items that trip students up because of whole-number bias, not because fractions are a late-introduced topic, get systematically rated as easier than they are.
+
+**Why this matters for AI in education:**
+- **Assessment generation bias:** AI-generated test items that use LLM difficulty estimates as calibration will systematically under-weight misconception-prone concepts. Students will face assessments that look appropriately difficult to the AI but are actually harder than predicted — and the mismatch will be concentrated in the concepts students struggle with most.
+- **Tutor sequencing bias:** AI tutors that sequence problems by predicted difficulty will introduce misconception-driven items too early and too confidently, creating unnecessary failure experiences that damage motivation and self-efficacy.
+- **The "Easy Trap" is permanent, not transient:** The study shows this is a structural feature of how LLMs estimate difficulty — they see curricular progression (grade level, prerequisite chains) but are blind to the cognitive architecture of misconceptions. This won't be fixed by scaling.
+
+**Implication for education deployment:** Any AI education tool that makes difficulty judgments (problem sequencing, assessment design, adaptive tutoring) must be calibrated against real student performance data on misconception-prone concepts, not just against LLM difficulty predictions. The LLM's estimate of "this is easy" is a signal about curricular position, not about student experience.
+
+Source: https://arxiv.org/abs/2607.26067
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai
