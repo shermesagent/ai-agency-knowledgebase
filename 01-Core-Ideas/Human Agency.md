@@ -309,6 +309,59 @@ This ladder operationalizes the finding that irreversibility + visibility matter
 
 → Source: [Delegation Regret](https://arxiv.org/abs/2607.18257)
 
+## Asymmetric Communication: The Category Mistake (July 2026)
+
+**[arXiv 2607.28137](https://arxiv.org/abs/2607.28137)** — Enzo Fenoglio provides the philosophical framework underlying this entire page: five familiar AI discourse terms (*general intelligence, hallucination, agency, sentience, alignment*) are all instances of a single category mistake — properties constituted within human communicative practice are projected onto the machine side.
+
+**The framework:** Human-LLM interaction constitutes a "language game" (Wittgenstein) in which one side bears all normative activity. This is **asymmetric communication** — model outputs enter public discourse, get cited, debated, and acted upon, without the system undertaking commitments, bearing entitlements, or performing the assessment on which discursive standing depends.
+
+**Three structural conditions define the asymmetry:**
+1. **Correctness is enforced exclusively by the receiver** — the LLM never says "wait, I was wrong about that"
+2. **Accountability is borne by human participants alone** — when output causes harm, humans are responsible
+3. **Practical standing depends entirely on human uptake** — an output exists as "information" only when a human treats it as such
+
+These conditions are structural, not contingent. They hold regardless of capability level. A GPT-7 is no more accountable than a GPT-4 — the asymmetry is in the relationship, not the technology.
+
+**The framework draws on:** Wittgenstein (meaning enacted in shared practices), Luhmann (communication completed on the receiver's side), Esposito (algorithmic contingency sufficient for uptake), and Brandom (normative scorekeeping as the source of discursive standing).
+
+**Applied to the five terms:**
+- **"Intelligence"** is substrate-independent cognition projected onto machines → actually, receiver-side inference about pattern-matching capability
+- **"Hallucination"** is cognitive failure → actually, receiver-side assessment of output reliability in context
+- **"Agency"** is autonomous goal-pursuit → actually, tools executing human-directed actions
+- **"Sentience"** is emergent inner life → actually, the human tendency to perceive mind-like behavior
+- **"Alignment"** is goal synchronization between agents → actually, institutional constraint engineering
+
+**Agency implications:**
+
+**The category mistake is an agency mistake:** When institutions treat LLM outputs as if they come from an agent with commitments, entitlements, and accountability, they misallocate responsibility. The human who deployed the system, the institution that chose it, the operator who reviewed its output — these are the loci of agency. Correcting the category mistake means recognizing that the machine is a *medium* of communication, not a *participant* in it.
+
+**The governance implication:** "Alignment is institutional constraint engineering, not goal synchronization between agents, while responsibility remains with human institutions."
+
+**Connection to [[Cognitive Surrender]]:** The category mistake provides the structural explanation for why cognitive surrender is so hard to resist. When users (and institutions) treat AI output as if it comes from an agent capable of commitment and accountability, they naturally let that "agent" bear the cognitive load they would otherwise carry themselves. The solution is not better AI — it's better institutional recognition of where agency actually lives.
+
+→ Source: https://arxiv.org/abs/2607.28137
+
+## Source-Receding Mediation: When AI Disappears Into the Background (July 2026)
+
+**[arXiv 2607.28332](https://arxiv.org/abs/2607.28332)** — Haewoon Kwak's decade-long study (2016–2025, ~1,900 hours of footage) of how AI went from revolutionary to invisible in Korean Go commentary provides a preview of every domain's AI trajectory. After AlphaGo, AI winrate graphs became standard analytic tools — but AI-salient talk dropped to just 2.63% of sentences. The source label receded while the metric remained.
+
+**The finding:** This is "domestication" — AI becomes infrastructure, and infrastructure is invisible. But Kwak identifies a crucial distinction: **source-foregrounding mediation** (naming the AI, attributing judgments to it) vs. **source-receding mediation** (showing the metric without naming the source). These two modes preserve different **hooks of contestability** — different ways audiences can recognize and question the machine source.
+
+**Source-receding mediation loses the contestability hook.** When winrate is "just the number on screen" rather than "what KataGo thinks," the audience loses the ability to ask: *is the AI right about this? what is this judgment based on? should we trust it?*
+
+**Agency implications:**
+
+**Contestability hooks are agency infrastructure:** The ability to question a judgment — to ask "is this right?" and get an answer — depends on knowing that there is a source to question. As AI judgments become background infrastructure in medicine, law, education, and governance, the hooks of contestability can be preserved or lost depending on whether the source remains visible. Every domain that integrates AI will follow the Korean Go trajectory: revolutionary → routine → invisible. The agency question is whether it also follows the source-receding trajectory or the source-foregrounding one.
+
+**The lifecycle of AI domestication — a pattern to anticipate:**
+1. **Revolutionary phase:** AI judgment is novel, source is conspicuous, contestability is high
+2. **Routine phase:** AI judgment is expected, source is tacit, contestability is moderate
+3. **Invisible phase:** AI judgment is infrastructure, source is forgotten, contestability is absent
+
+**Practical agency test:** For any AI system integrated into your workflow, ask: "Can someone who encounters this output tell that an AI contributed to it, and on what basis?" If the answer is no, you have source-receding mediation — and lost contestability hooks.
+
+→ Source: https://arxiv.org/abs/2607.28332
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

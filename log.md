@@ -1133,3 +1133,11 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **External tool status:** web_search confirmed non-functional (6 attempts, all empty). arXiv confirmed empty (Sunday). Pivoted to synthesis. Recommended: build Saturday reserve of pre-fetched sources for Sunday synthesis to prevent future source collapse.
 
 → See [[00-Daily-Digests/2026-07-26]] for full Sunday Synthesis digest.
+
+## 2026-07-31 05:30 UTC — Daily Update
+- **Digest:** 00-Daily-Digests/2026-07-31.md — "The Category Mistake" (asymmetric communication across 7 new arXiv papers)
+- **Pages updated:** Human Agency (asymmetric communication framework + source-receding mediation), Education (post-instrumental learning + evaluation study), Cognitive Surrender (structural explanation), Balanced Governance (proxy compliance model)
+- **Sources:** arXiv fr_cs.AI, cs.CY, cs.HC (web search down day 7). Key papers: 2607.28137 (Fenoglio — Asymmetric Communication), 2607.28041 (Yao — Post-Instrumental Learning), 2607.28023 (Burnat & Davidson — Proxy Compliance), 2607.26120 (Fauchard — Multi-Agent Deception), 2607.28332 (Kwak — Source-Receding Mediation)
+- **Theme:** The category mistake is the root of most agency failures in the AI era — misattributing agency, intelligence, and accountability to systems that have none of these properties.
+- **Practical experiment:** The 'Who's Accountable?' test — trace accountability chains for any AI-mediated output
+- **Status:** Done

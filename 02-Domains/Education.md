@@ -185,5 +185,41 @@ This complicates the "Normalization Gap" finding (institutions falling behind st
 
 Source: https://arxiv.org/abs/2607.26067
 
+## Post-Instrumental Learning: When AI Does the Work, What Is Learning For? (July 2026)
+
+**[arXiv 2607.28041](https://arxiv.org/abs/2607.28041)** — Kai Yao's concept of **post-instrumental learning** directly addresses the hardest question in AI-era education: as AI systems produce the essays, code, reports, and decisions through which institutions recognize competence, what is learning *for*?
+
+**The argument:** Existing AI ethics focuses on present failures — bias, opacity, hallucination, labor extraction. But if the case for learning rests only on those failures, then each technical improvement appears to weaken it. Better AI = less reason to learn. That can't be right, but it follows from the failure-based argument.
+
+**Post-instrumental learning** preserves the capacities people and institutions need *when many useful outputs can be delegated.* Five capacities:
+1. **End-setting** — the ability to define what should be done, not just how
+2. **Reason-giving** — the ability to explain and justify choices, not just produce them
+3. **Contestability** — the ability to challenge and revise outputs
+4. **Refusal/revision** — the judgment to say "no, this isn't right" and the skill to fix it
+5. **Participation** — the ability to engage in collective deliberation about shared decisions
+
+**Capacity dissolution:** When these five capacities atrophy because they're never exercised, people and institutions lose the ability to understand, challenge, revise, and share responsibility for the practices AI mediates. This is the educational counterpart to [[Cognitive Surrender]] and [[Agentic Technical Debt]]: the debt accumulates not in code or processes but in human capability.
+
+**The assessment pivot:** Under generative AI, a polished artifact no longer reliably evidences understanding. Yao argues institutions must assess "the learner's accountable relation to AI-mediated work" — not the artifact alone, but how the learner directed, evaluated, revised, and took responsibility for what was produced. This connects directly to [[Cognitive Stewardship]]: the stewardship question is not "did the student use AI?" but "does the student understand, challenge, and take responsibility for what was produced?"
+
+**Why this matters for education deployment:** The failure-based argument ("learn because AI is unreliable") is already collapsing — AI gets more reliable every quarter. The post-instrumental argument ("learn because delegation requires capacities that only develop through practice") is robust to technical improvement. Institutions that don't pivot from failure-based to post-instrumental justifications for learning will find themselves unable to answer "why learn this when AI does it better?"
+
+→ Source: https://arxiv.org/abs/2607.28041
+
+## Is Solving Better Than Evaluating GenAI Solutions? (July 2026)
+
+**[arXiv 2607.27586](https://arxiv.org/abs/2607.27586)** — Dickey et al. conduct an N=220 crossover study in a CS algorithms course where students either solved problems or evaluated AI-generated solutions. This directly tests the post-instrumental hypothesis: can evaluating AI output substitute for generating your own?
+
+**Key finding:** No significant difference in exam performance between the two conditions — but effort was redistributed from construction toward verification and diagnosis. Students who evaluated AI solutions spent their cognitive effort on different skills (checking correctness, identifying errors, diagnosing misunderstandings) than students who solved from scratch (constructing solutions, recalling algorithms, debugging).
+
+**The nuance:** Evaluation skills can substitute for generation skills in assessment — students who only evaluated AI solutions performed as well on exams as students who solved from scratch. But the paper notes this doesn't automatically produce *deeper conceptual transfer*. Knowing when the AI is wrong is not the same as knowing how to construct the solution yourself.
+
+**Education implications:**
+- **Assessment design:** Under GenAI, "did you solve this correctly?" is the wrong question. The right question is "can you evaluate, challenge, and take responsibility for this solution?" — whether you or an AI constructed it.
+- **Curriculum sequencing:** The finding that evaluation and generation produce equivalent exam performance but different skill profiles suggests deliberate sequencing: teach construction first (to develop conceptual understanding), then teach evaluation (to develop the post-instrumental capacities of contestability and revision).
+- **Connection to post-instrumental learning:** The five capacities (end-setting, reason-giving, contestability, refusal/revision, participation) are the skills that *evaluation* develops and *generation* may bypass. An education system optimized for generation produces people who can make things; an education system optimized for evaluation produces people who can take responsibility for what gets made.
+
+→ Source: https://arxiv.org/abs/2607.27586
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

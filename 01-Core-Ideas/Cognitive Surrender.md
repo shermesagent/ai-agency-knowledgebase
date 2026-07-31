@@ -151,6 +151,23 @@ Source: https://arxiv.org/abs/2607.13562
 
 Source: https://arxiv.org/abs/2607.26387
 
+## Asymmetric Communication: The Structural Explanation for Cognitive Surrender (July 2026)
+
+**[arXiv 2607.28137](https://arxiv.org/abs/2607.28137)** — Enzo Fenoglio's asymmetric communication framework provides the missing structural explanation for why cognitive surrender is so pervasive and so hard to prevent. The argument is not that people are lazy or that AI interfaces are badly designed — it's that the *relationship itself* is structurally asymmetric, and surrender is the default equilibrium of that asymmetry.
+
+**The mechanism:** Human-LLM communication is a language game where one side bears all normative activity — correctness enforcement, accountability, practical standing — while the other side produces text that enters public discourse without undertaking commitments. When one side bears all normative activity, the temptation to let them bear all *cognitive* activity is built into the interaction pattern.
+
+**Why existing interventions aren't enough:** The three major AI companies have learning modes (Gemini's "Guided Learning," ChatGPT's "/learn," Claude's "learning" style) and the metacognitive threshold research (2607.13562) shows they help — but don't close the gap. The asymmetric communication framework explains why: these interventions target the *user's behavior* within an asymmetric structure, but don't change the structure itself. No amount of "try harder to think for yourself" corrects a situation where all normative accountability flows one way.
+
+**The structural conditions of surrender:**
+1. **Correctness asymmetry** — the AI never corrects itself, so the human bears 100% of verification load. Exhaustion is the only path.
+2. **Accountability asymmetry** — the AI can't be held responsible, so the human bears 100% of consequence. The "just let it do it" shortcut has no machine-side cost.
+3. **Standing asymmetry** — the output only exists as "information" when a human treats it as such. This looks like the human is "in control" but actually *requires* continuous cognitive engagement to maintain control.
+
+**The upshot:** Cognitive surrender is not a bug to be patched with better prompt design or learning modes. It is the default state of asymmetric communication — the equilibrium the system falls into unless deliberately counteracted by institutional practices that preserve human normative standing. The interventions that work will be structural (rate-limiting, mandatory verification checkpoints, source fore-grounding, per-task autonomy policies), not behavioral.
+
+→ Source: https://arxiv.org/abs/2607.28137
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

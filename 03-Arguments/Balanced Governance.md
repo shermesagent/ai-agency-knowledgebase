@@ -209,6 +209,30 @@ Source: https://arxiv.org/abs/2606.23860
 - The right governance level depends on consequence: brainstorming tools and student placement decisions should not be treated the same.
 - As AI systems become decentralized, traditional regulatory address (identifying a responsible entity) may become impossible — requiring fundamentally new governance approaches.
 
+## Proxy Compliance: When AI Governance Becomes Theater (July 2026)
+
+**[arXiv 2607.28023](https://arxiv.org/abs/2607.28023)** — Burnat & Davidson provide a formal political-economy model explaining why documentation and standardized evaluations coexist with persistent post-deployment harms — and what structural changes actually break the equilibrium.
+
+**The model:** A sequential game — vendor chooses auditability and mitigation → deployer monitors while facing switching costs → enforcement depends on verifiable evidence. Anticipating the deployer's monitoring response, the vendor stops at an observable procurement floor while mitigating below the social first best. This produces **proxy compliance:** documentation that satisfies procurement requirements without substantively reducing harm.
+
+**Four mechanisms that break the proxy-compliance equilibrium:**
+1. **Independent audit rights** — raise enforcement exposure directly, reducing vendor's ability to hide behind documentation. The auditor must be structurally independent of vendor-selected evidence channels.
+2. **Portability** — restores deployer leverage by reducing switching costs. When deployers can leave, vendors must compete on substantive mitigation, not documentation quality.
+3. **Incident reporting** — adds a regulator-visible evidence channel outside the vendor-deployer relationship. External visibility breaks the bilateral information asymmetry that sustains proxy compliance.
+4. **Outcome-linked liability** — creates incentives that don't depend on vendor-controlled detection. When liability attaches to outcomes rather than process compliance, vendors internalize harm costs directly.
+
+**Governance implications:**
+
+**The governance theater trap:** The paper demonstrates formally that market structure (switching costs, vendor concentration, audit visibility) determines whether governance frameworks produce genuine mitigation or documentation-only compliance. The same governance requirements that look effective on paper can produce a proxy-compliance equilibrium where everyone checks the boxes and harm continues.
+
+**The measurement prerequisite, revisited:** The PIIE satellite accounts proposal (tracking nominal compute spending, quality-adjusted output) is necessary but insufficient. Even with perfect measurement, if switching costs are high and audit rights are weak, the measured harms will persist alongside compliant documentation. Measurement enables governance but doesn't guarantee it — market structure determines whether measurement leads to action.
+
+**Audit independence as a governance design principle:** The paper's key operational contribution is demonstrating that audit rights must be *independent* to break the equilibrium — audit through vendor-provided tools or vendor-selected evidence channels preserves the information asymmetry. Independent audit means third-party access to systems, not just vendor-provided reports about systems.
+
+**Connection to [[Responsible Deployment]]:** The six-step deployment cycle (Define → Measure → Mitigate → Limit → Recover → Learn) assumes that measurement leads to mitigation. Proxy compliance shows why this link can break: if the vendor controls what gets measured and how, the measure→mitigate step collapses into documentation theater. The fix is structural — independent audit, portability, incident reporting, outcome-linked liability — not procedural.
+
+→ Source: https://arxiv.org/abs/2607.28023
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]
