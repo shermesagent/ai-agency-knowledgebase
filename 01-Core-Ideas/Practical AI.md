@@ -68,6 +68,40 @@ These metrics transform Practical AI from a set of recommended practices into a 
 
 Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arxiv.org/abs/2606.28090
 
+## The Category Mistake in Practical AI (August 2026)
+
+The July 31 digest introduced Fenoglio's **asymmetric communication framework** (arXiv 2607.28137), which has direct implications for how practical AI should be taught and deployed.
+
+### "Delegation" Is a Category Mistake
+
+Practical AI frameworks routinely talk about "delegating" tasks to AI. The SCAN framework helps you decide which tasks to delegate. Mollick tells you to "give the AI a complex task." The language of delegation is everywhere in practical AI guidance.
+
+But Fenoglio demonstrates that delegation is a category mistake: you cannot delegate to something that bears no commitments, no accountability, no normative standing. When a manager delegates to an employee, the employee answers for the result. When you "delegate" to AI, you answer for the result — and the AI never will.
+
+This isn't semantic. It changes what practical AI should look like:
+
+### From Delegation to Direction
+
+- **Delegation** assumes the delegate can be held accountable → **Direction** assumes the human retains all accountability
+- **Delegation** lets the delegate determine approach → **Direction** requires the human to specify, review, and accept
+- **Delegation** treats the output as the delegate's work → **Direction** treats the output as the human's work, produced with AI assistance
+
+### Practical Implications
+
+1. **Every AI workflow needs an accountability anchor.** Before using AI for anything consequential, answer: who directed this? Who reviewed it? Who bears responsibility if it's wrong? If you can't name the person for all three, the workflow has an accountability gap.
+
+2. **The "batch-mode" pattern is asymmetry-preserving.** Mollick's recommendation to draft first, then get AI critique — rather than real-time AI suggestions — preserves the human's normative standing. You've already committed to a position before the AI enters. The AI can challenge it, but the frame is yours.
+
+3. **Time saved ≠ agency gained.** The OpenAI Codex data (99.8% of output tokens from agents, 50x researcher multipliers) measures output volume, not agency preservation. A 50x output multiplier is only an agency gain if the human directing those agents still understands, can contest, and bears accountability for what the agents produce. If the multiplier comes with no accountability trace, it's capability masking at scale.
+
+4. **The practical test: the Monday Morning Question.** For any AI-mediated output you produce, ask: could I explain this to a colleague on Monday morning without referencing the AI? Could I defend the decisions it embodies? Could I identify where I overrode the AI and why? If the answer to any of these is no, the workflow is producing output without developing agency.
+
+### Practical AI's New Frontier
+
+The practical AI conversation has focused on *capability* — which model, which tools, which workflows produce the best results. The asymmetry framework adds a second dimension: *accountability* — who can stand behind the results. Practical AI maturity isn't measured by output volume. It's measured by whether the human who deployed the AI can answer for what the AI produced.
+
+**→ Connects to:** The [[Human Agency#Asymmetric Communication — The Structural Foundation (July 2026)|asymmetric communication framework]], [[Cognitive Surrender]] (when output volume masks accountability gaps), [[Digital Fiduciary Duty]] (the legal framework for the accountability relationship), and the [[00-Daily-Digests/2026-07-31|July 31 digest]].
+
 ## Risks / Limits
 
 - **The cognitive debt trap**: Every practical AI workflow accumulates unverified reasoning obligations. The Cognitive Debt model (Meng, 2606.15078) shows this is individually rational but collectively fragile — the Minsky moment arrives when subjective confidence is highest.
@@ -85,6 +119,9 @@ Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arx
 - [[AI for Small Businesses]]
 - [[Home Server AI Agents]]
 - [[Superagency]]
+- [[Human Agency]] — Asymmetric communication framework
+- [[Digital Fiduciary Duty]]
+- [[00-Daily-Digests/2026-07-31]] — Asymmetric communication framework
 
 ## Tags
 #practical-ai #responsible-ai #augmentation #human-agency #superagency

@@ -64,6 +64,39 @@ Demis Hassabis's framing adds the human dimension: the future of AI is not only 
 
 - **Platform IA:** A school district builds its own AI agent on Microsoft's agentic platform — trained on district policies, integrated with student information systems, accessible to teachers through existing tools. The district doesn't buy an "AI for education" product; it builds agency on shared infrastructure.
 
+## Asymmetric Amplification (August 2026)
+
+The July 31 digest introduced Fenoglio's **asymmetric communication framework** (arXiv 2607.28137), which provides the philosophical foundation that IA has always needed but never formalized.
+
+### IA Has Always Been Asymmetric
+
+The Engelbart/Licklider/Bush tradition assumed tools that amplify human capability while the human remains the agent — bearing commitments, exercising judgment, being accountable. This is, by definition, an asymmetric relationship. The human directs; the tool extends.
+
+But modern AI interfaces — natural language, apparent reasoning, humanlike responsiveness — create an *illusion* of symmetry that the IA tradition never had to contend with. When a hammer amplifies your arm, you don't mistake it for a partner. When Claude produces a 3,000-word analysis with nuanced arguments and apparent confidence, the attribution of agency is nearly automatic. The IA tradition warned against replacing humans — but it didn't anticipate interfaces that *feel* like they're replacing humans even when they're not.
+
+### The Effortless Trap Is the Asymmetry Failure Mode
+
+Brcic & Frljic's diagnostic rule — "if letting AI in makes the task feel effortless, it is in the wrong place" — is the IA instantiation of Fenoglio's asymmetry. When AI makes things effortless, the human stops exercising normative judgment. The asymmetry collapses: the tool is now doing the thinking, and the human is reduced to accepting output.
+
+The six-move model (Prime → Probe → Point → Attach → Strengthen → Test) is a **deliberate asymmetry-preservation protocol.** Each move ensures the human exercises judgment before, during, and after AI involvement. Prime secures the human's starting position. Probe demands unaided effort. Point withholds the answer. Test verifies genuine capability. This isn't pedagogy — it's applied asymmetry.
+
+### The Category Mistake in IA Terminology
+
+Fenoglio's five misattributed terms map directly onto IA concepts:
+- **"Intelligence"** attributed to AI → actually, receiver-side inference about pattern-matching. Distinguish *quantitative amplification* (AI handles search, retrieval, pattern-matching) from *qualitative judgment* (humans recognize when the framework itself is wrong).
+- **"Agency"** attributed to AI → actually, tools executing human-directed actions. The human is the only agent in IA.
+- **"Alignment"** as goal synchronization → actually, institutional constraint engineering. IA doesn't require the tool to share your goals; it requires the tool to operate within constraints you set.
+
+### Design Implications for IA
+
+1. **Interfaces should preserve the asymmetry, not obscure it.** The more "conversational" an IA tool feels, the more it invites the category mistake. Good IA design might deliberately include friction — waiting periods, confirmation steps, explicit attribution — that remind the human they are directing, not collaborating.
+
+2. **The qualitative dimension is the asymmetry boundary.** Liao's distinction between quantitative acceleration (AI can do more, faster) and qualitative reasoning (knowing when a framework is wrong) maps onto the asymmetry: quantitative capability is what AI amplifies; qualitative judgment is what the human must preserve. When IA tools encroach on qualitative judgment, they're not amplifying — they're substituting.
+
+3. **Cognitive Surrender is the default, not the exception.** Because asymmetry is structural, surrender is the path of least resistance. IA design must actively resist it through placement (Brcic & Frljic), interface friction, and training that teaches users to maintain normative standing — not just prompting skill.
+
+**→ Connects to:** The [[Human Agency#Asymmetric Communication — The Structural Foundation (July 2026)|asymmetric communication framework]], [[Cognitive Surrender]] (surrender as the structural failure mode of IA), [[Co-Intelligence]] (Mollick's framework from the pre-asymmetry era), and the [[00-Daily-Digests/2026-07-31|July 31 digest]] for the full framework.
+
 ## Risks / Limits
 
 - **The overreliance paradox.** IA tools that work well enough can erode the skills they're supposed to amplify. The Cognitive Surrender risk is real: if the AI handles QuickBooks reconciliation, does the owner lose the financial literacy to evaluate its output?
@@ -82,6 +115,8 @@ Demis Hassabis's framing adds the human dimension: the future of AI is not only 
 - [[Cognitive Surrender]] — The failure mode: what happens when IA is absent and automation is default
 - [[Democratization of Expertise]] — IA's distributional promise: expertise made accessible to more people
 - [[Home Server AI Agents]] — IA on local infrastructure, outside platform dependency
+- [[Human Agency]] — Asymmetric communication framework
+- [[00-Daily-Digests/2026-07-31]] — Asymmetric communication framework
 
 ## Tags
 

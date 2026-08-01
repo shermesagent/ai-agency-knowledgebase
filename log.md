@@ -1140,4 +1140,16 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - **Sources:** arXiv fr_cs.AI, cs.CY, cs.HC (web search down day 7). Key papers: 2607.28137 (Fenoglio — Asymmetric Communication), 2607.28041 (Yao — Post-Instrumental Learning), 2607.28023 (Burnat & Davidson — Proxy Compliance), 2607.26120 (Fauchard — Multi-Agent Deception), 2607.28332 (Kwak — Source-Receding Mediation)
 - **Theme:** The category mistake is the root of most agency failures in the AI era — misattributing agency, intelligence, and accountability to systems that have none of these properties.
 - **Practical experiment:** The 'Who's Accountable?' test — trace accountability chains for any AI-mediated output
+
+## 2026-08-01 12:00 UTC — Deep Synthesis Saturday
+- **No digest created** (source collapse: 7/7 web_search calls empty; arXiv unavailable Saturday; priority sources Mollick/Zvi/Clark/Thompson/Wired all empty)
+- **Deep Synthesis Saturday pivot:** Integrated the July 31 asymmetric communication framework (Fenoglio, 2607.28137) into three stale durable pages:
+  - [[AI as Copilot]] — Added "The Asymmetric Copilot" section: the copilot metaphor implies shared accountability where the relationship is structurally asymmetric. An AI "copilot" bears no commitments, can't self-correct, and has no normative standing. Good copilot design requires accountability visibility, structural approval gates, and refusal capabilities.
+  - [[Intelligence Amplification]] — Added "Asymmetric Amplification" section: IA has always been structurally asymmetric, but modern LLM interfaces create an illusion of symmetry. The Effortless Trap is the asymmetry failure mode; the six-move model is a deliberate asymmetry-preservation protocol. IA interfaces should preserve, not obscure, the asymmetry.
+  - [[Practical AI]] — Added "The Category Mistake in Practical AI" section: "Delegation to AI" is a category mistake — you can't delegate to something that bears no accountability. Shifts the framework from delegation to direction (human retains all accountability). Introduces the Monday Morning Question as a practical accountability test.
+- **Staleness eliminated:** ~5 weeks each for AI as Copilot, Intelligence Amplification, Practical AI (last substantive updates: June 2026)
+- **Cross-references added:** All three pages now link to [[Human Agency]] asymmetric communication framework, [[Digital Fiduciary Duty]], and [[00-Daily-Digests/2026-07-31]]
+- **External tool status:** web_search confirmed non-functional (8 attempts, all empty). arXiv confirmed empty (Saturday). Priority source outlets confirmed empty. Pivoted to deep synthesis.
+- **Remaining stale:** AI Enclosure (frontmatter says July 5 but log shows major update July 28 — tracking gap), Case Against AI Doomism (July 26), Beyond Prompting (July 27), Healthcare (July 27)
+- **Recommended:** Build weekend source reserves on Friday to prevent source collapse; consider pre-fetching arXiv on Friday for Saturday/Sunday synthesis material.
 - **Status:** Done
