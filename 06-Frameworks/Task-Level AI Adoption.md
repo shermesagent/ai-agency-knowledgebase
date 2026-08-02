@@ -56,6 +56,20 @@ This connects to the [[Future of Work#The Exchange Layer|Exchange Layer]] — th
 
 → Source: https://arxiv.org/abs/2607.19375
 
+### Economic Readiness Data: MirrorCode (August 2026)
+
+The MirrorCode benchmark (Epoch/METR, July 2026) provides the first cost-adjusted frontier data for agentic coding at realistic repository scale: 22 programs plus scaffold, 132 task instances, 6 languages, drawn from real GitHub repos (examples pkl at 61k LOC, gotree at 16k, qsv_select at 87k).
+
+**Results:**
+- **One model (Opus 4.7) solved a task in 14 hours for $251** — vs. an estimated **2–17 human weeks** for the same work
+- 17 of 25 targets had at least one perfect run; 4 of 25 near-perfect (≥99%)
+- 8 of 25 never solved to 100%; 4 of 25 never even to 99%
+- Hardest tasks: `ruff` (Python linter), `giac_subset`, `mailauth`
+
+**What this does to task classification:** For a meaningful slice of real-world coding tasks, agentic AI is now 5–20× cheaper and 100–500× faster than human labor on a per-task basis — while still failing completely on roughly a third of targets. MirrorCode moves the economic-readiness question from "can agents do this?" to "which tasks, at what reliability threshold, under what supervision?" Tasks that pass economic readiness on cost-adjusted performance (large, well-specified, verifiable code changes) now default to "automate — with review," while tasks in the 8/25 failure bucket (linters, legacy toolchains, niche ecosystems) stay "augment" until reliability improves. The 14h/$251 number is the benchmark anchor for the whole category shift: it converts the economic threshold from theory to measurement.
+
+→ Source: [Import AI 466](https://importai.substack.com/p/import-ai-466) (2026-07-27), MirrorCode benchmark coverage
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

@@ -1,7 +1,7 @@
 ---
 title: Beyond Prompting — Phase 2 → Phase 3 Transition
 created: 2026-06-19
-updated: 2026-07-27
+updated: 2026-08-02
 type: framework
 tags: [framework, transition, maturity, prompting, agents, abstraction]
 confidence: high
@@ -116,6 +116,24 @@ The five-layer agency architecture, developed across [[00-Daily-Digests/2026-07-
 **The FlowEvo lesson for districts:** The most valuable thing an agentic system can do is not execute a task — it's *remember how to execute it and get better at it over time.* A school district that deploys Phase 3 agents without Phase 3.5 skill accumulation gets temporary productivity. A district that builds skill banks gets compounding institutional intelligence. The transition from Phase 2 to Phase 3 is a step function. The transition from Phase 3 to Phase 3.5 is an exponential.
 
 **Staleness correction:** This page was 38 days stale (updated June 19). The Sunday July 26 staleness tracker listed AI for Small Businesses at 36d and AI Enclosure at 21d, but filesystem timestamps reveal both were updated in mid-July (July 20 and July 19 respectively). The actual stale pages as of July 27 are this one and [[02-Domains/Healthcare|Healthcare]] (32d). The staleness tracker has been corrected in today's digest.
+
+## The Agentic Interface (August 2026)
+
+Mollick's July 2026 opinionated guide ("An opinionated guide to which AI to use to do stuff") documents the consumer-market arrival of the Phase 3 transition: *"Until recently, using AI meant talking to a model through a chatbot... Now, it means using an agentic system... Basically, an agentic system gives an AI a computer to use."* The interface shift this page predicts has landed in mainstream tools — and it changes what users need to select.
+
+**The new selection space has four dimensions, not one:**
+1. **Model tier + thinking level** — For high-stakes advice (medical/legal second opinions), Mollick recommends the most advanced models (Claude Opus/Fable or GPT-5.6 Sol) set to at least "High" thinking levels, because they have lower error rates on complex fields. You now pick *both* a model and its reasoning budget. Low-stakes chat: any free model is "at least fine."
+2. **Interface orientation — results vs. work** — ChatGPT (Work/Codex) and Claude (Cowork/Code) don't map names to capabilities. Work/Cowork emphasize the *finished result* (presentation, analysis, file set); Codex/Claude Code expose the *work itself* (files changed, commands run, tests performed, change records). Choose by whether you want to review output or supervise process.
+3. **Access scope — company computer vs. YOUR computer** — The most powerful mode is "computer use": the agent literally takes over your mouse, browser, and computer. Mollick: "Yes, this is a security concern, so you should proceed carefully, yet the results can be amazing." This is the approval-gate decision point — the security architecture of the deployment (see [[Responsible Deployment#The Galaxy Incident|The Galaxy Incident]]).
+4. **Task delegation posture — "more like managing than chatting"** — "You don't need to be good at prompting, but rather at asking for what you want and correcting the AI when it doesn't get your intentions." Instructing agents is now closer to managing people: state intent, review output, request changes.
+
+**The management-shift evidence:** Mollick gave GPT-5.6 Sol in Codex his book PDF and asked for a full check. The AI worked 30 minutes, chased down 195 references, produced zero hallucinated citations — and was "incredibly nitpicky," which he rejected with human judgment. His framing: "working with these systems is more like managing than it is chatting," and "the more expensive plans are mostly buying you more hours of AI labor, not smarter AI" (the $20 tiers include real but limited agent usage).
+
+**Market note for adopters:** Google "has fallen behind where it now counts" — no leading frontier model, nothing close to Codex/Code — though Gemini Notebook remains the best interface for multi-source research and Gemini Omni is a genuinely different video tool (an LLM that sees and edits video directly). For most users, the practical choice is ChatGPT or Claude, $20, and one real task.
+
+**The Phase 3 confirmation:** This guide is the mainstream-tool proof of the Phase 2 → 3 transition: the unit of interaction is no longer the prompt but the *delegated outcome*, and the human skill that matters is calibration — knowing what to approve, what to reject, and what not to hand over. That is [[Task-Level AI Adoption]] applied at the interface layer, and it is why the "manage, don't chat" frame is the operating manual for Phase 3.
+
+→ Source: [Mollick, "An opinionated guide to which AI to use to do stuff"](https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai) (2026-07-23)
 
 - [[AI Agent Revolution]] — The broader agent paradigm shift
 - [[AI for School Districts]] — Concrete use cases for district operations
