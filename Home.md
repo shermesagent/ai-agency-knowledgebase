@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-08-03 | Reward Hacking, The Cognitive Commons, Responsible Deployment, Future of Work, Frontier Firm, Family and Personal Life, Adoption Readiness Checklist, Healthcare, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-03, Home |
 | 2026-08-02 | Beyond Prompting, Case Against AI Doomism, Responsible Deployment, Task-Level AI Adoption, 00-Daily-Digests/2026-08-02, Home |
 | 2026-08-01 | AI as Copilot, Intelligence Amplification, Practical AI |
 | 2026-07-31 | Cognitive Surrender, Human Agency, Education, Balanced Governance, 00-Daily-Digests/2026-07-31 |
@@ -138,15 +139,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. Most pages have been touched by daily curator runs; the remaining stale pages are primarily Source Library indexes and a few domain pages not yet reached in rotation.
+Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. Daily curator runs have kept a rotating core of pages current, but a long tail of pages has not been reached in rotation — the table below is recomputed from git commit dates and reflects the actual state after each run.
 
 **Pages not updated in 7+ days (crossed threshold):**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~3 pages | Beyond Prompting (38d), AI for Small Businesses (37d), AI Enclosure (22d) — scheduled for rotation |
-| 5–7 days | ~1 pages | — |
-| < 3 days | ~79 pages | Cognitive Surrender, Co-Intelligence, AI Agent Revolution, AI Coding Agents, Agentic Convergence Trap, Education (all updated today) |
+| 8+ days | ~41 pages | AI Field Experiment Evidence (71d), Knowledgebase Tool Comparison (71d), AI-Augmented Scientific Collaboration (69d), Agentic Business Transformation (64d), AI Use Case Evaluation Rubric (64d) — oldest, scheduled for rotation |
+| 5–7 days | ~6 pages | AI for Small Businesses (6d), AI and Inequality (6d), AI Enclosure (6d), Generative Refusal (5d), Democratization of Expertise (5d), Co-Intelligence (5d) |
+| < 5 days | ~21 pages | Reward Hacking, The Cognitive Commons, Responsible Deployment, Future of Work, Frontier Firm, Healthcare, Adoption Readiness Checklist, Family and Personal Life (all updated today) |
 
 ---
 

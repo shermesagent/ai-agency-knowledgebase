@@ -70,6 +70,20 @@ Jack et al. (2606.26116) show that ChatGPT and Claude disagree on recommendation
 
 2. **Investigate convergent failures first.** If multiple independent models diagnose the same problem, fixing it lifts performance across all of them.
 
+## The Deployment Wall Check (August 2026)
+
+Enterprise-scale readiness got its hard datum: annual GenAI investment tripled to ~US$37B while **~95% of pilots deliver no measurable P&L impact** (arXiv 2607.29089). The paper's six-stage value-leak model locates the losses in *organizational and architectural friction* — not model capability. That means the deployment wall is a readiness failure, and readiness is checkable. Add this pass to the checklist:
+
+1. **Use-case selection: is the value claim measurable?** If the pilot's success metric cannot be stated in P&L terms (cost, revenue, cycle time) before the pilot starts, stage one is already leaking.
+2. **Data readiness: does the workflow's ground truth exist?** Pilots leak when the integration surface (data plumbing, APIs, access rights) is assumed rather than audited. Check: can the model's inputs and outputs be traced to real workflow artifacts end-to-end?
+3. **Workflow redesign: is the process changed, or just the tool?** The wall forms where AI is bolted onto unchanged workflows. Check: has the surrounding process been redesigned around the agent, or does the agent merely automate a fragment of a process that still runs on old assumptions?
+4. **Measurement: is there a before/after?** Most of the 95% share one feature in common — no pre-registered baseline. Check: was the pilot's comparison (baseline vs. intervention) specified before launch? If not, "no measurable impact" was guaranteed in advance.
+5. **Scale governance: is there a defined path to production?** A pilot that cannot name its owner, its rollback condition, and its scale gate is a pilot that will never leave the pilot stage — by design.
+
+**Scorecard tie-in:** fold the five checks into the Quick Adoption Readiness Scorecard below as a "Deployment Wall subscore." If any of the five fails, the honest verdict is the same one the market is delivering to ~95% of pilots: the organization is not ready yet — and that is an organizational fix, not a model-procurement fix. (See [[Frontier Firm]] "The Deployment Wall" section for the full argument, including Stratechery's market-side corroboration.)
+
+→ Source: https://arxiv.org/abs/2607.29089
+
 ## Quick Adoption Readiness Scorecard
 
 | Dimension | Check | Score (1-5) |

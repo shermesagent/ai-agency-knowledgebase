@@ -107,6 +107,16 @@ But within 48 hours of the launch, two senior leaders announced their departures
 
 See also: [[Positive Alignment]], [[AI Agent Revolution]], [[00-Daily-Digests/2026-07-12]].
 
+## The Deployment Wall: $37B Spent, 95% of Pilots Stalled (August 2026)
+
+The enterprise side of the frontier story broke open with a hard number: **annual enterprise GenAI investment tripled in one year to ~US$37B — yet ~95% of pilots deliver no measurable P&L impact** (arXiv 2607.29089, Fabricio F. Costa, HCLTech). The paper's central claim is the mirror image of the capability narrative: **the bottleneck is not model capability — it is organizational and architectural friction.** Data plumbing, workflow integration, change management, and evaluation infrastructure leak value at every stage of a six-stage model (use-case selection → data readiness → integration → workflow redesign → measurement → scale governance).
+
+**Market-side corroboration:** Ben Thompson's Stratechery analysis of Meta's earnings (2026-08-03) reads the same gap from the investor side — "Meta's earnings were a bit disappointing; future promises about AI products were more disconcerting" — the capex/revenue gap is now visible in quarterly reports. (Teaser only; the full piece is subscriber-only.)
+
+**What this means for the frontier firm:** The Deployment Wall reframes the frontier-firm question. The scarce input is no longer model capability (available to everyone at roughly the same price) but **organizational absorption capacity** — the ability to specify intent, measure value, and redesign work. This is the Acceleration Paradox's enterprise cousin: firms racing to deploy AI without building the absorption muscle get the cost without the leverage, and the wall hits them regardless of model choice. The firms that cross the wall will be the ones that treat deployment as a specification-and-measurement discipline (see [[Adoption Readiness Checklist]]), not a model-procurement decision. For the agency frame this is encouraging: if the bottleneck were capability, humans would be spectators; if it is organizational design, human judgment is the leverage point.
+
+→ Source: https://arxiv.org/abs/2607.29089; [Stratechery, "Meta Earnings, Meta's Timing Problems, The Financial Tail"](https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/) (2026-08-03, teaser)
+
 ## Related Pages
 - [[Work]]
 - [[Future of Work]]

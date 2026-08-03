@@ -105,6 +105,26 @@ These principles operationalize the [[The Abstention Layer]] and [[The Calibrati
 
 → Source: https://arxiv.org/abs/2607.19941
 
+### The Sysadmin Expertise Ladder: Mentor and Ladder-Shortener at Once (August 2026)
+
+A 14-interview study of IT professionals (arXiv 2607.28650, Abou Khamis, Assal, Matrawy) documents what "compression of traditional expertise pathways" actually looks like inside one profession. The findings:
+
+- **The tutor role is real:** GenAI acts as a mentor-like tutor — juniors reach task-level competence in months instead of years, with on-demand explanation replacing the slow accumulation of trial-and-error.
+- **But the ladder is being shortened from underneath:** the traditional pathway — years of incremental troubleshooting that built judgment, pattern recognition, and the instinct for *what could go wrong* — is compressed. Workers report performing better on tasks while experiencing a shallower understanding of the systems beneath the tool.
+- **Performance perception diverges from expertise formation:** people look more competent (and feel more competent) faster, while the underlying internalized skill grows more slowly than the performance signal suggests. This is the [[The Cognitive Commons]] mechanism (Distributed vs. Internalized Mastery) observed in the field: the tool carries the load, and the load does not transfer.
+
+**For the agency frame:** this is augmentation with a deferred bill. The productivity dividend is real and immediate; the expertise deficit shows up later, precisely when the tool changes, fails, or is absent. The mitigation is deliberate practice design — the "build internal learning ladders" recommendation below is not a nice-to-have, it is the countermeasure to ladder-shortening. If the first rungs of the expertise ladder are being removed across sectors simultaneously (see the drive-thru section), the shape of the career ladder itself changes.
+
+→ Source: https://arxiv.org/abs/2607.28650
+
+### The AI Drive-Thru Arrives: Voice Agents in Fast Food (August 2026)
+
+WIRED's Kate Taylor documents the first mass-market voice-agent rollout: **Taco Bell runs AI ordering at 890 drive-thru lanes** (>10% of US locations), **Dairy Queen in 25 states**, and **12% of White Castles use "Julia."** The lineage goes back to McDonald's Apprente acquisition (2019); today's wave is powered by Presto and SoundHound partnerships. This is millions of real transactions per week through autonomous voice agents — the largest consumer-facing agentic deployment to date, and the fastest (from pilot to scale in months, not years).
+
+**Why this is a Future of Work page item, not just a product story:** it is the augmentation-vs-replacement question at scale, in the labor market's most visible entry-level segment. WIRED reports the labor math that pushed chains to automate — turnover above 100% annually makes the agent cheaper than the churn. But the job being automated was the traditional first rung of the workforce ladder for millions of young and part-time workers. Combined with the sysadmin ladder-shortening finding, the pattern is not sector-specific: **entry rungs are being compressed or removed across very different industries at the same time.** What replaces the entry rung — a new rung (maintaining and supervising the agents), or nothing — is the open question this page will track.
+
+→ Source: [WIRED, "AI Conquered Coding. Fast Food Is Next"](https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/) (Kate Taylor, 2026-08-03)
+
 ## Practical Examples
 - Redesign one recurring process as a [[Frontier Firm]] workflow: AI drafts or routes the work, humans set goals and inspect exceptions, and the team measures whether quality and agency improve.
 - Use [[Task-Level AI Adoption]] to label tasks as augment, automate, preserve-human, or prohibit-AI — and add the economic readiness check from EconEvals before deployment.

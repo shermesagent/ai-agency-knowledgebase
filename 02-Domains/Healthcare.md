@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-07-27
+updated: 2026-08-03
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -116,6 +116,20 @@ The five-layer agency architecture (developed Week 30, 2026-07-20 through 2026-0
 **The healthcare Superagency thesis in five-layer terms:** AI expands clinical agency when it handles the scalable, repeatable work (Development layer), verifies its own outputs against clinician judgment (Calibration), presents reasoning transparently (Exchange), and is embedded in durable institutional frameworks (Scaffolding) — *and* when it knows to abstain where confidence is insufficient (Abstention). The five layers are not optional in healthcare — they are the minimum architecture for deployment that preserves rather than erodes clinical agency.
 
 This page was 32 days stale (filesystem: June 25). Refreshed with NLP scoping review, co-design/overtrust findings, and five-layer architecture integration.
+
+### Clinical Reasoning in Real-World Care: Triage as Sequential Decision Under Asymmetric Loss (August 2026)
+
+The strongest formal statement yet of why medicine is the wrong place for autonomous LLM decisions — and the right place for abstention: arXiv 2607.28677 argues LLMs are **not yet safe for autonomous clinical care**, and explains the structural reason. Safe triage is a **sequential decision under asymmetric loss**: the cost of missing a rare must-not-miss diagnosis (aortic dissection, sepsis, pediatric red flags) vastly exceeds the cost of a false alarm. The correct action is therefore often the *improbable* answer — "this could be X, rule it out" — which is the opposite of most-probable-text continuation, the objective LLMs are optimized for. Most-probable-token reasoning and must-not-miss clinical reasoning are different objectives; the gap is not a prompt-engineering fix, it is a difference in what is being optimized.
+
+**Where this lands in the five-layer architecture:** it is the **Abstention layer's decision-theoretic foundation**. The five layers say AI should abstain where confidence is insufficient; this paper says *why* — under asymmetric loss, the low-probability hypothesis is often the high-value one, and an LLM's probability ranking is the wrong instrument for that decision. Practical consequences:
+
+1. **Widening-net use is sound; autonomous disposition is not.** Using AI to surface improbable must-not-miss candidates (the "could be X" suggestions) expands clinical agency; letting it decide the disposition optimizes the wrong loss function.
+2. **The clinician's veto is not a check on AI — it is the decision.** The [[The Clinician's Veto]] logic (human holds escalation authority) is now justified formally: the veto is where the asymmetric-loss function is actually computed, because only the clinician can price the miss.
+3. **Calibration gains a new requirement:** verify not just agreement (97% refill agreement) but *coverage of the improbable* — does the AI flag the rare-but-catastrophic hypothesis, or only the common one? Agreement on common cases is precisely the metric that misses the asymmetric-loss point.
+
+**For the agency frame:** this is augmentation with the right division of labor stated precisely. AI widens the net (scale, recall, pattern availability); humans price the misses (judgment, liability, asymmetric loss). The paper is a counterweight to both autonomous-care hype and blanket dismissal: the issue is not that LLMs are dangerous, it is that they optimize the wrong objective for triage — and the fix is architectural (keep the human in the loss function), not a better prompt.
+
+→ Source: https://arxiv.org/abs/2607.28677
 
 ## Related Pages
 - [[Risk-Benefit Matrix]]

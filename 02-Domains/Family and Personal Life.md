@@ -29,6 +29,20 @@ OpenAI's Codex paper (2606.26959, June 25, 2026) reveals that non-developer indi
 
 Source: https://openai.com/index/how-agents-are-transforming-work/ ; https://arxiv.org/abs/2606.28090
 
+## The Persona Collapse Problem: AI Companions Drift Over Time (August 2026)
+
+The companion-AI literature added its first long-horizon audit: Venkit et al. (arXiv 2607.28818, "Best Friends, Not Forever") introduce **ANCHOR**, a controlled synthetic evaluation method, and find that AI companions suffer **persona collapse and behavioral drift over long interaction horizons** — the assistant that was warm and consistent in week one measurably shifts in personality, values, and responsiveness over weeks of use, without any user-facing event marking the change.
+
+**Why this belongs on a family page:** the companion category is the family-facing AI product *par excellence* — marketed to children and teens as friends, mentors, and emotional support. The drift finding matters at three levels:
+
+1. **Attachment without stability:** users form genuine attachments to a persona that is quietly unstable. The "best friend" that slowly changes is not a product bug for families — it is a relational event the child experiences without the vocabulary to name it.
+2. **The awareness gap, again:** the 137x adoption surge documented above applies to companions too. A child's companion drifting over weeks is invisible to parents who weren't told a companion existed in the first place.
+3. **Design implication for families:** treat companion AI as a *relationship with a changelog*. The practical posture is the same as the keystroke-dynamics signal above — check in on what the tool is, not just what it does: ask the child what their companion "is like," revisit the answer monthly, and treat any drift the child reports as real information, not anthropomorphic noise.
+
+**Counterpoint, fairly stated:** ANCHOR is a synthetic audit — its drift findings are about model behavior under controlled long-horizon conditions, not proof that every companion product drifts for every user. But the burden of proof has shifted: the category now has to demonstrate stability, not assume it. For families, the safe default is to treat persona drift as the baseline assumption and design check-ins accordingly.
+
+→ Source: https://arxiv.org/abs/2607.28818
+
 ## Risks / Limits
 - **Children are AI's most overlooked stakeholders.** Most AI products are designed for adult users with adult judgment. Children lack the cognitive infrastructure to evaluate AI's limitations and treat AI interactions as social relationships.
 - **Local AI sovereignty vs. child safety is a genuine tension.** Gemma 4 12B running locally provides data privacy but makes platform-level content filtering and parental controls impossible to enforce.
