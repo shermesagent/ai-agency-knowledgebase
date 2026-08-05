@@ -121,6 +121,10 @@ Each higher layer operates only for those who have access. The Enclosure Layer a
 - **Identify single points of enclosure failure:** For each AI capability you depend on, ask: if this specific service shut down or gated its best features, could I replicate 80% of the value with local tools? If not, you have a single point of enclosure failure.
 - **Support participatory AI infrastructure:** The Scaling Participation finding (arXiv 2606.07812) showed that bottom-up, diverse, participatory AI architectures outperform monolithic ones. Choosing tools built on this architecture is a practical counterforce to enclosure.
 
+## Enclosure Mechanism #5: Hardware Import Bans (2026-08-05)
+
+The FCC's ban on foreign imports of advanced robots (humanoids, quadrupeds, wheeled) is enclosure at the **hardware layer** — the deepest yet, because unlike model weights, robots cannot be copied across borders. The mechanism's internal contradiction: **90% of recent US university robotics research papers relied on the banned hardware** (Unitree, ~$4,600 vs Boston Dynamics ~$278,000 — a 60× gap), and Unitree's IPO targets ~$6B with no US firm shipping at comparable scale (MIT Technology Review, 2026-08-03). So the ban encloses the *means of building* the field it claims to protect: the research base gets taxed while the capability gap persists — the jailbreak fallacy at the hardware layer (see [[Export Controls and the Jailbreak Fallacy]]). The reportedly-considered ban on open-source Chinese models ($25B in annual savings at stake) would extend the same structure to weights. Counterforce lens: the measured local-inference floor ([[Home Server AI Agents]] — sub-watt-hour per thousand tokens) means the bottom of the stack stays open even as top-layer hardware gates shut.
+
 ## Risks / Limits
 
 - The enclosure frame can slide into fatalism — "everything is gated, nothing is accessible" — when in reality open-weight models and local inference provide substantial access outside the subscription model

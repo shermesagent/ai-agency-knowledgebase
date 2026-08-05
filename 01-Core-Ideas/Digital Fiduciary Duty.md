@@ -38,7 +38,10 @@ The [775K scientist study](https://arxiv.org/abs/2607.20923) (Zheng et al., July
 ### Design Requirement: The Productive Friction Mandate
 A true digital fiduciary must include intentional friction — moments where the AI withholds the full answer to preserve the user's capacity to think. This is the opposite of current AI design, which optimizes for seamlessness. The Scaffolding Layer suggests that seamlessness is a bug, not a feature, when the goal is agency preservation.
 
-See also: [[Cognitive Surrender]], [[Co-Intelligence]], [[00-Daily-Digests/2026-07-24]].
+### The Measurable Consciousness Question
+The CCE framework (Conservation-Congruent Encoding, arXiv 2608.00001) revisits Leibniz's mill, Turing, and Searle to argue that consciousness for AI-safety purposes can be **operationalized**: a measurable property (κ_T, operational consciousness) distinct from task performance, evaluated via conservation-congruent encoding rather than behavior alone. The fiduciary implication: if consciousness is operational rather than binary, **duty-of-care obligations become decidable in principle** — you can specify what care a system's measured properties require, and audit against that specification. The companion argument (arXiv 2608.03361, The Evolutionary Origin of Values) cuts the other way: values emerge from autopoiesis (living systems maintaining themselves), LLMs are allopoietic and allotelic (outputs for others, goals from prompts, no intrinsic drives, no embodied vulnerability for suffering), so the orthogonality thesis does not apply to them and value alignment is a curation problem. Both readings converge on the same governance ground: the duty question is **specification, not mysticism** — which is exactly where a fiduciary framework can operate.
+
+See also: [[Cognitive Surrender]], [[Co-Intelligence]], [[00-Daily-Digests/2026-07-24]], [[00-Daily-Digests/2026-08-05]].
 
 ## Risks / Limits
 - **Platform business models rely on the absence of fiduciary duty.** If AI must serve users rather than platforms, free AI services become difficult to sustain. The economics of "AI for everyone" may depend on the user-as-product model.

@@ -23,6 +23,16 @@ A Superagency-style knowledgebase needs optimism that can survive measurement. F
 - Short-term productivity gains may mask long-term deskilling, overreliance, or hidden review costs.
 - Sponsored or vendor-adjacent studies need extra attention to methods, incentives, and measured outcomes.
 
+## The Shadow Evaluation (2026-08-05)
+
+**The experiment:** A consortium (Princeton, Cornflower Labs, UK AI Security Institute, Toronto, UC Berkeley, Georgetown CSET, Johns Hopkins, Golden Gate Institute for AI, AI Digest, Stanford) ran Claude Opus 4.8 in an OpenClaw harness against **two unpublished NeurIPS 2026 submissions** — a shadow evaluation: can a frontier agent do the research, as opposed to the engineering?
+
+**The result:** Personas paper scored **2 ("Reject")**; TabPFN paper scored **1 ("Strong Reject")**. Jack Clark's reading of the failure mode: the agent **committed to narrow research paths early, ignored synthetic feedback, and could not reverse out of unpromising approaches** — "good engineers, poor researchers." The result rhymes with earlier Anthropic shadow evals and Import AI's own "First Proof" (#445) and RSI (#455) threads: "the singularity could be delayed" — unverifiable research craft, not formalizable capability, is the frontier bottleneck.
+
+**Why it's a field experiment:** This is field-experiment methodology applied to *agent capability* rather than human outcomes: real (unpublished) task materials, an instrumented harness, blinded evaluation, and an institutional consortium to make the measurement repeatable. The design lesson for AI field experiments: **evaluate the agent on the task class you actually care about (creative research), not the benchmark that exists.** The finding also validates the wiki's existing negative-result discipline: null results are design information — here, they locate taste, problem selection, and reversal-of-commitment as the human comparative advantage.
+
+→ Source: Import AI 467 (Jack Clark, 2026-08-03). See [[00-Daily-Digests/2026-08-05]] (Good Engineers, Poor Researchers) and [[Pacing the Frontier]].
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[AI Use Case Evaluation Rubric]]

@@ -107,6 +107,16 @@ Source: Zeyi Yang & Matt Burgess, "How People in China Keep Outsmarting Anthropi
 - The article is from an AI-optimism perspective; the government may genuinely believe the national security threat was real, even if the jailbreak rationale is technically weak.
 - The author is Belgian, personally affected by the ban, and acknowledges this perspective.
 
+## The Robot Import Ban (2026-08-05)
+
+**What happened:** The FCC issued a sweeping ban on foreign imports of advanced robots — humanoids, quadrupeds, and wheeled robots — citing national security (data collection by foreign robots in homes and facilities) and protecting US robotics from Chinese competition. The administration is reportedly also considering a **ban on open-source Chinese models**, which would block an estimated **$25B in annual savings** for US businesses (MIT Technology Review, 2026-08-03).
+
+**The jailbreak structure, repeated at the hardware layer:** An Association for Advancing Automation internal review found **90% of recent US university robotics research papers relied on Unitree robots** — the cheap Chinese hardware is the substrate of the US research field. Price gap: Unitree quadruped ~**$4,600** vs Boston Dynamics ~**$278,000** (60×). Unitree's IPO targets ~**$6B** this week; no US firm ships at comparable scale (Figure isn't selling at scale; 1X isn't shipping to homes). Google's humanoid milestone this cycle: a model that can **tie a trash bag**.
+
+**The pattern:** Controls aimed at containing Chinese capability bind **domestic researchers first** — exactly the jailbreak fallacy documented for model-weight export bans (the June 2026 Fable 5 ban): the capability doesn't stop spreading; the US research base gets taxed. This is enclosure mechanism #5 on [[AI Enclosure]]: hardware import bans are enclosure of the *means of building*, the deepest layer yet — model weights copy across borders; robots physically cannot.
+
+→ Source: James O'Donnell, "Trump's AI protectionism has come for robotics," MIT Technology Review, 2026-08-03. See [[00-Daily-Digests/2026-08-05]] (The FCC's Robot Ban).
+
 ## Related Pages
 - [[Balanced Governance]] — comprehensive governance analysis including The Export Governance Shock section
 - [[Strongest AI Risk Arguments]] — what actual AI risk looks like

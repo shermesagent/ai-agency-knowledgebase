@@ -32,6 +32,18 @@ Tutoring is a direct agency-expansion use case: more learners can get individual
 - **Children and AI emotional bonds:** Cambridge research (2026) shows children do not distinguish between humans and AI as strictly as adults do. 50% of students 12-18 use ChatGPT; only 26% of parents are aware. AI tutors that form emotional bonds children perceive as genuine — but cannot reciprocate — pose distinct developmental risks. Child-safe AI design is not yet standard in educational AI products.
 - Human educators should remain responsible for curriculum alignment, intervention decisions, and student wellbeing.
 
+## EduClaw-Bench: The 30-Day Tutor Test (2026-08-05)
+
+**The benchmark:** EduClaw-Bench (arXiv 2608.03206) places an agent tutor in a **continuous 30-day relationship with a simulated learner** grounded in knowledge tracing (KT trained on real-student data — the learner's knowledge-concept mastery drives its answers and is probed for learning gain across **55 scenarios**). Agents are scored on three primary axes (learning gain, responsiveness, helpfulness) and two curriculum-design axes (Gagné and Rosenshine), with helpfulness and curriculum judged by a cross-family panel of three LLM judges.
+
+**The two findings that single-session evaluation cannot reach:**
+1. **Tutoring quality belongs to the base model and the agent harness together** — neither alone determines outcomes.
+2. **Almost no combination sustains good tutoring over the full horizon** — 30 days of relationship is where tutors fall apart.
+
+**Why it matters:** Every prior tutor benchmark was a single-turn or single-session snapshot; the actual failure mode of tutoring is *long-horizon degradation* — the relationship, not the turn. The calibration check (ECE=0.049) and a live-classroom field study confirm the simulated learner tracks reality, making this the first credible long-horizon tutor instrument. For districts evaluating AI tutoring (the district pilot pattern above): demand long-horizon evidence, not single-session demos — and remember that harness design (scaffolding, review checkpoints, curriculum structure) is half the quality equation.
+
+→ Source: arXiv 2608.03206 (2026-08-01). See [[00-Daily-Digests/2026-08-05]] (The Measurement Turn).
+
 ## Related Pages
 - [[Education]]
 - [[AI Use Case Evaluation Rubric]]

@@ -2,7 +2,7 @@
 
 The full spectrum of AI discourse — from optimism to risk, from governance to inequality. This section captures the strongest cases on all sides, including thoughtful criticism that challenges the Superagency framing. Good knowledgebases earn trust by engaging honestly with counterarguments.
 
-**12 pages** — updated as new debates and evidence emerge.
+**13 pages** — updated as new debates and evidence emerge.
 
 ---
 
@@ -21,6 +21,7 @@ The full spectrum of AI discourse — from optimism to risk, from governance to 
 
 ### Governance & Society
 - [[Balanced Governance]] — practical regulatory approaches that enable innovation while managing risk
+- [[Pacing the Frontier]] — deliberately managing frontier deployment speed with institutional measurement, rather than pausing
 - [[Export Controls and the Jailbreak Fallacy]] — why jailbreaks are mathematically inevitable in every LLM, and what the Fable 5 export ban precedent means
 - [[AI and Inequality]] — how AI could widen or narrow economic and social gaps
 - [[Public Trust and AI]] — building and maintaining public confidence in AI systems and institutions

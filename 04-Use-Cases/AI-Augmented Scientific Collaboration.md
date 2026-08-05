@@ -27,6 +27,18 @@ This connects directly to [[Superagency]]: AI expands scientific agency when it 
 - The category of "AI-augmented" collaboration must not become a loophole for undisclosed AI-generated content in peer review.
 - Researcher overreliance on AI feedback could atrophy critical self-review skills.
 
+## The Proofs Overhang (2026-08-05)
+
+**What happened:** OpenAI's unreleased Astra produced human-prepared manuscripts with Lean certificates for **ten major open mathematics problems** — non-sofic groups construction, a disproof of Connes's rigidity conjecture, arithmetic circuit complexity (n⁴/log n permanent lower bound), the quantum parallel repetition theorem, polynomial-factor closest-vector hardness, Ehrhart's volume conjecture, multicolor triangle Ramsey (Erdős problem 183), and extremal graph compactness/degeneracy (Erdős 146 and 180) — at a total token cost of roughly **$2,000 at Sol API rates**. No Millennium Prize problems. Noam Brown: "we did try other major problems without success."
+
+**The replication data:** Levent Alpoge — who previously had Fable disprove the Jacobian Conjecture — pointed Fable at the same ten problems and **solved five in a day**; Elliot Glazer argues Astra "isn't a step change beyond Sol; the 10-breakthrough drop was a concerted elicitation effort." Gary Marcus's critique: OpenAI ran **no control group** — the marginal capability delta over Sol is unproven. Zvi's synthesis: it's the Mythos "Juice" pattern — the demonstrated rate at which pointed-at models crack known-hard problems is what changed, whichever model did it first.
+
+**The comprehension bottleneck (the collaboration-relevant finding):** Alexander Gerko: there are not enough mathematicians to process the "vibe researched" results even now — "50 years of math progress in 2 years — who will understand the results?" Daniel Litt's nightmare: "a moribund math academia playing the slot machine for theorems, failing to train the next generation." Alex Kontorovich's grounding: "What purpose would there be for creating things in silico for which humans find no value? At the end of the day, someone is paying an electric bill." **The human role in AI-augmented science is shifting from production to verification, curation, and comprehension** — the scarce input is not the theorem, it's the reader.
+
+**Verification infrastructure is maturing alongside:** RubricReviewer (arXiv 2608.00005) pairs a training-free review agent (Scout) with a human-aligned Aligner model for rubric-driven review; meanwhile Reviewer Scores Are Not Comparable Across Research Areas in ML Peer Review (arXiv 2607.27209) shows raw scores cannot carry cross-area quality control. Together: verification must be infrastructure (rubrics, certificates, calibrated judges), not vibes — the same lesson Lean certificates bring to theorem production.
+
+→ Sources: Zvi, "OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems" (2026-08-03); arXiv 2608.00005; arXiv 2607.27209. See [[00-Daily-Digests/2026-08-05]] (The Proofs Overhang).
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

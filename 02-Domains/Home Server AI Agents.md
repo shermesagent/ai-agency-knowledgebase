@@ -76,6 +76,16 @@ The framework also introduces **standing delegation** for long-running agents �
 
 - Sources: arXiv 2606.30970 (AgentBound); arXiv 2606.30986 (Organizational Behavior of Agentic AI)
 
+## The Measured Energy Floor (2026-08-05)
+
+**The numbers to budget against:** Energy Efficiency of Locally Deployed LLMs (arXiv 2608.00008) measured **9 open models (1B–7B)** on an RTX 4060Ti 16GB via Ollama, sampling nvidia-smi at 2Hz: **gemma3:1b at 0.56 J/token, llama3.2:1b at 0.65 J/token, both above 170 tok/s**; 7B models cost up to **4.4× more energy per token**; qwen3.5:2b shows an anomalous per-prompt energy footprint from extended reasoning. Practical read: a thousand tokens of local inference runs under a watt-hour on mid-range consumer hardware — **local intelligence is a default, not a luxury.**
+
+**The frontier/local spread (the enclosure gradient):** Dwarkesh Patel's compute economics (via Import AI 467, 2026-08-03): smarter models monetize compute better, so a human-level SWE on an H100 would justify rent **>$250k/year — ~15× today's spot prices**; that rent is "temporary until roboticized compute supply chain" — "singularity economics will be weird." The spread between ~0.6 J/token locally and rent-priced frontier compute is exactly the gradient [[AI Enclosure]] monetizes — and the floor is now cheap enough that enclosure at the top cannot capture the bottom.
+
+**Design implication for home server agents:** choose models by measured J/token for the task class (the paper's method — nvidia-smi sampling over real workloads — is replicable on any home rig). For scheduled agents (digests, monitoring, routine maintenance) the energy budget is now a first-class design parameter alongside latency and quality.
+
+→ Sources: arXiv 2608.00008 (2026-06-12); Import AI 467 (2026-08-03). See [[00-Daily-Digests/2026-08-05]] (The Measured Floor of Home AI).
+
 ## Related Pages
 - [[AI Agent Revolution]]
 - [[AI Research Agents]]
