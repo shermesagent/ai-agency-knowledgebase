@@ -141,5 +141,18 @@ Giorgio Presti's "The Aura in the Machine" (arXiv 2607.17940, July 2026) provide
 
 → Source: https://arxiv.org/abs/2607.17940
 
+### The Augmentation Counter-Offensive (2026-08-06)
+
+**The anti-slop design stance now has a mainstream venue.** MIT Technology Review's Download closed its 2026-08-06 edition with a "One More Thing" on **AI-augmented creativity** — tools built to augment rather than strip human creativity, explicitly framed as the counter to AI slop. The editorial stance matters: after a year of content-farm glut, the design direction of record is *augmentation*, not generation-at-scale — the same bet [[Superagency]] makes, now in the creative domain.
+
+**Constructive conflict is the agentic design pattern with evidence.** [Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166) (Han & Martelaro, 2026-08-06) — a between-subjects experiment with 45 design students across three conditions: Self Reflection (unsupported review), Stepwise Guidance (written prompts walking through a constructive-conflict framework), and Interactive Engagement (an AI agent enacting the framework by synthesizing stakeholder pushback). Findings:
+
+- Both framework conditions (guided and agentic) significantly beat Self Reflection on **self-reconsideration and design-proposal improvements** — the framework itself is the active ingredient.
+- The **antagonistic agent** introduced *more conflictual perspectives* than the written prompts, and Interactive Engagement participants **generated and discarded more ideas** — conflict-enactment converts reconsideration into concrete design action and deepens engagement with divergent stakeholder perspectives.
+
+**Why this matters for the domain:** this is the "Aura in the Machine" framework (above) made operational — the artist as negentropic curator, but now with a *designed adversary* rather than an ambient one. It also answers the "AI is a yes-machine" critique directly: the model can be architected to disagree, to hold stakeholder tension, to force the designer to defend choices. Creative agency isn't just preserved — it's exercised through the act of *arguing with* the instrument. The design-student data (2607.17094) showed verification burden rising; this shows the conflict burden becoming a feature.
+
+→ Sources: MIT Technology Review, "The Download" (2026-08-06); arXiv 2608.04166.
+
 ## Tags
 #creativity #augmentation #human-agency #practical-ai

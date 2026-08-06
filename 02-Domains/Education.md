@@ -221,5 +221,17 @@ Source: https://arxiv.org/abs/2607.26067
 
 → Source: https://arxiv.org/abs/2607.27586
 
+## Fraction Comprehension and Personalized Learning (2026-08-06)
+
+**[arXiv 2608.04892](https://arxiv.org/abs/2608.04892)** — Kenneth Holman's dissertation provides the rare thing in K-12 AI education research: *authentic classroom* evidence for adaptive AI during primary-school fraction instruction (a domain foundational to later math/STEM achievement), plus a systematic review of AI-in-math-education research 2020–2024.
+
+**The quasi-experiment:** Mathbot, a chatbot-based personalized learning platform, vs. business-as-usual instruction. Repeated-measures ANOVA across time points found **modest improvements in fraction comprehension** for Mathbot students, while changes in situational interest were **not statistically significant**. The finding worth underlining for this wiki: *automated personalization did not displace the instructional role of the teacher* — teacher decision-making remained central to student outcomes.
+
+**Why it matters here:** this is the classroom-level version of [[The Comprehension Bottleneck]]. The AI personalizes the *practice*; comprehension still lives in the human loop — and the paper flags accessibility and equity considerations for students with disabilities using adaptive systems. It also joins [[AI Tutors]] as evidence that the augmentation dividend in education shows up as *modest, teacher-mediated* gains rather than replacement-level jumps — consistent with the post-instrumental learning frame above (the learner's accountable relation to AI-mediated work is the assessable object).
+
+**Agentic software engineering is the same story, sharper.** [AgentForge](https://arxiv.org/abs/2608.04148) (Fang, Zhang & Huang, 2026-08-06) is an immersive role-play platform where 37 novice developers practice one of four roles (Task Planner, Patch Author, Code Reviewer, Test Runner) inside a multi-agent code-repair workflow. Results: high task completion with AI support, but the **Code Reviewer practice was significantly the most demanding** (more interaction turns, reroutes, and completion time; p_adj = .004; perceived most challenging) — monitoring and evaluating agent output is the hardest skill to learn — while participants still reported significant gains in understanding software repair and agent collaboration (p_adj < .001). Role-based scaffolding and metacognitive support made agent coordination and intermediate artifacts visible. This is the teachable version of the verification burden: evaluation of AI output is a *learnable, load-bearing* skill (cf. the 2607.27586 evaluation-vs-generation result), and the "critical collaboration" skillset is exactly what the five post-instrumental capacities (contestability, revision, reason-giving) name.
+
+→ Sources: arXiv 2608.04892; arXiv 2608.04148.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai
