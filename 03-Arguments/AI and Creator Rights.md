@@ -52,6 +52,15 @@ This connects to the **preference construction** finding (arXiv 2606.30863): cre
 
 **Practical implication:** Creator-rights agreements for AI character use should distinguish between (1) strict scripting rights (the creator defines all outputs), (2) adaptive guardrail rights (the creator defines character values and boundaries, the AI handles on-brand adaptation), and (3) open remix rights (the AI can reinterpret the character freely). The Conference of the Agents finding suggests that option (2) — adaptive guardrails — produces both better creative output AND better character integrity under pressure. But it also requires creators to have tools and platforms that support this level of control granularity, which most current licensing agreements don't contemplate.
 
+### The Distributional Squeeze on Creative Output (August 2026)
+
+Two August papers measure the same risk from opposite directions: reliance on generative output for *diversity* is misplaced, and the squeeze is measurable.
+
+- **The Algorithmic Flattening of Sound (arXiv 2608.06106, Slendebroek and Metaxa, 2026-08-06):** Comparing Suno and Lyria 3 outputs across 4 genres on 72 music-information-retrieval features (100 human vs. 100 generated tracks per genre), Lyria compresses *within-genre* variation while Suno collapses *between-genre* distinctions; AI/human classification is near-perfect. The mechanism is economic — legibility and reward push generated output toward the distribution's center. Creative output is being flattened, and the flattening is measurable.
+- **Where Models Converge and Humans Diverge (arXiv 2608.05576, Yang, Wenger, So, 2026-08-06):** Using LLM-Cov and IBR across 16 models × 4 personas × 1,200 scenarios, outputs are plausible but narrow — frontier models converge toward a "cultural center of gravity." Generation systematically under-delivers cultural reach: not what any individual wants, but what the distribution loses.
+
+**The creator-rights implication:** the three-tier licensing frame (strict scripting / adaptive guardrails / open remix) gains a fourth dimension — **distributional diversity**. Adaptive-guardrail licensing (2606.30649's recommended tier) should include variance commitments: licensees audit output spread against the creator's corpus baseline, and creators price for the homogenization risk. The no-AI-penalty finding (Know Your Author) already removed audience pressure as a constraint; if models also converge on the center, the constraint that remains is contractual.
+
 - Source: arXiv 2606.30649 — NPC agents in simulated creative conference environments
 
 ## Risks / Limits

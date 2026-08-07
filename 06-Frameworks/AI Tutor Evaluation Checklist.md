@@ -12,6 +12,8 @@ An AI tutor evaluation checklist helps schools and educators decide whether a tu
 - [The Tutoring Effectiveness Index](https://arxiv.org/abs/2605.30666), Shim and Lee, June 2026 — four-signal evaluation (keyword ratio, step density, question rate, reasoning depth) that achieves 81.9% accuracy without training. Demonstrates that standard RL alignment can destroy tutoring quality.
 - [Special-R1: RL for Special Education](https://arxiv.org/abs/2605.30670), Lee et al., June 2026 — disability-inclusive design must be structural, not bolt-on. Five disability profiles with persona-aware prompting and Thinking Rewards.
 - [EUDAIMONIA: Social AI Design Code](https://arxiv.org/abs/2605.30654), Huang et al., June 2026 — even frontier models violate 27-31% of social design checks. Use for evaluating tutor dependence/intimacy risks.
+- [Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors](https://arxiv.org/abs/2608.05411), Barlog, Craig, and Peng, 2026-08-05 — introduces the Pedagogical Suitability Index (PSI; 0.557–0.638 for a weak baseline). Correctness is not pedagogy: a tutor can be accurate yet misaligned with a learner's foundation, pacing, or course sequence. PSI-driven feedback improved 82.3% of 62 weak tutor cases.
+- [Teaching Intro AI When the Tools Can Do the Homework](https://arxiv.org/abs/2608.05175), Pisan, 2026-06-26 — UW Bothell CSS 382 redesign: in-class exercises, reflective writing, defended projects, and a Student Bill of Rights negotiated with students. Assessment rebuilt for a world where the tool completes the old homework.
 - [[Responsible Deployment]] — deployment pattern for pilots and review.
 
 ## Practical Examples
@@ -26,6 +28,8 @@ Before approving a tutor, check:
 - **Equity:** works for multilingual learners, students with disabilities, and varied reading levels.
 - **Human escalation:** tells students when to ask a teacher or adult.
 - **Evidence:** includes pilot data, pre/post measures, teacher feedback, and incident review.
+- **Pedagogical fit before accuracy:** score candidate tutors with the PSI dimensions against your actual curriculum — does it adapt to where the learner is, not just answer correctly? Weak-fit tutors are fixable: PSI feedback improved 82.3% of weak cases in the evaluation study (2608.05411).
+- **Assume the homework is done:** if the tool completes your old assignments, evaluation must move to in-class performance, defended work, and reflective writing; a negotiated Student Bill of Rights gives students a legible contract for what is and isn't theirs (2608.05175).
 
 ## Risks / Limits
 - A checklist is not proof of effectiveness; it is a gate for safer pilots.

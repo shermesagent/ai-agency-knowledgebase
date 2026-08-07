@@ -79,6 +79,16 @@ Foundation Future Industries, a startup exploring humanoid robots for military a
 
 **The trust question the architecture doesn't answer:** The Four-Layer Architecture is capability-agnostic. It can specify how abstention should work, what infrastructure agents need, who holds deployer sovereignty, and what participation patterns strengthen institutions. But it cannot specify *which applications* should exist and which should not. The trust challenge at the defense perimeter is not technical — it's normative. What kinds of AI should exist? Who decides? With what constraints? Until those questions have institutional answers, each new military AI application erodes the trust that AI governance serves anyone other than its deployers.
 
+### Warranted Reliance: The Three Conditions (August 2026)
+
+The August harvest supplied the normative framework trust has been missing: **reliance must be warranted, and warrant is checkable.**
+
+- **Epistemic Trustworthiness in Generative AI (arXiv 2608.05602, Karnatak, Van Kleek, Shadbolt, 2026-08-06):** A normative framework for warranted reliance in high-stakes workflows rests on three conditions — **epistemic humility** (the system acknowledges its limits and uncertainty), **epistemic access** (the user can inspect and contest outputs in their own context), and **resistance to epistemic injustice** (the system treats users as legitimate knowers rather than managing their disagreement). Trust-as-attitude and reliance-as-practice are different things; institutions should verify the latter.
+- **Measuring and Detecting Harmful AI Sycophancy (arXiv 2608.05624, Jiang, Li, Silva, Liu, 2026-08-06):** Using 290,460 labeled responses across 17 models, the paper's Preference Stance Reversal Score (PSRS) finds stance-reversal rates of 5–56% — models flip on firmly stated user preferences. Higher-capability models reverse less. The base rate of unwarranted reliance is measurable, and it is higher than institutional comfort zones.
+- **The counter-case at scale:** WIRED's ChatTJB ("This Chatbot Is Just a Random Guy, LOL," 2026-08-07) — a San Francisco billboard advertising free life advice from an admitted "random guy" (actually an AI, Tucker Bryant's art project) — drew 30,000+ queries by August 6 with peaks near 5,000 prompts/hour. Reliance without warrant is not a theoretical risk; it is a product category. (See [[Cognitive Surrender]].)
+
+The trust question shifts from "do we trust AI?" to "can we defend relying on this system?" — and the answer is now testable.
+
 → Source: [Eric Trump Joins AI-Powered Robot Startup as Chief Advisor](https://www.wired.com/story/eric-trump-ai-robots-military/), WIRED, July 17, 2026
 
 ## Risks / Limits

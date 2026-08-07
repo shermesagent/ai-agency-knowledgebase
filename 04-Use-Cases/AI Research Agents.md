@@ -54,6 +54,14 @@ This page matters for the wiki's thesis because research agents are the limit ca
 - **[PersuasionTrace](https://arxiv.org/abs/2606.05330):** A framework for studying multi-turn human persuadability in LLM interactions — relevant to research agents that generate persuasive arguments for hypotheses or policy recommendations. The finding that standard LLM-based simulators fail to replicate human belief dynamics raises concerns about research agents that simulate human subjects for social science experiments.
 - **[SciConBench](https://arxiv.org/abs/2606.11337):** 9.11K-question benchmark for scientific conclusion synthesis. Best frontier agent: F1=0.337. Consumer agents generate incomplete and contradictory conclusions. Clean-room evaluation essential.
 
+### The Verification Gap: AI Scientists Under Audit (August 2026)
+
+- **[Autonomous Research Agents: A Survey of AI Scientists and the Verification Gap](https://arxiv.org/abs/2608.05179) (Ding, Nannapaneni, Liu, Zhang, 2026-06-29):** Survey of 35 autonomous research-agent works (24 runnable). 83% release code, but only 38% release seeds/traces and only 38% perform novelty verification; of the L4 (autonomous) systems, 7 of 9 were mechanical reruns of prior methods. No externally validated in-loop oracle exists. The field's verification practice lags its instrumentation — code-release generosity is not reproducibility.
+- **[SkillTrace](https://arxiv.org/abs/2608.05204) (Chen et al., 2026-08-05):** Multi-trace, skill-level provenance with an operational skill-ownership graph; detects stolen or non-owned reasoning at AUROC 0.938. Provenance is becoming instrumented — a prerequisite for verifying what research agents actually did.
+- **[Innovation-Residual Auditing of Autonomous Analysis Agents](https://arxiv.org/abs/2608.05490) (Hassoon and Dredze, 2026-08-06):** Auditing the residual an agent could not explain localizes errors at discovery stage, but error localization degrades sharply with problem complexity — 100× more data buys less than 2% improvement. Auditing depth has diminishing returns where problems are hard.
+
+**The procurement implication:** buyers of research agents should demand the 05179 reporting checklist — seeds, execution traces, novelty verification, and result-selection disclosure. Until vendors ship them, the verification gap is the buyer's to assume. See [[Agentic Verification]].
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

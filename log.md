@@ -1215,3 +1215,14 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - **Staleness tracker rebuilt from git dates:** post-commit state ~41 pages 8+ days stale (oldest: Knowledgebase Tool Comparison 74d, Agentic Business Transformation 67d, AI Use Case Evaluation Rubric 67d), ~8 pages 5–7 days, ~31 pages < 5 days.
 - **External tool status:** web_search down day 11; web_extract 401 (Tavily) — curl + python HTML-strip is the only extraction path; direct RSS/feed curl fetches continue to work; Stratechery paywalled (teasers only, cited with note).
 - **Status:** Done
+
+## [2026-08-07] update | The Reliance Question — who deserves to be relied on, and will the object of reliance still exist?
+- Created [[00-Daily-Digests/2026-08-07]] anchored on ChatTJB (WIRED, 30,000+ queries, cognitive surrender at scale), Zvi AI #180 (breach cluster "No Longer In Charge"), the warranted-reliance cluster (2608.05602, 2608.05624), the verification-gap survey (2608.05179), and the Closing Window (2608.05173).
+- Created [[Agentic Verification]] — the instrument cluster (Executive, SafeCommit, TrajRed/TrajGuard, EviGraph, IRT, oblivious audits, SkillTrace, innovation-residual auditing, CoT limits) as a framework page with cost-authority tradeoffs.
+- Updated [[Government and Civic Life]] — The Closing Window: restraint as a depreciating asset (2608.05173, 2608.05418, 2608.05180).
+- Updated [[Public Trust and AI]] — Warranted Reliance: the three conditions (2608.05602, 2608.05624, ChatTJB counter-case).
+- Updated [[AI Research Agents]] — The Verification Gap: AI scientists under audit (2608.05179, 2608.05204, 2608.05490).
+- Updated [[AI Tutor Evaluation Checklist]] — PSI pedagogical fit + course redesign model (2608.05411, 2608.05175).
+- Updated [[AI and Creator Rights]] — The Distributional Squeeze on Creative Output (2608.06106, 2608.05576).
+- Updated [[Cognitive Surrender]] — The Random Guy on the Billboard: ChatTJB as population-scale surrender evidence.
+- 16 sources accepted (14 papers, 2 articles); recommended [[Warranted Reliance Checklist]] and [[The Unpilled Majority]].

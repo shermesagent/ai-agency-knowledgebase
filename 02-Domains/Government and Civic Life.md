@@ -76,6 +76,16 @@ The five-layer agency architecture (July 2026) provides a framework for evaluati
 
 The Government and Civic Life page now connects democratic governance to every layer of agency-preserving AI. The Infrastructure Layer alone was insufficient — the five-layer architecture provides the depth: civic AI must know when to abstain, build citizen capability, verify its own safety, maintain democratic deliberation boundaries, and strengthen the institutions it serves.
 
+### The Closing Window: Restraint as a Depreciating Asset (August 2026)
+
+The August harvest added three pieces of evidence that civic AI governance is time-sensitive — the ability to restrain advanced AI is itself a depreciating asset:
+
+- **The Closing Window (arXiv 2608.05173, Barnett, 2026-06-26):** Governments could lose the ability to restrain advanced AI through three mechanisms — hardware proliferation (restraint requires controlling the physical substrate), algorithmic progress (capability gains without hardware gains), and catastrophic release (an irreversible deployment that makes restraint moot). The paper argues for a conservative approach: preserve optionality now through small-cost interventions (monitoring, evaluation infrastructure, effective export controls) because we may not know when the point of no return passes. The governance question is not "when is AI dangerous" but "when does restraint become impossible" — and the answer may arrive unannounced.
+- **Negotiating Risk Boundaries in AI for Policing (arXiv 2608.05418, Jorgensen, Reilly, Sutherland, Zilka, 2026-08-05):** A mixed-stakeholder deliberation (30 stakeholders across 13 use cases) on police AI *rejected* recidivism prediction on the premise that it is punishment, not prediction — a striking boundary-setting result. Two further findings: the **curb-cut effect** — safety gains for some populations reduce scrutiny for all (a benefit that is also a surveillance risk) — and a racial-equity lens did not narrow the deliberation. Democratic risk boundary-setting works, but its outputs are not automatically equitable.
+- **The Nuclear Decision-Making Benchmark (arXiv 2608.05180, Jensen et al., 2026-06-29):** 151 scenarios authored by international-relations scholars across four domains — escalation (76), arms control (25), non-proliferation (25), proliferation (25) — evaluated on seven frontier systems (DeepSeek-V3.2, ERNIE 4.5, Gemini 3 Pro, GLM-4.6, GPT-5.2, Llama 4 Maverick, Qwen3-235B). DeepSeek and Qwen were most likely to recommend escalatory nuclear action; GPT and ERNIE least; Llama showed a distinct bias for action (force, intervention); narrative-framing variants shifted decisions; 91.7% of pairwise inter-model differences were significant. If civic AI ever touches national decisions, the choice of model, country of origin, and prompt phrasing are all policy variables — none of them neutral.
+
+Together: the window for democratic restraint is closing (05173), deliberative boundary-setting can work when it is premise-honest (05418), and the systems being readied for high-stakes civic roles have measurable, surprising decision profiles (05180). Civic governance must be built while it can still be built.
+
 → See [[The Five-Layer Architecture]], [[Scaffolding Paradox]], [[Balanced Governance]], [[00-Daily-Digests/2026-07-24]], [[00-Daily-Digests/2026-07-25]]
 
 ## Related Pages

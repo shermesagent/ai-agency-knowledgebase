@@ -168,6 +168,16 @@ Source: https://arxiv.org/abs/2607.26387
 
 → Source: https://arxiv.org/abs/2607.28137
 
+### The Random Guy on the Billboard: Surrender as Performance Art (August 2026)
+
+WIRED's ChatTJB ("This Chatbot Is Just a Random Guy, LOL," Caroline Haskins, 2026-08-07) is the population-scale instantiation of everything this page describes. Tucker Bryant — 32, public speaker, artist, former Google PM — put up a $6,000 San Francisco billboard (up July 27) advertising free life advice from "a random guy," the "AI" being an automated chatbot he vibe-coded with Lovable. The project launched in April; by August 6 it had logged **30,000+ queries** with peaks near **5,000 prompts/hour**; 10 volunteers (from 3,000+ applicants) answer as the chatbot's "soul."
+
+- **Surrender, elected:** Bryant's stated concern is "cognitive surrender" — people accepting AI outputs with little critical thinking. The project is not anti-AI; it is a mirror. 30,000 people chose to take life advice from a self-declared random guy because the alternative (a reasoned, contestable answer) costs more — the reliance-without-warrant default, at city scale, by choice.
+- **The metacognitive threshold, operationalized:** the threshold research (2607.13562) showed AI suppresses "I don't know" in structured tutoring; ChatTJB shows the demand side: users do not ask for epistemic humility, they ask for answers. The three asymmetries (2607.28137) predict this: with all normative activity on the human side, the equilibrium is surrender — the billboard just made it legible.
+- **The structural fix, visible in the negative:** the interventions that matter are structural (rate-limiting, verification checkpoints, source fore-grounding — 2607.28137). A chatbot that *advertises* its own unreliability still gets 5,000 prompts/hour; imagine what it gets when it claims reliability. (See [[Public Trust and AI]] — warranted reliance, and [[Agentic Verification]] — the instruments.)
+
+→ Source: https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]
