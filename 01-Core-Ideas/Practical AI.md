@@ -102,6 +102,16 @@ The practical AI conversation has focused on *capability* — which model, which
 
 **→ Connects to:** The [[Human Agency#Asymmetric Communication — The Structural Foundation (July 2026)|asymmetric communication framework]], [[Cognitive Surrender]] (when output volume masks accountability gaps), [[Digital Fiduciary Duty]] (the legal framework for the accountability relationship), and the [[00-Daily-Digests/2026-07-31|July 31 digest]].
 
+### The Adoption Gap: Capability Without Fit (August 2026)
+
+August's bluntest data point on practical AI: Josh Miller (The Browser Company CEO) went viral — and stood by it — for saying "nobody is really using AI Agents… the general public dgaf": "I just have not heard a single person outside of the tech community talk about an agent that they use" (WIRED, 2026-08-06). The feature-awareness divide flagged in Risks below (power users vs. casual users) is now confirmed at consumer scale: the constraint is not what models can do, it's whether the product fits a normal person's workflow.
+
+**The counter-example arrived the same day:** Meetily — a free, open-source meeting transcriber that runs local open-source models on Windows/macOS (Linux from source), records microphone + system audio so it works with Zoom, Meet, Teams, and even in-person rooms, transcribes near-real-time, and writes AI summaries with focus instructions (WIRED, 2026-08-09). No account, no cloud upload, no subscription; the free tier lacks speaker labels; a beta feature transcribes pre-recorded files. This is the translation layer in concrete form — a tool a "normal person" can install, run, and own.
+
+**The practical rule this adds:** when a workflow stalls, check fit before capability. The adoption-gap diagnosis — the tool exists, nobody uses it — is usually a translation-layer failure: the AI is capable, the product isn't. Meetily's shape (local, private, one-button, free) is a useful template for what consumer-fit agent tooling looks like. The author's own caveat applies to all of it: "these systems aren't perfect, and they may not have the same priorities as you" — read the transcript, write your own minutes.
+
+**→ Connects to:** the feature-awareness divide below, [[Home Server AI Agents]] (local sovereignty), and the [[00-Daily-Digests/2026-08-09|August 9 digest]].
+
 ## Risks / Limits
 
 - **The cognitive debt trap**: Every practical AI workflow accumulates unverified reasoning obligations. The Cognitive Debt model (Meng, 2606.15078) shows this is individually rational but collectively fragile — the Minsky moment arrives when subjective confidence is highest.

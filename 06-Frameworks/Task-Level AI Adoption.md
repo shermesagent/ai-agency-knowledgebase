@@ -70,6 +70,19 @@ The MirrorCode benchmark (Epoch/METR, July 2026) provides the first cost-adjuste
 
 → Source: [Import AI 466](https://importai.substack.com/p/import-ai-466) (2026-07-27), MirrorCode benchmark coverage
 
+### The Engagement Barrier, Named at Consumer Scale (August 2026)
+
+The June SCALE finding (students used AI tutors 2–5 min/week) showed the engagement barrier inside institutions. In August it was named at consumer scale: Josh Miller (The Browser Company CEO) went viral — and stood by it — for saying "nobody is really using AI Agents… the general public dgaf": "I just have not heard a single person outside of the tech community talk about an agent that they use" (WIRED, 2026-08-06).
+
+**What this adds to the framework:** the engagement dimension already built into task-level classification (per the economic-readiness subsection above, a task must be "user-engaged") now has consumer-scale evidence that engagement failure is the default, not the exception. Two refinements:
+
+1. **Engagement must be verified, not assumed — outside the organization too.** SCALE showed signups ≠ use inside schools; Miller shows demos ≠ adoption in the market. The audit question for any "automate" or "augment" classification: has anyone outside the building used this for a week?
+2. **Engagement is a design property, not a user defect.** Miller's own conclusion is that the products don't fit — build what regular consumers want, not what models can do. The engagement dimension therefore belongs upstream of task classification: fit the tool to the task the user already does.
+
+**Counterpoint, fairly stated:** Miller's evidence is anecdotal (his own circle); adoption counters — WIRED's own Meetily piece, the vendor "from asking to doing" cases — show normal people do use AI where it removes friction. The honest version of the finding: engagement is the binding constraint at consumer scale, and product fit is the lever.
+
+→ Source: https://www.wired.com/story/why-normal-people-arent-using-ai-agents/
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

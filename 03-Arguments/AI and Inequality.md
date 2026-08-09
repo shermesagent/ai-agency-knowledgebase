@@ -136,6 +136,19 @@ A qualitative study of a mixed-ability research team (arXiv 2607.22886, July 202
 
 **Source:** Madan et al., "Reflections and Recommendations on AI Adoption Practice from a Mixed-Ability Research Group," arXiv 2607.22886, July 2026.
 
+### AI Philanthropy and the Legitimacy Question (August 2026)
+
+The inequality conversation met the wealth conversation this week. WIRED's "These AI Barons Are Ready to Give Away Their Fortunes" (2026-08-09) profiles AI founders making **pre-superintelligence pledges**: Douglas Osika (Lovable) pledged half his equity proceeds, arguing building AI maximizes personal impact; an anonymous superintelligence-founder ("Silver") says responsibility "shouldn't be led by personal greed."
+
+**The critics' case — and it is strong:**
+- **Linsey McGoey:** philanthropy skewed WHO priorities — "people should not kid themselves that making money on its own is somehow noble."
+- **Mark Suzman** (Gates Foundation CEO): private philanthropy shouldn't be one of the largest funders of global health — a structural accountability critique.
+- **Apolline Taillandier:** unelected funders — the legitimacy of philanthropy as governance.
+
+**The inequality reading:** the pledges answer the "Bankman-Friedian logic" concern (risk calculated against a future payout) by removing the financial incentive — but they do not answer the legitimacy objection: who decides what AI's surplus is for? The distribution question runs deeper than money: pre-superintelligence pledges concentrate agenda-setting in the same few founders who own the frontier — while most people aren't using these systems at all (Josh Miller's August post: "nobody is really using AI Agents… the general public dgaf"). Pledges address wealth after the fact; they do not address who decides, or who gets the leverage first.
+
+**Source:** https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/ · https://www.wired.com/story/why-normal-people-arent-using-ai-agents/
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

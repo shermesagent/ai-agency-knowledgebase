@@ -43,6 +43,14 @@ The companion-AI literature added its first long-horizon audit: Venkit et al. (a
 
 → Source: https://arxiv.org/abs/2607.28818
 
+### The Institutional Turn: APA and OpenAI on Youth Mental Health (August 2026)
+
+The youth-AI conversation got its first major institutional-player update. OpenAI announced a partnership with the **American Psychological Association** to advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health (2026-08-06), alongside new education plugins for ChatGPT Work and Codex for K-12 and college educators (2026-08-04). Both are vendor-framed announcements — signal, not evidence — but they are the first time a major mental-health association has attached its name to AI-for-youth guardrails.
+
+**Why this matters on a family page:** it directly addresses the awareness gap documented above — 50% of students use ChatGPT while only 26% of parents know. The APA partnership creates an evidence base parents and districts can point to, and the education plugins put agentic tools in classrooms where the guardrails will actually be tested. The family-relevant questions are concrete: does your school district have AI guidance informed by child-development evidence? Does your child's classroom AI have content safeguards, and are teachers trained on them? The institutional turn doesn't replace family check-ins (see the persona-drift section above) — it adds a floor under them.
+
+→ Source: https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai · https://openai.com/index/learn-teach-chatgpt-work-codex
+
 ## Risks / Limits
 - **Children are AI's most overlooked stakeholders.** Most AI products are designed for adult users with adult judgment. Children lack the cognitive infrastructure to evaluate AI's limitations and treat AI interactions as social relationships.
 - **Local AI sovereignty vs. child safety is a genuine tension.** Gemma 4 12B running locally provides data privacy but makes platform-level content filtering and parental controls impossible to enforce.

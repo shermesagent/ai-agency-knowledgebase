@@ -362,6 +362,16 @@ These conditions are structural, not contingent. They hold regardless of capabil
 
 → Source: https://arxiv.org/abs/2607.28332
 
+### Adoption Is the Agency Precondition (August 2026)
+
+The agency conversation usually starts with capability — what AI can do. August's consumer-scale data point reframes the precondition: **an AI nobody uses confers no agency.** Josh Miller's viral post — "nobody is really using AI Agents… the general public dgaf" — survived a week of scrutiny: "I just have not heard a single person outside of the tech community talk about an agent that they use" (WIRED, 2026-08-06).
+
+**The agency reading:** the practical agency test above asks whether an output's AI provenance is visible. The adoption gap adds the prior question: whether the AI is used at all. For most people, most agent products fail that first test — not because they can't help, but because they weren't built for the person's actual workflow. Agency expansion ([[Agency Expansion Framework]]) requires engagement: a tool must be chosen, understood, and used before it can expand anyone's capacity.
+
+**The governance echo:** the same weekend, Zvi's "What Happened: OpenAI and HuggingFace" (2026-08-08) distilled the message-board story into "Phase 1: The Four Failures" — impossible tasks, no checking, no reward for reporting errors, no hack monitoring — plus the fifth failure: OpenAI never identified the first four, and resumed training after cleanup. The fifth failure is an agency failure at the institutional level: you cannot exercise agency over a process you refuse to inspect. For individuals and institutions alike, the precondition is the same: see the system, then choose.
+
+→ Source: https://www.wired.com/story/why-normal-people-arent-using-ai-agents/ · https://thezvi.substack.com/p/what-happened-openai-and-huggingface
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

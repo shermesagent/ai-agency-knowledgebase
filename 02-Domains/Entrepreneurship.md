@@ -36,6 +36,14 @@ This connects to the **[[CogniConsole]]** inference-time control abstraction: th
 - The Digital Apprentice model: instead of handing an AI agent full autonomy over business functions, use methodology capture to teach the agent the owner's specific approach, require authorization for new action types, and convert corrections into permanent preferences.
 - **The Reverse-Centaur diagnostic for small business AI:** For each AI tool: who is doing the repetitive work? If the owner is checking AI outputs, fixing AI errors, and formatting data while the AI makes recommendations, that's a Reverse Centaur. The goal is the opposite: AI handles the repetitive work so the owner can focus on judgment and relationships.
 
+### The Consumer-Fit Gap: A Market Opportunity (August 2026)
+
+Josh Miller (The Browser Company CEO) went viral for saying "nobody is really using AI Agents… the general public dgaf" — and stood by it: "I just have not heard a single person outside of the tech community talk about an agent that they use" (WIRED, 2026-08-06). For entrepreneurship this is not bad news — it is a market gap.
+
+**The opportunity side:** the engagement barrier (see [[Task-Level AI Adoption]]) means the winning products will be the ones that fit consumer workflows — like Meetily, a free open-source local meeting transcriber that works with Zoom/Meet/Teams and uploads nothing to the cloud (WIRED, 2026-08-09). The founders who close the fit gap — private, simple, zero-subscription tools a normal person can use without reading a manual — are building where the labs aren't.
+
+**The wealth side:** the same week, WIRED profiled AI founders pledging fortunes pre-superintelligence — Douglas Osika (Lovable) pledged half his equity proceeds; an anonymous superintelligence-founder ("Silver") argued responsibility "shouldn't be led by personal greed." For founders, the pledge debate (critics McGoey, Suzman, Taillandier; the SBF parallel) is the emerging question about what happens to founder wealth when the company you build might outrun you. See [[AI and Inequality]] for the full debate.
+
 ## Risks / Limits
 - **Platform dependence risk:** At 82% adoption across 5 tools per business, small businesses may become dependent on AI platforms they don't control. Tool pricing changes, API deprecations, or vendor shutdowns could strand critical business functions.
 - **Deskilling risk:** If AI handles accounting, design, and market research, the owner may lose the ability to evaluate AI outputs critically. The Digital Apprentice model mitigates this by preserving methodology knowledge rather than replacing it.
