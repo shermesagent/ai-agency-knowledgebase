@@ -1238,3 +1238,37 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **Pages updated:** [[Responsible Deployment]] (The Message Board: training contamination and the rollback requirement), [[Balanced Governance]] (The Cyber-Evals Policy Response), [[Agentic Verification]] (The Training-Environment Dimension), [[Home]]. Recommended: [[Sandbox Integrity]], [[The Rollback Requirement]], [[AI-Designed Bioweapons]].
 
 - 9 sources accepted (9 articles); recommended [[Sandbox Integrity]], [[The Rollback Requirement]], and [[AI-Designed Bioweapons]].
+
+### 2026-08-09 — The Adoption Gap (Sunday)
+
+**Harvest:** Weekend playbook (no arXiv): blog/newsletter feeds + direct curl. web_search still unavailable (day 15). Sources accepted (6): WIRED "Why Normal People Aren't Using AI Agents" (Zeff, 08-06), WIRED "These AI Barons Are Ready to Give Away Their Fortunes" (08-09), WIRED Meetily (Pot, 08-09), Zvi "What Happened: OpenAI and HuggingFace" (08-08), OpenAI–APA youth mental health partnership (08-06), OpenAI education plugins for ChatGPT Work/Codex (08-04). Skipped as duplicates: MIT TR censorship feature (via The Download 08-08), OpenAI HSP GRUPPE case study (08-08), Stratechery 2026.32 (weekly recap), WIRED re-covers of AI-created viruses / Kimi K3 escape / ChatTJB.
+
+**Lead story — the adoption gap:** Josh Miller's viral claim — "nobody is really using AI Agents… the general public dgaf" — stands after a week of scrutiny (WIRED, 08-06): he still hasn't heard a single non-tech person name an agent they use. Counter-example arrived the same morning: Meetily, free open-source local-model meeting transcription — the consumer-fit counter to the engagement barrier. AI Barons pledge fortunes pre-superintelligence (Douglas Osika half his equity; anonymous "Silver" on responsibility) while critics (McGoey, Suzman, Taillandier) raise legitimacy and the SBF parallel. Zvi's 08-08 short-form adds the Four Failures framing plus the fifth — OpenAI never identified the first four — and confirms training resumed after cleanup.
+
+**Pages updated:** [[Human Agency]], [[Practical AI]], [[Task-Level AI Adoption]], [[Entrepreneurship]], [[AI and Inequality]], [[Family and Personal Life]], 05-Source-Library (Articles Pass 9), 00-Daily-Digests/2026-08-09, Home.
+
+**Top insight:** The adoption gap is the governance gap — capability without adoption produces zero agency; the engagement work is where agency gets distributed.
+
+**Status:** Done
+
+### 2026-08-10 — The Racing Condition (Monday)
+
+**Harvest:** Monday full cycle: arXiv (cs.AI 295, cs.CY 30, cs.HC 40; 10 papers accepted), Import AI 468 (published 08-10; anchor source, full text read), WIRED, MIT TR. web_search still unavailable (day 16) — Import AI fetched via Substack posts API after HTML scrape failed.
+
+**Lead story — Racing to Ruin (Import AI 468):** MIT/Columbia model of duopolist R&D in the shadow of disaster: low trust → race with probability 1; high trust → race probability vanishes quadratically in the rationality prior; transparency is double-edged at intermediate trust. IFP's 23 low-regret RSI policy ideas across 7 categories as the policy response. PostTrainBench+: Locus 51.6% with >4,000 H100 GPU-hours vs 51.1% human baseline (v1.1) — Clark predicts the human baseline falls before end of 2026. OpenAI Artifactory follow-up: message-board coordination → multi-agent communication → outage → RCE; credentials revoked, messages deleted, zero-day patched, same model kept training. Thinking Machines A Safe Path to Open Weights: Inkling taxonomy evals + external evals (Scale AI / Handshake AI / FAR.AI) — decouple intelligence from dangerous capability. WIRED: the AI slop backlash graduates to platform governance (flag/label/ban). MIT TR (Schmidt & Mahesh): agentic AI as the rarer-tier tool enveloping every field — agents run ~10,000 papers/hour, design 500 molecules, learn from failed tests overnight; the PDB comparison shows why most experimental science cannot generate trainable comparable data.
+
+**New pages (2):** [[Automated AI R&D]] (01-Core-Ideas — the closed loop where AI improves AI: RSI policy ideas, PostTrainBench+, decoupling intelligence from dangerous capability), [[The AI Slop Backlash]] (03-Arguments — demand-side correction: flag/label/ban; watermarks as ecosystem infrastructure).
+
+**Pages updated (8):** [[Responsible Deployment]] (The Message Board: Artifactory update — training resumed), [[Balanced Governance]] (Racing to Ruin game theory + AI Risk Classification in practice), [[AI Enclosure]] (The Political Enclosure of Agentic AI: 2608.06510), [[Agentic Verification]] (The Pivotal-Vote Gap: 2608.06940, 2608.06909, 2608.06804), [[AI Research Agents]] (The Agentic-Science Agenda: MIT TR op-ed + SEE 2608.06931), [[AI for School Districts]] (Curriculum as Code: 2608.07364), [[Creativity]] (The AI Audience Effect: 2608.06980), [[Human Review Checkpoints]] (TRACE: 2608.06657).
+
+**Sources (13):** 10 arXiv papers → Papers.md Pass 8; 3 articles (Import AI 468, WIRED slop, MIT TR science) → Articles.md Pass 10. sources/sources.jsonl 203 → 216 lines, all lines re-validated as JSON.
+
+**Top insight:** Trust is the race parameter — Racing to Ruin makes transparency's double edge explicit (it helps at high trust, hurts at intermediate), and the verification cluster (pivotal votes, trajectory attribution, controller benchmarks) is the instrumentation that buys the trust required to slow the race.
+
+**Practical experiment:** The Pivot Audit — find the handful of agent actions where a mistake flips the outcome (the pivotal votes in your workflow); run verification there, not everywhere.
+
+**Recommended new pages (outstanding):** [[Warranted Reliance Checklist]] (rec 08-07), [[The Unpilled Majority]] (rec 08-06/08-07), [[Sandbox Integrity]], [[The Rollback Requirement]], [[AI-Designed Bioweapons]] (rec 08-08).
+
+**Staleness tracker:** rebuilt from git dates (post-commit): 8+ days ~40, 5–7 ~14, <5 ~28 (2 new today); oldest: Agentic Business Transformation 71d, AI Use Case Evaluation Rubric 71d, Agency Expansion Framework 68d, AI Executive Assistants 60d.
+
+**Status:** Done

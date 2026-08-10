@@ -37,6 +37,17 @@ The agency goal is to help students and teachers do more meaningful learning wor
 - Overly restrictive rules can make responsible teachers hide useful experimentation; overly permissive rules can make students and teachers absorb the risk individually.
 - AI tools should strengthen teacher agency, not turn educators into passive monitors of automated instruction.
 
+### Curriculum as Code (2026-08-10)
+
+**[Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](https://arxiv.org/abs/2608.07364)** (Henrique Mohallem Paiva, arXiv, 2026-08-07) — the most directly actionable AI-for-districts result in weeks:
+
+- **The pattern:** curriculum treated as a version-controlled artifact — AI assists drafting, humans review diffs, every change is traceable, every version is recoverable. The architecture makes the AI the drafting layer and the PLC/teacher team the review layer ([[Human Review Checkpoints]]), with the audit trail built into the artifact rather than bolted on.
+- **The evidence:** student ratings of the resulting curriculum **8.5–9.9/10** across STEM courses — strong signal for a first-wave deployment, with the usual caveat that early-adopter novelty effects are real.
+- **Why it fits districts:** version control maps onto the curriculum-adoption cycle (adopt → train → implement → revise) better than any prior AI-curriculum pattern; the rollback story (revert to last approved version) is the governance feature school boards actually understand.
+- **The procurement angle:** add "version-controlled, diff-reviewable curriculum artifacts" to the district rubric — it converts the AI-curriculum conversation from trust-me to show-me.
+
+→ Source: arXiv 2608.07364 (2026-08-07)
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

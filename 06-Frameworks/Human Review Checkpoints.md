@@ -32,6 +32,16 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 - A checkpoint is not a substitute for good system design, access control, logging, evaluation, and user training.
 - Reviewers need authority to stop the workflow, not merely observe it.
 
+### The TRACE Benchmark: Multi-Layer Human-AI Controllers (2026-08-10)
+
+**[TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure](https://arxiv.org/abs/2608.06657)** (Zuniga, Subramanian, Narapureddy, Khan, arXiv, 2026-08-07) — the first benchmark built for the *controller* problem this page's framework assumes:
+
+- **The setup:** multi-layer human-AI controller coordination under drift and failure — the benchmark conditions are exactly the ones checkpoints exist for (models drift, systems fail, humans intervene), and TRACE measures how well the layers coordinate when it matters.
+- **Why it matters:** most checkpoint frameworks assume a static human-AI division of labor; TRACE operationalizes the dynamic case — when the AI layer drifts, when the human layer is slow, when the failure is in the coordination itself. It turns this page's risk-proportional review principle into a measurable quantity.
+- **The tie to the pivotal-vote finding ([[Agentic Verification]]):** coordination failures are pivotal events — TRACE benchmarks the moment where a single controller decision flips the outcome, which is precisely where verification effort belongs.
+
+→ Source: arXiv 2608.06657 (2026-08-07)
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]

@@ -154,5 +154,15 @@ Giorgio Presti's "The Aura in the Machine" (arXiv 2607.17940, July 2026) provide
 
 → Sources: MIT Technology Review, "The Download" (2026-08-06); arXiv 2608.04166.
 
+### The AI Audience Effect: Social Facilitation of Creative Reflection (2026-08-10)
+
+**[Social Facilitation of Creative Reflection: AI-agents and Humans](https://arxiv.org/abs/2608.06980)** (Sutskova & Ford, arXiv, 2026-08-07) — the social-facilitation effect in reverse: classic social psychology says an audience changes *performance*; this work asks whether an AI agent changes *reflection itself*.
+
+- **The finding:** the presence of AI agents alters when and how humans engage in creative reflection — the audience effect extends to machine audiences. Reflection is not a private act performed in a vacuum; it is socially scaffolded, and AI agents now scaffold it.
+- **Why it matters for the domain:** it connects three threads already on this page — Mikeda's metacognitive adaptation (which capacities atrophy depends on context), the design-education finding (verification burden rising), and the antagonistic-agent result (conflict-enactment converts reconsideration into action). The audience is part of the creative system, and the AI audience is now a design variable.
+- **The agency frame:** the AI audience can amplify reflection ([[Superagency]]) or routinize it — the same instrument, opposite outcomes depending on whether the agent is designed to challenge or to validate. The "yes-machine" critique from the antagonistic-agent section applies: the reflection effect depends on what the audience is built to reward.
+
+→ Source: arXiv 2608.06980 (2026-08-07)
+
 ## Tags
 #creativity #augmentation #human-agency #practical-ai

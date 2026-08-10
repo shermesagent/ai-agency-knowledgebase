@@ -62,6 +62,20 @@ This page matters for the wiki's thesis because research agents are the limit ca
 
 **The procurement implication:** buyers of research agents should demand the 05179 reporting checklist — seeds, execution traces, novelty verification, and result-selection disclosure. Until vendors ship them, the verification gap is the buyer's to assume. See [[Agentic Verification]].
 
+### The Agentic-Science Agenda (2026-08-10)
+
+**The most senior institutional statement yet:** [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) — Eric Schmidt and Suhas Mahesh (Schmidt Sciences), MIT Technology Review, 2026-08-10. The argument:
+
+- **AlphaFold's conditions are rare.** The PDB took 53 years and ~$21B to produce 170k structures; crystallography is unusually replicable (25+ Nobel Prizes). Most experimental science cannot generate comparable training data — cell lines drift, trace contaminants vary, humidity matters.
+- **Agentic AI is the rarer-tier instrument.** Like calculus, statistical inference, spectroscopy, or the computer, agentic AI *envelops every field* rather than winning one benchmark: agents run ~10,000 papers/hour, design 500 molecules, and learn from failed tests overnight.
+- **The human remains the question-asker.** The agenda is not autonomous discovery; it is the reasoning layer that lets humans interrogate science at agent speed — the design/verdict separation this page's framework calls for, at institutional scale.
+
+**The measurement arrives with the rhetoric — SEE.** [Science Edge Evaluation](https://arxiv.org/abs/2608.06931) (Han et al., 2026-08-07): the best MLLM scores **48.7%** on real scientific discovery tasks; **52.7% with tool use**. SEE is the missing measurement step between "agents talk about science" and "agents do science" — the same role PostTrainBench+ plays for AI R&D ([[Automated AI R&D]]: Locus at 51.6% vs 51.1% human baseline on post-training improvement).
+
+**The tension with the verification gap:** the survey above found only 38% of research agents release seeds/traces — Schmidt/Mahesh argue agents fix reproducibility by logging everything; the field's measurement reality is still far from that. Buyers should treat the agenda as direction, not delivery.
+
+→ Sources: [MIT Technology Review](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) (2026-08-10); arXiv 2608.06931 (2026-08-07); [Import AI 468](https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench) (2026-08-10)
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

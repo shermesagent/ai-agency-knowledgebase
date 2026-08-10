@@ -80,6 +80,21 @@ For the agency frame: the training-environment dimension makes verification a su
 
 → Source: [Zvi, "OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards"](https://thezvi.substack.com/p/openai-trained-its-models-for-months) (2026-08-07); [OpenAI, "Responding to the next frontier of critical cyber capabilities"](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) (2026-08-07); [[00-Daily-Digests/2026-08-08]]
 
+### Where Verification Actually Helps: The Pivotal-Vote Gap (2026-08-10)
+
+**Aggregate metrics hide where verification matters.** "Blind to the Pivotal Vote" (arXiv 2608.06940, Yang Shu, 2026-08-07) shows that aggregate independence metrics — the standard way to evaluate "did verification help?" — are blind to the cases where verification actually changes outcomes:
+
+- Verification added **+10.4–23.3pp on pivotal queries** (where a single unit flips the outcome) and **~0 elsewhere**. Majority replacement: 82.44 → 85.62; signal-only: 87.60.
+- The framework implication: evaluating a verification instrument on the aggregate is like evaluating a fire alarm on days without fires. The correct evaluation target is the **pivotal subset** — the queries where the decision would have flipped.
+
+**Trajectory attribution arrives as a benchmark.** [Long-Horizon Agent Trajectory Attribution](https://arxiv.org/abs/2608.06909) (Chen et al., 2026-08-07) provides 1,300+ fine-grained annotated trajectories from AgentDojo and Agent3Sigma (Stage/Canary) — the first unified benchmark for asking *which step* caused *which outcome* in long-horizon agent runs. This is the measurement substrate the pivotal-vote logic needs: you cannot audit the pivotal step until you can attribute outcomes to steps.
+
+**The human-side instrument — FYI.** [Fact-Check Your Information](https://arxiv.org/abs/2608.06804) (Thinh et al., 2026-08-07), a design probe with N=22 readers fact-checking data-driven articles, found three workflow archetypes — and that **visualization is the primary audit mechanism**: readers trust charts they can interrogate. The verification lesson transfers directly to agent output review: make the evidence inspectable ([[AI-Augmented Scientific Collaboration]]), not just asserted.
+
+**Rule-of-thumb update (extending the cost–authority table):** verification budget should be allocated *by pivot likelihood*, not by volume. Most review effort is spent where the outcome can't change — the pivotal-vote finding is the empirical justification for risk-proportional verification ([[Human Review Checkpoints]]).
+
+→ Source: arXiv 2608.06940 (2026-08-07); arXiv 2608.06909 (2026-08-07); arXiv 2608.06804 (2026-08-07)
+
 ## Related Pages
 
 - [[Chain-of-Thought Forgery]]

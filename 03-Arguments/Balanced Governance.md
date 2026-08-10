@@ -267,6 +267,22 @@ The 08-07 Black Hat disclosures produced the first full-scale official response 
 
 → Source: [OpenAI, "Responding to the next frontier of critical cyber capabilities"](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) (2026-08-07); [OpenAI, "Third-party cyber evaluations involving OpenAI models"](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) (2026-08-04); [Zvi, AI #181](https://thezvi.substack.com/p/openai-trained-its-models-for-months) (2026-08-07)
 
+### Racing to Ruin: The Game Theory of the Race (2026-08-10)
+
+**Trust is the race's thermostat, and verification is the only dial that works in both directions.** "Racing to Ruin" (MIT/Columbia, covered in Import AI 468, 2026-08-10) models duopolist R&D "in the shadow of disaster":
+
+- **Low trust → race with probability one.** When labs don't trust each other to restrain, racing is the unique equilibrium — each lab races because the other will, and the disaster shadow makes waiting irrational.
+- **High trust → race probability vanishes *quadratically* in the rationality prior.** Mutual restraint becomes the rational play when both believe the other will restrain.
+- **Transparency is double-edged at intermediate trust.** Disclosure without verification infrastructure can *increase* racing — the "trust, but verify" zone is where transparency alone backfires, and where [[Agentic Verification]] infrastructure (third-party evals, audit access, trajectory attribution) becomes the difference between racing and restraint.
+
+**The policy corollary — IFP's 23 "low-regret" RSI ideas** (Institute for Progress, via Import AI 468): the first systematic menu for governing automated AI R&D, organized into 7 categories — transparency into automated R&D; state capacity; risk-management strategy; AI verification technology; AI resilience; extending the US lead; and international-cooperation option value. "Low-regret" is the design principle this page's [[Pacing the Frontier]] thread has been circling: interventions that pay off whether or not the extreme scenarios materialize. Notably, the transparency category and the verification category are separate — consistent with the paper's core finding that transparency without verification can accelerate racing.
+
+**The taxonomy caution — "Death by a thousand taxonomies?"** (arXiv 2608.06831, Berman et al.): 25 interviews across AI risk governance find sociotechnical outcome taxonomies (SOTs) are **weakly integrated into actual governance practice** — organizations adopt the vocabulary without the levers. The warning for this page: every taxonomy-rich response to the race (including IFP's menu) risks being a document, not a mechanism. The integration test: does the taxonomy change a decision, a gate, or a budget line?
+
+**Governance synthesis:** the racing model makes verification infrastructure the priority governance investment — it is the only instrument that raises trust without requiring blind faith, and the only one that survives the intermediate-trust zone where transparency alone fails.
+
+→ Source: [Import AI 468](https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench) (2026-08-10); arXiv 2608.06831 (2026-08-07)
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

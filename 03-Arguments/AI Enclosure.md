@@ -123,7 +123,20 @@ Each higher layer operates only for those who have access. The Enclosure Layer a
 
 ## Enclosure Mechanism #5: Hardware Import Bans (2026-08-05)
 
-The FCC's ban on foreign imports of advanced robots (humanoids, quadrupeds, wheeled) is enclosure at the **hardware layer** — the deepest yet, because unlike model weights, robots cannot be copied across borders. The mechanism's internal contradiction: **90% of recent US university robotics research papers relied on the banned hardware** (Unitree, ~$4,600 vs Boston Dynamics ~$278,000 — a 60× gap), and Unitree's IPO targets ~$6B with no US firm shipping at comparable scale (MIT Technology Review, 2026-08-03). So the ban encloses the *means of building* the field it claims to protect: the research base gets taxed while the capability gap persists — the jailbreak fallacy at the hardware layer (see [[Export Controls and the Jailbreak Fallacy]]). The reportedly-considered ban on open-source Chinese models ($25B in annual savings at stake) would extend the same structure to weights. Counterforce lens: the measured local-inference floor ([[Home Server AI Agents]] — sub-watt-hour per thousand tokens) means the bottom of the stack stays open even as top-layer hardware gates shut.
+**Counterforce lens:** the measured local-inference floor ([[Home Server AI Agents]] — sub-watt-hour per thousand tokens) means the bottom of the stack stays open even as top-layer hardware gates shut.
+
+## The Political Enclosure of Agentic AI (2026-08-10)
+
+**"Agentic AI: User Empowerment or Enclosure?"** (Gamba, Romero, Schoenebeck, arXiv 2608.06510, 2026-08-06) extends the enclosure thesis from models to agents — with the sharpest version yet of the *depoliticization pathway*: technology encloses when it migrates decisions out of contested public space into interfaces presented as neutral.
+
+- **The historical pattern:** the paper traces depoliticization through earlier waves — ad blockers (an individual response to a collective attention problem), and now **robo-advisors** (an individual response to a collective retirement-security problem). Each wave converts a civic question (what should the attention economy be? who should be secure in old age?) into a private optimization task.
+- **Agentic AI is the same mechanism at full power:** agents that book, buy, vote-assist, and manage on the user's behalf present each decision as a personal preference optimization — while the aggregate outcome (who gets served, at what price, on what terms) is set by whoever controls the agent's objective function. The enclosure is invisible because it is *inside the interface*.
+- **The governance settling-in point:** the paper flags MCP (Model Context Protocol) and the emerging "Agentic AI Foundation" as the standards/actor layer where the terms of agentic access are being set — **before democratic contestation has caught up**. The window where the architecture is decided and the window where the public can weigh in do not overlap; this page's Hardware Import Bans section shows the same pattern at the hardware layer.
+- **The agency counter-lens:** the enclosure is not total — open-weight agents, local orchestration ([[Home Server AI Agents]], [[AI Orchestrator]]), and the measured local-inference floor keep a non-enclosed path available. But the default path for most users will be the depoliticized one unless the standards layer is treated as a governance surface.
+
+**Relevance to the layer arc:** this is the Enclosure Layer operating *after* the gate — the user got through the gate and is still enclosed, because the agent's objective function is not theirs. The gatekeeping layer (who gets access) and the enclosure layer (under whose terms) separate here: access can be wide while agency is narrow.
+
+→ Source: arXiv 2608.06510 (2026-08-06)
 
 ## Risks / Limits
 
