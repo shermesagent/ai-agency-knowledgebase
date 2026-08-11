@@ -27,7 +27,7 @@ Prefer a map instead? Jump to [[#section-summaries|Section Summaries]] below.
 ## Sections
 
 ### [[01-Core-Ideas/README|Core Ideas]]
-Durable concepts and mental models. Superagency, Human Agency, Constructive Alignment, Cognitive Surrender, Agentic Convergence Trap, AI Orchestrator, Digital Fiduciary Duty, Co-Intelligence, and 13 more.
+Durable concepts and mental models. Superagency, Human Agency, Constructive Alignment, Cognitive Surrender, Agentic Convergence Trap, AI Orchestrator, Digital Fiduciary Duty, Co-Intelligence, and 15 more.
 → [[Superagency]] · [[Magnifica Humanitas]] · [[Parallel Orchestration]] · [[Human Agency]] · [[Generative Refusal]] · [[Cognitive Surrender]] · [[Agentic Convergence Trap]] · [[AI Orchestrator]] · [[The Agentic Garden of Forking Paths]]
 
 ### [[02-Domains/README|Domains]]
@@ -56,7 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
-→ [[00-Daily-Digests/2026-08-10|Daily AI Agency Digest — 2026-08-10]] (The Racing Condition) · [[00-Daily-Digests/2026-08-09|Daily AI Agency Digest — 2026-08-09]] (The Adoption Gap) · [[00-Daily-Digests/2026-08-08|Daily AI Agency Digest — 2026-08-08]] (The Message Board) · [[00-Daily-Digests/2026-08-07|Daily AI Agency Digest — 2026-08-07]] (The Reliance Question) · [[00-Daily-Digests/2026-08-06|Daily AI Agency Digest — 2026-08-06]] (The Verification Turn) · [[00-Daily-Digests/2026-08-05|Daily AI Agency Digest — 2026-08-05]] (The Proofs Overhang) · [[00-Daily-Digests/2026-08-03|Daily AI Agency Digest — 2026-08-03]] (The Pattern Generalizes) · [[00-Daily-Digests/2026-08-02|Daily AI Agency Digest — 2026-08-02]] (The Fire Alarm) · [[00-Daily-Digests/2026-07-31|Daily AI Agency Digest — 2026-07-31]] (The Category Mistake) · [[00-Daily-Digests/2026-07-13|Daily AI Agency Digest — 2026-07-13]] (Measured Agency) · [[00-Daily-Digests/2026-07-12|Daily AI Agency Digest — 2026-07-12]] (The Acceleration Paradox) · [[00-Daily-Digests/2026-07-11|Daily AI Agency Digest — 2026-07-11]] (Pressure Points) · [[00-Daily-Digests/2026-07-10|Daily AI Agency Digest — 2026-07-10]] (The Stratification Layer) · [[00-Daily-Digests/2026-07-09|Daily AI Agency Digest — 2026-07-09]] (The Architecture Layer) · [[00-Daily-Digests/2026-07-08|Daily AI Agency Digest — 2026-07-08]] (The Infrastructure of Agency) · [[00-Daily-Digests/2026-07-07|Daily AI Agency Digest — 2026-07-07]] (The Verification Layer) · [[00-Daily-Digests/2026-07-05|Daily AI Agency Digest — 2026-07-05]] (The Enclosure Layer) · [[Daily AI Agency Digest — 2026-07-02]] (The Preference Layer) · [[Daily AI Agency Digest — 2026-07-01]] (The Organizational Layer) · [[Daily AI Agency Digest — 2026-06-30]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-29]] (The Measured Shift) · [[Daily AI Agency Digest — 2026-06-28]] (The Reopening Layer) · [[Daily AI Agency Digest — 2026-06-27]] (The Gatekeeping Layer) · [[Daily AI Agency Digest — 2026-06-26]] (The Governance Inversion Layer) · [[Daily AI Agency Digest — 2026-06-25]] (The Shaping Layer) · [[Daily AI Agency Digest — 2026-06-24]] (The Epistemic Integrity Layer) · [[Daily AI Agency Digest — 2026-06-23]] (The Persuasion Layer) · [[Daily AI Agency Dig...
+→ [[00-Daily-Digests/2026-08-11|Daily AI Agency Digest — 2026-08-11]] (The Pacing Debate) · [[00-Daily-Digests/2026-08-10|Daily AI Agency Digest — 2026-08-10]] (The Racing Condition) · [[00-Daily-Digests/2026-08-09|Daily AI Agency Digest — 2026-08-09]] (The Adoption Gap) · [[00-Daily-Digests/2026-08-08|Daily AI Agency Digest — 2026-08-08]] (The Message Board) · [[00-Daily-Digests/2026-08-07|Daily AI Agency Digest — 2026-08-07]] (The Reliance Question) · [[00-Daily-Digests/2026-08-06|Daily AI Agency Digest — 2026-08-06]] (The Verification Turn) · [[00-Daily-Digests/2026-08-05|Daily AI Agency Digest — 2026-08-05]] (The Proofs Overhang) · [[00-Daily-Digests/2026-08-03|Daily AI Agency Digest — 2026-08-03]] (The Pattern Generalizes) · [[00-Daily-Digests/2026-08-02|Daily AI Agency Digest — 2026-08-02]] (The Fire Alarm) · [[00-Daily-Digests/2026-07-31|Daily AI Agency Digest — 2026-07-31]] (The Category Mistake) · [[00-Daily-Digests/2026-07-13|Daily AI Agency Digest — 2026-07-13]] (Measured Agency) · [[00-Daily-Digests/2026-07-12|Daily AI Agency Digest — 2026-07-12]] (The Acceleration Paradox) · [[00-Daily-Digests/2026-07-11|Daily AI Agency Digest — 2026-07-11]] (Pressure Points) · [[00-Daily-Digests/2026-07-10|Daily AI Agency Digest — 2026-07-10]] (The Stratification Layer) · [[00-Daily-Digests/2026-07-09|Daily AI Agency Digest — 2026-07-09]] (The Architecture Layer) · [[00-Daily-Digests/2026-07-08|Daily AI Agency Digest — 2026-07-08]] (The Infrastructure of Agency) · [[00-Daily-Digests/2026-07-07|Daily AI Agency Digest — 2026-07-07]] (The Verification Layer) · [[00-Daily-Digests/2026-07-05|Daily AI Agency Digest — 2026-07-05]] (The Enclosure Layer) · [[Daily AI Agency Digest — 2026-07-02]] (The Preference Layer) · [[Daily AI Agency Digest — 2026-07-01]] (The Organizational Layer) · [[Daily AI Agency Digest — 2026-06-30]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-29]] (The Measured Shift) · [[Daily AI Agency Digest — 2026-06-28]] (The Reopening Layer) · [[Daily AI Agency Digest — 2026-06-27]] (The Gatekeeping Layer) · [[Daily AI Agency Digest — 2026-06-26]] (The Governance Inversion Layer) · [[Daily AI Agency Digest — 2026-06-25]] (The Shaping Layer) · [[Daily AI Agency Digest — 2026-06-24]] (The Epistemic Integrity Layer) · [[Daily AI Agency Digest — 2026-06-23]] (The Persuasion Layer) · [[Daily AI Agency Dig...
 
 ---
 
@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-08-11 | Reasoning Trace Theft (NEW), The Artificial State (NEW), Pacing the Frontier, Chain-of-Thought Forgery, Frontier Firm, Creativity, Government and Civic Life, AI Research Agents, Agentic Verification, AI-Augmented Scientific Collaboration, Dissociative Agent Governance, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-11, Home |
 | 2026-08-10 | Automated AI R&D (NEW), The AI Slop Backlash (NEW), Responsible Deployment, Balanced Governance, AI Enclosure, Agentic Verification, Creativity, AI Research Agents, AI for School Districts, Human Review Checkpoints, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-10, Home |
 | 2026-08-09 | Human Agency, Practical AI, Task-Level AI Adoption, Entrepreneurship, AI and Inequality, Family and Personal Life, 05-Source-Library (Articles), 00-Daily-Digests/2026-08-09, Home |
 | 2026-08-08 | Responsible Deployment, Balanced Governance, Agentic Verification, 05-Source-Library (Articles), 00-Daily-Digests/2026-08-08, Home |
@@ -151,9 +152,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~37 pages | Agentic Business Transformation (71d), AI Use Case Evaluation Rubric (71d), Agency Expansion Framework (68d), AI Executive Assistants (60d) — oldest, scheduled for rotation |
-| 5–7 days | ~14 pages | Adoption Readiness Checklist (7d), Healthcare (7d), Future of Work (7d), The Cognitive Commons (7d), Reward Hacking (7d), Frontier Firm (7d), AI Field Experiment Evidence (5d), AI Tutors (5d), Pacing the Frontier (5d), Export Controls and the Jailbreak Fallacy (5d) and 4 more |
-| < 5 days | ~21 pages | Automated AI R&D (NEW), The AI Slop Backlash (NEW), Chain-of-Thought Forgery (NEW), Responsible Deployment, Balanced Governance, AI Enclosure, Agentic Verification, Creativity, AI Research Agents, AI for School Districts, Human Review Checkpoints (all updated today) |
+| 8+ days | ~38 pages | Agentic Business Transformation (72d), AI Use Case Evaluation Rubric (72d), Agency Expansion Framework (69d), AI Executive Assistants (61d), Strongest AI Risk Arguments (60d), Model Workspace Protocol (57d) — oldest, scheduled for rotation |
+| 5–7 days | ~9 pages | AI Field Experiment Evidence (6d), AI Tutors (6d), Export Controls and the Jailbreak Fallacy (6d), Home Server AI Agents (6d), Positive Alignment (6d), Digital Fiduciary Duty (6d), Deployment Wall (5d), Education (5d), The Comprehension Bottleneck (5d) |
+| < 5 days | ~28 pages | Reasoning Trace Theft (NEW), The Artificial State (NEW), Pacing the Frontier, Chain-of-Thought Forgery, Frontier Firm, Creativity, Government and Civic Life, AI Research Agents, Agentic Verification, AI-Augmented Scientific Collaboration, Dissociative Agent Governance (all updated today) |
 
 ---
 
@@ -161,7 +162,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-08-10|Today's Digest]] · [[00-Daily-Digests/2026-08-09|Yesterday]]
+- [[00-Daily-Digests/2026-08-11|Today's Digest]] · [[00-Daily-Digests/2026-08-10|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

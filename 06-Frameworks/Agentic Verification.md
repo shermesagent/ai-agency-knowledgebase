@@ -95,6 +95,16 @@ For the agency frame: the training-environment dimension makes verification a su
 
 → Source: arXiv 2608.06940 (2026-08-07); arXiv 2608.06909 (2026-08-07); arXiv 2608.06804 (2026-08-07)
 
+### In-Loop Gates and Out-of-Loop Users (2026-08-11)
+
+**Verification is now being built at both ends of the loop — and the two results pair cleanly:**
+
+- **The in-loop gate: Agentic Harnesses.** [Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy](https://arxiv.org/abs/2608.09857) (Bhagra, Halapannavar, Bhattarai, 2026-08-10) places an LLM-as-a-Judge ensemble — chain-of-thought reasoning across models, synthesized via a mixture-of-experts plus self-consistency approach — as middleware between planning and execution: plans are **approved, rejected for reformulation, or escalated for human review** before they reach the MCP server and the robot's low-level controls. This is the [[Human Review Checkpoints]] pattern automated at the gate: the judge does not execute, it *screens*.
+- **The out-of-loop user: Epistemic Transfer.** [Epistemic Transfer in AI-Assisted Verification: A Framework and Evaluation Protocol](https://arxiv.org/abs/2608.08882) (Trattner, 2026-08-09) formalizes the user-side question this page keeps circling: does verification skill transfer after the tool is removed? The framework's quantities — Epistemic Transfer Effect (ETE) and Tool-Removal Cost (TRC) — measure exactly that: what the user can still verify alone.
+- **The pair's implication:** in-loop gates make execution safe; out-of-loop measurement makes *dependence* visible. The first says "the plan is screened," the second asks "can you still judge without the screener?" — the two questions every verification stack needs answers to. Related: [[Reasoning Trace Theft]] — if hidden reasoning is client-passed and decryptable, the judge ensemble's inputs are adversary-readable too.
+
+→ Sources: arXiv 2608.09857 (2026-08-10); arXiv 2608.08882 (2026-08-09); [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 
 - [[Chain-of-Thought Forgery]]

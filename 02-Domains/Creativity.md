@@ -164,5 +164,15 @@ Giorgio Presti's "The Aura in the Machine" (arXiv 2607.17940, July 2026) provide
 
 → Source: arXiv 2608.06980 (2026-08-07)
 
+### AI-AI Co-Creation Outperforms Human Pairs (2026-08-11)
+
+**[AI-AI co-creation outperforms human pairs in creative tasks](https://arxiv.org/abs/2608.09023)** (Luan, Sun, Kim, Wang, Xie, 2026-08-10) — **1,212 ideas across four conditions**: single AI, human pairs, AI-AI pairs with identical roles, and AI-AI pairs with complementary generator-evaluator roles.
+
+- **The finding:** both AI-AI co-creation conditions beat single-AI creation and human pairs on creativity and novelty; **human pairs performed worst**. Usefulness varied by task: complementary roles yielded the most useful solutions on the broadest, most socially complex task — role differentiation wins where problems need both imaginative ideation and practical refinement.
+- **Why it matters for the domain:** it generalizes the constructive-conflict finding (2608.04166) to co-creation: the agentic design pattern with evidence is *structured role separation*, not more generation. And it sharpens the audience-effect result (2608.06980): the AI audience that helps is the one built to evaluate, not to validate.
+- **The agency frame:** this is the [[Superagency]] case in miniature — the human creative role moves up one level, to designing the generator-evaluator pair and adjudicating its outputs. The risk is the same as everywhere: the pair's taste is the designer's taste, and accepting the pair's verdicts wholesale is the slop trap (see [[The AI Slop Backlash]]).
+
+→ Source: arXiv 2608.09023 (2026-08-10)
+
 ## Tags
 #creativity #augmentation #human-agency #practical-ai

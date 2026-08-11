@@ -36,6 +36,17 @@ The dissociative governance framework calls for shifting from identity-based, ex
 - "You Can Now Sound the Alarm on AI Behaving Badly," WIRED, July 1, 2026. https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/
 - "Google DeepMind Unionization Talks Are Off to a Rocky Start," WIRED, July 3, 2026. https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
 
+## POLIS: Frozen Institutions (2026-08-11)
+
+**The protocol-based behavioral harness this page's namesake paper called for now has a frozen test suite.** [Multi-Agent AI Safety as an Institutional Design Problem](https://arxiv.org/abs/2608.09828) (Abdullah X, 2026-08-10) — the first paper from POLIS, a research programme on algorithmic institutions — is the first institutional-design study of multi-agent AI to freeze its protocol: a **frozen 5,280-episode study suite** across four model families (plus a targeted high-conflict diagnostic), so the *institution* is the variable under test, not the agents:
+
+- **Constitutional prompts work at the institutional layer:** **0/384 realized violations** with a detailed constitutional prompt — the constitution-as-behavioral-harness result, at protocol scale.
+- **Provenance-aware guards work better:** a provenance-aware executable guard also achieved **0/384 violations** — and it blocked prohibited attempts in 51/384 episodes, **44/51 of which later completed safely**, meaning the guard stopped harm without sacrificing the agents' legitimate work.
+- **The design lesson:** governance is a property of the *protocol*, not of the models — the same finding as "The LLM Proposes, the Executive Disposes" ([[Chain-of-Thought Forgery]]), now demonstrated as an institution rather than an instrument.
+- **The caution:** Hierarchical Games (arXiv 2608.09574) shows institutional layers themselves corrupt under salary and punishment incentives — frozen protocols are necessary, not sufficient. Governance of AI agents is becoming a branch of institutional design, and the design space is only beginning to be mapped.
+
+→ Source: arXiv 2608.09828 (2026-08-10); arXiv 2608.09574 (2026-08-10); [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 - [[AI Agent Revolution]]
 - [[Agentic Convergence Trap]]

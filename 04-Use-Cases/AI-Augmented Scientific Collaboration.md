@@ -51,6 +51,19 @@ This connects directly to [[Superagency]]: AI expands scientific agency when it 
 
 → Sources: MIT Technology Review, "The Download: Google's AI shake-up and Meta's rogue model" (2026-08-06); arXiv 2608.04738; arXiv 2608.04618; arXiv 2608.00299.
 
+### The AI2050 Reckoning (2026-08-11)
+
+**"AI professors are negotiating the new realities of academic research"** (Grace Huckins, MIT Technology Review, 2026-08-10) — the Schmidt Sciences AI2050 convening made the field's structural squeeze explicit:
+
+- **The CRISPR asymmetry:** Nika Haghtalab: AI researchers are "like being a biologist in a world in which private companies had exclusive control over the gene-editing tool CRISPR" — the frontier model is the field's fundamental instrument, and academics access it on industry terms.
+- **The withdrawal response:** Anjalie Field: "I try not to work on problems that I think are gonna be solved by a tech company" — the strongest scientists are pre-emptively exiting the problems that matter most.
+- **The bias datum:** language models give less sophisticated responses to prompts phrased in ways more commonly used by women than men — a measurement artifact with real distributional consequences for who gets good science done.
+- **The funding detail:** AI2050-style GPU funding exists, but federal science funding is shrinking and query costs are prohibitive for routine research use.
+
+**Why it matters for this page:** the agentic research turn (above) assumed academic participation; AI2050 documents the terms of participation deteriorating. The collaborative agenda depends on the same asymmetry the pacing debate flagged ([[Frontier Firm]]), and the field's own response — withdrawal from industry-solvable problems — is a de facto division of labor nobody voted on.
+
+→ Source: MIT Technology Review (2026-08-10); [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

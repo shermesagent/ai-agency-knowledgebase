@@ -117,6 +117,16 @@ The enterprise side of the frontier story broke open with a hard number: **annua
 
 → Source: https://arxiv.org/abs/2607.29089; [Stratechery, "Meta Earnings, Meta's Timing Problems, The Financial Tail"](https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/) (2026-08-03, teaser)
 
+## The Firm That Automates Its Own R&D (2026-08-11)
+
+**The pacing debate produced the strongest frontier-firm statement yet.** Samuel Hammond's comment on Zvi's "The Pacing of the Frontier" (2026-08-10) describes exactly what the Acceleration Paradox predicted: US frontier companies are "on the precipice of fully automating the AI R&D loop" — pre/post-training, environment creation, data generation, evals, algorithm and kernel design, systems engineering, architecture search, "the full stack" — and are "already in a regime of weak RSI via partially automated SWEs."
+
+- **The firm is the R&D unit being automated.** The Acceleration Paradox said the product ships while the architects leave; Hammond's version says the product *develops itself*: "new models will be private by default," a regression to **a new frontier model roughly every day by January 2027**, OOMs of compute online or in construction, and METR unable to evaluate model autonomy beyond **13 hours**.
+- **The firm is also the governance actor.** The July 29 letter's demand — the ability to pace — is addressed to the frontier firms themselves; the counter-position (a "DPA 708-style agreement": industry consortium, narrow antitrust carveouts, assurance nonprofit, incident reporting, coordinated-delay protocol) is an inter-firm governance structure. The firm's organizational absorption capacity (see the Deployment Wall section above) is now the binding constraint on pacing too.
+- **The "No One In Charge" objection:** the claim that the system has no human in charge reads, on this page's frame, as the endpoint of the Acceleration Paradox — the architects have left, and the firm's R&D loop no longer requires them. Zvi reads the objection as premise rejection — "refusing to be ASI pilled."
+
+→ Source: [Zvi, "The Pacing of the Frontier"](https://thezvi.substack.com/p/the-pacing-of-the-frontier) (2026-08-10), including Hammond's comment; [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 - [[Work]]
 - [[Future of Work]]

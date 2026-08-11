@@ -76,6 +76,16 @@ This page matters for the wiki's thesis because research agents are the limit ca
 
 → Sources: [MIT Technology Review](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) (2026-08-10); arXiv 2608.06931 (2026-08-07); [Import AI 468](https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench) (2026-08-10)
 
+### Auto-Research Is Fuzz Testing (2026-08-11)
+
+**[Agentic Auto-Research is Fuzz Testing](https://arxiv.org/abs/2608.09855)** (He, Wang, Zhao, Liu, Chen, 2026-08-10) names the structural weakness behind generate-and-rank auto-research: **sparse feedback**. When success is a rare event (a novel result, a valid proof), ranking generated ideas by likelihood of success is provably weak — you need cheap, dense signals that every experiment updates, not occasional wins.
+
+- **The diagnosis:** generate-and-rank treats research as search over an idea space with sparse rewards; fuzzing solved the same problem in software by instrumenting *coverage* — cheap, dense, per-input signal.
+- **The prescription:** auto-research needs an equivalent epistemic-progress signal per experiment — something like coverage over hypothesis space, measurable after every run, not just at the milestone.
+- **Why it matters for this page:** it complements the SEE result (48.7% on real discovery tasks): SEE measures whether agents *can* do science; the fuzz-testing frame says the bottleneck is the *feedback architecture* of scientific search — a design problem, not a capability problem. Buyers should demand agents with instrumented experiment coverage, not just better rankings.
+
+→ Source: arXiv 2608.09855 (2026-08-10); [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

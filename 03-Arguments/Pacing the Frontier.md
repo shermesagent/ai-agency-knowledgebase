@@ -35,6 +35,20 @@ The concept crystallized in late July 2026: an **open letter from frontier-lab e
 - **Information sharing cuts both ways.** Sharing where you are relative to competitors also shares where you are with adversaries — the same data that reduces racing can inform attack planning. (See [[Export Controls and the Jailbreak Fallacy]] for the control-layer version of this tension.)
 - **Pacing assumes symmetric stakes.** If one player refuses to participate (a non-signatory lab, a state actor), the cooperative equilibrium collapses back into racing — pacing needs enforcement, and enforcement is politics.
 
+## The Letter Debate Goes Public (2026-08-11)
+
+**Zvi's "The Pacing of the Frontier" (Mon 2026-08-10) is the deepest public treatment of the July 29 letter yet** — the letter, the signatories' statements, the concrete pacing menu, and the objections:
+
+- **The letter's own language:** it calls on labs to "prepare to *potentially* Pace the Frontier" — not to slow now, but to build the capability to slow later. Dean W. Ball (signatory): "The slowdown we have in mind is temporary, and to a rate of progress that is still much faster than even today's rate."
+- **The pro/anti overlap:** Zvi's read is that the two camps agree more than they admit — the fight is not whether to slow but *how to measure the speed limit*. His interlocutor Nick: "how to measure the speed limit no idea."
+- **The concrete menu (AI Futures Project):** pacing options from the AI 2027 / Plan A work; Zvi most drawn to **option 4 (safety cases)** and **option 2 (minimum compute allocation for alignment/safety)**. The counter-position is a "DPA 708-style agreement": an industry consortium with narrow antitrust carveouts, an assurance nonprofit for third-party evals, incident reporting, and a coordinated-delay protocol.
+- **The measurement subplot (Samuel Hammond):** US frontier companies are "on the precipice of fully automating the AI R&D loop" — the full stack — and "already in a regime of weak RSI via partially automated SWEs," in "a prisoners dilemma vis a vis each other and to a lesser extent vis a vis China." Numbers to argue with: METR's ceiling at **13 hours** of evaluated autonomy; a regression predicting **a new frontier model roughly every day by January 2027**; OOMs of compute online or in construction; "new models will be private by default."
+- **The "No One In Charge" objection:** Zvi reads the objection that no person in charge means no liberal order as premise rejection — "refusing to be ASI pilled." His close: "Let's not let it come to that."
+
+The tension this adds to the page: pacing now looks less like a policy proposal and more like an *infrastructure build* — measurement, evaluation, and information-sharing machinery that does not yet exist, with the letter as the first public demand for it. See [[Reasoning Trace Theft]] for the week's counter-evidence on information sharing.
+
+→ Source: [Zvi, "The Pacing of the Frontier"](https://thezvi.substack.com/p/the-pacing-of-the-frontier) (2026-08-10); [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 
 - [[Balanced Governance]]

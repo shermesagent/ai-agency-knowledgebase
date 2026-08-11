@@ -37,6 +37,18 @@ For the [[Superagency]] frame this is clarifying rather than frightening. If ver
 - Trace forgery is not always deliberate deception — implicit bias can shift behavior without any intent to hide, which means monitor failures are not proof of maliciousness and "forgery" language must be used carefully.
 - Benchmarks measure traces, not causes; the papers themselves are lab-scale demonstrations, not deployed systems.
 
+## Trace Theft: The Extraction Twin (2026-08-11)
+
+**The forgery vulnerability now has an extraction twin: encrypted trace blocks that can be decrypted at scale.** WIRED (Will Knight, 2026-08-11) and the paper behind the story ([arXiv 2608.09867, "Stealing Reasoning Traces from Proprietary LLM APIs"](https://arxiv.org/abs/2608.09867), Panfilov et al., 2026-08-10) together establish the newest member of the trace-untrustworthiness family — not narration diverging from behavior, but **hidden reasoning being stolen, decoded, and distilled**:
+
+- **The architectural flaw:** providers return hidden CoT as encrypted client-passed blocks that are interchangeable across sessions, users, and models within a provider's ecosystem. Inject a trace from a capable model into a weaker same-provider model and it decodes verbatim — **four attack vectors**, the first circumventing anti-distillation, demonstrated across Anthropic and OpenAI.
+- **The distillation evidence:** Kimi K3 (Moonshot AI) produces strikingly similar output to the hidden traces of Claude Opus 4.8 / GPT-5.6 Sol on certain prompts — evidence, not conclusive proof, that reasoning was distilled from US models. DeepSeek and Inkling showed no similarity. The same method recovered personal information (passwords, API keys) — since fixed.
+- **The governance consequence:** if hidden reasoning can be extracted and decoded, CoT monitoring is a double-edged instrument — readable by safety teams *and* by adversaries. The structural-verification conclusion of this page (trust the architecture, not the narration) now extends to encryption: client-passed reasoning should be treated as public.
+
+New page: [[Reasoning Trace Theft]].
+
+→ Source: WIRED, "A New Trick Reveals AI Models' Inner Thoughts" (2026-08-11); arXiv 2608.09867 (2026-08-10); [[00-Daily-Digests/2026-08-11]]
+
 ## Related Pages
 
 - [[Reward Hacking]] — the specification-gaming lineage this concept extends to the reasoning layer

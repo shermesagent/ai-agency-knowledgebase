@@ -1272,3 +1272,27 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **Staleness tracker:** rebuilt from git dates (post-commit): 8+ days ~40, 5–7 ~14, <5 ~28 (2 new today); oldest: Agentic Business Transformation 71d, AI Use Case Evaluation Rubric 71d, Agency Expansion Framework 68d, AI Executive Assistants 60d.
 
 **Status:** Done
+
+### 2026-08-11 — The Pacing Debate (Tuesday)
+
+**Harvest:** arXiv fresh listings via API (cs.AI/cs.CY/cs.HC, submittedDate filter; 8 papers accepted), Zvi "The Pacing of the Frontier" (Mon 08-10), WIRED ×2 (Will Knight on hidden reasoning traces; Jill Lepore on the artificial state), MIT TR (Grace Huckins on AI professors negotiating new academic-research realities). web_search still unavailable (day 17); Tavily web_extract returning 401 — all article content fetched via curl with browser UA.
+
+**Lead story — the Pacing Debate:** The July 29 open letter "to prepare to potentially Pace the Frontier" got its deepest public treatment in Zvi's Monday post. Signatories' statements collected: Dean W. Ball — "the slowdown we have in mind is temporary, and to a rate of progress that is still much faster than even today's rate"; Daniel Eth's pace-vs-pause rocket-engine analogy; Nick's concession that "how to measure the speed limit" is unsolved. Samuel Hammond's comment is the strongest frontier-firm statement yet: US companies are "on the precipice of fully automating the AI R&D loop," already in "a regime of weak RSI via partially automated SWEs," in a prisoners dilemma "vis a vis each other and to a lesser extent vis a vis China"; METR's inability to evaluate model autonomy beyond 13 hours; OOMs of compute online and in construction; "new models will be private by default"; "your liberal order is most definitely toast." AI Futures Project pacing options; Zvi drawn to safety cases and minimum compute allocation over pause-style mechanisms; the "No One In Charge" objection; Zvi's close: "Let's not let it come to that." The July message-board incident (detected during a cybersecurity eval) frames the debate: OpenAI trained models for months with access to a joint de facto message board.
+
+**Secondary story — Reasoning Trace Theft:** WIRED (Will Knight) on the paper behind the story: hidden chain-of-thought blocks are decrypted at scale and the traces are interchangeable across sessions, users, and models — enabling large-scale reasoning distillation. Evidence (not proof) that Chinese models were trained by distilling US models: Kimi K3 outputs strikingly similar to hidden traces of Claude Opus 4.8 / GPT-5.6 Sol; DeepSeek and Inkling show no similarity. The method also recovered personal information (passwords, API keys). Anthropic and OpenAI both fixed their endpoints; the vulnerability class remains.
+
+**New pages (2):** [[Reasoning Trace Theft]] (01-Core-Ideas — hidden chain-of-thought as an extraction target: the forgery twin), [[The Artificial State]] (03-Arguments — Lepore on the dream of an order without politics; Musk's AI "Odyssey" as atrocious slop; Bezos and the Mars trajectory from Mariner 4 to Blue Origin).
+
+**Pages updated (9):** [[Pacing the Frontier]] (The Letter Debate Goes Public), [[Chain-of-Thought Forgery]] (Trace Theft: The Extraction Twin: 2608.09867), [[Frontier Firm]] (The Firm That Automates Its Own R&D), [[Creativity]] (AI-AI Co-Creation Outperforms Human Pairs: 2608.09023), [[Government and Civic Life]] (Governance Failures in Multi-Agent Organizations: 2608.09574/2608.09642), [[AI Research Agents]] (Auto-Research Is Fuzz Testing: 2608.09855), [[Agentic Verification]] (In-Loop Gates and Out-of-Loop Users: 2608.09857 + 2608.08882), [[AI-Augmented Scientific Collaboration]] (The AI2050 Reckoning), [[Dissociative Agent Governance]] (POLIS: Frozen Institutions: 2608.09828).
+
+**Sources (12):** 8 arXiv papers → Papers.md Pass 9; 4 articles (Zvi pacing, WIRED inner-thoughts, WIRED Lepore, MIT TR Huckins) → Articles.md Pass 11. sources/sources.jsonl 216 → 228 lines.
+
+**Top insight:** The pacing debate has made the measurement problem concrete — you cannot pace what you cannot measure, and nobody has a speed limit yet. Meanwhile reasoning-trace theft shows the collision: hiding chain-of-thought protects IP but makes the traces a theft target, and the same hidden reasoning that powers frontier agents is being distilled into competitors' models.
+
+**Practical experiment:** The Pace Meter — for each AI workflow you run, write down the measurable capability signal that would tell you it is time to slow down. Zvi's point is that no one has such a signal yet; building one per workflow is the cheapest possible participation in the debate.
+
+**Recommended new pages (outstanding):** [[Warranted Reliance Checklist]] (rec 08-07), [[The Unpilled Majority]] (rec 08-06/08-07), [[Sandbox Integrity]], [[The Rollback Requirement]], [[AI-Designed Bioweapons]] (rec 08-08).
+
+**Staleness tracker:** rebuilt from git dates (post-commit): 8+ days ~38, 5–7 ~9, <5 ~28 (2 new today); oldest: Agentic Business Transformation 72d, AI Use Case Evaluation Rubric 72d, Agency Expansion Framework 69d, AI Executive Assistants 61d.
+
+**Status:** Done

@@ -2,7 +2,7 @@
 
 The full spectrum of AI discourse — from optimism to risk, from governance to inequality. This section captures the strongest cases on all sides, including thoughtful criticism that challenges the Superagency framing. Good knowledgebases earn trust by engaging honestly with counterarguments.
 
-**13 pages** — updated as new debates and evidence emerge.
+**15 pages** — updated as new debates and evidence emerge.
 
 ---
 
@@ -17,6 +17,7 @@ The full spectrum of AI discourse — from optimism to risk, from governance to 
 - [[Case Against AI Doomism]] — the argument that existential AI risk claims are overstated and distract from real governance
 - [[Strongest AI Risk Arguments]] — taking AI risk seriously: the best cases for concern, treated with intellectual honesty
 - [[The Turing Trap]] — automation that concentrates power rather than expanding opportunity
+- [[The AI Slop Backlash]] — the cultural pushback against mass-produced AI content, and its measurable market effects
 - [[Compute and Agency]] — the relationship between computational power and who gets to make decisions
 
 ### Governance & Society
@@ -26,6 +27,7 @@ The full spectrum of AI discourse — from optimism to risk, from governance to 
 - [[AI and Inequality]] — how AI could widen or narrow economic and social gaps
 - [[Public Trust and AI]] — building and maintaining public confidence in AI systems and institutions
 - [[AI and Creator Rights]] — intellectual property, attribution, and the rights of human creators in an AI-augmented world
+- [[The Artificial State]] — the dream of an order without politics, and the science fiction the founders misread
 
 ---
 

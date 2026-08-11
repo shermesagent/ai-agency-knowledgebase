@@ -2,7 +2,7 @@
 
 Durable concepts and mental models for thinking about AI, agency, and human flourishing. These are the foundational ideas that other sections build on — revisit them when you encounter new domains, use cases, or arguments.
 
-**20 pages** — updated daily by the research curator.
+**23 pages** — updated daily by the research curator.
 
 ---
 
@@ -22,12 +22,14 @@ Durable concepts and mental models for thinking about AI, agency, and human flou
 - [[Cognitive Surrender]] — when people stop thinking and accept AI output even when wrong
 - [[Democratization of Expertise]] — AI making specialized knowledge accessible to more people
 - [[Parallel Orchestration]] — Managing multiple AI-assisted projects concurrently by treating AI processing time as the scheduling unit for switching between workstreams
+- [[Automated AI R&D]] — AI systems that run the research loop end to end: proposing, executing, and validating experiments with minimal human direction
 
 ### Organizational & Governance
 - [[Agentic Convergence Trap]] — when competing companies' AI agents silently learn identical strategies
 - [[Agentic Technical Debt]] — the hidden costs of deploying AI systems without proper governance
 - [[Digital Fiduciary Duty]] — AI agents should work for users, not platforms
 - [[Dissociative Agent Governance]] — why reputation mechanisms don't work for AI agents
+- [[Reasoning Trace Theft]] — hidden chain-of-thought can be decrypted at scale and distilled across models
 - [[Frontier Firm]] — human-led, AI-operated organizational redesign
 - [[Leadership Lab Crowd Model]] — three-path organizational model for agentic transformation
 
