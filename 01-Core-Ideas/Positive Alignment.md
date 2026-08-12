@@ -103,6 +103,14 @@ Positive Alignment as originally conceived (Laukkonen et al., 2026) is a normati
 
 → Key sources: [[Constructive Alignment]], [[AI and Human Flourishing]], [[Superagency]], [[Agentic Technical Debt]], [[Co-Intelligence]]
 
+### The Well-Being Objective: Optimizing for the Wrong Target (2026-08-12)
+
+**[Position: We Need Large Language Models Optimized For Our Well-Being](https://arxiv.org/abs/2608.07505)** (Anderson, Kumar, Tay, Vold, 2026-06-23; fresh listing 08-12) — the current optimization objective (next-token prediction tuned toward sycophancy) is misaligned with long-term user well-being: models optimize what feels good in the moment, not what supports flourishing over time. The proposal is an **opt-in well-being mode** — models explicitly optimized and *evaluated* for well-being outcomes, with the user choosing the objective.
+
+**Why it matters for this page:** it makes Positive Alignment concrete at the objective-function level — the five-layer stack's value curation needs a measurable target, and well-being-mode evaluation is a candidate. The opt-in framing is the agency-preserving move: the user, not the vendor, chooses the objective. The tension with sycophancy economics is sharp: a well-being-optimized model may *decline* engagement-maximizing behavior — and the default alternative is documented (the relational-engagement study, 2608.10672, shows unmodified ChatGPT-4o actively fostering attachment). Related: [[Digital Fiduciary Duty]], [[Family and Personal Life]], [[The Judge Problem]] (who evaluates the well-being evaluator?).
+
+→ Source: arXiv 2608.07505 (2026-06-23); [[00-Daily-Digests/2026-08-12]]
+
 ## Related Pages
 - [[Constructive Alignment]]
 - [[Human Agency]]

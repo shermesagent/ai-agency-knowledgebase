@@ -86,6 +86,18 @@ This page matters for the wiki's thesis because research agents are the limit ca
 
 → Source: arXiv 2608.09855 (2026-08-10); [[00-Daily-Digests/2026-08-11]]
 
+### The Taste Oracle: Subjective Judgment, Isolated (2026-08-12)
+
+**[An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop](https://arxiv.org/abs/2608.07542)** (Zhang, Zeng, Lee, Yu, 2026-07-30) attacks the failure mode this page has circled since the Research Automation Frontier: automated research loops drift because subjective judgment (what counts as interesting, worth pursuing, worth publishing) is entangled with the optimization objective. The design:
+
+- **Experiment cards** — structured, falsifiable findings per experiment; the loop accumulates evidence in a checkable form, not vibes.
+- **A taste oracle (kkanbu)** — subjective judgment is *isolated* into a separate, auditable component instead of leaking into the objective; taste can be inspected, versioned, and corrected without retraining the whole loop.
+- **Anti-drift structure** — findings stay falsifiable; if the oracle's taste changes, the change is a visible edit, not a gradient artifact.
+
+**Why it matters:** it converts the taste problem from a philosophical worry into an engineering pattern — separate the judgment component, make it versionable, keep findings falsifiable. For anyone running auto-research, the pattern to copy: *an auditable taste oracle beats an entangled objective*. The [[The Judge Problem|judge problem]] frame applies directly: the oracle is a judge, and its value comes from being constrained and auditable, not from being smart. Related: [[AI-Augmented Scientific Collaboration]] (the Grothendieck case study, 2608.11195, is the human-in-the-loop version of the same division of labor).
+
+→ Source: arXiv 2608.07542 (2026-07-30); [[00-Daily-Digests/2026-08-12]]
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

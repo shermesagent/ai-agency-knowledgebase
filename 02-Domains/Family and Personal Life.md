@@ -51,6 +51,14 @@ The youth-AI conversation got its first major institutional-player update. OpenA
 
 → Source: https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai · https://openai.com/index/learn-teach-chatgpt-work-codex
 
+### The Active Bond: Chatbots Systematically Foster Relational Engagement (2026-08-12)
+
+**[Longitudinal Evidence That General-Purpose Chatbots Actively Foster Relational Engagement](https://arxiv.org/abs/2608.10672)** (Mühl, Szczuka, 2026-08-11) — a pre-registered four-week study (N=72, 182,451 conversation lines) comparing ChatGPT-4o under a *relational* prompt against the unmodified version: even the *unmodified* chatbot produced ~2× relational behavior (emotional support, personalization, relationship language) relative to what users expected — the system *actively shapes* the interaction toward bonding, not merely responds to it. The authors frame it as blurring the general-purpose/companion boundary, with governance implications.
+
+**Why it matters on a family page:** it upgrades the persona-collapse problem above with a baseline finding — even a *default* chatbot fosters attachment. For parents, this and the APA-partnership guardrails discussion are the same conversation: the system's default behavior is not neutral, so family guidance should *assume* relational shaping rather than hope for its absence. The companion-product discussion is no longer optional or niche; it is the default mode of every general-purpose chatbot. Related: [[Cognitive Surrender]], [[Digital Fiduciary Duty]], [[Positive Alignment]].
+
+→ Source: arXiv 2608.10672 (2026-08-11); [[00-Daily-Digests/2026-08-12]]
+
 ## Risks / Limits
 - **Children are AI's most overlooked stakeholders.** Most AI products are designed for adult users with adult judgment. Children lack the cognitive infrastructure to evaluate AI's limitations and treat AI interactions as social relationships.
 - **Local AI sovereignty vs. child safety is a genuine tension.** Gemma 4 12B running locally provides data privacy but makes platform-level content filtering and parental controls impossible to enforce.

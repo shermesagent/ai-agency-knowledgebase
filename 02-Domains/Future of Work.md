@@ -125,6 +125,14 @@ WIRED's Kate Taylor documents the first mass-market voice-agent rollout: **Taco 
 
 → Source: [WIRED, "AI Conquered Coding. Fast Food Is Next"](https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/) (Kate Taylor, 2026-08-03)
 
+### The Capability Ladder: Task Reallocation, Not Replacement (2026-08-12)
+
+**[The Capability Ladder: A Curriculum-Modernization Framework for Workforce Readiness in the AI Era](https://arxiv.org/abs/2608.07779)** (Memari, Rudolph, 2026-08-07) — a five-level ladder (trigger → automation → workflow → AI agent → agent team) that maps tasks onto the level of AI capability they require, reframing workforce readiness as **curriculum modernization**: the training question is not "which jobs will AI replace" but "which level of the ladder does each task sit on, and how does education move people up it?" Task *reallocation* — moving human effort to ladder levels where judgment is the binding constraint — is the stated goal, not headcount reduction.
+
+**Why it matters here:** it gives HR, education, and the entry-rung debate above a shared vocabulary — the same ladder can label a job requisition, a training module, and a task-level adoption plan (see [[Task-Level AI Adoption]]). The verification corollary: as humans move up the ladder, the judge problem follows them — higher levels need stronger evidence rules, not just stronger models (see [[The Judge Problem]]). Related: [[Education]], [[Frontier Firm]], [[AI Field Experiment Evidence]].
+
+→ Source: arXiv 2608.07779 (2026-08-07); [[00-Daily-Digests/2026-08-12]]
+
 ## Practical Examples
 - Redesign one recurring process as a [[Frontier Firm]] workflow: AI drafts or routes the work, humans set goals and inspect exceptions, and the team measures whether quality and agency improve.
 - Use [[Task-Level AI Adoption]] to label tasks as augment, automate, preserve-human, or prohibit-AI — and add the economic readiness check from EconEvals before deployment.

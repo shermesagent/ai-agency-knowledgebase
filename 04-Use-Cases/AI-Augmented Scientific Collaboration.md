@@ -64,6 +64,15 @@ This connects directly to [[Superagency]]: AI expands scientific agency when it 
 
 → Source: MIT Technology Review (2026-08-10); [[00-Daily-Digests/2026-08-11]]
 
+### The Taste Problem and the Geography of AI in Science (2026-08-12)
+
+Two fresh data points for this page's research-automation debate:
+
+- **The Grothendieck case study** ([Long-Horizon AI Research for Grothendieck Constant](https://arxiv.org/abs/2608.11195), Li, Saha, Xue, Chaudhuri, Klivans, Kothari et al., 2026-08-11) — a long-horizon human-AI mathematical collaboration: the human supplies strategy and taste, the AI supplies search and bookkeeping; the division is durable because the *judgment* is human-owned — the same separation the taste-oracle pattern makes explicit in [[AI Research Agents]].
+- **Who actually uses open-weight models** ([Who Uses Open-Weight Models? China and the Shifting Geography of AI in Science](https://arxiv.org/abs/2608.11090), Dunivin, 2026-08-11) — 21M S2ORC full-text articles through June 2026: GPT-family dominates both single- and multi-family research, but open-weight single-family use reaches **44.0% in 2026**, and the recent growth is driven by high-quality *Chinese* open-weight models. The open-weights recommendation from the AI2050 debate is being answered — but the answer is a geography shift (see [[AI Enclosure]]), not an open renaissance of Western models.
+
+→ Sources: arXiv 2608.11195 (2026-08-11); arXiv 2608.11090 (2026-08-11); [[00-Daily-Digests/2026-08-12]]
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

@@ -1296,3 +1296,25 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **Staleness tracker:** rebuilt from git dates (post-commit): 8+ days ~38, 5–7 ~9, <5 ~28 (2 new today); oldest: Agentic Business Transformation 72d, AI Use Case Evaluation Rubric 72d, Agency Expansion Framework 69d, AI Executive Assistants 61d.
 
 **Status:** Done
+
+### 2026-08-12 — The Judge Problem (Wednesday)
+
+**Harvest:** arXiv fresh listings (cs.AI / cs.CY / cs.HC) + WIRED feed. 13 papers accepted (Papers.md Pass 10) + 1 article (Articles.md Pass 12). web_search outage day 18 (Tavily); arXiv API + RSS fallback stack live.
+
+**Lead story — who judges the judges:** Five independent directions converged on one structural finding: LLM judges are no longer measurement instruments — they are decision-makers embedded in pipelines, and the binding constraint is not judge accuracy but the decision rules, the evidence the judge is locked to, and who audits the judge. Judge-as-decision-maker (2608.07813: an unconstrained scalar judge buys almost nothing; evidence-locked non-compensatory selection bounds failure). Honor-system benchmarks (2608.07762: unverified DeepSeek R1 > o1 claim → ~$589B Nvidia loss). Telemetry detects but cannot localize (2608.07899: OpenTelemetry views cap origin-step accuracy at ≤0.5%). Taste oracles for auto-research (2608.07542) and the deliberative deficit in civic AI (2608.10186). WIRED: AI newsrooms are breaking big news — RuntimeWire's Black Hat scoop (~6 minutes to publication), legal-risk-scored publishing without human prepublication review, and Diakopoulos's finding that AI tools surfaced AI-written sources 16% of the time.
+
+**New pages (1):** [[The Judge Problem]] (01-Core-Ideas) — created this run as the anchor concept page.
+
+**Pages updated (7):** [[Agentic Verification]] (decision rules beat judge accuracy; benchmark trust; telemetry sufficiency), [[AI Research Agents]] (taste oracle / anti-drift), [[Government and Civic Life]] (deliberative deficit, DRI), [[Family and Personal Life]] (relational engagement ~2×, N=72, 182,451 lines), [[Positive Alignment]] (well-being objective), [[Future of Work]] (Capability Ladder — rotation candidate 9d stale, now current), [[AI-Augmented Scientific Collaboration]] (Grothendieck case; open-weight geography).
+
+**Sources (14):** 13 arXiv → Papers.md Pass 10; 1 article (WIRED Knibbs) → Articles.md Pass 12. sources/sources.jsonl 216 → 242 (+12 backfilled for the 08-11 run — its JSONL append never landed, verified against Papers.md Pass 9 / Articles.md Pass 11; +14 today).
+
+**Top insight:** The scarce skill is judgment — and the judges themselves now need judging. Agency in the agentic era is not better delegation; it is owning the rules that constrain the judges.
+
+**Practical experiment:** The Evidence-Locked Review (two weeks): fixed evidence bar, no fluency compensation, log every gate override (2608.07813 hypothesis — judge failures drop with the judge unchanged).
+
+**Recommended new pages (outstanding):** [[Warranted Reliance Checklist]], [[The Unpilled Majority]], [[Sandbox Integrity]], [[The Rollback Requirement]], [[AI-Designed Bioweapons]].
+
+**Staleness tracker:** rebuilt from git dates: 80 pages; 8+ days ~42 (oldest: AI Use Case Evaluation Rubric 73d, Agentic Business Transformation 73d, Agency Expansion Framework 70d, AI Executive Assistants 62d, Strongest AI Risk Arguments 61d); 5–7 ~12; <5 ~27 (incl. The Judge Problem NEW + 7 pages updated today).
+
+**Status:** Done

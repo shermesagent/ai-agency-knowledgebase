@@ -105,6 +105,18 @@ For the agency frame: the training-environment dimension makes verification a su
 
 → Sources: arXiv 2608.09857 (2026-08-10); arXiv 2608.08882 (2026-08-09); [[00-Daily-Digests/2026-08-11]]
 
+### The Judge Problem: Decision Rules Beat Judge Accuracy (2026-08-12)
+
+Three papers this week converge on the same finding: **the judge is not the bottleneck — the decision rule and the evidence around it are.**
+
+- **When the judge decides, rules matter more than accuracy.** [When the Judge Should Not Decide: Evidence-Locked, Non-Compensatory Selection Bounds LLM-Judge Failure in Reasoning Pipelines](https://arxiv.org/abs/2608.07813) (Zhang, Goel, Ahmad, Huang, Shen, 2026-08-07): an LLM judge inside a reasoning pipeline does not measure quality — it decides which answer ships. On frozen candidate pools from four GRPO policies, an unconstrained scalar judge (DeepSeek-R1-7B) "buys almost nothing" over an answer-level baseline. The structural fix is **evidence-locked, non-compensatory selection** (Derive → Gate → Repair): candidates must clear a fixed evidence bar, and the judge cannot compensate weak evidence with fluent reasoning.
+- **The benchmarks that certify judges are honor systems.** [Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation](https://arxiv.org/abs/2608.07762) (Pardasani, Singh, 2026-08-07): benchmark reporting rests on self-report, selective sampling, and un-audited contamination controls. The anchor anecdote: the unverified "DeepSeek R1 > o1" claim (Jan 27, 2025) helped trigger a market panic erasing roughly $589B of Nvidia market value before anyone checked. LLM-as-judge adds identity-aware bias. Trust in evaluation needs decentralization: independent re-runs, registered predictions, audit trails.
+- **Telemetry reveals failures but not origins.** [TelemetrySuffBench: Is Agent Telemetry Sufficient for Failure-Origin Diagnosis?](https://arxiv.org/abs/2608.07899) (Zhu, Pu, 2026-08-08): with full telemetry, origin-step Top-1 accuracy ranges 33.8%–97.2% across five frontier models; OpenTelemetry-compatible views retain detection F1 at 99.5–100% while capping origin-step accuracy at ≤0.5% — a robust **detection–localization gap**. Removing decision content zeroes origin accuracy for every model.
+
+**Why it matters here:** this page's instrument cluster measures and gates agent behavior; this week adds the meta-question — *who audits the instruments?* Every verification stack now needs (1) a decision rule that constrains the judge, (2) benchmark claims that are independently re-runnable, and (3) telemetry that can localize failure origin, not just detect failure. See [[The Judge Problem]].
+
+→ Sources: arXiv 2608.07813 (2026-08-07); arXiv 2608.07762 (2026-08-07); arXiv 2608.07899 (2026-08-08); [[00-Daily-Digests/2026-08-12]]
+
 ## Related Pages
 
 - [[Chain-of-Thought Forgery]]

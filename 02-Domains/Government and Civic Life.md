@@ -99,6 +99,14 @@ Together: the window for democratic restraint is closing (05173), deliberative b
 
 → Source: arXiv 2608.09574 (2026-08-10); [[00-Daily-Digests/2026-08-11]]
 
+### The Deliberative Deficit: Benchmarks Don't Certify Collective Reasoning (2026-08-12)
+
+**[The Deliberative Deficit: An Empirical Critique of LLMs in Democratic Discourse](https://arxiv.org/abs/2608.10186)** (Flechtner, 2026-08-10): LLM confidence rests on verifiable-task benchmarks (math, coding, coordination), but democratic deployment is about *pluralistic* problems — no objectively correct answer; quality means integrating perspectives into mutually acceptable solutions. The paper applies the **Deliberative Reason Index (DRI)**, validated in political science on citizen assemblies, to 1,980 five-agent LLM runs across 12 citizen-assembly topics and 11 frontier model configurations: LLM groups' discourse quality on pluralistic problems is systematically below what verifiable-task performance would predict, and procedural metrics (respectfulness, justification, engagement) are insufficient on their own.
+
+**The civic lesson:** adopting an LLM for civic functions (drafting public comment, facilitating deliberation, summarizing community input) should trigger *procedural* evaluation — DRI-style measures of how well group-level reasoning integrates pluralism — not just accuracy benchmarks. This extends the five-layer architecture above: at every layer, the question is not "can the model reason" but "can the model's *group* reasoning be evaluated by the right instrument" (see [[The Judge Problem]]). Related: [[Balanced Governance]], [[Public Trust and AI]].
+
+→ Source: arXiv 2608.10186 (2026-08-10); [[00-Daily-Digests/2026-08-12]]
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
