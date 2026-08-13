@@ -149,6 +149,14 @@ The inequality conversation met the wealth conversation this week. WIRED's "Thes
 
 **Source:** https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/ · https://www.wired.com/story/why-normal-people-arent-using-ai-agents/
 
+## The Accuracy Trap and Cheap Cognition (August 2026)
+
+Two structural results this week sharpen the inequality ledger beyond bias-and-debiasing.
+
+**The Accuracy Trap (2608.11491, Moon, Tamura & Guha, 2026-08-11).** Where algorithms rank people for *scarce* resources — child welfare interventions, cancer treatment referrals — allocation is a rationing problem, not a classification problem, and the statistics diverge. The authors derive a scaling law D ∝ exp(t·ρ·Δ): relative disparity between two groups separated by a structural gap Δ grows exponentially in the product of the scarcity-induced threshold t and rank-discrimination fidelity ρ. Scarcity and accuracy interact *multiplicatively*. Validated by Monte Carlo simulation and two independent public-sector systems (Canadian child welfare, U.S. cancer care). The policy sting is the last line: debiasing alone cannot dissolve the trap — improving models can worsen relative inequality where demand exceeds supply by an order of magnitude.
+
+**Cheap, fallible cognition (2608.11512, Kolb & Caron, 2026-08-11).** "Will AI destroy jobs?" is too coarse; the correct unit is generative AI as cheap, scalable, *fallible* cognition, analyzed across eight margins (exposure, adoption, verification, question selection, workflow redesign, demand elasticity, apprenticeship, rent allocation). Two moves matter for inequality: (1) an adoption condition that makes verification, liability, trust, and governance explicit — fallibility means who bears the error cost decides who gains; (2) when answer generation becomes abundant, scarce human capital shifts upstream and downstream — asking economically meaningful questions, framing problems, generating hypotheses, interpreting results, bearing responsibility. The central dynamic concern is **expertise formation**: junior tasks jointly produce current output, question sense, and future judgment, so automating them raises short-run productivity while eating the pipeline that builds the scarce skills. Combined with 2608.12236's finding that enterprise adoption is most intense among early-career workers, this is the inequality story of the year.
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

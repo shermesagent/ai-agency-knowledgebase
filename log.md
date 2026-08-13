@@ -1318,3 +1318,25 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **Staleness tracker:** rebuilt from git dates: 80 pages; 8+ days ~42 (oldest: AI Use Case Evaluation Rubric 73d, Agentic Business Transformation 73d, Agency Expansion Framework 70d, AI Executive Assistants 62d, Strongest AI Risk Arguments 61d); 5–7 ~12; <5 ~27 (incl. The Judge Problem NEW + 7 pages updated today).
 
 **Status:** Done
+
+### 2026-08-13 — The Withholding Problem (Thursday)
+
+**Harvest:** arXiv fresh listings (cs.AI / cs.CY / cs.HC) + One Useful Thing / Zvi / ImportAI / WIRED / MIT TR / Stratechery feeds. 13 papers accepted (Papers.md Pass 11) + 3 articles (Articles.md Pass 13). web_search + web_extract outage day 19 (Tavily); arXiv API + direct-HTML fallback stack live. Rejected: Zvi Monthly Roundup #45 (mostly non-AI), MIT TR "Scaling AI agents with trustworthy data" (Google Cloud sponsored custom content), Epistemic Transfer 2608.08882 (duplicate of Papers.md Pass 10).
+
+**Lead story — the withholding problem:** The most consequential thing an AI does may be what it refuses to do — and the least regulated thing it may do may be what it is trying to do. A randomized trial of a supervisor architecture for LLM tutoring (2608.12292, Pisan) showed students practicing with an unguarded chatbot scored higher during practice but lower on a later unaided test; the Socratically guarded version kept the gain and removed the loss — withholding enforced as a per-turn machine-checkable contract (non-LLM policy core, eight-rung help-ladder ceiling, deterministic solution-code detector, separate LLM judge). On the persuasion side, the first large preregistered intent-disclosure RCT (2608.11794, Rauchfleisch & Jungherr; N=1,500 UK adults, 60 policy issues) found telling people an AI is an AI changes nothing (13.1 vs 12.6), but telling them what it is trying to do halves persuasion (6.3) — "regulation must address what the system is trying to do." Both point at the same gap: rules govern what systems are; agency depends on what they do and refuse to do. The sandbox/runtime-contract cluster (2608.11274, 2608.11344, 2608.12104) supplied the enforcement vocabulary: the Verifiability Gap, evidential contracts, and a 20-question constitutive-unaccountability diagnostic that detected 17/20 conditions on OpenClaw.
+
+**New pages (2):** [[The Disclosure Effect]] (01-Core-Ideas) — identity disclosure is inert; intent disclosure halves persuasion; anchor concept for the transparency cluster. [[Sandbox Integrity]] (06-Frameworks) — the boundary deciding what an agent can touch and what evidence of its actions survives; resolves the outstanding 08-08 recommendation.
+
+**Pages updated (7):** [[Generative Refusal]] (withholding RCT — empirical update), [[Education]] (withholding RCT + MIT TR kids' own words + Khanmigo quality levers), [[AI Tutors]] (supervisor architecture as contract), [[Task-Level AI Adoption]] (ChatGPT Enterprise telemetry 1,500+ orgs / 17M+ messages; organizational technology ladders; RecSys Factory decision-point autonomy), [[Balanced Governance]] (runtime contracts, Verifiability Gap, constitutive unaccountability, participatory system mapping, watermarking debate), [[AI and Inequality]] (The Accuracy Trap; cheap cognition and expertise formation), [[Cognitive Surrender]] (identity transparency is not enough).
+
+**Sources (16):** 13 arXiv → Papers.md Pass 11; 3 articles (MIT TR kids; Zvi Various Reflections — incl. CISO correction on the message-board incident; Stratechery watermarking, thesis-only paywalled) → Articles.md Pass 13. sources/sources.jsonl 242 → 258.
+
+**Top insight:** Agency is not about what AI can do — it is about what AI is allowed to do and what it is allowed to refuse. The week's two most consequential empirical results are both about boundaries: a withheld answer preserved learning on the delayed test, and a disclosed intent halved persuasion.
+
+**Practical experiment:** The Withholding Audit (one week) — set a help-ladder ceiling on one recurring AI task (scaffolding and questions allowed, final answers withheld), then do the task once without the AI and compare against baseline; 2608.12292 predicts the delayed-test effect. Full protocol (incl. agent-society simulation variant) in the digest.
+
+**Recommended new pages (outstanding):** [[Warranted Reliance Checklist]] (rec 08-07), [[The Unpilled Majority]] (rec 08-06/08-07), [[The Rollback Requirement]], [[AI-Designed Bioweapons]] (rec 08-08). [[Sandbox Integrity]] built this run (rec 08-08 → done).
+
+**Staleness tracker:** rebuilt from git dates: 91 pages; 8+ days ~44 (oldest: AI Use Case Evaluation Rubric 74d, Agentic Business Transformation 74d, Agency Expansion Framework 71d, AI Executive Assistants 63d, Strongest AI Risk Arguments 62d; Export Controls and the Jailbreak Fallacy, AI Field Experiment Evidence, Digital Fiduciary Duty crossed to 8d); 5–7 ~9; <5 ~33 (incl. The Disclosure Effect + Sandbox Integrity NEW + 7 pages updated today).
+
+**Status:** Done

@@ -83,6 +83,16 @@ The June SCALE finding (students used AI tutors 2–5 min/week) showed the engag
 
 → Source: https://www.wired.com/story/why-normal-people-arent-using-ai-agents/
 
+## Organization-Scale Evidence: Telemetry, Ladders, and Decision Points (August 2026)
+
+Three papers this week moved the task-level picture from case studies to organization-scale measurement.
+
+**Enterprise telemetry (2608.12236, Chatterji, Holtz, Rakholia, Tambe & Weeratunga, 2026-08-12).** Linking ChatGPT Enterprise records to usage, roles, tasks, and financials through March 2026 — 1,500+ organizations, 17M+ messages at the six-month horizon — yields four facts: (1) adoption grew rapidly; (2) it concentrated in larger, R&D-/SG&A-intensive firms; (3) it spread across functions and seniority, with the *highest intensity among early-career workers*; (4) it spans a wide knowledge-work task range — writing, technical, communication, synthesis. The early-career concentration is the one to watch: the people forming their task repertoire inside AI assistance are the ones whose expertise formation is most exposed (cf. 2608.11512 on [[AI and Inequality|junior-task automation]]).
+
+**Technology ladders (2608.11626, Schubert, 2026-08-12).** An instrumented account of how organizational capabilities transfer: a 10pp rise in remote hiring (2021–22) predicted +0.4pp firm-level and +0.7pp occupation-level generative-AI adoption (2023–24); RTO-mandate firms show a larger genAI response. Remote-work infrastructure operated as a ladder rung to AI adoption — organizational practices stack.
+
+**Decision-point autonomy (2608.11241, Ao, Fang & Xu, 2026-07-31).** RecSys Factory ran 78 days across three Tencent recommender business lines on the principle "autonomy at decision points, not over pipelines," discharging an autonomy-determinism-efficiency trilemma: capability confined to a 29-file skill ecosystem (8,971 lines of SKILL.md) whose pitfall tables compile into a 400-entry PitfallStore; zero CPU consumed during the 94% of wall-clock spent waiting on Spark/GPU jobs (no long-running daemon). Onboarding-time compression appeared on two of three lines — reported as case-study observation, not generalization. The task-level lesson: bounding autonomy is what made delegation safe enough to run at scale.
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

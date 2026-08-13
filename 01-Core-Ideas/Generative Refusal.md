@@ -51,6 +51,14 @@ From the research and from connection to related constructs:
 
 5. **The tool should make its own contribution visible.** When the user chooses to have the AI generate, the generated text should be clearly demarcated from user-authored text. This supports the authorship calibration documented in [[Co-Intelligence#Authorship Calibration|Co-Intelligence]].
 
+## The Maieutic Partner Gets an RCT (August 2026)
+
+The withholding pattern now has experimental evidence behind it. Pisan's randomized study (arXiv 2608.12292, 2026-08-12) found that students who practiced with an **unguarded** chatbot scored *higher during practice* but *lower on a later test taken without it* — while a Socratically guarded version of the same model kept the practice gain and removed the later loss. Reliable answer-withholding is therefore not a pedagogical preference; it is what converts practice into retained learning.
+
+The deployed system enforces withholding as a **per-turn, machine-checkable contract**: a non-LLM policy core reading only trusted learner state sets a per-turn ceiling on an eight-rung help ladder; a deterministic detector strips solution code; and a separate LLM judge checks each risky reply against the contract. Behavior was tuned with an automated evaluation using no human subjects — scripted student personas driven through the live pipeline and re-scored by a stronger model, with each rejection's stated reason recorded so failures are fixed by cause. That process surfaced an interpretable "over-help ladder": from blatant solution leaks, to naming the exact bug, to over-citing general facts — each fix exposing the next. The tutor reached full compliance on all four acceptance criteria.
+
+For this page's argument, the finding is a two-way confirmation: the Maieutic Partner pattern ([[Generative Refusal|Socratic withholding]]) is not just philosophically defensible but *empirically superior* on the outcome that matters (unaided performance), and reliable withholding is an engineering property — prompt-level Socratic instruction is not enough for a capable model pressed by a frustrated student. The "measure, diagnose, fix" loop is reusable for any LLM agent that must decline to do what it can do.
+
 ## Connection to Existing Frameworks
 
 - **Co-Existence:** Generative refusal is the practical implementation of Co-Existence in domains where the AI *could* be better than the human at generation but the human's developmental needs override immediate productivity. It's "knowing when the AI is better than you — and asking it NOT to be."

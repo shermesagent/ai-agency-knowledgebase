@@ -233,5 +233,13 @@ Source: https://arxiv.org/abs/2607.26067
 
 → Sources: arXiv 2608.04892; arXiv 2608.04148.
 
+## Answer-Withholding and Kids Who Want the Wheel (August 2026)
+
+Two evidence threads converged this week. First, the withholding RCT (arXiv 2608.12292, Pisan, 2026-08-12): students practicing with an unguarded chatbot scored higher during practice but lower on a later test without it; the Socratically guarded version kept the gain and removed the loss. For education, the implication is direct — a tutor that refuses to hand over the answer is not being obstinate; it is doing the thing that makes learning stick.
+
+Second, kids themselves: MIT Technology Review's "[How kids feel about AI, in their own words](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/)" (2026-08-13) reports Pew (Feb-2026) data — 57% of US teens have used chatbots for information search, 54% for schoolwork, 47% for fun, and only 12% for emotional support; use is more than 4× more likely innocuous than harmful. The teen voices carry the nuance: Winter, 17 — "I'm afraid it's going to be the end of creativity and critical thinking." The editorial line: "the danger is the reason to teach the thing, not to avoid it… We don't teach teens to never drive. We teach them to check their blind spots." The kids "want to keep their hands on the wheel."
+
+Khan Academy's methodology paper (arXiv 2608.11259, 2026-08-07) rounds out the thread: tutor quality in Khanmigo moved only through deliberate levers — models, prompting, personalization, and agents — tracked with robust evaluation and live experimentation. Quality is engineered, measured, and iterated; it does not arrive with the model. Together: teach the thing, engineer the withholding, and measure everything.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

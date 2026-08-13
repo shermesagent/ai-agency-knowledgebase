@@ -44,6 +44,14 @@ Tutoring is a direct agency-expansion use case: more learners can get individual
 
 → Source: arXiv 2608.03206 (2026-08-01). See [[00-Daily-Digests/2026-08-05]] (The Measurement Turn).
 
+## The Supervisor Architecture: Withholding as a Contract (August 2026)
+
+Pisan's deployed tutoring system (arXiv 2608.12292, 2026-08-12) is the current state of the art for answer-withholding, and it is worth studying as an architecture, not just a result. The randomized evidence: unguarded-chatbot students scored higher during practice but lower on a later test without it; the Socratically guarded version kept the practice gain and removed the later loss.
+
+The architecture enforces withholding as a per-turn, machine-checkable contract with three parts: (1) a **non-LLM policy core** reading only trusted learner state sets a per-turn ceiling on an eight-rung help ladder — no prompt can talk its way past it; (2) a **deterministic detector** strips solution code from replies; (3) a separate **LLM judge** checks each risky reply against the contract. Tuning is evidence-driven without human subjects: scripted student personas are driven through the live pipeline and re-scored by a stronger model, with each rejection's stated reason recorded. This exposed an interpretable "over-help ladder" — solution leaks → naming the exact bug → over-citing general facts — where each fix revealed the next failure mode. The tutor reached full compliance on all four acceptance criteria.
+
+The reusable lesson: Socratic behavior is a **contract with a detector and a judge**, not a prompt. And per Khan Academy's Khanmigo methodology (arXiv 2608.11259, 2026-08-07), tutor quality moves through four levers — models, prompting, personalization, agents — each requiring live experimentation against engagement and learning metrics. The withholding contract is the fifth lever, and the one with the strongest delayed-outcome evidence.
+
 ## Related Pages
 - [[Education]]
 - [[AI Use Case Evaluation Rubric]]

@@ -178,6 +178,14 @@ WIRED's ChatTJB ("This Chatbot Is Just a Random Guy, LOL," Caroline Haskins, 202
 
 → Source: https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/
 
+## Identity Transparency Is Not Enough (August 2026)
+
+The disclosure experiment (2608.11794, Rauchfleisch & Jungherr, 2026-08-12) delivers the cleanest measurement yet of what does and does not inoculate against AI persuasion. Preregistered, 1,500 UK adults, 60 policy issues, a persuasive chatbot. Attitude shift (of 100): **12.6 control; 13.1 with AI-identity disclosure — indistinguishable from no disclosure; 6.3 with identity + persuasive-intent disclosure — roughly halved.** Intent disclosure also made the chatbot's methods seem less acceptable and raised support for stronger penalties.
+
+The finding cuts against a comforting intuition this page has implicitly relied on: that *knowing you are talking to an AI* is protective. It is not. The persuasive machinery works at full strength once you know what the system *is*; it loses half its force only when you know what the system is *trying to do*. As the authors put it, "current rules emphasize what a system is, our results show why regulation must also address what the system is trying to do."
+
+For this page's concern, the implication is that identity labels are the transparency theater of the agentic era, and purpose disclosure is the real intervention — the missing variable in every "this is AI" notice, watermarking regime, and chatbot badge. See [[The Disclosure Effect]] for the full treatment.
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

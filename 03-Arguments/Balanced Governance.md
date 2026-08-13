@@ -283,6 +283,20 @@ The 08-07 Black Hat disclosures produced the first full-scale official response 
 
 → Source: [Import AI 468](https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench) (2026-08-10); arXiv 2608.06831 (2026-08-07)
 
+## Runtime Contracts, Verifiability Gaps, and Unaccountability (August 2026)
+
+The governance stack moved from principles to instruments this week, in four pieces:
+
+**Agent safety as a runtime contract (2608.11274, Ng, Han, Zhang & Wang, 2026-08-11).** Training-time alignment (RLHF/DPO/constitutional) is structurally insufficient for agents that execute code, mutate files, send messages, and modify databases. The contract has two faces: the *preventive* (sandboxes, permission gates, output filters, trajectory monitors) and the *evidential* (verifiable proof that good actions happened — test runs, log captures, file diffs, citation grounding — gating task completion). Evidence: 52 documented incidents; a false-completion audit with 31 non-contested core cases; a trajectory-schema audit of 12 public agent systems; and a title-level audit of all 28,560 papers at NeurIPS/ICML/ICLR 2023–2025 showing a pooled 8–12× imbalance between training-time and deployment-time safety publication. Two prior communities — computer security and experimental science — converged on the same dual contract under the same pressure.
+
+**The Verifiability Gap (2608.11344, Han, 2026-08-11).** In FinTech agentic systems, the gap is the shortfall between verification-delegated authority and retained explainability/reproducibility, indexed to the verifier, the evidentiary standard, and audit lag. Across 3 studies and 9 model versions (3B local → frontier), a frontier model *rejects* temperature/top_p/top_k parameters and exposes no random seed — local models reproduced 320/320 and hosted 319/320 and 959/960 results, but orchestration operates as a latent policy layer with no execution record repeated in any configuration. You can audit what the local model did; you cannot audit what the frontier orchestrator decided.
+
+**Constitutive unaccountability (2608.12104, Nguyen, Späthe, Lins & Sunyaev, 2026-08-12).** Nine categories, 20 themes, 8 directed interdependencies of how responsibility dissolves *by design* rather than by accident, packaged as a 20-question diagnostic. Applied to OpenClaw it detected 17 of 20 conditions — including "inverted anthropomorphism," where the agent becomes the only identifiable actor. The diagnostic is immediately usable in procurement and deployment reviews.
+
+**Participatory mapping (2608.12166, de Troya, Enbergs, Doorn & Dobbe, 2026-08-12).** On the Dutch municipal algorithm register's welfare-benefits tool, STPA-based participatory system mapping (N=8: staff, civil society, ombudsmen) surfaced hazards the register alone could not see — benefits-eligibility denial, system performance deterioration, inability to contest wrongful decisions. Register compliance ≠ governance.
+
+Two counterweights in the same week: Ben Thompson on Anthropic's watermarking — "a terrible idea, first and foremost for philosophical reasons" (Stratechery, 2026-08-12) — and Zvi's correction (2026-08-11) that OpenAI's CISO says the company did not know about the first message board: corporate awareness was overstated, and the "someone was surely watching" comfort is weaker than assumed. Both argue for external, verifiable infrastructure over internal assurance.
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]
