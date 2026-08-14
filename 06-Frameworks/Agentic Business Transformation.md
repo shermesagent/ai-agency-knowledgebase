@@ -50,6 +50,7 @@ Traditional activity metrics (calls handled, reports filed) become meaningless w
 - [[Adoption Readiness Checklist]] — assessing organizational readiness
 - [[Responsible Deployment]] — ensuring ABT is responsible, not just efficient
 - [[AI Executive Assistants]] — a specific ABT application
+- [[The Expression Gap]] — outcome metrics measure what agents express; what they encode but suppress is invisible to the dashboard
 
 ## Tags
 #future-of-work #ai-agents #augmentation #practical-ai #superagency

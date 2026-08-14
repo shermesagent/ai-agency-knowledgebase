@@ -29,6 +29,7 @@ Use-case selection is where responsible optimism becomes operational. A strong A
 - [[Risk-Benefit Matrix]]
 - [[AI Field Experiment Evidence]]
 - [[Task-Level AI Adoption]]
+- [[The Expression Gap]] — score what a system expresses, not what it claims to encode; unexpressed capability is unverifiable
 
 ## Tags
 #practical-ai #responsible-ai #tools

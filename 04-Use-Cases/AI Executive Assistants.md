@@ -68,6 +68,7 @@ Most current AI assistants fall in the right column. The Digital Apprentice patt
 - [[Democratization of Expertise]]
 - [[Agentic Workflow Patterns]]
 - [[Cognitive Surrender]]
+- [[The Expression Gap]] — an assistant that encodes more than it expresses is un-auditable; the transparency gap and the expression gap are the same failure at different layers
 
 ## Tags
 #ai-agents #future-of-work #practical-ai #augmentation #governance

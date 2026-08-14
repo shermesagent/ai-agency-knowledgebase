@@ -121,6 +121,7 @@ Source: Zeyi Yang & Matt Burgess, "How People in China Keep Outsmarting Anthropi
 - [[Balanced Governance]] — comprehensive governance analysis including The Export Governance Shock section
 - [[Strongest AI Risk Arguments]] — what actual AI risk looks like
 - [[Case for AI Optimism]] — why agency expansion through AI still matters
+- [[The Expression Gap]] — jailbreak reasoning meets its mirror: what a model encodes and what it expresses diverge, so output-level inspection can never fully verify either safety or capability
 - [[Daily AI Agency Digest — 2026-06-18]] — The Architecture of Legitimacy: Zvi's "Fix This Code" post-mortem
 - [[Daily AI Agency Digest — 2026-06-14]] — The Export Governance Shock: the curated roundup
 - [[Daily AI Agency Digest — 2026-06-13]] — The Recursive Turn: Anthropic's code-generation disclosure

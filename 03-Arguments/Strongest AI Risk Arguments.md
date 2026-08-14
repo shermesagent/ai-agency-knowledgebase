@@ -22,6 +22,7 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - [Reframing AI Loss of Control: What It Is, How to Have It, How to Lose It](https://arxiv.org/abs/2606.12442), Chin, Chiodo, Müller, Snell, June 2026 — systematic redefinition of "control" as "setting and getting of goals." Key finding: humanity can lose varying degrees of control from AI behavior far below superintelligence. Loss-of-control scenarios already exist and have for a long time.
 - [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797), Hossain et al., June 2026 — audits of LangChain, AutoGPT, and OpenAI Agents SDK against six containment principles find zero native compliance. A single memory-poisoning write causes 88.9% targeted wrongful denial rates in a simulated government benefits agent.
 - [AI Debris: Residual Risk and the Afterlife of Failed AI Systems](https://arxiv.org/abs/2606.12432), Victor Frimpong, June 2026 — decommissioned AI systems generate persistent post-withdrawal residue: workflow dependency, data contamination, capability displacement (deskilling), legitimacy erosion, and accountability breakdown. Proposes the AI Debris Decommissioning Protocol (AIDP).
+- [TRAPSBench: A Comprehensive Benchmark for Trustworthy AI Systems](https://arxiv.org/abs/2608.13167), Pramono, Cai, and Kulkarni, August 2026 — a second risk vector distinct from poisoning or misalignment: models can encode answerability while failing to express it. Best spontaneous restraint hits only 0.292 PECS; linear probes decode answerability at up to 0.91 AUROC; single-layer steering causally induces and suppresses abstention. The bottleneck is expression, not perception. See [[The Expression Gap]].
 
 ## Practical Examples
 - **Overreliance:** Require source checks, uncertainty lists, and human explanation before consequential decisions.
@@ -49,6 +50,7 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - [[Risk-Benefit Matrix]]
 - [[AI as Normal Technology]]
 - [[Human Review Checkpoints]]
+- [[The Expression Gap]]
 - [[Open Questions]]
 
 ## Tags
