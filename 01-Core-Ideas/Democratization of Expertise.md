@@ -140,6 +140,14 @@ AI eliminates that constraint. The **cognitive fixed cost** — the cost of proc
 
 Source: https://arxiv.org/abs/2607.25240
 
+## The Participation Dimension (2026-08)
+
+O'Reilly's intervention adds a structural precondition to the four-channel frame above (access, capability, platform, influence): **shapeability** — who can shape the system that provides the expertise. In the WIRED interview (2026-08-14), he argues open-source AI was never about the weights; it is the **architecture of participation**, and the big labs built the opposite, an **architecture of control**. The concrete proposal is a clean separation between model (weights), harness (context/tools/memory), and application (what the user touches). When the harness is open — Pi is his example — users can shape the system even when the model is closed: an open harness around a closed model beats a closed stack around an open model.
+
+This reframes democratization's open-weights evidence (Gemma 4 12B): weights are necessary but not sufficient. The supply side is bending the right way — commodity "workhorse" models (Gemini 3.7 Flash, 2026-08-13) make agent harnesses affordable outside frontier labs — but the defaults that decide who benefits are still set by infrastructure owners (see [[The Participation Problem]]).
+
+→ Source: WIRED O'Reilly interview (2026-08-14); Google DeepMind Gemini 3.7 Flash (2026-08-13); [[00-Daily-Digests/2026-08-15]]
+
 ## Related Pages
 
 - [[Superagency]] — The organizing idea: AI giving more people access to expertise, leverage, and decision support

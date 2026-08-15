@@ -1,7 +1,7 @@
 ---
 title: Beyond Prompting — Phase 2 → Phase 3 Transition
 created: 2026-06-19
-updated: 2026-08-02
+updated: 2026-08-15
 type: framework
 tags: [framework, transition, maturity, prompting, agents, abstraction]
 confidence: high
@@ -149,3 +149,11 @@ Mollick's July 2026 opinionated guide ("An opinionated guide to which AI to use 
 - [[BCG AI Jobs Reshaping Report]] — 50-55% of US jobs reshaped by AI
 - [[DataCamp 2026|DataCamp AI Skills Gap 2026]] — 82% of leaders cite training gap
 - [[Stanford SCALE]] — AI tools arriving faster than research in K-12
+
+## Phase 3's Engineering Layer: Model / Harness / Application (2026-08)
+
+Tim O'Reilly's architecture argument (WIRED, 2026-08-14) supplies the missing engineering layer for the Phase 2 → Phase 3 transition: a clean separation between the **model** (weights), the **harness** (the scaffolding that runs it — context, tools, memory, permissions), and the **application** (what the user touches). His claim: the big labs built an architecture of control, and open-source AI was never about the weights but about the **architecture of participation** — which becomes possible when the harness is open even if the model is closed (his example: Pi, an open-source agentic harness).
+
+**Why this matters for the transition:** Phase 3 agentic workflows are harness problems as much as model problems. Commodity "workhorse" models make the separation affordable — Gemini 3.7 Flash (2026-08-13) is billed as "our most intelligent workhorse model" for coding and agents, i.e., agent-capable capability at commodity pricing. When the harness is the differentiator and the model is cheap, the transition stops being a frontier-lab privilege: teams can build Phase 3 workflows with an open harness around a workhorse model, and swap models without rebuilding the workflow (see [[The Participation Problem]]). This also reframes the flow-architecture work tracked on this page (Phase 3.5 FlowEvo): the harness is where flow design lives; the model is a swappable component.
+
+→ Source: WIRED O'Reilly interview (2026-08-14); Google DeepMind Gemini 3.7 Flash (2026-08-13); [[00-Daily-Digests/2026-08-15]]

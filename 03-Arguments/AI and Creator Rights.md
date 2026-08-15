@@ -69,6 +69,19 @@ Two August papers measure the same risk from opposite directions: reliance on ge
 - **AI can generate without identifiable source material**: As models get better at generating original-seeming work, the link between output and any specific creator's IP becomes harder to establish, making consent frameworks harder to enforce.
 - **The "no AI penalty" finding removes audience pressure as a constraint**: If viewers don't distinguish between human and AI-produced content (Know Your Author, 2026), the primary remaining constraint on AI-driven creator displacement is governance — which currently favors platforms.
 
+## The Twitch Test Case: Default Consent for Training Data (2026-08)
+
+Amazon now trains its AI on Twitch creators' content **unless they opt out** (Settings → Security and Privacy → "Generative AI Training"; WIRED, 2026-08-15). The details make it the canonical default-consent case:
+
+- **ToS since March 2024** grant Twitch/Amazon broad content rights without ever explicitly mentioning generative-AI training — the training right was absorbed into general language, then activated later.
+- **16,000+ creators** opposed the policy in the forums; Twitch product head Mike Minton's defense concedes the incentive structure: "no one would participate" if training were off by default, and the company assumes "almost any publicly available content" is trainable.
+- **The toggle is partial**: disabling it doesn't stop other AI uses — sponsorship assistance, recommendations, AutoMod — so the headline control overstates the actual control.
+- **The backdrop is data scarcity**: the shortage of high-quality training data makes creator content more valuable at exactly the moment creators receive opt-out-only choices — the economics of appropriation improve as the power imbalance widens (see [[The Participation Problem]]).
+
+**The lesson for creator rights:** the "no AI penalty" finding (audience indifference) removes audience pressure as the constraint; Twitch shows what replaces it — platform terms that convert creation into training data by default. The counterweights are the ones already tracked on this page: [[Digital Fiduciary Duty]] (settings-level duties toward creators) and explicit training-rights language in platform contracts. If "published" equals "licensed for training" without the creator's knowledge, the governance gap is not about output displacement — it is about input appropriation.
+
+→ Source: WIRED Twitch opt-out article (2026-08-15); [[00-Daily-Digests/2026-08-15]]
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]

@@ -2,7 +2,7 @@
 
 Durable concepts and mental models for thinking about AI, agency, and human flourishing. These are the foundational ideas that other sections build on — revisit them when you encounter new domains, use cases, or arguments.
 
-**23 pages** — updated daily by the research curator.
+**25 pages** — updated daily by the research curator.
 
 ---
 
@@ -38,6 +38,8 @@ Durable concepts and mental models for thinking about AI, agency, and human flou
 - [[Positive Alignment]] — AI that supports human flourishing, not just harm avoidance
 - [[Practical AI]] — grounded, usable AI rather than speculative or hype-driven approaches
 - [[Responsible Deployment]] — use, measure, improve, govern
+- [[The Expression Gap]] — models know more than they say; the representation–output dissociation as the unit of analysis for trust, refusal, and verification
+- [[The Participation Problem]] — who gets to shape the AI economy; defaults, not consent, decide participation
 
 ---
 

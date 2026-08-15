@@ -107,6 +107,14 @@ Together: the window for democratic restraint is closing (05173), deliberative b
 
 → Source: arXiv 2608.10186 (2026-08-10); [[00-Daily-Digests/2026-08-12]]
 
+## Flock and the Surveillance Backlash (2026-08)
+
+MIT Technology Review (2026-08-13) documents the civic-oversight story of the summer: Flock, the 120,000-camera license-plate-reader network, tightened its rules in response to a growing surveillance backlash. After a Washington Post probe found 46 officer-abuse cases — ACLU records show officers entering "hehehe" 20 times at one Oregon department and generic reasons like "investigation" — Flock now mandates a criminal case number before searches, mandates automatic auditing of officer searches, recommends dropping retention from 30 to 7 days, and lets departments restrict cross-department searches.
+
+**The governance reading:** the changes are real but self-imposed — Flock will not verify the case numbers, the retention cut is a recommendation, and enforcement is left to individual purchasers. The pattern (scandal → voluntary tightening → enforcement drift) is the same one this page has tracked on the AI-policy side: rules that bind only when the vendor's incentives align. The ACLU's Chad Marlow frames the scale question: warrantless searches across a network of this size constitute surveillance at a scale the Fourth Amendment was never written for. For [[Balanced Governance]] the case adds a concrete procurement lesson: audit logging, case-number gates, retention limits, and cross-agency restrictions belong in the *contract*, before purchase — not in the press release after scandal. For the AI angle: the searches are automated pattern-matching over a shared surveillance commons; the oversight gap is procedural, and the fix is procedural (see [[The Participation Problem]]).
+
+→ Source: MIT TR Flock piece (2026-08-13); [[00-Daily-Digests/2026-08-15]]
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

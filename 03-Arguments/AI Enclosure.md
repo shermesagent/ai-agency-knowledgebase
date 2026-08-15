@@ -1,7 +1,7 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-15
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
 sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
@@ -144,6 +144,16 @@ Each higher layer operates only for those who have access. The Enclosure Layer a
 - Not all subscription models are enclosure. Some fund investment in better AI that benefits users. The question is whether non-subscribers retain a functional baseline
 - The Luddite response (opting out entirely) is a privilege and may not scale beyond those with economic security
 - Enclosure is not new — software has been moving to subscriptions for decades. The question is whether AI capabilities are different because they directly affect human agency
+
+## August 2026: Data Enclosure and Capital Enclosure
+
+Two new enclosure fronts in August 2026:
+
+**Data enclosure — the opt-out default.** Amazon now trains its AI on Twitch creators' content unless they opt out (Settings → Security and Privacy → "Generative AI Training"); the toggle doesn't stop other AI uses (recommendations, sponsorship assistance, AutoMod), and the ToS have granted broad content rights since March 2024 without ever explicitly mentioning gen-AI training (WIRED, 2026-08-15). 16,000+ creators opposed; Twitch's product head conceded the logic of the default: "no one would participate" if training were off by default. This is enclosure by default posture: participation in training is the baseline, non-participation is an individual burden — and training-data scarcity makes the enclosed resource more valuable precisely as the power imbalance widens (see [[AI and Creator Rights]], [[The Participation Problem]]).
+
+**Capital enclosure — the buildout financed above users.** Ben Thompson's "The CapEx Train Keeps Rolling" (Stratechery 2026.33, 2026-08-14) poses the capital constraint: short on compute, short on power — what if short on *capital*? Nvidia's new long-duration-capital funding mechanism and Google's equity taps finance the infrastructure that runs on everyone's data with ownership above and beyond the people whose data makes it valuable — participation without equity. Thompson's framing also notes the fragility: financial engineering "expands the blast radius of a bubble in the service of Nvidia's threatened margins" (public weekly-overview summary; headline analysis paywalled).
+
+**The architectural alternative.** Tim O'Reilly names the enclosure mechanism (WIRED, 2026-08-14): the big labs built an **architecture of control**, and the counter is the **architecture of participation** — a clean separation of model, harness, and application, with an open harness (Pi) so users can shape the system even around a closed model. Enclosure is a stack property, not just a policy outcome; the engineering separation is the precondition for un-enclosing (see [[The Participation Problem]]).
 
 ## Related Pages
 

@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-08-03
+updated: 2026-08-15
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -137,6 +137,14 @@ The strongest formal statement yet of why medicine is the wrong place for autono
 - [[Superagency]]
 - [[AI as Copilot]]
 - [[Open Questions]]
+
+## AMIE and Video Consultations (2026-08)
+
+Google Research's AMIE demonstration (2026-08-11) pushes the clinical-AI frontier toward real-time **video** consultation: a first-of-its-kind multi-agent architecture built on Gemini + Project Astra that hears and sees the patient (speech, intonation, facial expression) rather than parsing text chat. In a randomized simulated-consultation study with patient actors and primary-care physicians, clinical evaluators favored AMIE on history-taking thoroughness, diagnostic accuracy, management appropriateness, and communication quality — and patient actors preferred the video experience over text chat.
+
+**Reading for this page:** the video preference is an augmentation signal — patients chose the interface that preserves more of the clinical encounter, not the one that hides it. That aligns with this page's through-line: the human relationship in the room (physician → patient) is preserved and supported, not replaced; the technology absorbs the documentation, history-taking, and differential-construction load so the clinician can attend to the person. Caveats are material: simulated actors and standardized cases are not clinics, Google flags it as a research system only, and more work is needed before clinical deployment — treat the direction as demonstrated, the deployment as unproven. The multi-agent architecture is also notable for [[Beyond Prompting]] — specialist sub-agents (history, diagnosis, management, communication) coordinated around one patient encounter.
+
+→ Source: Google Research AMIE (2026-08-11); [[00-Daily-Digests/2026-08-15]]
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents
