@@ -19,6 +19,7 @@ Tim O'Reilly names the architectural root (WIRED, 08-14): the big AI labs built 
 - **Participation is the missing fourth channel of democratization.** [[Democratization of Expertise]] tracks access, capability, platform, and influence; the participation dimension asks who can *shape* the system that provides the expertise. Access without shapeability is a rental.
 - **Architecture is the lever, not just policy.** O'Reilly's separation thesis is actionable today: open harnesses (Pi), open-memory consortia (the AI Disclosures Project), and commodity "workhorse" models (Gemini 3.7 Flash, 08-13) make participation-affordable builds possible outside the frontier labs.
 - **The optimistic case requires the participation case.** [[Superagency]] — more people with more leverage — depends on who sets the terms. Cheaper, better models (Gemini 3.7 Flash) and more human-centered interfaces (AMIE's video consultations, where patients preferred video over chat) expand the floor of what participation could deliver; the defaults decide whether it does.
+- **The builder layer is where participation compounds.** 353,000 people completing a no-cost AI-agents course (6,000+ capstones) and sign-language AI shipping free with Deaf-community governance (AISLAC) are participation designed in — at the training layer and the deployment layer respectively. Participation is not only about who gets opted in or out; it is about who gets to build and who is at the table when the product is defined.
 
 ## Best Supporting Sources
 
@@ -28,6 +29,8 @@ Tim O'Reilly names the architectural root (WIRED, 08-14): the big AI labs built 
 - **The CapEx Train Keeps Rolling (2026.33)** (Ben Thompson, Stratechery, 2026-08-14) — 4/5, 4/5. The capital constraint: long-duration capital as the bridge to AI revenue — and the expanded blast radius.
 - **Introducing Gemini 3.7 Flash** (Tulsee Doshi, Google DeepMind, 2026-08-13) — 4/5, 4/5. The workhorse tier: agent-capable models at commodity prices, the supply side of participation.
 - **AMIE: Advancing medical AI for video consultations** (Google Research, 2026-08-11) — 4/5, 4/5. Multi-agent clinical video consultations; patients preferred video over chat — the human-centered interface direction.
+- **Putting sign language AI into users' hands** (Google DeepMind, 2026-08-12) — 4/5, 4/5. SL2T ships in Gboard and Live Transcribe on Pixel 11 at no cost; 100,000+ training hours across 50+ sign languages; AISLAC (global Deaf organizations) at the deployment table; pose-landmark-only privacy; the accessibility-as-participation case.
+- **Inside our 353,000-person vibe coding course** (Google, 2026-08-03) — 3/5, 4/5. 353,000 participants in the no-cost AI Agents Intensive; 6,000+ capstone projects; materials still free on Kaggle Learn — the builder-layer participation number.
 
 ## Practical Examples
 
@@ -42,6 +45,15 @@ Tim O'Reilly names the architectural root (WIRED, 08-14): the big AI labs built 
 - **Open architecture ≠ open outcomes.** Open harnesses still require compute, skill, and time; the participation gap can reproduce the access gap. Openness is a precondition, not a guarantee.
 - **Self-regulation is not governance.** Flock's changes are voluntary, unverified, and enforced by purchasers; the pattern of scandal → tightening → enforcement drift is a governance gap that architecture alone won't close.
 - **The capital story cuts both ways.** Long-duration capital can outlive the bubble (fiber, cloud) — the blast-radius warning is about fragility, not inevitable collapse; participation advocates should not root for the bubble to burst.
+
+## The Builder Layer (2026-08-16)
+
+Two August items show participation moving from defaults to builders — who gets to make the AI economy, not just consume it:
+
+1. **353,000 builders, no cost.** Google's five-day AI Agents Intensive (Kaggle) drew over 353,000 developers building and deploying agents in natural language, with Discord-based debugging and 6,000+ capstone projects (historical transcription tools, space-weather research systems). All materials remain free on Kaggle Learn. This is the builder layer's supply side: the skills to shape agents are being given away at the scale of a mid-sized city's population.
+2. **Sign language AI with Deaf-community governance.** DeepMind's SL2T (sign-language-to-text) ships in Gboard and Live Transcribe on Pixel 11 at no cost: 100,000+ hours across 50+ sign languages (~¼ ASL), joint training beating single-language models, zero-shot SOTA (70 BLEURT on FLEURS-ASL), streaming latency and hallucination-on-non-signing mitigated, fairness work for ~10% left-handed and one-handed signers. The participation architecture is the story: pose landmarks only (raw video discarded immediately), no glosses (direct landmark→text translation), and — the detail most relevant to this page — the **AI Sign Language Advisory Committee (AISLAC)**, composed of global Deaf organizations and subject-matter experts, brought into deployment decisions from the start. Governance participation, not just feature delivery; the roadmap extends to more languages and sign-language *generation*.
+
+The agency frame: the defaults stories above are about who is protected; the builder-layer stories are about who is equipped. Both are required — and both are happening in the same month as the safety reckoning, which is the participation case's real argument: the people who build and govern are the people who set the defaults.
 
 ## Related Pages
 
