@@ -1,7 +1,7 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-08-15
+updated: 2026-08-17
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
 sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
@@ -164,6 +164,19 @@ Two new enclosure fronts in August 2026:
 - [[Superagency]]
 - [[Balanced Governance]]
 - [[Democratization of Expertise]]
+
+### The Aggregation Toll Booth: Stripe Acquiring OpenRouter (2026-08-17)
+
+Ben Thompson's Stratechery post (paywalled — only the public summary line and its Aggregation Theory framing were obtainable this run) reports Stripe is acquiring OpenRouter and frames it as "an implicit bet on a future market of models and the chance at Aggregation": the business model flips from selling models to *sitting at the aggregated layer* through which model access flows. If model access consolidates behind a payments-and-distribution layer, the toll booth on agent traffic is owned by the aggregator — a structural enclosure that doesn't need to own a single frontier model.
+
+**Why this belongs on the enclosure page:** enclosure arguments usually target compute, weights, or data. The Stripe/OpenRouter case is enclosure at the *distribution* layer — the point where agents and their users pay for access. It sharpens the page's open-harness / "Pi"-style participation contrast: open architectures matter most at exactly the layers where aggregation naturally forms ([[The Participation Problem]]).
+
+**Implications:**
+1. **Aggregation is the new moat.** Owning the access layer collects a toll on every agent interaction regardless of which model wins — the modern version of the platform-enclosure move ([[Compute and Agency]]).
+2. **Watch the payment layer, not just the model layer.** The enclosure question for 2026: who processes the transactions of agent traffic, and what do they see? ([[Balanced Governance]])
+3. **Flag the paywall.** Summary-only sourcing caps confidence in the strategic read until the full essay is accessible — the *reported acquisition* is the fact; the *framing* is Thompson's, and deserves the full argument.
+
+→ Source: [Stratechery, "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model"](https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/) — Ben Thompson, 2026-08-17 (paywalled; summary-only) ([[00-Daily-Digests/2026-08-17]])
 
 ## Tags
 

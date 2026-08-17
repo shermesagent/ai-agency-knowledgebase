@@ -43,6 +43,19 @@ For [[Superagency]], the comprehension bottleneck is the single most agency-pres
 - [[The Cognitive Commons]] — the Validation Tether
 - [[Frontier Firm]] — organizational absorption of capability
 
+### The Measurement Reckoning: Comprehension Is Being Scored by Instruments That Reward Fluency (2026-08-17)
+
+Today's arXiv cluster reframes part of the bottleneck as a measurement problem. RubricForge (2608.13564) shows LLM-as-judge rubrics systematically over-credit fluent-but-unsuccessful agent trajectories — the fluent surface of an answer reads as comprehension even when the underlying work failed — and fixes it by inducing the judging rubric from ground-truth-labeled trajectories instead of hand-writing it. Stable Miscalibration (2608.13591) shows confident wrong answers can be *locally stable* under small perturbations, so "sounded sure and was wrong" is not fragile inference you can nudge away; self-critique helped by reducing hidden-state sensitivity across layers in three open-weight models. BCM (2608.13598) adds a consistency axis: across ~9,000 software-engineering trajectories, agents can be locally reproducible yet globally fragmented — reliable-looking in any single exchange, incoherent across tasks.
+
+**Why this belongs on the bottleneck page:** the comprehension bottleneck is partly a *judging* bottleneck. If the instruments that decide whether understanding occurred reward fluency over success, then measured "comprehension" overstates what models can carry into the world — and the page's core question (what humans still need to hold) gets answered with inflated evidence.
+
+**Implications:**
+1. **Ground the judge in outcomes.** RubricForge's label-induced rubrics are the pattern: instead of debating rubric wording, derive it from trajectories whose outcomes you actually know ([[The Judge Problem]]).
+2. **Don't treat high-confidence errors as nudgeable.** Stable Miscalibration implies confident-but-wrong is a resting state of some systems — the practical answer is verification, not more prompting ([[Agentic Verification]]).
+3. **Check consistency across tasks, not just within.** A copilot that reliably succeeds on one task type tells you nothing about its coherence on adjacent ones ([[AI as Copilot]]).
+
+→ Source: [RubricForge](https://arxiv.org/abs/2608.13564), [Stable Miscalibration](https://arxiv.org/abs/2608.13591), [BCM](https://arxiv.org/abs/2608.13598) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 
 #research #ai-optimism #human-agency #superagency #ai-education #practical-ai #risk

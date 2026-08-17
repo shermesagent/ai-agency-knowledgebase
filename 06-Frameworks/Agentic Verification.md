@@ -130,6 +130,19 @@ Three papers this week converge on the same finding: **the judge is not the bott
 - [[00-Daily-Digests/2026-08-06]]
 - [[00-Daily-Digests/2026-08-07]]
 
+### The Measurement Reckoning: Auditing the Audit (2026-08-17)
+
+Today's arXiv cluster is the strongest single-day statement of this page's thesis — verification is only as good as its instruments. RubricForge (2608.13564) shows LLM-as-judge rubrics over-credit fluent-but-unsuccessful trajectories and grounds the judge in ground-truth-labeled outcomes via induced rubrics. ASSERT (2608.13840) makes the measurement problem explicit: every reported audit rate is a joint property of system and measuring stick, and its conversational-deception case study shows the rate "moves substantially" with the dialogue setup, the simulated user, and the judge — so a rate without its written measurement specification is a number in search of a meaning. BCM (2608.13598) adds behavioral consistency as a first-class axis: across ~9,000 software-engineering trajectories, cross-task and within-task consistency diverge — systems can be locally reproducible yet globally fragmented, which means per-task verification understates incoherence. And Agentao (2608.13574) supplies the architectural answer: a structured event interface designed for memory, replay, and audit, so verification runs on evidence rather than self-report.
+
+**Why this belongs on the verification page:** the preventive/evidential distinction this page builds on requires trustworthy evidence — and today's papers show the evidence chain is broken at the *judging* stage, not the capture stage. Spec-driven measurement (ASSERT), outcome-grounded judges (RubricForge), and consistency checks (BCM) are the three repairs.
+
+**Implications:**
+1. **Require the measurement spec with every reported rate.** "Audited at X%" is incomplete without the dialogue setup, judge, and rubric that produced it — for vendors and internal reports alike ([[Responsible Deployment]]).
+2. **Verify across tasks, not just within.** Add a consistency pass to agent acceptance tests; locally reproducible agents can still be globally incoherent ([[The Judge Problem]]).
+3. **Design for replay.** Agentao's event interface is the pattern: structured, replayable logs make the evidential face structural rather than discretionary ([[Sandbox Integrity]]).
+
+→ Sources: [RubricForge](https://arxiv.org/abs/2608.13564), [ASSERT](https://arxiv.org/abs/2608.13840), [BCM](https://arxiv.org/abs/2608.13598), [Agentao](https://arxiv.org/abs/2608.13574) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 
 #verification #agents #responsible-ai #frameworks #superagency

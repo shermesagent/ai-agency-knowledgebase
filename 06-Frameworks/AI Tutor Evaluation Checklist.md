@@ -42,5 +42,20 @@ Before approving a tutor, check:
 - [[AI for School Districts]]
 - [[Responsible Deployment]]
 
+### Add the Visibility Dimension: PAD's Trace Taxonomy (2026-08-17)
+
+The Prompt Analytics Dashboard paper (PAD, 2608.13587) adds the *visibility* dimension this checklist's monitoring items gesture at but don't operationalize. PAD's compact trace taxonomy for student–LLM writing interaction — misuse signals (copy-paste without revision), goal-alignment cues (prompts aimed at actual learning goals), revision effort — gives teachers three legible signals for "is this cheating, learning, or working?", rendered in overview / week-outcome / drill-down views co-designed with six EFL instructors. Its governance design choice deserves a checklist slot: micro-explanations that tell teachers *why* a trace is flagged, deliberately built to reduce over-surveillance.
+
+**Why this belongs on the evaluation checklist:** an AI-tutor evaluation that lacks a visibility criterion will score products on capability while ignoring the teacher's ability to see and steer — the exact failure Moxie-era relational products and black-box dashboards share. PAD supplies the pattern: visibility with a brake.
+
+**Checklist additions:**
+1. **Trace visibility:** does the tool expose student–LLM interaction (prompts, revisions) to the teacher in a compact, legible form?
+2. **Signal taxonomy:** can the teacher distinguish misuse, goal-alignment, and revision effort without reading raw logs?
+3. **Explanation design:** does the dashboard explain its flags (micro-explanations) rather than just emit alerts?
+4. **Surveillance brake:** what design elements reduce over-monitoring (aggregation, retention limits, teacher control of views)?
+5. **Evidence basis:** are any claimed learning effects backed by outcome studies rather than feature demos — the Moxie lesson ([[Family and Personal Life]])?
+
+→ Source: [Student-ChatGPT Interaction Visible: Designing a Teacher Dashboard for EFL Writing Education](https://arxiv.org/abs/2608.13587) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

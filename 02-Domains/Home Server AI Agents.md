@@ -94,5 +94,18 @@ The framework also introduces **standing delegation** for long-running agents �
 - [[Agentic Workflow Patterns]]
 - [[AI as Copilot]]
 
+### Agentao: The Governed Local-First Runtime Pattern (2026-08-17)
+
+Agentao (2608.13574) is the architecture paper for this page's premise: a governed, local-first runtime for tool-using LLM agents that separates model-generated action *proposals* from host-authorized *execution*. The stack: host-facing surfaces, a host contract, a runtime core, a permission-mediated tool system, and a structured event interface covering memory, replay, plugins, skills, and sub-agents. Its threat model reads like this page's risk register — over-privileged actions, weak auditability, prompt injection, tool poisoning, uncontrolled side effects — and answers each with a structural control rather than a prompt.
+
+**Why this belongs on the home-server page:** the home server is where "local-first" and "governed" have to coexist. A local agent with file-write and network permissions is a boundary; Agentao's proposal/execution separation is the pattern that makes the boundary *visible and logged* — the model proposes, the host (you) authorizes, and the event stream is the evidence ([[Sandbox Integrity]]).
+
+**Implications:**
+1. **Least privilege is the auditability story.** Permission-mediated tools mean every capability is granted, scoped, and revocable — the practical version of the runtime-contract distinction ([[Agent Safety Should Be a Runtime Contract]]).
+2. **Replay beats confidence.** A structured event interface that can replay a session is the evidential face of home-agent governance — you can verify what happened instead of asking the agent to describe it ([[Agentic Verification]]).
+3. **Evaluate the judge too.** Today's eval cluster (RubricForge 2608.13564, ASSERT 2608.13840) shows the measuring instruments need the same scrutiny as the agents — a governed runtime should log evaluation choices as events too ([[The Judge Problem]]).
+
+→ Source: [Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents](https://arxiv.org/abs/2608.13574) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 #home-server-ai #ai-agents #practical-ai

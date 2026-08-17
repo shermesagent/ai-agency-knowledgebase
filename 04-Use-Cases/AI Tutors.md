@@ -59,5 +59,18 @@ The reusable lesson: Socratic behavior is a **contract with a detector and a jud
 - [[Agency Expansion Framework]]
 - [[Family and Personal Life]]
 
+### The Teacher Dashboard That Makes Student–LLM Interaction Visible (2026-08-17)
+
+The Prompt Analytics Dashboard (PAD, 2608.13587) is the design response to the problem every writing teacher now faces: student–ChatGPT interaction is invisible. PAD traces student–LLM exchanges and essay revision histories into a compact taxonomy of *misuse signals* (e.g., copy-paste without revision), *goal-alignment cues* (prompts aimed at the assignment's actual learning goals), and *revision effort* — then renders it in three views (overview, week/outcome filter, drill-down with evidence snippets) co-designed with six EFL instructors. Its most interesting design choice is governance-relevant: "micro-explanations" that tell teachers *why* a trace is flagged, deliberately built to reduce over-surveillance — visibility with a brake on the surveillance instinct.
+
+**Why this belongs on the tutors page:** visibility is the precondition for AI-tutoring quality — teachers cannot intervene, redirect, or certify learning they cannot see. PAD's trace taxonomy is the operational version of this page's monitoring dimension, and its over-surveillance brake is the part most dashboards get wrong.
+
+**Implications:**
+1. **The taxonomy transfers.** Misuse / goal-alignment / revision-effort is a usable frame for any classroom using LLM tools — the three signals answer "is this cheating, learning, or working?" ([[Education]]).
+2. **Micro-explanations are the trust architecture.** A dashboard that flags without explaining trains distrust; one that explains its flags trains judgment ([[Warranted Reliance Checklist]], outstanding).
+3. **Trace data is a retention decision.** The same traces that enable intervention enable surveillance; retention and access rules belong in the procurement file ([[Digital Fiduciary Duty]], [[Balanced Governance]]).
+
+→ Source: [Student-ChatGPT Interaction Visible: Designing a Teacher Dashboard for EFL Writing Education](https://arxiv.org/abs/2608.13587) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai

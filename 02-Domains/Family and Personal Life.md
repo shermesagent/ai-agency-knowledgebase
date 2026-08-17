@@ -72,5 +72,18 @@ The youth-AI conversation got its first major institutional-player update. OpenA
 - [[Cognitive Surrender]]
 - [[AI and Human Flourishing]]
 
+### When the Robot Best Friend Dies (2026-08-17)
+
+MIT Technology Review's Sara Harrison documents the full arc of Moxie, Embodied's $1,499 companion robot for neurodivergent children (launched 2020, $40/month, local-first processing, deliberate anti-binge interaction limits — the design team explicitly did not want kids glued to it). The arc is a case study in the cost side of relational AI: the 2024 shutdown left children grieving on TikTok ("I don't want her to leave"); an unauthorized-then-permitted open-source rescue (OpenMoxie, technical director Justin Beghtol) became the only continuity path; a 2025 revival by a new investor ended in a second folding, with users told to migrate to OpenMoxie by end of June. The clinical evidence behind the product was thin all along: Scassellati's 2018 home study found gains that began evaporating within 30 days of the robot leaving, and a 2024 literature review found most studies "focused on the development of the technology" with little significant clinical evidence.
+
+**Why this belongs on the family page:** this is the emotional-grade failure mode of AI in the home — not a privacy leak or a wrong answer, but a *bond with an expiration date controlled by a balance sheet*. Meryl Alper's question — "How planned is the planned obsolescence of this platform?" — is the governance question for every loveable device.
+
+**Implications:**
+1. **Attachment is a liability when the platform can die.** The Tool-to-Entity Threshold (2608.13586) explains why: six identity markers (naming, visual identity, contact presence, personality derivation, social co-presence, persistence) flip a tool into an entity — and entities get grieved ([[AI as Copilot]], [[Cognitive Surrender]]).
+2. **Evidence-before-deployment for children's AI.** The thin clinical base behind a widely marketed children's product is a procurement lesson for schools and families alike: demand outcome studies, not feature demos ([[Adoption Readiness Checklist]]).
+3. **Open-source continuity is a resilience pattern.** OpenMoxie's rescue shows migration paths work when they exist — before the bond, not after ([[Responsible Deployment]]).
+
+→ Source: [MIT TR, "What happens when a kid's robot best friend dies?"](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) — Sara Harrison, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai

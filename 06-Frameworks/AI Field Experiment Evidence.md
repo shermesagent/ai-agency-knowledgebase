@@ -40,5 +40,18 @@ A Superagency-style knowledgebase needs optimism that can survive measurement. F
 - [[Education]]
 - [[AI Tutors]]
 
+### The Unit of Evidence Is the Human–AI Team (2026-08-17)
+
+Two sources expand the field-experiment frame beyond solo-model outcomes. "AI Evaluation Should Work With Humans" (2608.13577) argues the dominant paradigm — evaluating superhuman autonomous performance — implicitly optimizes for replacing humans, and that the evaluation target should be human–AI team performance instead; that is a measurement-level restatement of this page's premise that the interesting outcomes live in the interaction. BCM (2608.13598) contributes method: ~9,000 trajectories across six software-engineering agents, with behavioral-consistency measurement as a distinct axis from task success — a reminder that field evidence should track *consistency* (does the intervention behave like a stable treatment?) as well as *effect*.
+
+**Why this belongs on the field-experiment page:** an intervention's measured effect depends on the evaluation target you choose. If the target is team performance, the experiment design changes at every layer — outcome variables, treatment arms, and the baseline (human alone vs. human+AI) all follow.
+
+**Implications:**
+1. **Specify the team as the unit.** For AI-adoption experiments, the primary outcome should be team-level (quality, speed, learning) with the human in the loop, not model-standalone benchmarks ([[Superagency]]).
+2. **Measure consistency as a covariate.** BCM's cross-task vs. within-task distinction suggests field studies should report stability across task variants, not just mean effects ([[Agentic Verification]]).
+3. **The paradigm choice is a values choice.** Eval targets encode which future the field optimizes for — replacement or augmentation — so experimenters should state theirs ([[Human Agency]]).
+
+→ Sources: [AI Evaluation Should Work With Humans](https://arxiv.org/abs/2608.13577), [BCM: Measuring Cross-Task Behavioral Consistency in Language Model Agents](https://arxiv.org/abs/2608.13598) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 #research #practical-ai #augmentation #responsible-ai

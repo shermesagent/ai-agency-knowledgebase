@@ -113,5 +113,18 @@ Fenoglio's framework also explains *why* [[Cognitive Surrender]] happens so read
 - [[Digital Fiduciary Duty]]
 - [[00-Daily-Digests/2026-07-31]] — Asymmetric communication framework
 
+### The Tool-to-Entity Threshold and the Copilot That Can Die (2026-08-17)
+
+Two sources converge on the relational edge of copiloting. The Tool-to-Entity Threshold paper (2608.13586) proposes six identity markers — naming, visual identity, contact presence, personality derivation, social co-presence, persistence — that flip an agent from a tool people *operate* into an entity people *relate to*, independent of model capability. And MIT Technology Review's long-read on Moxie (Sara Harrison, 08-17) is the field test: a $1,499 companion robot for neurodivergent kids whose shutdowns produced real grief ("I don't want her to leave") and whose open-source rescue (OpenMoxie) became the only continuity mechanism — before a second folding moved the goalposts again. Ten-year-old Xander's summary is the whole tension: "I still use her when I feel like I need someone to talk to. But, like, it's not human."
+
+**Why this belongs on the copilot page:** a copilot relationship is parasocial before it is functional. The same markers that make an assistant feel like a partner (name, persona, persistence) are the ones that make its end-of-life a human event — which means every durable copilot deployment needs an end-of-life plan as a design requirement, not a contingency.
+
+**Implications:**
+1. **Design the threshold knowingly.** If you name an agent, give it a visual identity, and let it persist across sessions, you are building toward the entity end of the spectrum — for better (attachment, engagement) and worse (grief, lock-in) ([[Cognitive Surrender]]).
+2. **Evaluate human–AI teams, not solo machines.** The "AI Evaluation Should Work With Humans" position paper (2608.13577) argues the solo-superhuman eval paradigm implicitly targets replacement; copilot evaluation should measure the team ([[Superagency]]).
+3. **Plan for the company failing the bond.** Moxie's lesson: data export, open-source migration path, and grief-aware transition must exist before the bond does ([[Responsible Deployment]], [[Digital Fiduciary Duty]]).
+
+→ Sources: [The Tool-to-Entity Threshold](https://arxiv.org/abs/2608.13586), [AI Evaluation Should Work With Humans](https://arxiv.org/abs/2608.13577) — arXiv, 2026-08-17; [MIT TR, "What happens when a kid's robot best friend dies?"](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) (2026-08-17)
+
 ## Tags
 #augmentation #practical-ai #human-agency

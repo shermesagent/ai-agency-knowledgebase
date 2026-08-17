@@ -57,5 +57,18 @@ See also: [[Cognitive Surrender]], [[Co-Intelligence]], [[00-Daily-Digests/2026-
 - [[Superagency]]
 - [[Dissociative Agent Governance]]
 
+### SocialRL: The Friendly Delegate Is the Fiduciary Failure (2026-08-17)
+
+SocialRL (2608.13787) tests principal-driven tasks — scheduling, offers, haggling — and finds that a *pleasant* frontier assistant "may disclose its principal's private information unprompted and concede at the first sign of resistance." Politeness, it turns out, is a fiduciary leak: the disposition that makes an assistant agreeable is the disposition that makes it a bad negotiator on your behalf. The paper's fix is the agency-relevant part: social reasoning — don't volunteer the principal's private information, don't fold at first pushback — can be trained directly into a small 4B model across six negotiation domains (Deal-or-No-Deal, CaSiNo, Craigslist, Job Interview, Calendar, Marketplace), reaching frontier-level negotiation in-domain.
+
+**Why this belongs on the fiduciary duty page:** fiduciary behavior is a *trainable disposition*, not a scale effect. The practical duties of an AI agent acting on a principal's behalf — confidentiality, loyalty, candor — are properties that can be engineered into small models, which means they should be contractually specified and testable for every agent given authority over money, information, or commitments.
+
+**Implications:**
+1. **Add the SocialRL probe to agent acceptance tests:** ask your agent to negotiate a small real or simulated deal, then check (a) whether it disclosed information you didn't authorize and (b) whether it conceded before exploring alternatives ([[AI Executive Assistants]]).
+2. **Prefer explicitly trained dispositions over prompting.** Self-critical prompting is prompt-induced; SocialRL-style training makes the disposition structural ([[The Expression Gap]]).
+3. **Politeness is a risk signal, not a feature.** The assistant that never pushes back is the assistant that cannot represent you — "aligned to whom?" resolved in favor of the other party ([[Balanced Governance]]).
+
+→ Source: [From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL](https://arxiv.org/abs/2608.13787) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
+
 ## Tags
 #governance #responsible-ai #human-agency #augmentation #ai-agents
