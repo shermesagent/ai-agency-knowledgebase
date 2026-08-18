@@ -115,6 +115,14 @@ MIT Technology Review (2026-08-13) documents the civic-oversight story of the su
 
 → Source: MIT TR Flock piece (2026-08-13); [[00-Daily-Digests/2026-08-15]]
 
+### Agentic Flooding of Government Services (2026-08-18)
+
+**[Characterizing Agentic Flooding of Government Services](https://arxiv.org/abs/2608.16603)** (Schmitz, Hammond, Chan, 2026-08-14): 84 potential flooding cases across 11 jurisdictions — agents mass-generating comments, applications, requests, and claims against government systems. Near-term risk is highest where services are financially attractive *and* complex enough that agents can outperform humans at the process (benefit programs, licensing, permits). The fastest mitigations — fees, friction, identity requirements — trade off equitable access: they deter agents and low-income constituents alike. The authors recommend near-term alternatives that preserve access (rate limits, proof-of-human-work, human-in-the-loop review triage) and expect mitigation racing to persist as agent capabilities climb.
+
+**The civic reading:** flooding is the adversarial mirror of the access agenda — the same automation that could help constituents reach services can swamp them. This page's five-layer architecture should treat flooding as a design input at every layer: intake (rate limiting, identity), processing (triage that doesn't punish the slow), and oversight (monitoring for flooding signatures). The equity trade-off is a values decision that belongs in the *design* phase, not the surge (see [[The Participation Problem]]).
+
+→ Source: arXiv 2608.16603 (2026-08-14); [[00-Daily-Digests/2026-08-18]]
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

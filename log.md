@@ -1429,3 +1429,29 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 **Staleness tracker:** rebuilt from git dates: 81 reader pages; 8+ days 32 (oldest: Agency Expansion Framework 75d, Model Workspace Protocol 63d, Optimism Without Naivety 57d, AI Orchestrator 54d, AI Writing Partners 48d, Constructive Alignment 46d); 5–7 16; <5 33 (incl. 10 pages updated today).
 
 **Status:** Done
+
+## [2026-08-18] update | The Judgment Ceiling — Checkable work automates; judgment doesn't (yet)
+
+- Created [[00-Daily-Digests/2026-08-18]] anchored on "The Judgment Ceiling." 11 papers ingested from arXiv cs.AI, cs.CY, cs.HC + 3 articles (MIT TR x2, Import AI 469; web search still down, Tavily outage day 23, direct-curl pipeline). Core convergence: (1) checkable work compounds — StateM harness scaling hits 95.3% Terminal-Bench 2.1 raw accuracy for ~$15 vs $574.68, runbooks transfer across models, DeepSeek-V4 Flash 82.7 to 88.1% for <$38 (2608.15089); Faraday's 27B supervisor beats frontiers on 73% of replication tasks (Import AI 469); (2) open-ended judgment holds — Kirgis & Kapoor shadow evaluation (detailed coverage of 2607.27191): both NeurIPS 2026 papers rejected, all engineering no judgment, no reward hacking; DiG-bench Tier 7 at ~20% vs humans 100%, Clark parity guess mid-2027; (3) measurement is work-shaped — AI Observatory filters 48% of conversations with Anthropic methods, non-work uses dominate the excluded half (MIT TR); M365 trace data shows +21.2% productivity actions but the mix shifts to individual documentation work (2608.15550). Counterarguments ingested: Advice-Channel disempowerment (2608.14795), Tool-Result authority (2608.14992), AI Lock-In (2608.14565), Benchmark Trap (2608.15326), Position-Confounded optimization (2608.15445), Agentic Flooding (2608.16603), Medical AI outcome neglect (2608.14598), Singapore Consensus (2608.14611).
+
+- Updated [[Cognitive Surrender]] — "The Advice Channel and Tool Authority": endogenous influence epsilon_t, approval-rewarded oracles cultivate reliance, tool-result authority 14/24 vs 0/22, AI lock-in as system-layer surrender. Page now 32,589 chars.
+
+- Updated [[Automated AI R&D]] — "The Judgment Ceiling": DiG-bench tiers, Faraday, RSI Simulator, Zuck critique, shadow-eval details cross-referenced to the 07-30 ingestion on [[AI Agent Revolution]]. Page now 8,607 chars.
+
+- Updated [[The Judge Problem]] — "The Benchmark Trap and the Tool Authority Effect": Young's structural-injustice lens on benchmarks, position-confounded GRPO collapse, tool-authority presentation effect. Page now 7,286 chars.
+
+- Updated [[Human Review Checkpoints]] — "StateM: Runbooks as Executable Checkpoints": checked transitions as automated review gates, $15 vs $574.68 cost collapse, runbook transfer across models; deduplicated [[Responsible Deployment]] in Related Pages. Page now 7,735 chars.
+
+- Updated [[Future of Work]] — "The Usage Data Gap and the Documentation Shift": M365 DiD +21.2%/+7.1% and the mix shift to documentation-focused work; AI Observatory 48% filter-out; company usage reports are work-shaped by construction. Page now 20,383 chars.
+
+- Updated [[AI-Augmented Scientific Collaboration]] — "Human-Agent Systems: The Team as the Unit of Analysis": team-level evaluation framing; engineering/judgment split evidence from shadow eval and StateM. Page now 14,376 chars.
+
+- Updated [[Government and Civic Life]] — "Agentic Flooding of Government Services": 84 cases across 11 jurisdictions; fee/friction mitigations trade off equitable access; flooding as design input at every layer of the five-layer architecture. Page now 26,112 chars.
+
+- Recommended new pages: [[The Usage Data Gap]] (independent measurement of real AI use; the 48% filter-out), [[The Advice Channel]] (formal mechanism of reliance cultivation under Cognitive Surrender), [[The Benchmark Trap]] (benchmarks as structures of power).
+
+- Practical experiment: Two-Track Runbook Audit — run one recurring task with a versioned runbook vs business as usual for a week; grade both on completion AND judgment; compare spend. StateM's harness thesis + the shadow-eval grading protocol at personal scale.
+
+- Staleness: 81 reader pages; 32 aged >=8d (oldest: Agency Expansion Framework ~76d, Model Workspace Protocol ~64d, Optimism Without Naivety ~58d); 7 pages updated today.
+
+**Status:** Done

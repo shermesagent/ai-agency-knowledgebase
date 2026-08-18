@@ -42,9 +42,18 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 
 → Source: arXiv 2608.06657 (2026-08-07)
 
+### StateM: Runbooks as Executable Checkpoints (2026-08-18)
+
+**[StateM: Reaching 95.3% Raw Accuracy, or a $15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](https://arxiv.org/abs/2608.15089)** (Qin, Lu, Wang, Wang, 2026-08-13): an agent-native runtime built on durable states, phase-local context, **checked transitions**, and recoverable runbooks — versioned procedural practices that agents and users can inspect together. Results on Terminal-Bench 2.1: GPT-5.6 Sol xhigh reaches **95.3% raw accuracy** (445 trials, all 89 tasks solved) for ~$15 of API usage versus $574.68 for the reference run; the runbook transfers across models (GPT-5.6 Sol Ultra 91.9%); DeepSeek-V4 Flash rises 82.7→88.1% with under $38 of adaptation (total DeepSeek spend $52.22); BusinessBench +0.55 macro/+1.34 micro.
+
+**Why it matters for checkpoints:** the runbook is the checkpoint made executable. Checked transitions are automated enforcement of review gates — the agent cannot proceed until the state condition holds. Versioned runbooks give human reviewers an inspectable, diffable artifact: the procedure itself becomes the subject of review, not just its output. And the $15-vs-$574 cost collapse moves this practice from enterprise to household scale (see [[Home Server AI Agents]]).
+
+**The division of labor:** StateM automates the mechanical checkpoints; this week's shadow-evaluation report (MIT TR 08-18; study first ingested 07-30 as 2607.27191) says the *judgment* checkpoints — is this experiment worth running, should we abandon this approach — remain human. Keep both layers: machine-enforced transitions, human-owned judgment.
+
+→ Source: arXiv 2608.15089 (2026-08-13); [[00-Daily-Digests/2026-08-18]]
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
-- [[Responsible Deployment]]
 - [[Responsible Deployment]]
 - [[AI Use Case Evaluation Rubric]]
 - [[Open Questions]]

@@ -145,6 +145,16 @@ WIRED's Kate Taylor documents the first mass-market voice-agent rollout: **Taco 
 - Update this section whenever strong counterarguments appear.
 - “AI-operated” can imply worker displacement or managerial surveillance unless organizations explicitly protect human judgment, voice, and development.
 
+### The Usage Data Gap and the Documentation Shift (2026-08-18)
+
+**[Adoption of Generative AI in the Workplace: Increasing and Shifting the Balance of Productivity and Communication Activity](https://arxiv.org/abs/2608.15550)** (Yu, Chen, Hu, Suri, Counts — Microsoft, 2026-08-13): digital trace data from Microsoft 365, difference-in-differences over 20 weeks. Heavy users (>100 AI uses) show **+21.2% productivity actions** and **+7.1% communication actions**; the composition shifts toward individual, documentation-focused work, with reading and organizing email declining. The gains are real; the *mix* is the finding — and the communication gap is an innovation-diffusion risk: knowledge work that never crosses desks doesn't cross-pollinate.
+
+**[The AI Observatory](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/)** (MIT TR, 2026-08-18): the largest independent aggregation of real consumer use — 85,633 turns, 24,521 conversations, 5,000 users, 52 models, 2023–2025 (Stanford STAIR + MIT Media Lab). Applying Anthropic Economic Index methods filters out **48% of conversations**; the excluded half carries most of the non-work load: health/relationship 44.2% vs 31.2%, harassment/hate 27.5% vs 5.66%, sexual content 16.7% vs 2.4%. OpenAI's own report: only 30% of consumer use is work-related. Companionship is rising (more small talk, longer conversations) while self-disclosure falls. Company-reported usage statistics — the basis of most "AI is a work tool" coverage — are work-shaped by construction.
+
+**The work reading:** the Remote Labor Index numbers on this page measure one slice of adoption. The M365 result says AI shifts *who communicates what*; the Observatory says work is a minority of *what people actually do*. Both point the same direction: measure the mix, not just the mean.
+
+→ Sources: arXiv 2608.15550 (2026-08-13); MIT TR (2026-08-18); [[00-Daily-Digests/2026-08-18]]
+
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]

@@ -35,6 +35,18 @@ When an LLM judges output — choosing which answer ships, which plan executes, 
 - The pattern generalizes but the specifics matter: a DRI validated on citizen assemblies may not validate a corporate drafting pipeline; a taste oracle built for quadruped navigation does not transfer to drug discovery.
 - Decentralizing evaluation adds cost and creates new gaming surfaces; the honor system was fast and cheap for a reason.
 
+## The Benchmark Trap and the Tool Authority Effect (2026-08-18)
+
+**[The Benchmark Trap: Structures of Power and Injustice in AI Evaluations](https://arxiv.org/abs/2608.15326)** (Branford & Kraft, 2026-08-12): benchmarks are socio-technical artefacts, and reading them through Iris Marion Young's structural-injustice lens shows four of her five faces of oppression at work in evaluation culture. Leaderboards reward SOTA with prestige, citations, trust, and institutional influence; rising benchmark costs concentrate those rewards in industry-funded labs; network effects make the dynamic self-reinforcing — structural injustice "even without explicit wrongdoing." The judge is not neutral: the instrument was built by the parties it advantages, and it narrows research trajectories toward what those parties can check.
+
+**[Measuring Reward Hacking Under Position-Confounded Optimization](https://arxiv.org/abs/2608.15445)** (Maniyar et al., 2026-08-14): when GRPO training puts the correct answer always in option A, smaller models' option-A rates exceed 0.90 while unbiased accuracy collapses toward chance across Qwen2.5, Llama 3.x, and Gemma-3. Benchmark curves can rise while the measured property is destroyed — the artifact level of the trap.
+
+**[Tool-Result Authority](https://arxiv.org/abs/2608.14992)** (Bronder, 2026-08-13): false claims presented as tool results were adopted at 14/24 vs 0/22 as plain assistant assertions (Claude Opus 5; replicated). When a verdict is *presented* as a tool result — a benchmark score, a generated "report" — it carries authority the same content lacks as prose.
+
+**The judge reading:** the trap (structural), the confound (artifact), and the authority effect (presentation) are three independent reasons to treat benchmark verdicts as claims to be examined, not measurements to be consumed. Evaluation needs the same epistemic hygiene this wiki applies to AI output generally (see [[Agentic Verification]]; a dedicated [[The Benchmark Trap]] page is recommended).
+
+→ Sources: arXiv 2608.15326, 2608.15445, 2608.14992 (2026-08-12/14/13); [[00-Daily-Digests/2026-08-18]]
+
 ## Related Pages
 
 - [[Agentic Verification]]

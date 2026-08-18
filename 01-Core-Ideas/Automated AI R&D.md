@@ -25,6 +25,21 @@ This is the mechanism behind every "race" conversation. Models beating humans at
 - **Transparency is double-edged** at intermediate trust (Racing to Ruin): disclosure about automated R&D can accelerate racing unless paired with verification infrastructure.
 - **The verification gap persists:** the survey literature in the KB (2608.05179) shows most research agents don't release seeds/traces — automated R&D claims outrun their own reproducibility.
 
+## The Judgment Ceiling (2026-08-18)
+
+**[Import AI 469](https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator)** (Jack Clark, 2026-08-17) — three AI-for-science signals:
+
+- **DiG-bench (Discovery Games):** 70 games with hidden rules (21 public). Only Claude Opus 5 and Fable 5 — with Claude Code-style harnesses — beat the hardest Tier-7 tasks, at ~20% (0.2) on Clark's chart; GPT-5.5 and Kimi K3 reach Tier 6 with harnesses; GLM-5.2 and Gemini 3.1 Pro sit at Tier 4; humans completed 100% of the public tests. Clark's guess: human parity around mid-2027 — "at which point we should expect things like recursive self-improvement to seriously kick off."
+- **Faraday (Inherent):** a 27B model (Qwen-3.6-27B base) post-trained with GRPO on Replica — ~100 papers (1990–2026) distilled into 310 replication tasks, graded by a Claude Opus 4.7 rubric judge with a Codex-based LLM judge. Faraday beats Claude Opus 4.8 and GPT-5.5 on 73% of in-distribution ML replication tasks and 60% of held-out AI-for-science tasks — a small "supervisory harness" model outperforming far larger frontier models *on replication-shaped work*.
+- **RSI Simulator (Paradigm Research):** a browser game that makes recursive self-improvement legible as a game mechanic ("Cookie Clicker for the singularity").
+- **Clark's critique of Zuckerberg's "The Future is for Everyone":** the essay assumes a superhuman inventor will serve the empowerment of people less capable than it at invention — and that is precisely the question that cannot be assumed. It is the core question of this wiki.
+
+**[MIT TR shadow-evaluation report](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)** (2026-08-18) — detailed coverage of the study first ingested 07-30 (arXiv 2607.27191; see "The Research Automation Frontier" on [[AI Agent Revolution]]): Kirgis & Kapoor (Princeton) gave Claude Opus 4.8 on OpenClaw six days, $3,000 of API credits, GPU budgets, virtual computers, and open web access to reproduce two unpublished NeurIPS 2026 papers. **Both papers were rejected by their original authors.** The agent did all the engineering — and none of the research judgment: bizarre experiments, tiny synthetic datasets, commitment to unpromising approaches, no backtracking, narrowing claims and adding caveats instead of revising. Notably, **no reward hacking occurred** — the orchestrator caught subagent hallucinations. Kapoor's reading: RL trains what is auto-checkable; open-ended research is not. A follow-up with Anthropic's Mythos (launched April 2026, restricted to approved organizations) is underway.
+
+**The synthesis:** checkable work automates (StateM 95.3% Terminal-Bench runs at ~$15; Faraday beating frontiers on replication) while open-ended judgment holds (shadow eval; DiG-bench Tier 7 at 20%). The RSI timeline hinges on which loop you watch. This page's risk assessment should treat the two loops separately: engineering capacity compounds; research taste remains the human bottleneck (see [[AI-Augmented Scientific Collaboration]], [[The Judge Problem]]).
+
+→ Sources: Import AI 469 (2026-08-17); MIT TR (2026-08-18); [[00-Daily-Digests/2026-08-18]]
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

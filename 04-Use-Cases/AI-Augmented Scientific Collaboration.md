@@ -73,6 +73,14 @@ Two fresh data points for this page's research-automation debate:
 
 → Sources: arXiv 2608.11195 (2026-08-11); arXiv 2608.11090 (2026-08-11); [[00-Daily-Digests/2026-08-12]]
 
+### Human-Agent Systems: The Team as the Unit of Analysis (2026-08-18)
+
+**[Position: AI Agents in Scientific Teams Should Be Studied as Human-Agent Systems](https://arxiv.org/abs/2608.14667)** (Emami et al., NREL/LLNL+, 2026-08-13): research agents should not be evaluated as isolated tools but as members of human-agent systems — the team is the unit of analysis, including its social, informational, and incentive structures. This matches this page's existing findings: the 12.55% revision-lift RCT (08-05) and the taste-oracle division (08-12) both show outcomes that only exist at the team level.
+
+**The 2026 evidence for the split:** this week's shadow-evaluation coverage (MIT TR 08-18; study first ingested 07-30 as 2607.27191) characterizes the division empirically — the agent performed all research *engineering* on two unpublished NeurIPS papers, and both were rejected by the original authors; the human-authored papers carried the judgment. And StateM (2608.15089) shows checked-transition runbooks lifting agent accuracy to 95.3% on Terminal-Bench 2.1 — the mechanical layer compounding. Teams that design the human-agent boundary deliberately (who judges, who abandons, who commits) are the teams that compound.
+
+→ Sources: arXiv 2608.14667 (2026-08-13); MIT TR (2026-08-18); [[00-Daily-Digests/2026-08-18]]
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]
