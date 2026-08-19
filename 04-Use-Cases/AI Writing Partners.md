@@ -100,6 +100,14 @@ The taxonomy matters for the Superagency thesis: different reliance patterns req
 
 This also reframes the Mode A / Mode B distinction. Mode A vs. Mode B is about *what the writer does*. The Four Types taxonomy adds *why the writer does it* — and the "why" determines which interventions will work. A writer in Mode A because of anxiety needs different support than a writer in Mode A because of efficiency incentives. Source: https://arxiv.org/abs/2606.28749
 
+### Procedural Collapse: The Structural Fix for AI Writing Interfaces (August 2026)
+
+Kim & Mei ([arXiv 2608.17326](https://arxiv.org/abs/2608.17326)) reframe the writing-disengagement debate: the dominant explanation is *dispositional* (students are over-reliant; teach self-regulation), but the mechanism is *structural*. Current LLM writing interfaces induce **procedural collapse** — the replacement of an iterative, self-paced writing process with a single output that shifts the writer's task from generation to comprehensive evaluation. Because that evaluation is costly, shallow engagement becomes the default and the cognitive work writing was supposed to produce goes unperformed.
+
+The fix is interface design, not blame: (1) **decomposed interaction** — break writing into smaller, sequential moves instead of one giant generate-button; (2) **goal elicitation as a default first step** — force the writer to specify what the piece is for before any output; (3) **single-level output** — don't hand over a finished draft that invites passive acceptance. These directions complement metacognitive scaffolding by restructuring the interaction itself — the writing-interface half of the scaffold-don't-substitute principle (Favero et al., 2608.17451).
+
+This is the structural complement to the Four Types of Reliance taxonomy: telling an anxiety-driven writer to "be more intentional" fails when the interface is engineered for collapse. Mode B (co-pilot) is not only a choice the writer makes — it is a property the interface can make nearly impossible. The tool that makes writing feel easiest may be the worst for developing craft (cf. GenUI above) — and now we know why: ease is what collapse feels like. Source: https://arxiv.org/abs/2608.17326
+
 ## Related Pages
 - [[Creativity]]
 - [[AI as Copilot]]

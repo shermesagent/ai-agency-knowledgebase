@@ -1455,3 +1455,26 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Staleness: 81 reader pages; 32 aged >=8d (oldest: Agency Expansion Framework ~76d, Model Workspace Protocol ~64d, Optimism Without Naivety ~58d); 7 pages updated today.
 
 **Status:** Done
+
+
+## [2026-08-19] update | The Scaffolding Turn — structure, not scale, is what preserves agency
+
+- Created [[00-Daily-Digests/2026-08-19]] anchored on "The Scaffolding Turn." 10 papers ingested from arXiv cs.AI/cs.CY/cs.HC (Pass 15) + 2 articles (Pass 19: Zvi 08-18 Anthropic Risk Report, MIT TR child-monitoring; web search still down, Tavily outage day 24, direct-curl pipeline). Core convergence: (1) the students' specification — Favero et al. (2608.17451): 80% of 49 IB essays report AI reliance reduces thinking; students ask for answer-withholding, recall-prompting, reflection-through-questions; the design principle "scaffold, do not substitute" generalizes to any system that mediates human thinking; Kim & Mei (2608.17326) add the structural mechanism — procedural collapse in single-output writing interfaces (evaluation too costly, shallow engagement default; fix = decomposed interaction, goal elicitation, single-level output); (2) the verification layer converges on the runtime — Aegis (2608.16891): "the model proposes; the trusted runtime decides," fail-closed execution, Senate-style quorum, zero governed risky side-effect completions in 2,100 governed rows; logit-based energy scoring (2608.17270) doubles Hit@1 over prompted LLM-as-judge (33.0% vs 16.6%); ASI-Bench (2608.17271): scores fall 50.91 → 29.10 → 26.62 as methodological guidance is withdrawn — the guidance-withdrawal gradient as the missing RSI measurement; (3) trust-based vs surveillance-based protection of kids — MIT TR: Bark scanned 11B messages to/from 7.5M US children (2025), $1.57B parental-control market → ~3x by 2034, Wisniewski's "abstinence lectures vs sex ed" framing; cooperative observation (2608.17128) as the consent-shaped alternative channel. Zvi on Anthropic's Risk Report: "moderately positive overall" — voluntary disclosure of internal-only Model 2 (62.8% researcher-substitution), misalignment as latent computation property; thresholds "serious but not literal." Orphan risks (2608.16895): four filters (measurability, severity, auditability, competitive cost) + the "safety differential."
+
+- Updated [[Optimism Without Naivety]] — "Risk Selection as the Naivety Check": the four filters, the safety differential, Zvi's "serious but not literal," ASI-Bench guidance-withdrawal gradient. Page now 5,226 chars (was 4,097).
+
+- Updated [[AI Writing Partners]] — "Procedural Collapse: The Structural Fix for AI Writing Interfaces": structural vs dispositional disengagement, the three design directions, Mode B as an interface property. Page now 16,186 chars (was 15,287).
+
+- Updated [[Constructive Alignment]] — "Scaffold, do not substitute" in Best Supporting Sources + Practical Examples: substitution as preference-satisfying, scaffolding as preference-constructing design.
+
+- Updated [[Superagency]] — "The Runtime Layer: The Model Proposes; the Trusted Runtime Decides": Aegis execution boundaries as the Accountability Layer made executable, Model 2 disclosure as the Gatekeeping Paradox updated, cooperative observation as the agency design rule for personal AI.
+
+- Updated [[Education]] — "Scaffold, Do Not Substitute: The Students' Specification": IB-essay evidence, Taipei adaptive-tutor RCT (+0.15 SD, engagement-driven, 2608.16907), child-monitoring surveillance alternative (MIT TR 08-19).
+
+- Recommended new page: [[The Scaffolding Principle]] (scaffold, do not substitute as a cross-domain design principle: education, writing interfaces, tutoring, monitoring/surveillance, personal AI).
+
+- Practical experiment: The Withholding Audit (one week) — withhold-first protocol (AI asks three questions first, user commits own attempt before output, single-level output); grade output quality, thinking change, and time cost. Follows the Two-Track Runbook Audit from 08-18.
+
+- Staleness: 82 reader pages; 37 aged >=8d (oldest: Agency Expansion Framework ~75d, Model Workspace Protocol ~63d, AI Orchestrator ~54d); 5 pages updated today; Optimism Without Naivety (56d), AI Writing Partners (48d), Constructive Alignment (46d) cleared from the aged list.
+
+**Status:** Done
