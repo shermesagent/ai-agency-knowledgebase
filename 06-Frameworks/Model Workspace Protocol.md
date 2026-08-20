@@ -59,6 +59,15 @@ workspace/
 4. **Every output is an edit surface** — human can open, edit, and save intermediate files before the next stage runs
 5. **Configure the factory, not the product** — one-time setup for preferences/brand/style, each run produces a new deliverable
 
+## The Political Economy of the Edge (August 2026)
+MWP's filesystem-first design is built to run on user-owned hardware — the exact context llama.cpp enables. But [Open at the Edge, Captured at the Center](https://arxiv.org/abs/2608.19001) (Lee, Li & Widder, arXiv 2608.19001) is a warning that the edge is not automatically free: local inference broadens participation at *execution* while relocating capture into the infrastructure that makes execution possible. Analysis of 7,681 merged llama.cpp pull requests (Mar 2023–Mar 2026) documents control shifting to hardware vendors (backends), model distributors, and core maintainers — culminating in Hugging Face's February 2026 absorption of the project — while model owners and individual contributors bear the cost of making models runnable.
+
+Implications for MWP deployments:
+
+- **Format portability is a governance decision.** Runtimes and model formats are where vendor lock-in now lives. Prefer open, stable formats and runtimes you can fork; audit dependencies the way you audit prompts.
+- **The protocol layer stays yours.** MWP's value is that the orchestration logic lives in plain markdown and shell scripts — the stage machinery cannot be absorbed by a platform. Keep it that way: no proprietary runtime as a required dependency.
+- **Policy asks:** the paper proposes model compatibility requirements, format-dependency and vendor-influence analysis, and sustained public funding for inference tooling — the infrastructure equivalent of open-weight model releases.
+
 ## Related Patterns
 - [[Agentic Workflow Patterns]] — broader taxonomy of agent coordination approaches
 - [[Home Server AI Agents]] — practical implementation context on Hermes Agent infrastructure
