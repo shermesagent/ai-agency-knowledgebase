@@ -81,6 +81,15 @@ Two fresh data points for this page's research-automation debate:
 
 → Sources: arXiv 2608.14667 (2026-08-13); MIT TR (2026-08-18); [[00-Daily-Digests/2026-08-18]]
 
+## Monocultures and Attribution: The Team-Level Risks (2026-08-21)
+
+Two new results sharpen the risks that only appear at the team level:
+
+- **Uniform AI guidance can monoculture a community.** "Navigating Epistemic Monocultures in AI-Driven Science" (Fazelpour et al., arXiv 2608.19390, 2026-08-19) simulates AI guidance in scientific communities: non-personalized uniform guidance improves community outcomes only under a narrow conjunction of problem structure, research practices, and baseline capabilities — and is harmful otherwise. Randomization helps only on decomposable problems; personalization can restore diversity but depends on institutional adaptation (verification and credit standards). The same model that equalizes the field converges the field when deployed uniformly at scale — the 12.55% revision-lift result from 08-05 is a within-team effect; the monoculture result is the across-community effect of everyone using the same oracle.
+- **Attribution law meets the human-agent boundary.** "When AI designs a drug, who gets the credit?" (Regalado, MIT TR, 2026-08-21): Insilico Medicine's generative AI proposed a pulmonary-fibrosis molecule that the press release said was "discovered by" the platform — but the patent names five humans, including CEO Alex Zhavoronkov. US law requires inventors to be "individuals" (DABUS, 2022 DC appeals), yet the USPTO acknowledges AI "may perform acts that, if performed by a human, could constitute inventorship." The unresolved question — whether any human contributed enough to be named — puts AI-assisted results at risk of wrong-inventor invalidation. Credit allocation in human-agent teams is not just an etiquette question; it is a legal exposure at the exact boundary this page studies (who judges, who abandons, who commits — and now, who is named).
+
+→ Sources: arXiv 2608.19390 (2026-08-19); MIT TR (2026-08-21); [[00-Daily-Digests/2026-08-21]]
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

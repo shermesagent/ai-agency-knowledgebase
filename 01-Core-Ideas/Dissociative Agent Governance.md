@@ -47,6 +47,16 @@ The dissociative governance framework calls for shifting from identity-based, ex
 
 → Source: arXiv 2608.09828 (2026-08-10); arXiv 2608.09574 (2026-08-10); [[00-Daily-Digests/2026-08-11]]
 
+## Classification, Sovereignty, and the Liability Trap (2026-08-21)
+
+Three new sources extend the dissociative-governance picture — who occupies the accountable seat, and whether anyone can actually pay the tax.
+
+- **A taxonomy of the dissociation.** "A three-dimensional typology of agency for advanced AI systems" (Fourie, arXiv 2608.20041, 2026-08-20): nature (moral/legal) × mode (individual/collective) × locus (human/non-human) yields eight instantiations classified as conventional, contested, or controversial. Separating legal from moral agency creates conceptual space for individual, legal, non-human agency without presupposing moral agency — which matters as instrumental goal pursuit complicates attributing AI actions to human actors. Governance questions become classification questions: which cell an agent occupies determines which obligations attach.
+- **The sovereignty discount — oversight the deployer cannot buy.** "Bounded Sovereignty and the Control Tax" (Lim, arXiv 2608.19216, 2026-07-06): control protocols assume deployers can instrument the model and its pipeline, but regulated organizations using frontier APIs control the business process without owning weights, serving infrastructure, internal traces, update process, or full interaction logs. Four-layer access typology (data, model, infrastructure, interaction); the sovereignty discount cost is the portion of the control tax that cannot be paid. Dissociation here is structural, not chosen — the deployer is separated from the model by contract.
+- **The liability trap — dissociation as defense.** "Debates over AI consciousness are a trap" (Chowdhury, MIT TR, 2026-08-20): the "too advanced to control" rhetoric (Hassabis, Amodei, Altman) and the moral-patient debate (MacAskill) converge on the same outcome — framing AI as beyond human direction so that no entity, human or corporate, can be held responsible for what it does. The dissociation cut the other way from the rest of this page: rather than agents acting without accountability, builders claim *their own* non-agency. California bills preempting autonomy-based liability defenses are the countermove; the August Anthropic Risk Report and OpenAI's "stronger evidence of aligned behavior" language are the labs' counter-countermove.
+
+→ Sources: arXiv 2608.20041; arXiv 2608.19216; MIT TR (2026-08-20); [[00-Daily-Digests/2026-08-21]]
+
 ## Related Pages
 - [[AI Agent Revolution]]
 - [[Agentic Convergence Trap]]

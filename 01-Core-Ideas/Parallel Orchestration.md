@@ -114,3 +114,12 @@ This synthesis draws on structured research across 10 dimensions, totaling over 
 - **Managerial Bandwidth** (13 sources): Tunguz, dhewy, Fortune/ClickUp, Microsoft, iEnable/BCG, Nissilä, SSRN, Orger, Forbes/Wingard, MindStudio, FifthChrome, Hollenbeck, antping.ai
 - **Real-World Accounts** (8 sources): Remote Frog, Xero AI Agency, amix3k, 0xminds, Beam.dev, HN discussion, Felo.ai, Medium/Design Bootcamp
 - **Historical Parallels** (9 sources): Varga/Agentric, Judgment Call Podcast, Acemoglu & Restrepo, Spinning Jenny, Luddite Movement, SigNoz, Ankaraju, Braverman/Foster, Britannica
+
+## The Delegation Profile and the Overreliance Cascade (2026-08-21)
+
+Two new results sharpen when parallel orchestration helps and when it backfires:
+
+- **Delegation is a property of the person, not the task.** "Delegating or Doing?" (Dizon et al., arXiv 2608.19551, 2026-08-20) ran a between-subjects experiment (N=73) with an MCP-augmented content management system across Traditional-Only, AI-First, and Hybrid conditions (16 scenarios). AI assistance significantly cut clicks, navigations, and scrolling — lower interaction effort — but task duration did not differ across conditions. Users did not systematically avoid delegating higher-risk operations, and delegation behavior varied more between participants than between tasks (ICC ≈ .50). Practical upshot for the practice this page describes: the benefit of running parallel streams is effort reduction and throughput, not per-task speed; and how much a given person delegates is a stable individual trait — orchestration design should assume a delegation profile, not train one.
+- **Overreliance is a population cascade, and visibility is the lever.** "Modeling AI Overreliance as a Complex Adaptive System" (Biswas, arXiv 2608.19616, 2026-08-20): social learning from verified successes produces consensus without overreliance; visible unverified use suppresses verification and cascades a team into collective overreliance. Making verification visible (or dampening social proof) reverses the cascade. For parallel orchestration in teams: the failure mode is not the individual who skips checking — it is the team that sees skipping and copies it. Visible review checkpoints are the intervention.
+
+→ Extends the Harness Effect section above: orchestration design sets the token economics; visibility design sets the verification dynamics.

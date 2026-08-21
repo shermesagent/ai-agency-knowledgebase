@@ -123,6 +123,14 @@ MIT Technology Review (2026-08-13) documents the civic-oversight story of the su
 
 → Source: arXiv 2608.16603 (2026-08-14); [[00-Daily-Digests/2026-08-18]]
 
+## The NHS–Palantir Standoff: Trust as the Adoption Mechanism (2026-08-21)
+
+**[The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/)** (Khalili & Burgess, WIRED, 2026-08-21): the UK government has six months to decide whether to terminate the >$400M NHS–Palantir federated data platform contract; if it does not use the termination window (closing February 2027), the deal runs to 2031. Greater Manchester's NHS board has repeatedly declined the FDP, keeping a home-built platform developed over a decade. Protests, petitions, parliamentary inquiries, and reported NHS-worker rebellion surround the program; European nations are reevaluating dependence on US tech.
+
+**The civic reading:** this is the adoption-side complement to the flooding case above — not adversarial automation but institutional refusal. Greater Manchester's chief data and analytics officer, Matt Hennessey: "[Even] a technically strong platform will struggle to realize value if clinicians, data controllers, patients or the public do not trust it." Trust is the mechanism of adoption, not a precondition to be assumed; the NHS case shows it can be the binding constraint even where the contract, the capability, and the budget all favor deployment. For this page's framework: the trust layer is where civic AI adoption is actually won and lost, and it can be spent down by vendor history (Palantir's defense and surveillance record), process opacity, and the perceived absence of local control.
+
+→ Source: WIRED (2026-08-21); [[00-Daily-Digests/2026-08-21]]
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
