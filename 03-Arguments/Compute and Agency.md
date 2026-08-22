@@ -48,6 +48,16 @@ Subscription enclosure is particularly insidious because it converts capability 
 
 **Source:** "Meta Is Charging a Subscription for Smart Glasses Features," WIRED, July 2, 2026. https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/
 
+## Ulanqab and the Geography of Compute (August 2026)
+
+**What happened:** WIRED reports that Ulanqab, Inner Mongolia (~1.5M people), has become the center of China's AI buildout: ~100 data centers opened or begun since 2016, with **12.5 GW of pledged capacity — more than 70% announced in just the last year** — exceeding OpenAI Stargate's 10 GW (Goldman Sachs research note, August 2026). DeepSeek, ByteDance, Alibaba, and Xiaohongshu are building their own infrastructure: the first time Chinese AI companies have invested in own compute rather than renting cloud capacity.
+
+**Why it matters for compute and agency:** The page's dual-concentration thesis (infrastructure control at the top, rising barriers at the bottom) has a geography now. Compute access was assumed to be a Western-cloud question; Ulanqab shows the map being redrawn: 12.5 GW pledged vs Stargate's 10 GW, with the largest Chinese labs moving from renters to owners. The agency stakes follow the substrate — who owns the physical compute determines who can build, audit, and benefit (the sovereignty discount from the 08-21 delegation work, applied at national scale).
+
+**The constraints that keep it honest:** The economics are the point — high elevation and long cold winters for cheap cooling; cheap wind/solar plus abundant coal. The limits are water and grid reality: only ~14 inches of rain a year (as dry as Denver), the local water company cut waterworks seven hours a night last month, and extra cooling water is needed only two months a year. One local expert: "Inner Mongolia has long been the West Virginia of China. It's a coal country"; another: "in three years, maybe it will be completely powered by renewables." The pledges exceed the physics for now.
+
+**Source:** Zeyi Yang & Louise Matsakis, "The Unlikely Place at the Center of China's AI Boom," WIRED, 2026-08-21. https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

@@ -35,6 +35,18 @@ This reframes the transparency debate: disclosure is not dead, it is *underspeci
 - The Disclosure Effect applies to *disclosed* intent. It says nothing about the harder case of covert persuasion by systems that never state their purpose — which remains the harder regulatory problem ([[Cognitive Surrender]], [[The Disclosure Effect|this page's sibling risk pages]]).
 - Effect sizes in preregistered online panels often shrink in field conditions; treat the 6.3 vs 12.6 gap as an estimate, not a calibration.
 
+## The Watermark Third Act (August 2026)
+
+A week of backlash met the industry's quiet turn toward watermarking — and the defense is now in the open (Zvi Mowshowitz, "AI Text Watermarking Is Free And Good," 2026-08-21). The key facts: the Aaronson–Kirchner scheme (secret-key pseudo-randomness, public check API, output scored by fitting token choices to the keyed source vs another) has near-zero output impact and marginal cost ≈ zero; **Google has shipped it in Gemini 3.7 Flash since 2024 with a 20M-message A/B showing no user-feedback difference**; Anthropic quietly began rolling out to everyone ~Aug 14 (deliberately not differentiating traffic sources, EU Code of Practice compliance); OpenAI intends to follow but will miss the deadline.
+
+**Where this page stands:** The Disclosure Effect's finding — identity disclosure is the inert variable, purpose disclosure the active one — predicts exactly this backlash. "This text was AI-written" labels (watermarks) are identity disclosures; the Rauchfleisch–Jungherr result says they should not move persuasion by themselves. The watermark's real function is different and compatible: it is **machine-readable provenance, not user-facing disclosure** — it does not ask the user to change anything; it lets a *verifier* (not the persuadee) test origin. That is the non-interactional variable this page's framework has room for: disclosure aimed at institutions, not at the conversation partner.
+
+**The detail-choices property is the connection to authorship:** the watermark survives in proportion to how many of the model's detail-choices the author kept — so it measures how much of the output is yours versus the machine's. That is the Disclosure Effect's intent variable, measured structurally: keeping the machine's choices is keeping the machine's authorship.
+
+**The unresolved tension:** Zvi himself concedes the real power sits in the *checking* service (e.g., Turnitin), not the watermark. The page's risk section applies unchanged: every new verification instrument is also a new discrimination instrument. Provenance for the verifier ≠ protection for the persuadee.
+
+**Source:** Zvi Mowshowitz, "AI Text Watermarking Is Free And Good," Don't Worry About the Vase, 2026-08-21. https://thezvi.substack.com/p/ai-text-watermarking-is-free-and
+
 ## Related Pages
 
 - [[Cognitive Surrender]]

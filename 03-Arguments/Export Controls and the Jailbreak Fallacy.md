@@ -117,6 +117,18 @@ Source: Zeyi Yang & Matt Burgess, "How People in China Keep Outsmarting Anthropi
 
 → Source: James O'Donnell, "Trump's AI protectionism has come for robotics," MIT Technology Review, 2026-08-03. See [[00-Daily-Digests/2026-08-05]] (The FCC's Robot Ban).
 
+## The Ulanqab Counterweight (August 2026)
+
+**What happened:** WIRED (2026-08-21) reports Ulanqab, Inner Mongolia, has become the center of China's AI buildout: ~100 data centers since 2016; **12.5 GW pledged capacity (>70% announced in the last year) vs OpenAI Stargate's 10 GW**; DeepSeek, ByteDance, Alibaba, and Xiaohongshu building their own infrastructure — the first time Chinese AI companies have invested in own compute rather than renting clouds.
+
+**The jailbreak structure at the capacity layer:** This page's core argument — the capability does not stop spreading, controls just tax the domestic side — has its material confirmation. Export controls on frontier weights (Fable 5, June 2026) and robot imports (August 2026) were premised on Chinese labs remaining dependent on foreign or rented capacity. Ulanqab is the visible counterweight: the buildout is a domestic-substitution response at a scale that exceeds the flagship US project. The encryption lesson of the 1990s — controls slow the controlling side while the capability diffuses — now has a kilowatt-hour form.
+
+**The asymmetry that follows:** The provenance instruments this wiki tracks (watermarking, geolocation enforcement, model-level jailbreak prevention) are Western instruments aimed at Western models. If the frontier of Chinese compute is domestic and Chinese-built, the audit layer applies to the exporting side only. That asymmetry — provenance for us, capacity for them — is the material condition the export-controls debate has been abstract about until now.
+
+**The limits of the counterweight:** Pledges are not kilowatts — >70% of the 12.5 GW was announced in the last year. Water is the physical brake (≈14 in/yr rain; waterworks cut 7 hrs/night last month), and coal is the fallback that cuts against the renewables narrative. Domestic *capacity* is not yet frontier *capability*: the gap between 12.5 GW of buildable compute and frontier algorithmic access is precisely what the controls debate is about — this page's argument weakens the leverage premise, it does not settle the capability question.
+
+**Source:** Zeyi Yang & Louise Matsakis, "The Unlikely Place at the Center of China's AI Boom," WIRED, 2026-08-21. https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/
+
 ## Related Pages
 - [[Balanced Governance]] — comprehensive governance analysis including The Export Governance Shock section
 - [[Strongest AI Risk Arguments]] — what actual AI risk looks like
