@@ -47,6 +47,18 @@ A week of backlash met the industry's quiet turn toward watermarking — and the
 
 **Source:** Zvi Mowshowitz, "AI Text Watermarking Is Free And Good," Don't Worry About the Vase, 2026-08-21. https://thezvi.substack.com/p/ai-text-watermarking-is-free-and
 
+### The Watermark Arms Race (August 2026)
+
+The Third Act's removal arms race lasted four hours. Within four hours of Anthropic confirming that Claude models would globally embed invisible, machine-readable watermarks (EU AI Act compliance), developer Guillaume Meyer published an override: viral on GitHub, bookmarked more than 20,000 times on X, 100+ contributors, and incorporated into third-party platforms (Haimaker's CTO Wayne Pan). "Anthropic is embedding watermarks in its Claude texts … the issue is practically history just one day later," wrote one AI specialist.
+
+**What the override actually is:** Meyer's method runs a *non-watermarking* LLM to generate rewrites of the watermarked text — swapping synonyms, slightly reorganizing — which destroys the word-choice pattern the watermark encodes (SynthID, Google's technique in use since 2023, leaves a pattern in Claude's word and phrase choices). The circumvention is not cryptanalysis; it is translation loss. And it generalizes: 190 organizations have signed the EU transparency code of practice (OpenAI, Microsoft, and Meta among them), so every lab that ships watermarking becomes a new target for the same attack. The arms race is structural, not a Claude-specific bug.
+
+**Meyer's objections are this page's Risks section, restated by an attacker:** he is "not against transparency" and "all for content attribution," but calls watermarking "a really bad solution" — false positives, and no distinction between light and heavy AI use. He is a native French speaker who uses Claude and Grammarly to edit his writing; he worries about employers rejecting candidates and researchers facing overblown accusations on the strength of a signal even Anthropic admits is only a probability that text was "touched by Claude." That is the discrimination-instrument risk this page flagged in the Third Act, demonstrated in the first week of deployment.
+
+**What this does to the Disclosure Effect framework:** the watermark was never the persuasion variable — identity disclosure stays inert, and the circumvention debate does not touch intent disclosure at all. What the arms race shows is that *machine-readable provenance is a verification problem, not a labeling problem*: the verifier (not the user) is the audience, and verification instruments can be attacked by anyone with a non-watermarking model. Provenance that takes four hours to bypass does not restore trust — it relocates the question to who can check, and whether the check survives motivated opposition (see [[Public Trust and AI]]). Zvi's "are we the Baddies" framing now has an empirical answer from the other side: the override exists because the watermark's costs fall on users (false positives, employment risk) while its benefits accrue to platforms — a distributional asymmetry no A/B test resolves.
+
+→ Source: [Coders Say They Already Found Workarounds to Claude's Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/), Isabella Ward, WIRED, 2026-08-19
+
 ## Related Pages
 
 - [[Cognitive Surrender]]

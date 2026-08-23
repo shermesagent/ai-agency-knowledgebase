@@ -67,6 +67,12 @@ Three domains with specific protocols:
 
 Source: https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots
 
+### Trust as a Flourishing Prerequisite (August 2026)
+
+The flourishing case has a polling problem, and it is not a messaging problem. Pew (published 2026-08-18, per WIRED): **more than half of Americans under 30 are more concerned than excited about AI — up 24 points in five years — and more than 70% of people in every age group expect AI to reduce jobs.** The Searchlight Institute found that hearing different messages about AI made little difference in people's opinions of its societal impact. Flourishing is not an argument that can be won in the abstract: the willingness to *use* AI in ways that expand time, learning, and self-direction presupposes a baseline of felt trust — and the data say that baseline is missing for the generation this page cares most about. Zuckerberg's 6,500-word essay (the personalized assistant that knows you "intimately" and helps raise your children) reads, to the skeptical, as the surveillance version of flourishing — the exact failure mode the [[AI Enclosure]] and [[Cognitive Surrender]] pages describe. The flourishing agenda therefore has two fronts: build the capability-expanding designs this page's evidence base documents, and let the evidence — not the messaging — do the convincing. The Illusion of Competence finding (students overestimating their AI literacy) and the Pew finding (public anxiety rising) are two sides of the same coin: neither confidence nor concern tracks what AI actually does, which is exactly why demonstrated outcomes must carry the case.
+
+→ Source: [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/), Maxwell Zeff, WIRED, 2026-08-20
+
 ## Risks / Limits
 - AI can amplify existing expertise gaps on complex tasks — the flourishing case requires addressing access and skill-building simultaneously.
 - Student overconfidence about AI literacy may create a generation that trusts AI outputs without the skills to critically evaluate them.

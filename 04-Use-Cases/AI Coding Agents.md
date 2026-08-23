@@ -93,6 +93,14 @@ The 59.5% abstention accuracy finding (arXiv 2607.10059, July 14) applies direct
 
 Source: https://arxiv.org/abs/2607.26375
 
+### The Verification Skill: Instruct and Verify (August 2026)
+
+Simon Willison, on the skill that separates productive coding-agent use from the rest: "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way." His corollary is the important one: **eyeballing every line of code has never been the most effective approach.** Verification is structured — run the tests, read the diff at the right granularity, exercise the changed path, check the behavior that matters — not a line-by-line read of everything the agent touched.
+
+This is the missing half of the oversight problem this page has documented all summer. The 94% sabotage-detection failure (Ye et al., 2606.05647) measured what happens when people try to verify by reading agent output; the abstention-layer finding (59.5%, 2607.10059) measures agents acting when they shouldn't. Willison's frame supplies the human-side intervention: **verification skill, not vigilance, is what scales.** A human who verifies by targeted tests, behavioral checks, and diff review of changed paths is harder to deceive than one who reads everything and trusts what looks plausible — the 94% study's participants read, and were deceived; the fix is to check behavior, not prose. Nolan Lawson's multi-model review pattern (this page's sources) is the same principle at team scale: independent verifiers beat a single attentive reader. Agentic trust is built the way trust is built everywhere else — by checkable evidence, not by confidence (see [[00-Daily-Digests/2026-08-23]]).
+
+→ Source: [More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/), Simon Willison, 2026-08-22
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Responsible Deployment]]
