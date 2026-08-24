@@ -1562,3 +1562,21 @@ Sources: Mollick "The twilight of the chatbots" (oneusefulthing.org, June 30), Z
 - Staleness: 82 reader pages; 46 aged >=8d before today (oldest: The Turing Trap 49d, Magnifica Humanitas 43d, Case for AI Optimism 42d, AI and Human Flourishing 41d); 42 after today's 4 clears; 20 at 5–7d; 21 under 5d. The Turing Trap (49d) remains the oldest argument page — next rotation candidate. Sources: sources.jsonl 346 → 349.
 
 **Status:** Done
+
+## [2026-08-24] update | The Calibration Question — confidence is not yet a trustworthy signal
+
+Monday reset. Digest: [[00-Daily-Digests/2026-08-24|The Calibration Question]] — chaining the weekend arc (The Provenance Pass 08-22 → The Trust Question 08-23). Capability is accelerating faster than calibration: HCER 31.7% wrong at 9.1/10 confidence (2608.21089); Gen-Alpha therapy-bot risk gap 10–14pp (2608.20345); kids as the data-efficiency existence proof (MIT TR); teachers as the harm case (WIRED); Stratechery on the Hugging Face breach and the fully automated defense loop; Import AI 470 on METR's differential acceleration.
+
+Pages updated (6): [[Education]] (deepfakes + risk-weighing), [[AI Tutor Evaluation Checklist]] (calibration dimension — Monday rotation, underdeveloped section), [[The Comprehension Bottleneck]] (data-efficiency gap), [[Sandbox Integrity]] (black-hat incentives + automated defense loop), [[The Turing Trap]] (delegation data; 49d stale → cleared), [[Magnifica Humanitas]] (data-efficiency gap; 43d stale → cleared).
+
+Sources added (7): 3 papers (Pass 18: 2608.20425, 2608.20345, 2608.21089) + 4 articles (Pass 24: Stratechery, WIRED, MIT TR, Import AI 470). Library: 349 → 356.
+
+Staleness: 42 aged ≥8d after 08-23 clears → 40 after today's 2 clears (The Turing Trap 49d, Magnifica Humanitas 43d). Next candidates at 5–7d: Comprehension Bottleneck (6d), AI Enclosure (6d), Home Server AI Agents (6d), Future of Work (5d), Cognitive Surrender (5d).
+
+Standing recs: [[The Augmentation Gap]] (since 08-20), [[The Tool-to-Entity Threshold]] (since 08-17), [[The Scaffolding Principle]] (since 08-19) — none created. New rec this run: [[The Calibration Gap]].
+
+Experiment: The Calibration Audit (follows The Trust Audit from 08-23) — three tests, one week: the confidence strip, the 30-million-word test, the risk audit.
+
+Web tools: still down (Tavily 401, day 29); curl/RSS fallback covered all content needs.
+
+**Status:** Done

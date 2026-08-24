@@ -57,5 +57,20 @@ The Prompt Analytics Dashboard paper (PAD, 2608.13587) adds the *visibility* dim
 
 → Source: [Student-ChatGPT Interaction Visible: Designing a Teacher Dashboard for EFL Writing Education](https://arxiv.org/abs/2608.13587) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+## Add the Calibration Dimension: Fluency vs. Risk Weighting (2026-08-24)
+
+This week's evidence gives the checklist its second missing dimension: **calibration — whether the tutor's confidence and risk-weighting match its actual competence.** The visibility dimension (PAD) tells teachers what students are doing; calibration tells evaluators what the tool *knows it doesn't know*.
+
+Two studies define the failure mode. "When Vocabulary Comprehension Fails Clinical Reasoning" (2608.20345): models understand 76–82% of Gen-Alpha vocabulary but calibrate only 64–72% of clinical risk — a 10–14 point gap (p<.001, d>0.48) — with the largest misses in minimization (43pp) and sarcasm masking (29pp); humans miss by 3 points. "Can Legal AI Know When It Is Wrong?" (2608.21089) introduces the High-Confidence Error Rate: Meta AI wrong on 31.7% of legal verdicts at a mean confidence of 9.1/10 — the "inertia of confidence." A tutor that sounds sure is not a tutor that is sure.
+
+**Checklist additions:**
+1. **Confidence calibration:** does the tool state calibrated confidence — and does it flag low-confidence or out-of-domain inputs rather than answering fluently?
+2. **Risk-domain weighting:** does the tool's risk vocabulary match its risk behavior? (Understanding a teen's minimization is not the same as catching it.)
+3. **Error-rate audit:** has the vendor published an HCER-style measure (wrong answers delivered with high confidence) for your domain and student population?
+4. **Refusal pattern:** does the tool decline when stakes exceed its calibration — and is the refusal explainable ([[AI Writing Partners]]' "no-answer is a feature" lesson)?
+5. **Evaluation literacy:** does the product teach students to evaluate its outputs (the post-instrumental capacities), or does it present itself as authoritative?
+
+→ Sources: arXiv 2608.20345, 2026-06-14; arXiv 2608.21089, 2026-08-21 ([[00-Daily-Digests/2026-08-24]])
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

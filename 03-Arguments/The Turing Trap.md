@@ -64,5 +64,15 @@ Meta's smart glasses subscription (WIRED, July 2, 2026) is the leading edge of t
 - [[Task-Level AI Adoption]]
 - [[Compute and Agency]]
 
+## The Delegation Data: Who Actually Lets AI In (August 2026)
+
+"Who Delegates to AI? Evidence from 53,000 Agent Configurations" (arXiv 2608.20425, Lee, Cheon & Kim, 2026-08-19) gives the trap its first large-scale delegation map: an Agentic AI Index (AAI) built from ~53,000 Manus skill specifications crossed with ~18,000 O*NET occupational tasks.
+
+**The finding that matters for the trap:** delegation peaks *below* the wage top and at *bachelor's* level. The highest-wage, most credentialed work stays human; the delegation is eager in the middle of the distribution. This is the trap's recruitment pattern made visible: substitution claims the positions where augmentation was the alternative — mid-wage, bachelor's-level roles with high overlap with agent skill specs. It also matches the empirical backdrop already on this page: no mass displacement at the top, but a 16% decline in entry-level jobs for 22–25-year-olds in AI-exposed fields. The people most willing to delegate are the same cohort most exposed to being delegated.
+
+**The calibration wrinkle:** delegation quality depends on knowing when the agent is wrong. The two calibration studies of the same week — Can Legal AI Know When It Is Wrong? (2608.21089: 31.7% High-Confidence Error Rate at 9.1/10 confidence) and the Gen-Alpha therapy-bot gap (2608.20345: 10–14 points of risk-calibration miss) — say the delegation decision is running ahead of the calibration evidence. The escape hatch from the trap is not refusing delegation; it is *calibrated* delegation — augmenting where the agent's confidence is earned. This connects the Readiness Dimension (psychological barriers) and the Subscription Trap (economic barriers) to a third gate: the epistemic barrier of not knowing when the machine is wrong.
+
+→ Sources: arXiv 2608.20425; arXiv 2608.21089; arXiv 2608.20345 ([[00-Daily-Digests/2026-08-24]])
+
 ## Tags
 #augmentation #future-of-work #human-agency #risk

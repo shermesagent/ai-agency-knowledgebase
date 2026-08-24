@@ -56,6 +56,16 @@ Today's arXiv cluster reframes part of the bottleneck as a measurement problem. 
 
 → Source: [RubricForge](https://arxiv.org/abs/2608.13564), [Stable Miscalibration](https://arxiv.org/abs/2608.13591), [BCM](https://arxiv.org/abs/2608.13598) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+## The Data-Efficiency Gap: Comprehension Without Corpus Scale (2026-08-24)
+
+MIT Technology Review's "Kids outlearn AI—and we still don't know why" (Cutts, 2026-08-24) sharpens this page's core question from the opposite direction. The bottleneck is not that models comprehend too little relative to their data — it is that they comprehend *nothing like a human* relative to theirs. A modern LLM trains on ~15 trillion tokens (Llama 3.1; frontier models possibly 10× more); a child hears ~100 million words by pre-adolescence, ~300 million with literacy by age 20. Print the LLM's training corpus and the stack reaches past the International Space Station; the preteen's 100 million words stack up 20 meters.
+
+The failure at human scale is total: "If you train GPT-2 on 30 million words, you get a nonsense generator; you don't get a kid" (Frank, Stanford). BabyLM — models trained on a "developmentally plausible" corpus of ~100 million words (toddler track: 10 million) drawn from storybooks, dialogue, movie subtitles, Simple English Wikipedia, Wikipedia, and child-directed speech — produced models that fail psycholinguistic grammar benchmarks. Gopnik (Berkeley): "These things learn syntax. I didn't think that was going to turn out to be true." Warstadt (UCSD): "There was never a time when people were training language models at human scale where we were impressed by them." The one bright spot: a ~100M-word model beat Llama 2 70B (trained on ~15,000× more data) on a single BabyLM benchmark — evidence that part of the gap is data-efficiency architecture, not just scale.
+
+**What this means for the bottleneck:** comprehension, as this page defines it — the ability to carry understanding into judgment — is not a data-scaling property. Models are "naïve pattern-learning machines"; the grammar and pragmatic inference that let a child build a world-model from sparse, social, embodied experience are exactly the machinery humans still hold. The bottleneck is the judgment, not the corpus — which is why the calibration evidence (HCER 31.7% wrong at 9.1/10 confidence; Gen-Alpha risk gaps of 10–14 points) belongs on this page: fluency without comprehension is precisely what miscalibration looks like when it leaves the lab.
+
+→ Source: MIT Technology Review, 2026-08-24 ([[00-Daily-Digests/2026-08-24]])
+
 ## Tags
 
 #research #ai-optimism #human-agency #superagency #ai-education #practical-ai #risk

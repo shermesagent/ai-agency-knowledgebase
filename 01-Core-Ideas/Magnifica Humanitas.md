@@ -67,5 +67,15 @@ See also: WIRED coverage, July 10, 2026.
 - [[Positive Alignment]] — Constitutional AI as practical implementation of the encyclical's vision
 - [[AI and Religion]] (recommended new page)
 
+## The Data-Efficiency Gap and Human Distinctiveness (August 2026)
+
+MIT Technology Review's "Kids outlearn AI—and we still don't know why" (Cutts, 2026-08-24) is the empirical gift this page's argument has been waiting for: a direct measure of the human/machine data gap. A modern LLM is trained on ~15 trillion tokens; a child hears ~100 million words (~300 million with literacy by age 20). Frank (Stanford): "But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year." Wilcox (Georgetown): "Claude has seen the amount of language that an entire city will experience in one generation."
+
+The failure at human scale is not subtle: "If you train GPT-2 on 30 million words, you get a nonsense generator; you don't get a kid." BabyLM's models — trained on ~100 million words of developmentally plausible text — fail psycholinguistic grammar benchmarks, and yet the attempt taught the field something: "These things learn syntax. I didn't think that was going to turn out to be true" (Gopnik, Berkeley). Warstadt (UCSD): "There was never a time when people were training language models at human scale where we were impressed by them" — and the goal is "a model; not in the sense of a language model, but in the sense of a model organism."
+
+**Why this matters for humanitas:** the encyclical's dignity claim — that human worth does not depend on performance — now has a quantitative shadow. Human intelligence is the existence proof that judgment does not scale with data: what the machine needs ~100,000× more words to approximate, a child builds from sparse, embodied, social experience. The "disarming technology" project starts from the fact that the human is not the inefficient version of the machine; the machine is the data-hungry version of the human. Models are "naïve pattern-learning machines"; humans are model organisms of sparse-data intelligence — and that is the difference worth building institutions around.
+
+→ Source: MIT Technology Review, 2026-08-24 ([[00-Daily-Digests/2026-08-24]])
+
 ## Tags
 #superagency #human-agency #governance #responsible-ai #future-of-work

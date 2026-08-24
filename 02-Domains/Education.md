@@ -253,5 +253,17 @@ Khan Academy's methodology paper (arXiv 2608.11259, 2026-08-07) rounds out the t
 
 → Sources: arXiv 2608.17451; arXiv 2608.16907; MIT Technology Review 2026-08-19.
 
+## The Calibration Question in the Classroom: Deepfakes and Risk-Weighing (August 2026)
+
+Two calibration failures arrived in education this week, from opposite ends of the system.
+
+**The student-side tool is miscalibrated relative to its harm.** WIRED's Caroline Haskins ("They Dedicated Their Lives to Teaching. Then the Deepfakes Started," 2026-08-24) profiles four educators and an Arizona 6th-grade teacher targeted with AI-generated sexual and humiliating content made by students. A substitute's college mirror selfie became a lingerie deepfake — "when I finally saw the image, that's when it felt like a punch to the gut." A middle-school teacher's impersonation account generated sexual videos: "I know a lot of the kids that reported it to me genuinely believed that was my account, and that I was saying those things." A UK college counselor for 16–19-year-old trade students had an undressing video built from a real conversation clip — "It makes you question everything." Luke Red, the Arizona 6th-grade teacher, whose AI kissing photo circulated on public TikTok: reflecting on the experience "has kind of sent me into a spiral"; students "felt comfortable enough creating inappropriate images"; TikTok ignored the under-13 reports; the 3-day suspension was the maximum. The federal Take It Down Act criminalizes publishing nonconsensual intimate imagery — but as one teacher says, there's "no blueprint" for how schools need to respond.
+
+**The AI side is miscalibrated relative to the stakes it now carries.** "When Vocabulary Comprehension Fails Clinical Reasoning" (arXiv 2608.20345): 13.1% of US adolescents use genAI for mental-health advice; models understand 76–82% of Gen-Alpha vocabulary but calibrate only 64–72% of clinical risk — a 10–14 point gap (p<.001, d>0.48) against 3 points for humans (n.s.). Six failure patterns: minimization (43pp), sarcasm masking (29pp), informal-style bias (24pp), ambiguity (19pp), semantic drift (19pp), violence (7pp).
+
+**What this means for this page's thread:** the withholding evidence (2608.12292) and "scaffold, do not substitute" (2608.17451) show the tutor's job includes knowing *when not to answer*; the calibration data says the harder problem is knowing *when the answer is dangerous*. The post-instrumental capacities (contestability, revision, reason-giving) require students who can evaluate AI output — and the deepfake cases show the evaluation deficit cuts both ways: students who can generate content they cannot calibrate, and schools without a response protocol. This is the [[The Comprehension Bottleneck|comprehension bottleneck]] at its most concrete.
+
+→ Sources: WIRED 2026-08-24 ([[00-Daily-Digests/2026-08-24]]); arXiv 2608.20345 ([[00-Daily-Digests/2026-08-24]]).
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai
