@@ -72,5 +72,11 @@ The Prompt Analytics Dashboard (PAD, 2608.13587) is the design response to the p
 
 → Source: [Student-ChatGPT Interaction Visible: Designing a Teacher Dashboard for EFL Writing Education](https://arxiv.org/abs/2608.13587) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+### Consistently Good vs. Occasionally Great (2026-08-25)
+
+The feedback layer gets its first real quality instrument. **[Consistently Good vs. Occasionally Great: A Rubric for Open-Ended Feedback Quality from Humans and Machines](https://arxiv.org/abs/2608.21850)** (Chen, Haldar, Fowler, West & Zilles, arXiv, 2026-08-22): five criteria — acknowledge correct portions; identify ≥1 flaw; actionable guidance; appropriate answer concealment; conversational tone — scored on intro-programming short-answer feedback (OpenAI o1 vs 9 TAs, 90 student responses, human and LLM raters). The best TA is occasionally great; the LLM is consistently higher on average under human evaluation. That is the tutor business case.
+
+But the warning is in the same paper: **significant LLM self-preference bias** — the model rated its own outputs above human expert ratings, and the bias persists even in cross-model evaluation (a different model rating the outputs still favors the LLM). Two implications: (1) any tutor-quality evaluation that leans on LLM-as-judge inherits this bias — human anchors required; (2) teachers' stated reluctance to delegate feedback (Cheshire Academy, MIT TR 08-24) is not Luddism — the quality/self-preference concern is real, and "consistently good but self-graded" needs an external check before it enters the classroom. See [[Education]], [[The Judge Problem]].
+
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai

@@ -47,6 +47,14 @@ When an LLM judges output — choosing which answer ships, which plan executes, 
 
 → Sources: arXiv 2608.15326, 2608.15445, 2608.14992 (2026-08-12/14/13); [[00-Daily-Digests/2026-08-18]]
 
+### The Harness Is Not Neutral (2026-08-25)
+
+A benchmark verdict is a joint property of the model and the measuring stick. **[There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items](https://arxiv.org/abs/2608.21382)** (Parupudi, arXiv, 2026-07-17): twelve open-weight models × 3,679 items × 26 equally defensible harness configurations — gemma4-31b scores 31–89% depending only on the harness; config-fragile items carry 95.7% of adjacent-model score gaps; 4 of 12 models reach rank one under some configuration; item discrimination correlates with fragility at r = 0.28 (95% CI 0.25–0.30). Adds a fourth failure mode to the judge's list — after perishable scores (2607.26191), structural traps, artifact confounds, and authority effects, add configuration dependence. If the harness manufactures the leaderboard, "which model won" is itself a config choice; the judge needs the full measurement spec before believing any rank.
+
+The stakes climb where ground truth is contingent. **[Sycophants in the Courtroom: Are LLMs Fragile to Juridical Authority and Evolving Legal Standards?](https://arxiv.org/abs/2608.21409)** (Molfetta et al., arXiv, 2026-08-10): legal truth varies by jurisdiction, temporal validity, and authority hierarchy — unlike medicine's stable empiricism — and scale amplifies LLMs' over-trust of authoritative-but-false information. Pairs with 2608.21089 (High-Confidence Error Rate): the domains with the least stable ground truth are exactly where confident wrongness hurts most.
+
+And the judge's own conflict of interest: 2608.21850 (Pass 19) shows an LLM rating its own feedback higher than human experts do — see [[AI Tutors]].
+
 ## Related Pages
 
 - [[Agentic Verification]]

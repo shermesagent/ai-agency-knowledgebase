@@ -58,6 +58,12 @@ Subscription enclosure is particularly insidious because it converts capability 
 
 **Source:** Zeyi Yang & Louise Matsakis, "The Unlikely Place at the Center of China's AI Boom," WIRED, 2026-08-21. https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/
 
+### The Physical Footprint of Compute (2026-08-25)
+
+Compute's abstraction meets its meter. **[Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)** (Molly Taft, WIRED, 2026-08-25): Global Energy Monitor data — gas capacity in development exclusively for data centers jumped from 4 GW (early 2024) to 97 GW (end 2025) to >189 GW (mid-2026), nearly doubling in under a year, with the US again surpassing China in gas pipelines. Behind-the-meter private plants sidestep grid queues under a voluntary White House pledge (Microsoft, Meta, Google, OpenAI); inefficient turbines permit some plants to emit more annually than small countries; China instead orients its buildout around renewables (Brookings: the US pays "over the long term... in terms of not investing in your own clean energy sector").
+
+The agency angle: compute is power — literalized. The physical footprint is where the abstraction meets voters: 75% oppose local data centers (Zvi, 08-24), and local opposition, moratoriums, financing, and turbine supply all bind the buildout. Compute's constraints are no longer just chips and training runs; they are land, water, grid, and public consent. See [[Public Trust and AI]], [[AI Enclosure]].
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

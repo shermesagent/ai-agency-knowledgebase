@@ -103,6 +103,12 @@ The investor-facing version of the worry is sharper: executives and investors pr
 
 → Source: [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/), Maxwell Zeff, WIRED, 2026-08-20
 
+### The Data-Center Backlash, Quantified (2026-08-25)
+
+The physical footprint is the trust story now. **[The American People Really Hate Data Centers](https://thezvi.substack.com/p/the-american-people-really-hate-data)** (Zvi, 2026-08-24): 75% oppose local data-center development — polling below coal plants; even transmission lines, "straight up good, with approximately zero downsides," poll "remarkably close to coal plants." Persuasion "buys you a few percent support" because "that wasn't their true objection": dislike/distrust of AI + big tech + data collection + big money + ugly buildings + few jobs. This gives the Searchlight finding (messaging doesn't move opinions) its mechanism — the stated objection is not the real one.
+
+The buildout is real. **[Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)** (Molly Taft, WIRED, 2026-08-25): gas capacity in development exclusively for data centers grew from 4 GW (early 2024) to 97 GW (end 2025) to >189 GW (mid-2026); behind-the-meter private plants bypass grid queues under a voluntary Trump-administration pledge (Microsoft, Meta, Google, OpenAI); inefficient turbines raise emissions; China's parallel buildout orients around renewables. Public trust meets the power grid — and 75% opposition is a binding constraint on the growth plan. See [[Compute and Agency]], [[AI Enclosure]].
+
 ## Risks / Limits
 - **Trust is slow to build and fast to lose.** Each "move fast and break things" deployment erodes trust for the entire industry, not just the deploying company.
 - **The institutional credibility gap.** AI companies promising election integrity while running false flag political operations creates a trust problem that technical safeguards cannot solve alone.

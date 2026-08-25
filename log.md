@@ -1580,3 +1580,21 @@ Experiment: The Calibration Audit (follows The Trust Audit from 08-23) — three
 Web tools: still down (Tavily 401, day 29); curl/RSS fallback covered all content needs.
 
 **Status:** Done
+
+## [2026-08-25] update | The Feedback Calibration Question — who grades the output, and is the grader calibrated?
+
+Tuesday reset. Digest: [[00-Daily-Digests/2026-08-25|The Feedback Calibration Question]] — chaining the arc (The Provenance Pass 08-22 → The Trust Question 08-23 → The Calibration Question 08-24). Calibration applied to the judgment instruments themselves: (1) harness-dependence — 2608.21382: same model scores 31–89% across 26 equally defensible harness configs; config-fragile items carry 95.7% of adjacent-model gaps; 4/12 models reach rank one under some config; (2) self-grading — 2608.21850: LLM feedback consistently better than 8/9 TAs but with significant self-preference bias (persists cross-model); 2608.22660: output no longer evidences learning, process-over-product assessment; (3) friction as signal — WIRED: one-click + AI résumés → application floods (Vendr ~100→1,000+, "total bogus" fakes; Greenhouse 2,000 in 24h), recruiters want friction back; MIT TR: Cheshire Academy traffic-light assignments + LLM-edit reflection + Student AI Council. Frontier half: Zvi 75% data-center opposition (persuasion buys few points — "that wasn't their true objection"); WIRED: data-center gas 4→97→189 GW.
+
+Pages updated (9): [[Education]] (traffic light + output-as-evidence), [[The Judge Problem]] (harness non-neutrality + legal sycophancy), [[AI Tutors]] (feedback rubric + self-preference), [[Constructive Alignment]] (assess the process), [[Future of Work]] (friction as signal), [[Public Trust and AI]] (data-center backlash data), [[Compute and Agency]] (physical footprint), [[Agentic Verification]] (AIREP), [[Responsible Deployment]] (harness-dependent deployment evidence).
+
+Sources added (9): 5 papers (Pass 19: 2608.21382, 2608.21409, 2608.21850, 2608.22660, 2608.21363) + 4 articles (Pass 25: MIT TR classroom, WIRED job-apps, Zvi data-centers, WIRED gas-power). Library: 356 → 365.
+
+Staleness: no aged-page clears this run (all 9 targets current); next candidates reviewed at the 08-26 update.
+
+Standing recs: [[The Augmentation Gap]] (since 08-20), [[The Tool-to-Entity Threshold]] (since 08-17), [[The Scaffolding Principle]] (since 08-19), [[The Calibration Gap]] (since 08-24) — none created.
+
+Experiment: The Feedback Audit (follows The Calibration Audit from 08-24) — grade the grader, the self-preference test, the friction check.
+
+Web tools: still down (Tavily 401, day 30); curl/RSS fallback covered all content needs.
+
+**Status:** Done

@@ -143,6 +143,12 @@ Today's arXiv cluster is the strongest single-day statement of this page's thesi
 
 → Sources: [RubricForge](https://arxiv.org/abs/2608.13564), [ASSERT](https://arxiv.org/abs/2608.13840), [BCM](https://arxiv.org/abs/2608.13598), [Agentao](https://arxiv.org/abs/2608.13574) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+### Evidence You Can Sign: AIREP (2026-08-25)
+
+The evidential face of verification, made structural. **[AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance](https://arxiv.org/abs/2608.21363)** (Ali Toygar Abak, arXiv, 2026-05-31): every runtime-governance decision (release/block/defer/redact/escalate) emits a signed evidence record referenced by hash; SHA-256 hash chaining makes tampering and gaps detectable after the fact; a "mechanical neutrality test" confines vendor-specific content to one optional namespace; ships a reference implementation and a two-language conformance kit. Audits run on signed records, not self-report.
+
+Fits the two-layer frame here: it extends the Agentao event interface (08-17) from replay to tamper-evidence, and pairs with Aegis (2608.16891) — the model proposes, the trusted runtime decides, and now the runtime's decisions leave a verifiable chain. For deployers, the protocol is the paperwork layer of [[Responsible Deployment]]: evidence that survives the audit, by construction. See [[Responsible Deployment]], [[Sandbox Integrity]].
+
 ## Tags
 
 #verification #agents #responsible-ai #frameworks #superagency

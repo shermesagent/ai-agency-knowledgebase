@@ -155,6 +155,12 @@ WIRED's Kate Taylor documents the first mass-market voice-agent rollout: **Taco 
 
 → Sources: arXiv 2608.15550 (2026-08-13); MIT TR (2026-08-18); [[00-Daily-Digests/2026-08-18]]
 
+### Friction Was the Signal (2026-08-25)
+
+The labor market's sorting mechanism just collapsed. **[It Should Be Harder to Apply for a Job. No, Really](https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/)** (Kate Taylor, WIRED, 2026-08-25): one-click applications plus AI-written résumés and autofill turned the application itself into noise — Vendr's applications went from ~100 to hundreds (sometimes 1,000+), with a "good chunk" of "total bogus" AI-written fake candidates; Greenhouse logged "2,000 applicants in 24 hours for a job. That is a shitty experience for everyone." The response is a deliberate retreat: recruiters now say "we kind of want friction... The friction is good. We want to make it harder."
+
+The friction hiring used to impose was information — it signaled genuine interest and minimal fit. When application cost falls to zero, effort stops sorting, and the burden shifts to whatever comes next: portfolio, referral, verification step, human screen. JLL's CTO frames the macro side ("Everyone was job hopping... Now, it is the polar opposite"; BLS openings peaked at a record 12.3M in March 2022, then declined for two years). Two worker-side lessons: (1) AI-written applications are a coordination problem — when everyone uses them, no one is distinguished; (2) the filters and ATS that absorb the flood become the judge, inheriting every calibration question from [[The Judge Problem]] — including self-preference, since many are AI-scored. See [[Task-Level AI Adoption]], [[The Turing Trap]].
+
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]

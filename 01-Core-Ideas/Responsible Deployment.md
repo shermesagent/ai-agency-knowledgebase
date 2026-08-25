@@ -326,5 +326,11 @@ For the agency frame: the reckoning is the first mainstream reporting of the *in
 
 → Source: [WIRED, "The Safety Reckoning Inside OpenAI"](https://www.wired.com/story/openai-safety-security-ai-agents-culture/) (Maxwell Zeff, 2026-08-13)
 
+### Deployment Evidence Is Harness-Dependent (2026-08-25)
+
+Evaluation scores — the deployer's favorite gate — are joint properties of model and measuring stick. **[There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items](https://arxiv.org/abs/2608.21382)** (Parupudi, arXiv, 2026-07-17): 12 open-weight models × 3,679 items × 26 equally defensible harness configurations; gemma4-31b spans 31–89% by harness alone; config-fragile items carry 95.7% of adjacent-model score gaps; 4 of 12 models reach rank one under some configuration. Any deployment decision made on a benchmark rank inherits that fragility — the remedy is to report the full measurement spec (the ASSERT discipline, 08-17) and treat scores as ranges, not points.
+
+Two complements from the same pass: **AIREP** (2608.21363) gives the record layer — signed, hash-chained per-decision evidence (release/block/defer/redact/escalate) so deployment governance is auditable by construction; and the legal-sycophancy result (2608.21409) warns that contingent-truth domains (law, policy, compliance) are exactly where confident deployers get burned. See [[Agentic Verification]], [[The Judge Problem]].
+
 ## Tags
 #responsible-ai #governance #practical-ai #risk #deployment-loop #alignment #rollback

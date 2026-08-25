@@ -265,5 +265,13 @@ Two calibration failures arrived in education this week, from opposite ends of t
 
 → Sources: WIRED 2026-08-24 ([[00-Daily-Digests/2026-08-24]]); arXiv 2608.20345 ([[00-Daily-Digests/2026-08-24]]).
 
+## The Traffic Light and the Feedback Loop (2026-08-25)
+
+The assessment question is no longer hypothetical. **[How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/)** (Peter Hall, MIT Technology Review, 2026-08-24): Cheshire Academy (~400 students, grades 9–12) trains staff on general AI techniques instead of prescribing tools — the ChatGPT/Perplexity/MagicSchool patchwork leaves teachers with "no clear path forward." Their answer is the **traffic-light assignment**: green = AI fully allowed; red = AI banned; yellow = some tools permitted (spell-check yes, chatbots no). French teacher Miriam Przybyla-Baum pushes further: students let an LLM edit their homework and then judge which edits were correct and which "removed their voice" — calibration of the machine's output as the actual learning task — plus anonymous peer-grading of AI-assisted work with students annotating suspected AI parts. A "Student AI Council" pilot gives students the framing role. Teachers want AI for feedback but are blocked by concerns over quality, personalization, and privacy.
+
+The research side sharpens why. **[Evaluation in the Age of AI: Output as Evidence of Learning](https://arxiv.org/abs/2608.22660)** (Chowdhury & Khan, arXiv, 2026-08-23): essays, problem sets, and code no longer proxy understanding when LLMs produce them at trivial cost — the core problem is misalignment between assessment practices and learning outcomes, not academic dishonesty. Artificial-constraint regimes (proctoring, lockdown browsers) risk measuring compliance, access, and concealment. The alternative is **process-over-product assessment** that keeps the student in an accountable relation to the work: show the drafting, the edits, the judgment. Przybyla-Baum's LLM-edit exercise is that principle in practice.
+
+And the feedback loop needs an anchor: 2608.21850 (Pass 19) finds LLM feedback consistently good but self-preferencing — if grading loops go to models, the rubric and the human check stay. See [[AI Tutors]], [[Constructive Alignment]].
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai
