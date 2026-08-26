@@ -23,6 +23,19 @@ Use-case selection is where responsible optimism becomes operational. A strong A
 - ROI claims are often inflated when review time, integration work, privacy risk, and error handling are ignored.
 - The rubric should be updated after each pilot; static checklists decay as tools and workflows change.
 
+## Specify the Instrument (August 2026)
+
+The rubric's measurement dimension has a hidden variable: the instrument itself. Two August papers converge on the same lesson — a verdict is a joint property of the system and the measuring stick:
+
+- **2608.21382 (There Is No Neutral Harness):** twelve open-weight models scored 31–89% depending only on which of 26 equally defensible harness configurations was used; config-fragile items carry 95.7% of adjacent-model score gaps; 4 of 12 models reach rank one under some configuration.
+- **2608.23641 (instrument vs model):** holding outcomes and models fixed and varying only the prompt-format instrument, measured model preferences shift with the instrument — 15 welfare outcomes × 8 models × 5 instruments × 5 runs.
+
+**Rubric addition — the Instrument Specification clause:** every evaluation record must state the instrument (harness config, prompt format, evaluation protocol, model version) alongside the score. Two use cases with the same score but different instruments are not comparable; a use case whose pilot "failed" under one instrument may be mis-measured, not deficient. Before comparing evaluations across vendors, teams, or quarters, check the instrument is held fixed — if it isn't, the comparison is noise.
+
+This converts the rubric's "measurable in context" criterion from an aspiration into a protocol: measure, and record how you measured.
+
+→ Sources: [There Is No Neutral Harness](https://arxiv.org/abs/2608.21382), [How much of a measured AI preference is the model, and how much is the instrument?](https://arxiv.org/abs/2608.23641)
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[Responsible Deployment]]

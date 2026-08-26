@@ -93,6 +93,16 @@ Three papers this week moved the task-level picture from case studies to organiz
 
 **Decision-point autonomy (2608.11241, Ao, Fang & Xu, 2026-07-31).** RecSys Factory ran 78 days across three Tencent recommender business lines on the principle "autonomy at decision points, not over pipelines," discharging an autonomy-determinism-efficiency trilemma: capability confined to a 29-file skill ecosystem (8,971 lines of SKILL.md) whose pitfall tables compile into a 400-entry PitfallStore; zero CPU consumed during the 94% of wall-clock spent waiting on Spark/GPU jobs (no long-running daemon). Onboarding-time compression appeared on two of three lines — reported as case-study observation, not generalization. The task-level lesson: bounding autonomy is what made delegation safe enough to run at scale.
 
+### Adoption Telemetry: Measuring Adoption from Production Signals (August 2026)
+
+Adoption Telemetry (Young, arXiv 2608.23617) adds the measurement layer the task-level framework has been missing: a method for computing change-management stage-progression directly from production usage signals. The contribution is threefold: (1) a framework unifying pre-deployment evaluation gates, production telemetry, and change-management staging into one instrumented system; (2) **NANTE** — a five-stage operationalization with defined telemetry thresholds *published openly so they can be tested and disproven*; (3) an open-source reference implementation that distinguishes a healthy cohort from five characteristic adoption-failure modes on synthetic populations with known ground truth.
+
+**What this adds to task-level classification:** the engagement dimension (SCALE, Miller — "engagement must be verified, not assumed") has been measured by surveys and anecdotes; adoption telemetry makes it continuous and auditable. The five failure modes give organizations names for what the existing telemetry (2608.12236, enterprise ChatGPT records) only showed in aggregate: adoption that looks like usage but is stage-stuck — pilot-only, one-team, reinvention, churn, and nominal-use patterns.
+
+**The honest caveat, stated by the author:** the thresholds are proposed constructs requiring empirical validation against real outcomes, not a calibrated model. The paper is a measurement scaffold, not a verdict. Task-level classification should treat NANTE stages as a diagnostic vocabulary while the thresholds are still being validated — and record which thresholds were used, so the instrument itself can be audited (cf. the no-neutral-harness finding on [[The Judge Problem]]).
+
+→ Source: [Adoption Telemetry](https://arxiv.org/abs/2608.23617)
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

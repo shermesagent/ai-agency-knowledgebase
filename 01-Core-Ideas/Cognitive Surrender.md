@@ -198,6 +198,16 @@ For this page's concern, the implication is that identity labels are the transpa
 
 → Sources: arXiv 2608.14795, 2608.14992, 2608.14565 (2026-08-13); [[00-Daily-Digests/2026-08-18]]
 
+### The Loop Is a Capacity, Not a Position (August 2026)
+
+The oversight literature on this page has treated the human in the loop as a resource to be protected — someone who needs intervention points, previews, and per-task autonomy. Mitchell, Ghosh & Passi (arXiv 2608.23642) attack the prior: the cognitive capacities that oversight requires are themselves degraded by extended use of the systems being overseen. Surrender doesn't only happen at the task level (getting answers instead of learning) or the emotional level (preferring AI support); it happens at the oversight level — the human who was supposed to watch gradually loses the attention, skepticism, and domain knowledge that watching requires.
+
+**The silent-failure half:** Pandey, Pandey & Raghu (arXiv 2608.23663) audit a deployed on-device model (hundreds of millions of devices, no server-side moderation): it confabulates on 69% of false-premise questions, over-refuses 18% of benign inputs, and its self-reported confidence is saturated and non-discriminative (AUROC 0.47). This is the surrender detection problem at its worst: when the machine's own confidence signal is a coin flip, and the human's confidence signal is broken too (the metacognitive threshold shift — 2607.13562 — showed human confidence *doubling* while accuracy fell to a third), *both sides of the confidence loop are dead simultaneously*. Nobody can tell that nobody knows.
+
+**The loop audit, updated:** the practical tests on this page (rate-limiting, verification checkpoints, source fore-grounding) all presuppose an overseer with intact capacities. Add the degradation check: any workflow where you haven't caught an AI error in a month isn't proof of reliability — it's the first symptom. Deliberately probe your own oversight: spot-check outputs you'd normally skim, on a schedule, and track whether your catch rate is falling.
+
+→ Sources: [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642), [Confidently Wrong, Silently So](https://arxiv.org/abs/2608.23663)
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

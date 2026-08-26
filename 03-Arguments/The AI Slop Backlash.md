@@ -24,6 +24,18 @@ For the Superagency thesis, the slop question is the content-quality preconditio
 - **Definitional drift:** "AI-generated" becomes a category with fuzzy edges (AI-assisted vs AI-generated), and the enforcement line will be drawn somewhere — the drawing is a governance decision, not a technical one.
 - **The backlash can overcorrect into stigma** for legitimate augmentation, chilling the creative-use cases documented in [[Creativity]].
 
+## Slop's Human Cost: The Lost-Pet Scam (August 2026)
+
+The backlash's abstract stakes — attention dilution, devalued human labor, degraded feeds — have a concrete victim story. WIRED (Paresh Dave, 2026-08-26) documents how AI-generated animal content is destroying one of the internet's largest sources of joy and compassion: pet owners, rescue agencies, and wildlife groups can no longer take the creatures on their feeds at face value.
+
+**The mechanism, made personal:** In April, Mibbby Butler received a photo of her missing cat Brooklyn — sitting on a kitchen counter, embraced by a girl — from someone demanding upfront payment for the cat's "temporary care." The photo was AI-generated: the cat posed identically to Butler's missing-poster picture, and the Torani syrup bottle and microwave in the background had garbled label text, a classic AI tell. Butler didn't pay. Four months later, Brooklyn is still missing. "I didn't know people scammed for lost pets." The fake didn't just fail to help — it weaponized the victim's own vulnerability against her.
+
+**The collateral damage:** We Animals, a nonprofit that has published the work of 175 photojournalists documenting animal abuse at farms, circuses, and labs, is undermined by fakes that make audiences distrust the real documentation. The pixel-hunting this page's platforms are building tools against (the 08-10 backlash wave) is now a burden on every viewer — the provenance question moved from the feed to the scam text, the adoption post, the rescue plea.
+
+**The governance connection:** this is the same information-asymmetry problem as the job-application flood (08-25): when the cost of producing a fake collapses, the signal value of authenticity collapses with it — and the people who pay are the ones already at a disadvantage (a grieving owner, a rescue group, a journalist documenting abuse). It is the strongest argument yet for the provenance infrastructure this page tracks ([[The Disclosure Effect]], watermark-as-ecosystem from 2608.07337): the alternative to labeling is that vulnerable people must become forensic analysts to avoid being scammed.
+
+→ Source: [AI Slop Is Ruining Cute Animals on the Internet](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/), WIRED, 2026-08-26
+
 ## Related Pages
 - [[Creativity]]
 - [[AI and Creator Rights]]

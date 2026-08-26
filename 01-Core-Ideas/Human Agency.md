@@ -372,6 +372,23 @@ The agency conversation usually starts with capability — what AI can do. Augus
 
 → Source: https://www.wired.com/story/why-normal-people-arent-using-ai-agents/ · https://thezvi.substack.com/p/what-happened-openai-and-huggingface
 
+### The Oversight Degradation Problem: The Loop Is a Capacity, Not a Position (August 2026)
+
+The standard answer to agentic risk is "keep a human in the loop." Mitchell, Ghosh & Passi (arXiv 2608.23642, position paper) argue this is not a simple solution — and that the loop is the fragile part. Two claims:
+
+1. **Current agent design impedes effective oversight.** Interfaces, autonomy defaults, and feedback loops are built for agent throughput, not for the human trying to watch.
+2. **The cognitive capacities oversight requires are themselves degraded by extended use of AI systems.** The overseer is not a fixed resource standing outside the system; the system trains the overseer's attention, skepticism, and domain knowledge down over time.
+
+The paper's prescription: treating the situated goals and cognitive requirements of human overseers at the same level of importance as agent capability — oversight as a first-class design target, not a compliance checkbox.
+
+**The empirical floor under the argument:** Pandey, Pandey & Raghu (arXiv 2608.23663) audited a deployed on-device foundation model shipping to hundreds of millions of devices with no server-side moderation. The results: task-asymmetric miscalibration — it confabulates on 69% of false-premise questions while over-refusing 18% of entirely benign inputs, and its self-reported confidence is saturated and non-discriminative (AUROC 0.47 — a coin flip as a trust signal). The audit's framing is exactly this page's oversight question: *can a user or a resource-constrained developer tell when the model is wrong?* Answer: no.
+
+**Connection to the layer arc:** The Intervenability Layer (July 16) established that humans need designed-in intervention points; Delegation Regret (July) showed users withdraw trust when preview/approval is missing; the Accountability Layer showed framing ("coworker" vs "tool") changes error detection. The Oversight Degradation finding is the layer below all of them: even with perfect intervention architecture, the human's capacity to use it decays with use. Intervenability without oversight capacity is theater — a button no one is left able to press well.
+
+**The practical agency test (updated):** For any AI system you use daily, ask quarterly: (1) Have I caught an error it made this week — or has my catch rate gone silent? (2) When it states confidence, do I have any independent way to check — or is the confidence the only signal? (3) Has my willingness to override it changed since I started using it? The first sign of oversight degradation is not bad outcomes — it's the disappearance of noticed errors.
+
+→ Sources: [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642), [Confidently Wrong, Silently So](https://arxiv.org/abs/2608.23663)
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

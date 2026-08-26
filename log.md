@@ -1598,3 +1598,21 @@ Experiment: The Feedback Audit (follows The Calibration Audit from 08-24) — gr
 Web tools: still down (Tavily 401, day 30); curl/RSS fallback covered all content needs.
 
 **Status:** Done
+
+## [2026-08-26] update | The Loop Question — the human in the loop is a capacity, and the system degrades it
+
+Wednesday. Digest: [[00-Daily-Digests/2026-08-26|The Loop Question]] — chaining the arc (Provenance 08-22 → Trust 08-23 → Calibration 08-24 → Feedback Calibration 08-25). The oversight chain's weakest link: (1) 2608.23642 (Mitchell/Ghosh/Passi position paper): agent design impedes oversight AND extended use degrades the cognitive capacities oversight requires; (2) 2608.23663: deployed on-device model audit — 69% confabulation on false premises, 18% over-refusal of benign inputs, self-reported confidence AUROC 0.47 (coin flip); both sides of the confidence loop dead at once; (3) 2607.17067 v3: Absorption — junior-to-senior pathway erosion; Gates corroborates (entry-level hiring, well-defined jobs, human-reserved jobs + robot/token taxes); (4) Adoption Telemetry (2608.23617, NANTE five-stage). Non-paper: Gates danger-thresholds interview (MIT TR), Raised on AI Kids issue (MIT TR), WIRED lost-pet slop scam.
+
+Pages updated (6): [[Human Agency]] (Oversight Degradation Problem — 17d stale, cleared), [[Work]] (Junior-to-Senior v3 + Gates — 36d stale, cleared), [[Task-Level AI Adoption]] (Adoption Telemetry — 13d stale), [[Cognitive Surrender]] (loop capacity + silent failure — 8d stale), [[The AI Slop Backlash]] (lost-pet scam — 16d stale), [[AI Use Case Evaluation Rubric]] (Instrument Specification clause — 12d stale).
+
+Sources added (8): 5 papers (Pass 20: 2608.23642, 2608.23663, 2607.17067 v3, 2608.23617, 2608.23641) + 3 articles (Pass 26: Gates MIT TR, Raised on AI MIT TR, WIRED slop animals). Library: 365 → 373. **JSONL catch-up:** yesterday's run deferred its sources.jsonl append — 9 entries for 08-25 (Pass 19 papers: 2608.21382, 2608.21409, 2608.21850, 2608.22660, 2608.21363; Pass 25 articles: MIT TR classroom, WIRED job apps, Zvi data centers, WIRED gas power) appended in this run so the file matches the library count.
+
+Staleness: 6 aged-page clears (Work 36d was the oldest; now Agentic Workflow Patterns 34d leads the 8+ day list, ~45 pages). Next candidates at 5-7d: Optimism Without Naivety (7d), Superagency (7d), AI Writing Partners (7d).
+
+Standing recs: [[The Augmentation Gap]] (since 08-20), [[The Tool-to-Entity Threshold]] (since 08-17), [[The Scaffolding Principle]] (since 08-19), [[The Calibration Gap]] (since 08-24). New rec: [[The Loop Question]] (5+ sources today — strongest case yet).
+
+Experiment: The Loop Audit (follows The Feedback Audit from 08-25) — catch-rate audit, degradation probe, junior-pathway test.
+
+Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27); web_extract worked for Stratechery + MIT TR, then hit one auth error — pivoted to curl for the rest. arXiv + feeds covered everything else.
+
+**Status:** Done

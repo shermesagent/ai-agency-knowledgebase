@@ -93,6 +93,8 @@ Yu & Moon's study (arXiv 2607.17067, July 2026) identifies a structural pattern 
 
 → Source: https://arxiv.org/abs/2607.17067
 
+**August 2026 update — the thesis hardens, and Gates corroborates it.** The paper was revised (v3, 2026-08-25) the same week Bill Gates went public with the job-market half of the same story: "Some companies are hiring fewer entry-level workers, which you'd have to call a pretty modest signal. But it's going to happen... for a substantial part of the white-collar market, you have very low-cost substitution." Gates' formulation — "any job that's well defined, the AI is cheaper and better" — is the Absorption mechanism stated as a labor-market rule: the entry-level tasks that used to define the junior pathway are precisely the well-defined ones. His proposed countermeasures (human-reserved jobs, robot/token taxes) are the first high-profile governance answer to the "who will become the next senior" question. The MIT TR May data already on this page (16% decline in entry-level AI-exposed jobs for young workers) is the statistical shadow of the interview-level Absorption pattern.
+
 ### AI Individualism: Personalization and Pseudo-Autonomy (July 2026)
 
 Skjuve et al. (arXiv 2607.17826, July 2026) provide the first systematic study of how users customize social AI. Through reflexive thematic analysis of 169 users' open-ended responses:
