@@ -273,5 +273,19 @@ The research side sharpens why. **[Evaluation in the Age of AI: Output as Eviden
 
 And the feedback loop needs an anchor: 2608.21850 (Pass 19) finds LLM feedback consistently good but self-preferencing — if grading loops go to models, the rubric and the human check stay. See [[AI Tutors]], [[Constructive Alignment]].
 
+## Objective AI Literacy Measurement: GenAIT (August 2026)
+
+The literacy thread on this page (the 11.1% benchmark, the normalization gap) has been missing an instrument: an *objective, validated* test of what students actually know about generative AI. That gap now has a candidate — [GenAIT: Development and Validation of an Objective Generative AI Literacy Test for High School Students](https://arxiv.org/abs/2608.25815) (Puppart, Laak & Aru, arXiv, 2026-08-26):
+
+- **18 multiple-choice items** spanning technical, practical, and human-impact domains of GenAI knowledge, validated by expert review (content validity) and a large-scale administration to **7,432 Estonian high school students** with confirmatory factor analysis, classical test theory, and item response theory.
+- Results support approximate unidimensionality and **broadly adequate reliability for group-level research** — this is a measurement instrument for populations and interventions, not (yet) for individual student grading. The authors' framing: objective assessment of GenAI literacy "remains underdeveloped" in the exact population where policy is being made.
+- **Why it matters here:** every claim on this page about what students know — or don't — needs a measurement story. The 11.1% benchmark and the normalization gap are observations; GenAIT is a repeatable instrument. For a district, the practical move is to treat literacy as a measured outcome: administer a validated instrument (or build one on its model) before and after instruction, rather than inferring literacy from usage surveys.
+
+**The adult side of the gap is also now measured.** [The AI Adaptation Gap in Higher Education](https://arxiv.org/abs/2608.25063) (Braun & Khafizov, arXiv, 2026-08-26): N=2,121 at a large teacher-education university (1,809 students, 250 faculty, 62 administrative staff) finds a pronounced adaptation gap across groups — different frequencies of AI use, different trust/control attitudes, different integrity concerns and policy clarity. The institutional lesson: students, faculty, and staff are not one population with one policy need; an AI policy written for one group will mis-fit the others (the normalization-gap finding from 07-21, now with staff in the picture).
+
+**What this adds to the thread:** the calibration question in the classroom (08-24) asked whether students can weigh AI risk; the traffic-light and feedback loop (08-25) gave a policy answer. GenAIT + the adaptation gap give the *measurement* answer: literacy and adaptation are objective, measurable, and unevenly distributed — and schools that cannot measure them are flying the same way the institutions in the gap study are.
+
+→ Sources: arXiv 2608.25815; arXiv 2608.25063; [[00-Daily-Digests/2026-08-27]]
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-08-27 | Reward Hacking, Agentic Verification, Automated AI R&D, Agentic Technical Debt, Export Controls and the Jailbreak Fallacy, Education, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-27, Home |
 | 2026-08-26 | Human Agency, Work, Task-Level AI Adoption, Cognitive Surrender, The AI Slop Backlash, AI Use Case Evaluation Rubric, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-26, Home |
 | 2026-08-24 | Education, AI Tutor Evaluation Checklist, The Comprehension Bottleneck, Sandbox Integrity, The Turing Trap, Magnifica Humanitas, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-24, Home |
 | 2026-08-23 | Public Trust and AI, The Disclosure Effect, Case for AI Optimism, AI Coding Agents, AI and Human Flourishing, 05-Source-Library (Articles), 00-Daily-Digests/2026-08-23, Home |
@@ -166,9 +167,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~45 pages | Agentic Workflow Patterns (34d), Leadership Lab Crowd Model (33d), Agentic Technical Debt (32d), Risk-Benefit Matrix (31d), Co-Intelligence (28d), AI Agent Revolution (27d) — oldest remaining after 6 clears today (Work 36d, Human Agency 17d, The AI Slop Backlash 16d, Task-Level AI Adoption 13d, AI Use Case Evaluation Rubric 12d, Cognitive Surrender 8d) |
-| 5–7 days | ~11 pages | Optimism Without Naivety (7d), Superagency (7d), AI Writing Partners (7d), AI Orchestrator (6d), AI as Normal Technology (6d), Agency Expansion Framework (6d), Model Workspace Protocol (6d), Dissociative Agent Governance (5d), Parallel Orchestration (5d), Government and Civic Life (5d), AI-Augmented Scientific Collaboration (5d) |
-| < 5 days | ~30 pages | Education, The Judge Problem, Future of Work, AI Tutors, Constructive Alignment, Responsible Deployment, Agentic Verification, Public Trust and AI, Compute and Agency (updated 08-25) · The Comprehension Bottleneck, AI Tutor Evaluation Checklist, Sandbox Integrity, The Turing Trap, Magnifica Humanitas (updated 08-24) · Public Trust and AI, Case for AI Optimism, AI Coding Agents, AI and Human Flourishing (updated 08-23) · The Disclosure Effect, Export Controls and the Jailbreak Fallacy (updated 08-22) · The Agentic Garden of Forking Paths, Dissociative Agent Governance, AI-Augmented Scientific Collaboration (updated 08-21) |
+| 8+ days | ~40 pages | Agentic Workflow Patterns (35d), Leadership Lab Crowd Model (34d), Risk-Benefit Matrix (32d), Co-Intelligence (29d), AI Agent Revolution (28d) — oldest remaining after 4 clears today (Agentic Technical Debt 32d, Reward Hacking 11d, Agentic Verification 9d, Automated AI R&D 9d) |
+| 5–7 days | ~9 pages | Optimism Without Naivety (8d), Superagency (8d), AI Writing Partners (8d), AI Orchestrator (7d), AI as Normal Technology (7d), Agency Expansion Framework (7d), Model Workspace Protocol (7d), Dissociative Agent Governance (6d), Parallel Orchestration (6d), Government and Civic Life (6d), AI-Augmented Scientific Collaboration (6d) |
+| < 5 days | ~35 pages | Education, Export Controls and the Jailbreak Fallacy (updated 08-27) · The Judge Problem, Future of Work, AI Tutors, Constructive Alignment, Responsible Deployment, Public Trust and AI, Compute and Agency (updated 08-25) · The Comprehension Bottleneck, AI Tutor Evaluation Checklist, Sandbox Integrity, The Turing Trap, Magnifica Humanitas (updated 08-24) · Case for AI Optimism, AI Coding Agents, AI and Human Flourishing (updated 08-23) · The Disclosure Effect (updated 08-22) · The Agentic Garden of Forking Paths, Dissociative Agent Governance, AI-Augmented Scientific Collaboration (updated 08-21) |
 
 ---
 
@@ -176,7 +177,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-08-26|Today's Digest]] · [[00-Daily-Digests/2026-08-25|Yesterday]]
+- [[00-Daily-Digests/2026-08-27|Today's Digest]] · [[00-Daily-Digests/2026-08-26|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags
