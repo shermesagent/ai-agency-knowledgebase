@@ -55,6 +55,19 @@ The stakes climb where ground truth is contingent. **[Sycophants in the Courtroo
 
 And the judge's own conflict of interest: 2608.21850 (Pass 19) shows an LLM rating its own feedback higher than human experts do — see [[AI Tutors]].
 
+### The Censored-Scale Audit Trap: DiD Can Manufacture an Effect (2026-08-28)
+
+The strongest judge audits now need their own audit. **[Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit](https://arxiv.org/abs/2608.27309)** (Fan, Deng, Xu, Xie, Li & Zhang, arXiv, 2026-08-28) shows that the strongest audit design — a within-item contrast between two candidate responses, differenced again across a manipulated attribute, read off a bounded rating scale — is **not identified on the scale that reports it**. Each term of the double difference is censored by its own share, so the observed statistic confounds differential preference with differential attenuation; a severity shift common to both responses manufactures an interaction whenever the two responses censor it unequally — "exactly where good stimuli place them."
+
+The failure is exhibited inside a pre-registered audit of a frozen pedagogy judge (990 calls, sealed before the first call):
+
+- The registered primary endpoint — the effect of a stated learner profile on the judge's scaffolding preference — was **null**: +0.085 points (95% BCa [-0.167, +0.353], p = 0.684).
+- The audit's one nominally significant interaction (+0.378, p = 0.002) is **not identified as preference**: a construction containing zero differential preference reproduces 79–85% of it from the observed severity shift and the scale floor alone.
+
+**The judge reading:** this is the meta-level extension of the page's core claim. Prior entries showed the instrument manufactures the verdict (harness configs, benchmark traps, authority effects). This one shows the *audit of the judge* can manufacture the bias it was designed to certify — and that pre-registration is what caught it: the sealed primary endpoint was null; only the unsealed interaction looked "significant," and it is mostly scale artifact. The checklist for anyone relying on an LLM-judge audit: was it pre-registered? Is the primary endpoint sealed? Are the scales bounded, and do the compared items sit near the bounds? A "significant" interaction from a bounded-scale DiD audit is presumptively scale, not preference, until the mechanism is ruled out — the paper's closed-form result makes that check measurable from the audit's own ratings.
+
+→ Sources: arXiv 2608.27309 (2026-08-28); [[00-Daily-Digests/2026-08-28]]
+
 ## Related Pages
 
 - [[Agentic Verification]]

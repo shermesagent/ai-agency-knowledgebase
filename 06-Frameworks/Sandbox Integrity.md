@@ -63,6 +63,18 @@ The novel part is automation — and the bottleneck it shifts: "if we automate v
 
 → Source: [Autonomy and Innovation](https://stratechery.com/2026/autonomy-and-innovation/) — Stratechery, 2026-08-24 ([[00-Daily-Digests/2026-08-24]])
 
+## User-Authored Permission Policies: Allow, Ask, Never (2026-08-28)
+
+The boundary question now has a user study. **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443)** (Ting Yan, arXiv, 2026-08-28) asked what is gained and lost when control decisions are made in advance as reusable rules rather than separately for each action. 113 participants without professional software backgrounds supervised an 18-action simulated agent day (7 overreach actions) across three conditions: per-action human-in-the-loop approval (HITL), automated per-action model review (AUTO), or user-authored "allow/ask/never" consequence policy (POLICY).
+
+- **POLICY blocked *less* overreach than HITL** (-20.1 percentage points, 95% CI [-32.1, -8.1]) and than AUTO (-14.5pp, 95% CI [-25.8, -3.2]).
+- POLICY did cut runtime prompts (18.0 → 10.9) — but total intervention time was not reliably lower once rule-setup time was included.
+- **The mechanism is the preference–commitment gap:** participants chose "ask" for 114 of 140 rules, returning most overreach actions to runtime. Of the 148 overreach actions executed in POLICY, 133 followed human approval; only 15 ran automatically under "allow." Counterintuitively, user-authored rules did not by themselves provide stronger protection — many actions outside users' original requests went through *after the users themselves approved them*. Repeatedly choosing "ask" preserves case-by-case choice but prevents a standing policy from settling decisions in advance.
+
+**Why this belongs on the sandbox page:** the boundary is only as strong as the permission system that polices it, and this study shows the permission system is a *behavioral* instrument, not just a technical one. Users offered ex-ante control choose to keep exercising ex-post control — which means the protective power of a boundary depends on whether users will commit to it in advance. The design implication for this page's practical examples: make standing policies the default architecture (allow/ask/never as *preset, editable* tiers, as in [[Human Review Checkpoints]] and Safety Sentry's EXECUTE/ASK/REFUSE) rather than asking users to author them from scratch — or accept that "ask-everything" is what users actually want, and design the evidence trail for that case (the evidential face again).
+
+→ Source: arXiv 2608.27443 (2026-08-28); [[00-Daily-Digests/2026-08-28]]
+
 ## Tags
 
 #governance #responsible-ai #ai-agents #home-server-ai

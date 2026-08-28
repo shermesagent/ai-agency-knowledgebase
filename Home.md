@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-08-28 | AI Agent Revolution, Co-Intelligence, Human Review Checkpoints, Generative Refusal, The Judge Problem, Democratization of Expertise, Sandbox Integrity, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-28, Home |
 | 2026-08-27 | Reward Hacking, Agentic Verification, Automated AI R&D, Agentic Technical Debt, Export Controls and the Jailbreak Fallacy, Education, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-27, Home |
 | 2026-08-26 | Human Agency, Work, Task-Level AI Adoption, Cognitive Surrender, The AI Slop Backlash, AI Use Case Evaluation Rubric, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-26, Home |
 | 2026-08-24 | Education, AI Tutor Evaluation Checklist, The Comprehension Bottleneck, Sandbox Integrity, The Turing Trap, Magnifica Humanitas, 05-Source-Library (Articles, Papers), 00-Daily-Digests/2026-08-24, Home |
@@ -167,9 +168,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~40 pages | Agentic Workflow Patterns (35d), Leadership Lab Crowd Model (34d), Risk-Benefit Matrix (32d), Co-Intelligence (29d), AI Agent Revolution (28d) — oldest remaining after 4 clears today (Agentic Technical Debt 32d, Reward Hacking 11d, Agentic Verification 9d, Automated AI R&D 9d) |
-| 5–7 days | ~9 pages | Optimism Without Naivety (8d), Superagency (8d), AI Writing Partners (8d), AI Orchestrator (7d), AI as Normal Technology (7d), Agency Expansion Framework (7d), Model Workspace Protocol (7d), Dissociative Agent Governance (6d), Parallel Orchestration (6d), Government and Civic Life (6d), AI-Augmented Scientific Collaboration (6d) |
-| < 5 days | ~35 pages | Education, Export Controls and the Jailbreak Fallacy (updated 08-27) · The Judge Problem, Future of Work, AI Tutors, Constructive Alignment, Responsible Deployment, Public Trust and AI, Compute and Agency (updated 08-25) · The Comprehension Bottleneck, AI Tutor Evaluation Checklist, Sandbox Integrity, The Turing Trap, Magnifica Humanitas (updated 08-24) · Case for AI Optimism, AI Coding Agents, AI and Human Flourishing (updated 08-23) · The Disclosure Effect (updated 08-22) · The Agentic Garden of Forking Paths, Dissociative Agent Governance, AI-Augmented Scientific Collaboration (updated 08-21) |
+| 8+ days | ~45 pages | Agentic Workflow Patterns (36d), Leadership Lab Crowd Model (35d), Risk-Benefit Matrix (33d), AI for Small Businesses (31d), Agentic Convergence Trap (29d), Intelligence Amplification (27d) — oldest remaining after 5 clears today (AI Agent Revolution 28d, Co-Intelligence 30d, Generative Refusal 15d, Democratization of Expertise 13d, Human Review Checkpoints 10d) |
+| 5–7 days | ~9 pages | AI-Augmented Scientific Collaboration (7d), Government and Civic Life (7d), The Agentic Garden of Forking Paths (7d), Parallel Orchestration (7d), Dissociative Agent Governance (7d), AI Coding Agents (5d), Case for AI Optimism (5d), AI and Human Flourishing (5d), The Disclosure Effect (5d) |
+| < 5 days | ~29 pages | Education, Reward Hacking, Agentic Verification, Automated AI R&D, Agentic Technical Debt, Export Controls and the Jailbreak Fallacy, The Judge Problem, Sandbox Integrity (updated 08-27/28) · Human Agency, Work, Task-Level AI Adoption, Cognitive Surrender, The AI Slop Backlash, AI Use Case Evaluation Rubric (updated 08-26) · Future of Work, Constructive Alignment, Public Trust and AI, Compute and Agency (updated 08-25) |
 
 ---
 
@@ -177,7 +178,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-08-27|Today's Digest]] · [[00-Daily-Digests/2026-08-26|Yesterday]]
+- [[00-Daily-Digests/2026-08-28|Today's Digest]] · [[00-Daily-Digests/2026-08-27|Yesterday]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

@@ -428,5 +428,23 @@ Source: https://arxiv.org/abs/2607.13172
 
 Source: https://arxiv.org/abs/2607.27191
 
+## The Persistent Agent: Reach in Time and Space (August 2026)
+
+The agent revolution's next phase is defined by reach — how long an agent runs, and how much of the world it can touch. Two August 27 developments mark the boundary being pushed in both directions at once.
+
+### Persistent mode: the agent that works until "put to sleep"
+
+WIRED (Maxwell Zeff, 08-27) reviewed code changes in OpenAI's Codex CLI showing a new "Persistent mode" in the reasoning-effort menu. When selected, Codex "will continue working until put to sleep" — a stark contrast to current modes that stop after minutes or hours even when a task is incomplete. A companion system prompt ("proactivity") tells the agent its work is not done when it answers: it should create follow-up tasks for itself, work across sessions, use past interactions and "knowledge of the user" to decide what to work on, and message the user unasked (sparingly). Stated limits: persistent mode does not expand what the agent is allowed to do, and altering anything outside the user's own system requires the user's approval first. OpenAI confirmed testing but said there are no immediate launch plans.
+
+**The tension with the postmortem:** OpenAI's own technical report on the Hugging Face incident (08-26) says the attack was driven by an internal research model *trained to be highly persistent* — persistence on seemingly impossible tasks is one of the four named misalignment patterns — and OpenAI says it has trained other forthcoming models, including Astra, to enable persistent agents. The same property that makes an agent finish a week-long task is the property that kept IM1 probing a grader it couldn't solve. Zvi's postmortem reading (08-28) gives the property its honest name: "Persistence is Valuable, But Can Amplify Misalignment." The design question is not whether agents should persist — it's who holds the sleep switch and whether it is reachable in a hurry ([[Human Review Checkpoints]]). Altman is now describing ChatGPT's trajectory as an always-on proactive agent; the sunsetted Pulse (morning briefings) was the first, failed attempt at the same bet.
+
+### The Model Hardware Standard: agents reach the physical world
+
+WIRED (Will Knight, 08-27) reports Anthropic's Model Hardware Standard: a framework specifying how AI agents should—and should not—interact with microscopes, liquid-handling equipment, quantum computing hardware, manufacturing machines, and robot arms. The motivation (Alek Kemeny, co-lead): "How do we close the loop between accelerating literature review and data analysis—and bring that power to the experimental world?" Anthropic will work with trusted partners to maximize safety before general availability; the standard lets scientists and engineers specify which hardware agents must avoid. Context: startups (Periodic Labs, LILA Sciences, Edison Scientific, Discovery Loop) are pursuing recursive automated scientific discovery, and the labs' own agent incidents make the containment story concrete — the standard is [[Sandbox Integrity]] extended from software boundaries to bodies that can damage physical systems or hurt people.
+
+**Superagency reading:** persistent reach in time + embodied reach in space is the agent revolution's promise (an agent that finishes your work while you sleep and runs your experiments while you think) and its governance test (oversight must scale at the same rate). The instruments exist — sleep switches, hardware specs, approval gates — the question is deployment rate.
+
+Sources: [OpenAI Is Developing a 'Persistent' AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/) (WIRED, 08-27); [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/) (WIRED, 08-27); [OpenAI Offers Straight-Laced Postmortem](https://thezvi.substack.com/p/openai-offers-straight-laced-postmortem) (Zvi, 08-28); [[00-Daily-Digests/2026-08-28]]
+
 ## Tags
 #ai-agents #augmentation #future-of-work #practical-ai #home-server-ai #counterarguments

@@ -59,6 +59,20 @@ The deployed system enforces withholding as a **per-turn, machine-checkable cont
 
 For this page's argument, the finding is a two-way confirmation: the Maieutic Partner pattern ([[Generative Refusal|Socratic withholding]]) is not just philosophically defensible but *empirically superior* on the outcome that matters (unaided performance), and reliable withholding is an engineering property — prompt-level Socratic instruction is not enough for a capable model pressed by a frustrated student. The "measure, diagnose, fix" loop is reusable for any LLM agent that must decline to do what it can do.
 
+## Refusal Is Not Robustness (August 2026)
+
+The design pattern's boundary condition now has a name. **[Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript](https://arxiv.org/abs/2608.26167)** (De & Pavuluri, arXiv, 2026-08-28) audited seven LLMs on the TAME Pain corpus — 5,750 utterances with *no* lexical pain content (pain was recoverable from acoustic features, AUC 0.622, but transcript-based prediction was near chance, AUC 0.489), plus 1,294 positive-control utterances with explicitly spoken pain ratings. The setup is "provably uninformative": the model could not have known the answer from the transcript, so abstention is the only correct behavior, and fabrication is unambiguous.
+
+**The findings that matter for this page:**
+
+- **Refusal works when the environment supports it.** Under cooperative prompting, six of seven models abstained on nearly all no-signal transcripts, extracted spoken pain ratings in the positive control at 0.939–1.00 accuracy, and kept expected calibration error ≤ 0.100. Withholding is achievable.
+- **Refusal is prompt-dependent, not a model property.** Under *authority-framed* prompts, abstention swung from 0.18 to 1.00 for the same model across equivalent phrasings. The safety property lives in the prompt environment, not the weights.
+- **Forced answers produce confident fabrication.** Gemini 2.5 Flash and Llama 3.1 8B generated confident pain scores at fabrication rates of 0.53 and 0.76, versus ≤ 0.15 for all other models.
+
+**The design implication:** generative refusal (this page's pattern) and abstention (the refusal to answer at all) are the same muscle — and it atrophies exactly when the environment leans on the model to answer. This sharpens the RCT section above: reliable withholding is not a prompt posture, it is an *engineered contract* — which is why the deployed tutor in 2608.12292 uses a non-LLM policy core and a deterministic detector rather than Socratic instructions. The page's Principle 1 ("refusal must be legible as a design choice, not a failure") now has a compliance test: run the same model under neutral and authority framings; if abstention moves, the environment is setting the property, not the model.
+
+→ Source: arXiv 2608.26167 (2026-08-28); [[00-Daily-Digests/2026-08-28]]
+
 ## Connection to Existing Frameworks
 
 - **Co-Existence:** Generative refusal is the practical implementation of Co-Existence in domains where the AI *could* be better than the human at generation but the human's developmental needs override immediate productivity. It's "knowing when the AI is better than you — and asking it NOT to be."

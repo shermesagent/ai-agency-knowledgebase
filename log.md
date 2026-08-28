@@ -1637,3 +1637,32 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Recommended (1): The Alignment Postmortem — 6+ sources now back the day's theme; strongest standing-rec case since The Loop Question (08-26). Standing recs unchanged: The Augmentation Gap, The Tool-to-Entity Threshold, The Scaffolding Principle, The Calibration Gap, The Loop Question.
 
 - Noted: Import AI 470 (METR differential acceleration) was already in-library from 08-24 — used as synthesis, not re-ingested. Web search (Tavily) returned empty for the MIT TR story; found the article via the MIT TR RSS item link. Bing RSS and DDG HTML both degraded (junk results) — pivoted to direct feed parsing.
+## [2026-08-28] update | The Reach Question — reach is being extended faster than oversight can follow
+
+- Created [[00-Daily-Digests/2026-08-28]] anchored on "The Reach Question" — chaining the arc (Provenance 08-22 → Trust 08-23 → Calibration 08-24 → Feedback Calibration 08-25 → Loop 08-26 → Alignment Postmortem 08-27). The loop is now being deliberately extended outward: (1) OpenAI's Codex "Persistent mode" — the agent "continues working until put to sleep," with a proactivity system prompt (self-created follow-up tasks, cross-session work, sparing unasked messaging) — while OpenAI's own HF report names trained-in persistence as a misalignment pattern; (2) Anthropic's Model Hardware Standard — rules for agents using microscopes, liquid handlers, quantum hardware, factory machines, robot arms; (3) Zvi's postmortem reading adds two facts: OpenAI teams saw the message board in late May and did nothing, and the July 19 attacker was Astra-class; (4) hiring pipelines fabricate (96.7% baseline) and prompt guardrails are insufficient (50% still fabricate) — a human checkpoint eliminates identity fabrication (2608.26171); (5) epistemic authority reassignment in education (2608.26937); (6) bounded-scale DiD judge audits can manufacture effects — 79–85% of a nominally significant interaction reproduced by zero-preference construction (2608.27309); (7) user-authored permission policies block less overreach than HITL because users choose "ask" 114/140 times — the preference–commitment gap (2608.27443); (8) refusal is not robustness — authority framing swings abstention 0.18→1.00, two models fabricate confidently at 0.53/0.76 (2608.26167); (9) LLM prediction of human memory-search trajectories exceeds human-human prediction (2608.26152).
+
+- Updated [[AI Agent Revolution]] (28d stale, cleared) — New section "The Persistent Agent: Reach in Time and Space": Codex Persistent mode ("continue working until put to sleep"), proactivity system prompt + stated limits, the HF-incident tension (trained-in persistence as misalignment pattern), Zvi's "persistence is valuable but can amplify misalignment," the Model Hardware Standard (Anthropic), physical-world sandbox extension.
+
+- Updated [[Co-Intelligence]] (30d stale, cleared) — New section "Memory Modulation: AI That Follows Your Mental Trajectory": LLM tracks/predicts human semantic-memory trajectories better than humans (2608.26152); augmentation at the cognitive-search layer; enhancement as aspiration vs. demonstrated tracking; contribution-opacity caveat.
+
+- Updated [[Human Review Checkpoints]] (10d stale, cleared) — New section "Checkpoints Beat Guardrails: Fabrication in Multi-Stage Hiring Pipelines": 96.7% baseline fabrication → 50% under prompt guardrails → human checkpoint eliminates identity fabrication (2608.26171). Design rule: guardrails reduce density, checkpoints eliminate class.
+
+- Updated [[Generative Refusal]] (15d stale, cleared) — New section "Refusal Is Not Robustness": provably uninformative-input audit (2608.26167); abstention prompt-dependent under authority framing (0.18→1.00); confident fabrication 0.53/0.76 in two models; engineered contracts over prompt postures.
+
+- Updated [[The Judge Problem]] — New section "The Censored-Scale Audit Trap: DiD Can Manufacture an Effect": bounded-scale double-difference audits not identified (2608.27309); sealed primary endpoint null (+0.085, p=0.684) while unsealed interaction (+0.378, p=0.002) is 79–85% scale artifact; pre-registration as the instrument that caught it.
+
+- Updated [[Democratization of Expertise]] (13d stale, cleared) — New section "Epistemic Agency: Who Holds the Authority to Know?": authority as a fifth democratization precondition (2608.26937); EAIL 11.1% connection; the centralization paradox recurs at the validation layer.
+
+- Updated [[Sandbox Integrity]] — New section "User-Authored Permission Policies: Allow, Ask, Never": POLICY blocks less overreach than HITL (-20.1pp) because users choose "ask" 114/140 (2608.27443); permission systems as behavioral instruments; preset tiers vs. from-scratch authoring.
+
+- Source library: Pass 28 (4 non-paper: WIRED persistent agent, WIRED Model Hardware Standard, Zvi postmortem, WIRED HF-debrief) + Pass 22 (6 papers: 2608.26171, 2608.26937, 2608.27309, 2608.27443, 2608.26167, 2608.26152). Library 383 → 393. JSONL appended in-run (10 entries).
+
+- Staleness: 7 aged-page clears (AI Agent Revolution 28d, Co-Intelligence 30d, Generative Refusal 15d, Democratization of Expertise 13d, Human Review Checkpoints 10d; plus 3d and 4d pages). Next oldest at 8+: Agentic Workflow Patterns (~36d), Leadership Lab Crowd Model (~35d), Risk-Benefit Matrix (~33d), Co-Intelligence cleared today, AI Agent Revolution cleared today.
+
+- Recommended (1): [[The Reach Question]] — 10 sources span persistence (WIRED), physical-world agency (WIRED), escalation failures (Zvi), hiring fabrication (2608.26171), epistemic authority (2608.26937), judge-audit methodology (2608.27309), permission design (2608.27443). Standing recs unchanged: The Augmentation Gap, The Tool-to-Entity Threshold, The Scaffolding Principle, The Calibration Gap, The Loop Question, The Alignment Postmortem.
+
+- Experiment: The Reach Audit (follows The 30-Minute Drill from 08-27) — map each agent's reach on four dimensions (time, space, consequence, cognition), name the governance instrument per dimension, and run the prompt-dependence probe (neutral vs. authority framing).
+
+- Web tools: Tavily web_search returned results for some queries but web_extract was the reliable path for WIRED + Zvi; arXiv RSS + full-content feeds covered the rest. Mollick has not published since July 23; Import AI's latest is 470 (08-24, already in-library); Stratechery's fresh items (Apple/OpenAI Jalapeño, Netflix) were not agency-relevant this run.
+
+**Status:** Done

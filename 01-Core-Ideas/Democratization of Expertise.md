@@ -148,6 +148,16 @@ This reframes democratization's open-weights evidence (Gemma 4 12B): weights are
 
 → Source: WIRED O'Reilly interview (2026-08-14); Google DeepMind Gemini 3.7 Flash (2026-08-13); [[00-Daily-Digests/2026-08-15]]
 
+## Epistemic Agency: Who Holds the Authority to Know? (2026-08-28)
+
+Democratization's uncomfortable twin is now a named problem. **[Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education](https://arxiv.org/abs/2608.26937)** (Biranchi Poudyal, arXiv, 2026-08-27) argues that the "impartial educational tool" framing of GenAI overlooks a larger shift: the **reassignment of epistemological authority — from teachers to students to machines**. The paper evaluates the extent to which GenAI redistributes the ability of students and teachers to *act* in classrooms: produce knowledge, validate each other's claims, and create evidence of learning — while collaborating with and competing against humans. It draws on Distributed Agency, Self-Determination Theory, Society 5.0, TPACK and SAMR — and finds that while all are relevant to agency in AI-mediated education, **none of them address the ongoing disparity in who gets to know and who gets to validate**.
+
+**How this reshapes the democratization thesis.** This page tracks four channels (access, capability, platform, influence) plus O'Reilly's shapeability. The epistemic-agency paper adds a fifth precondition: **authority** — who holds the right to say what counts as knowledge in the first place. Democratization without epistemic authority is just better distribution of surrender: students gain access to more expertise while losing the standing to validate it. It connects directly to the EAIL 11.1% benchmark ([[Education]]): if only 11.1% of student-AI interactions show high epistemic engagement, and the machine now holds the authority to know, the 78.8% who outsource are not failing to engage — they are responding rationally to a classroom where the machine's claim carries more weight than their own.
+
+**The structural tension with the Compressing→Accommodating shift** (above): individualization eliminates the need for standardization — but the epistemic-agency paper asks who controls what *individualized* knowledge is allowed to be. The same centralization paradox recurs at the level of validation: the AI that accommodates each learner's needs is also the AI that decides what counts as a justified claim.
+
+→ Source: arXiv 2608.26937 (2026-08-27); [[00-Daily-Digests/2026-08-28]]
+
 ## Related Pages
 
 - [[Superagency]] — The organizing idea: AI giving more people access to expertise, leverage, and decision support

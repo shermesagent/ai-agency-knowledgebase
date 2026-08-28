@@ -239,6 +239,18 @@ A new empirical study (arXiv 2607.15006) investigates how people calibrate their
 
 Source: https://arxiv.org/abs/2607.15006
 
+### Memory Modulation: AI That Follows Your Mental Trajectory (August 2026)
+
+The augmentation half of Co-Intelligence now has a cognitive-search result. **AI Models Can Predict and Collaboratively Modulate Human Memory Search** (arXiv 2608.26152, Lacosse, Duarte, Todd, Todd & McNamee, 2026-08-27) uses the semantic fluency task — the classic paradigm for generative memory retrieval that has long characterized convergent and divergent thinking — to test whether LLMs can *follow* a human's mental trajectory during open-ended conceptual exploration.
+
+**The finding:** an LLM's ability to track and predict a person's memory-search trajectory in this task **exceeds other humans'** ability to predict it. The model doesn't just complete the list of related items; it anticipates where the person's mind is going next — the trajectory itself, not just the destination.
+
+**Why this matters for Co-Existence:** the paper's framing is exactly this page's thesis — rather than replacing human cognitive effort, LLMs can serve as cognitive tools that extend generative human abilities, particularly for open-ended conceptual exploration and creative ideation. It is the first direct evidence at the *memory-search* layer (not the text-generation layer) that the model can synchronize with a specific human's cognitive path. The Co-Existence calibration question shifts accordingly: the skill is not just knowing when the AI is better than you at *producing* — it's knowing when the AI can *follow you* closely enough to extend your thinking without steering it (see the [[#Authorship Calibration|Contribution Audit]] above — trajectory-following makes contribution boundaries *more* opaque, not less).
+
+**The caveat:** the abstract demonstrates tracking/prediction; *enhancement* is the stated aspiration, not yet the demonstrated result. Treat the finding as capability, not yet as design — and as a reason to prefer tools that surface their trajectory-following rather than hiding it.
+
+Source: https://arxiv.org/abs/2608.26152
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.

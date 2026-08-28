@@ -52,6 +52,18 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 
 → Source: arXiv 2608.15089 (2026-08-13); [[00-Daily-Digests/2026-08-18]]
 
+### Checkpoints Beat Guardrails: Fabrication in Multi-Stage Hiring Pipelines (2026-08-28)
+
+**[Mitigating Fabrication in Multi-Stage LLM Pipelines for Hiring](https://arxiv.org/abs/2608.26171)** (Hiroko Takano, arXiv, 2026-08-28) is the cleanest quantitative case yet for checkpoints over prompts. Multi-stage LLM hiring pipelines (resume improvement, interview question generation, answer feedback) fabricate credentials, inflate qualifiers, and invent experience. A controlled experiment (10 synthetic resumes × 2 job descriptions × 3 repetitions × 3 conditions; 180 runs) compared a fully automated baseline (C1), prompt guardrails (C2), and a human checkpoint after resume improvement (C3):
+
+- **Baseline (C1):** at least one unsupported claim in **96.7% of outputs** (mean 6.80 findings/output).
+- **Prompt guardrails (C2):** finding density dropped 86% (6.80 → 0.92/output) — but **50.0% of outputs still contained a fabrication**. Prompt-level mitigation alone is insufficient.
+- **Human checkpoint (C3):** eliminated **all identity fabrications**, cut finding density 59% (6.88 → 2.82/output), and reduced item-level fabrication from 96.7% to 75.0%.
+
+**The design rule:** guardrails reduce the *density* of fabrication; checkpoints eliminate the *class* of fabrication. This is the empirical sibling of [[Generative Refusal]]'s finding that prompt-level Socratic instruction fails under pressure — when a capable model is pressed, instructions are weak controls; structural stops are strong ones. For any high-stakes multi-stage pipeline (hiring, admissions, loan packaging, medical triage drafts), the question is not "did we prompt it not to fabricate?" but "where does a human inspect intermediate output before it propagates downstream?"
+
+→ Source: arXiv 2608.26171 (2026-08-28); [[00-Daily-Digests/2026-08-28]]
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]
