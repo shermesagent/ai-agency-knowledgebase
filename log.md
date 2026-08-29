@@ -1666,3 +1666,21 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Web tools: Tavily web_search returned results for some queries but web_extract was the reliable path for WIRED + Zvi; arXiv RSS + full-content feeds covered the rest. Mollick has not published since July 23; Import AI's latest is 470 (08-24, already in-library); Stratechery's fresh items (Apple/OpenAI Jalapeño, Netflix) were not agency-relevant this run.
 
 **Status:** Done
+
+## [2026-08-29] update | The Threshold Question — where the substitution/complement line sits, and whether agency can move it
+
+- Created [[00-Daily-Digests/2026-08-29]] anchored on "The Threshold Question." 7 sources accepted (0 papers — Saturday, no arXiv; 5 articles + 2 newsletter essays). Theme: Steve Hsu's threshold model (below some threshold of human ability, AI substitutes; above it, complements) unifying the day's contests over the line: the 100+ company cyber-apocalypse letter (defenders below the line), the Emanuel/Khosla JAMA claim that AI alone exceeds physicians on five core tasks, Meta's data-center robots (80% of some workloads), retraining's documented failure to move the line, and the Cara scrape (the data-protection line doesn't exist at all).
+
+- Updated [[Healthcare]] (14d stale, cleared) — "The AI-Only Threshold in Medicine": Emanuel/Khosla JAMA paper (AI alone > physicians + hybrids by 2030 on history/diagnosis/tests/treatment/chronic care; "humans in the loop degrade AI performance"); AMA/Whyte dissent (simulations vs blind trials; Feb 2026 Nature patient-LLM study); Wachter's doorman fallacy; resolved against this page's Clinician's Veto via loss asymmetry — symmetric-loss tasks: humans degrade (checkpoint is a design bug); asymmetric-loss tasks: human is where the loss function is priced.
+
+- Updated [[Future of Work]] — "The Threshold Model of Substitution": Hsu/Zvi model + inversion (as AI improves, more people's ability falls below the line); winner-take-most in law; retraining "sounds great, is very popular and doesn't work" — the "problem handled" frame is the danger; Gates' preference cascade; Meta's data-center robots (physical tasks cross first, symmetric loss); agent-FOMO multiplier as agency surrender.
+
+- Updated [[AI Enclosure]] (12d stale, cleared) — "The Scrape-and-Enclose Cycle": Cara's three August scrapes (12M works for <$10; 8.5M links to Hugging Face which refused further takedowns; 123K images + personal info on Academic Torrents); scraper "Heft" switched sides and now collaborates on an open-source protection tool; Zhang: "bigger platforms get scraped more"; local LLMs as the same-week escape hatch.
+
+- Updated [[Home Server AI Agents]] — "The Local LLM Field Guide": WIRED mainstream guide (offline, no subscription, hardware floor 8/16/32 GB, free Meta/Google models); local inference as privacy + cost + defensive posture.
+
+- Updated [[Balanced Governance]] (13d stale, cleared) — "The Industry Self-Warning": the 100+ company cyber letter as a new governance instrument (self-regulation as disclosure; warning-vs-lobby ambiguity; state-actor backdrop QTFY/Fed breach; Meta SB 53 "commercially practicable" caveat); macro-prudential layer's first live stress signal.
+
+- Source library: sources.jsonl 393 → 400 (7 new records, valid JSON, no dupes). Articles.md Pass 29 added (7 entries). NOTE: Articles.md Passes 19-28 already present at HEAD but placed mid-file (lines ~77-131, before "## Selection Notes") while Passes 2-18 follow — pre-existing structural quirk, flagged for Sunday lint reorganization, not touched this run. Papers.md current through Pass 22.
+
+- Curation notes: web_search flaky (empty arrays on 4/6 queries) — direct curl feed/article extraction carried the day. Deduplicated: Zvi AI #182 (08-20, in 08-21 digest), Zvi postmortem post (08-28, in 08-28 digest), Gates + Raised on AI (08-26 digest), Stratechery Autonomy and Innovation (08-24 digest). Mollick silent since 07-23. Recommended new page: The Threshold Question (standing recs now: Augmentation Gap, Tool-to-Entity Threshold, Scaffolding Principle, Calibration Gap, Loop Question, Alignment Postmortem, Reach Question, Threshold Question).

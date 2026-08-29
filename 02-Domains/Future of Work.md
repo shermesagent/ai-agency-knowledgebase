@@ -161,6 +161,24 @@ The labor market's sorting mechanism just collapsed. **[It Should Be Harder to A
 
 The friction hiring used to impose was information — it signaled genuine interest and minimal fit. When application cost falls to zero, effort stops sorting, and the burden shifts to whatever comes next: portfolio, referral, verification step, human screen. JLL's CTO frames the macro side ("Everyone was job hopping... Now, it is the polar opposite"; BLS openings peaked at a record 12.3M in March 2022, then declined for two years). Two worker-side lessons: (1) AI-written applications are a coordination problem — when everyone uses them, no one is distinguished; (2) the filters and ATS that absorb the flood become the judge, inheriting every calibration question from [[The Judge Problem]] — including self-preference, since many are AI-scored. See [[Task-Level AI Adoption]], [[The Turing Trap]].
 
+### The Threshold Model of Substitution (2026-08-29)
+
+The week's clearest mental model for where automation bites comes from physicist **Steve Hsu**, surfaced by Zvi in AI #183 (08-27):
+
+> Below some threshold of human ability, AI is primarily a substitute; above it, AI becomes a complement.
+
+Zvi adds the inversion: **below some threshold of AI ability, AI is primarily a complement; above it, AI becomes a substitute. As AI improves, more people's level of human ability falls below that line.** In law, that means today: top talent is worth more (judgment, expertise, client relationships — AI helps firms find the best), everyone else gets automated away — winner-take-most with a steadily rising requirement to remain a winner. The model generalizes to every knowledge domain this page tracks, and it makes the threshold a *moving line*, not a binary.
+
+**Retraining doesn't move the line — and the "problem handled" frame is the danger.** Zvi's summary of the reskilling literature: job retraining programs "sound great, are very popular and don't work," raising the target population's employment ratio by only a few percent. The rare exceptions partner with specific employers who can't otherwise fill positions and end in direct job placement — but that doesn't scale. The real danger is treating retraining as a serious answer to displacement: it is a small positive and a large false comfort. This sharpens the [[Education]] page's entry-level finding from the other side — reskilling people into AI-accelerable skills resubmits them to the same automation pressure (see the Capability Ladder section above for the counter-framework).
+
+**Gates' preference cascade.** Bill Gates has moved from "bumpy transition" to "economic catastrophe" framing (MIT TR interview, 08-26 — already covered in [[00-Daily-Digests/2026-08-26]]). Zvi's meta-point: Gates is a barometer of a **preference cascade** — AI-concern stops looking odd among Very Serious People, and the politics of the threshold change when the connected start treating it as real. "AI will either be the greatest equalizer ever invented, or the worst source of injustice."
+
+**Physical work crosses too — Meta's data-center robots (08-28).** WIRED: Meta is testing robots (Kinova Gen3 arms, Watney Robotics, ABB) for cable swapping, server power-cycling, and device restarts; one worker estimates a successful bot could replace up to 80% of some people's workloads — "We thought those of us performing the physical tasks were safe for a while, but not anymore. It's coming for us all, unfortunately." Meta's response — "we need more workers, not fewer" amid the biggest infrastructure boom since WWII — is technically true about aggregate demand and silent about individual security: the cable-swap line has crossed, and the displaced worker's skills don't transfer automatically. The threshold model predicts exactly this pattern: the least-glamorous, most-bounded physical tasks cross first, precisely because their loss functions are symmetric.
+
+**The agent-FOMO trap is the threshold's psychological shadow.** Zvi (AI #183, citing WSJ's Katherine Bindley): "Every minute that I'm not working, I'm missing out on not doing a week's worth of work" — the agent-multiplier effect that pushes knowledge workers into constant availability. If the complement side of the line rewards doubling marginal productivity, the individual response (work more, sleep less) is itself a form of agency surrender. The threshold model needs the counterweight this wiki has tracked since [[Cognitive Surrender]]: doubling output is only agency if the direction is chosen.
+
+→ Sources: [Zvi, "AI #183: Pre Post Mortem"](https://thezvi.substack.com/p/ai-183-pre-post-mortem) (2026-08-27); [WIRED, "Inside Meta's Push to Put Robots to Work in Data Centers"](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) (2026-08-28); [[00-Daily-Digests/2026-08-29]]
+
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]

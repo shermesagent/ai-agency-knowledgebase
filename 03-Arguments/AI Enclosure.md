@@ -1,7 +1,7 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-08-17
+updated: 2026-08-29
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
 sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
@@ -177,6 +177,22 @@ Ben Thompson's Stratechery post (paywalled — only the public summary line and 
 3. **Flag the paywall.** Summary-only sourcing caps confidence in the strategic read until the full essay is accessible — the *reported acquisition* is the fact; the *framing* is Thompson's, and deserves the full argument.
 
 → Source: [Stratechery, "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model"](https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/) — Ben Thompson, 2026-08-17 (paywalled; summary-only) ([[00-Daily-Digests/2026-08-17]])
+
+### 6. The Scrape-and-Enclose Cycle: Cara and the Data Front (2026-08-29)
+
+The clearest demonstration yet that enclosure has a data front — and that the default posture is exposure. **Cara**, the artist portfolio platform built explicitly for creators who don't want their work used to train AI (≈1.5 million artists), was hit by three scrapes in August 2026 (WIRED, 08-28):
+
+- **Scrape 1 (Aug 13):** A scraper ("MandarinDawnPoppy994") bragged on r/DefendingAIArt that he'd obtained a **12-terabyte archive of 12 million works** — essentially Cara's entire public library — at a cost of **under $10**. He deleted the dataset after a Cara user confronted him.
+- **Scrape 2:** ~8.5 million links plus metadata (usernames, titles, tags) uploaded to **Hugging Face**. HF refused further takedown requests: "no copies of the artworks are hosted here," the links "point to the copies the artists published on Cara," and "further copyright reports on the same basis will not change this outcome." The training-data platform as a scrape terminus with its own enclosure logic.
+- **Scrape 3 (Aug 22):** 123,000 images plus text posts and user bios (including personal information) shared on Academic Torrents. Founder Jingna Zhang launched a GoFundMe for legal defense ($120K goal; $100K+ raised within days).
+
+**The twist — the scraper switched sides.** The original scraper ("Heft," a North American student with a digital-preservation background) was so struck by the harm — doxing, death threats, artists deleting portfolios and abandoning the platform — that he is now **collaborating with Zhang on an open-source artist-protection tool**. Zhang's warning to fleeing artists is the enclosure thesis in one line: "If it makes them feel better, deleting your work and leaving Cara, I support that. But... if they go somewhere else, they are safer? They're not. Bigger platforms get scraped more."
+
+**Why this is enclosure, not just crime:** the platform that maximally *wants* to opt out of the training commons cannot do so — scraping is technically legal-ish, platform-hosted takedown is limited, and the cost of mass data capture has collapsed to pocket change. This is the default-posture enclosure this page tracks in [[AI and Creator Rights]] and [[The Participation Problem]]: non-participation in training is an individual burden that even a purpose-built platform cannot meet. The only current defenses are legal (class actions against Stability/Midjourney and Google, GoFundMe-funded) and technical (the scraper-turned-collaborator's open-source tool) — both after the fact.
+
+**The escape hatch, same week:** WIRED's "How to Run a Chatbot on Your Own Computer" (08-29) is the counter-enclosure move — local LLMs (free Meta/Google models, offline, no subscription, data never leaves the machine) as the practical alternative to the API-and-cloud layer that the scrape feeds. The data front and the compute front are two sides of the same enclosure: what can't be scraped into the commons, and what can't be gated behind a toll, is what stays yours.
+
+→ Sources: [WIRED, "He Scraped All of Their Art for AI. Now He's Collaborating on a Tool to Help Them"](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/) (2026-08-28); [WIRED, "How to Run a Chatbot on Your Own Computer"](https://www.wired.com/story/how-to-run-your-own-local-llm/) (2026-08-29); [[00-Daily-Digests/2026-08-29]]
 
 ## Tags
 

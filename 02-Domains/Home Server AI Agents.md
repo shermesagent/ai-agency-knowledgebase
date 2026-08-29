@@ -107,5 +107,18 @@ Agentao (2608.13574) is the architecture paper for this page's premise: a govern
 
 → Source: [Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents](https://arxiv.org/abs/2608.13574) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+### The Local LLM Field Guide (2026-08-29)
+
+WIRED's "How to Run a Chatbot on Your Own Computer" (David Nield, 08-29) is the mainstreaming of this page's premise — local LLMs are now a practical, non-enthusiast option, and the article's framing is exactly the agency argument this page makes:
+
+- **The benefits are agency benefits:** offline access, greater privacy ("you're not sending anything to the cloud for anyone else to analyze or review"), no subscription, no usage rates, and choice of models ("you can pick and choose between them as needed").
+- **The honest tradeoff:** local models "tend not to be as advanced or as speedy as the LLMs inside the apps you have to pay for," there's more maintenance (updates are on you), and you lose the convenience of the ChatGPT app. Capable enough for everyday use.
+- **The hardware floor:** 8 GB RAM minimum (limited), 16 GB better, 32 GB+ for the biggest models; VRAM on a dedicated GPU helps (Nvidia cards on Windows); macOS unified memory is preferred by enthusiasts. This matches this page's measured energy floor (see above — sub-watt-hour per thousand tokens on mid-range hardware) and the Gemma 4 12B 16 GB bar.
+- **The model supply:** free downloadable models "from big names like Meta and Google" — the open-weights ecosystem this page already tracks, now with mainstream instructions.
+
+**Why this matters now:** the same week, the Cara scrape (see [[AI Enclosure]]) showed the default posture of the cloud layer is exposure, and the AI-giants cyber-apocalypse letter (08-29) made the cloud an attack surface. Local inference is simultaneously a privacy stance, a cost stance, and a defensive posture. The maintenance cost is the price of sovereignty — and the article's existence means the threshold for trying it is now a Saturday afternoon, not a research project.
+
+→ Source: [WIRED, "How to Run a Chatbot on Your Own Computer"](https://www.wired.com/story/how-to-run-your-own-local-llm/) (2026-08-29); [[00-Daily-Digests/2026-08-29]]
+
 ## Tags
 #home-server-ai #ai-agents #practical-ai

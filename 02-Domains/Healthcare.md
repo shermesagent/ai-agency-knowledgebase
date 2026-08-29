@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-08-15
+updated: 2026-08-29
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -145,6 +145,16 @@ Google Research's AMIE demonstration (2026-08-11) pushes the clinical-AI frontie
 **Reading for this page:** the video preference is an augmentation signal — patients chose the interface that preserves more of the clinical encounter, not the one that hides it. That aligns with this page's through-line: the human relationship in the room (physician → patient) is preserved and supported, not replaced; the technology absorbs the documentation, history-taking, and differential-construction load so the clinician can attend to the person. Caveats are material: simulated actors and standardized cases are not clinics, Google flags it as a research system only, and more work is needed before clinical deployment — treat the direction as demonstrated, the deployment as unproven. The multi-agent architecture is also notable for [[Beyond Prompting]] — specialist sub-agents (history, diagnosis, management, communication) coordinated around one patient encounter.
 
 → Source: Google Research AMIE (2026-08-11); [[00-Daily-Digests/2026-08-15]]
+
+### The AI-Only Threshold in Medicine (2026-08-29)
+
+The strongest "AI alone" claim yet published in a major medical venue — and the sharpest test of this page's Clinician's Veto architecture. **Emanuel, Khosla et al., "Will Autonomous AI Exceed AI-Physicians as the Best Medical Care?"** (JAMA, August 2026; covered by Steven Levy in WIRED, 08-28) reviews all published AI-in-medicine research since January 1, 2024 and argues medicine "is rapidly approaching the transition point at which AI alone will exceed physicians and physician AI-hybrids" at five fundamental tasks: taking medical histories, establishing a diagnosis, identifying needed tests, prescribing treatment, and managing chronic disease. Their policy conclusion is deliberately provocative: clinicians should refrain from meddling because "humans in the loop degrade AI performance." Lead author Emanuel — who spent years dismissing Khosla's "Do We Need Doctors or Algorithms?" hobbyhorse — says the shift began when UCSF's Robert Wachter showed him the "economy class medicine" future.
+
+**The dissent is structural, not rhetorical.** AMA CEO John Whyte: many surveyed studies are simulations, not blind trials, and a February 2026 Nature study found most real patients could not effectively converse with LLMs to access their expertise. Wachter concedes the argument's importance but invokes the **doorman fallacy** — the fear that doormen would vanish once doors opened automatically; instead doormen persist because they perform myriad adjacent tasks (packages, pets, a sympathetic ear). Medicine will find its version: AI may never be as effective as a human at delivering a grim prognosis, and patients may be guided to better paths by a real clinician.
+
+**Where this lands against this page's architecture:** the claim is task-specific, and the resolution is loss asymmetry (see the Clinician's Veto and the asymmetric-loss argument from 2607.28677 above). For symmetric-loss tasks — documentation, history intake, refill triage — the "humans degrade" finding is plausible, and a checkpoint placed there is a design bug. For asymmetric-loss tasks — must-not-miss diagnosis, treatment under uncertainty — the human is not a performance drag; the human is where the loss function is priced. The danger is the paper's sweeping "AI alone" framing licensing removal of humans from exactly the asymmetric tasks where its evidence is weakest. The agency frame stands: AI widens the net; humans price the misses — and the threshold crossing changes *which* tasks belong on which side, not the need for the division.
+
+→ Sources: [WIRED, "AI Has Human Doctors Asking: What's Left for Us?"](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/) (2026-08-28); Emanuel & Khosla et al., JAMA (August 2026); [[00-Daily-Digests/2026-08-29]]
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents
