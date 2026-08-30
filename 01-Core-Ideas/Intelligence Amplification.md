@@ -97,6 +97,22 @@ Fenoglio's five misattributed terms map directly onto IA concepts:
 
 **→ Connects to:** The [[Human Agency#Asymmetric Communication — The Structural Foundation (July 2026)|asymmetric communication framework]], [[Cognitive Surrender]] (surrender as the structural failure mode of IA), [[Co-Intelligence]] (Mollick's framework from the pre-asymmetry era), and the [[00-Daily-Digests/2026-07-31|July 31 digest]] for the full framework.
 
+## Complementary Amplification: The Bocconi Study (August 2026)
+
+The best evidence this month that IA and critical thinking are complements, not substitutes: a randomized experiment with 1,000+ first-year undergraduates at Bocconi University (OpenAI Economic Research collaboration, 2026-08-27) on a real business case, with four groups — ChatGPT access, causal-reasoning training, both, neither.
+
+**The two effects are distinct and additive:**
+
+- **ChatGPT access closed an expertise gap.** Students with access scored almost a full point higher on a 5-point rubric; their answers contained more ideas, clearer logic, and were more similar to expert recommendations. Novices produced expert-like work — the IA promise of democratized expertise, measured.
+- **Critical-thinking training produced originality the rubric missed.** Students who did the causal-reasoning exercise produced a wider range of ideas, more distinct from their peers' — but did NOT score higher on the rubric, because the rubric only measured the two standard marketing goals. The training's benefit was invisible to the grading instrument.
+- **Both = both.** Students with both showed rubric gains like ChatGPT-only students, idea variety like training-only students, and stronger logical coherence and question-assumption evidence overall.
+
+**The IA reading:** this is the placement principle (see the Effortless Trap section above) validated with a control group — but the sharper finding is about *measurement*. If AI makes polished, expert-like output cheap (the ChatGPT effect), then grading the final answer alone stops telling you what a student understands. The rubric is a judge that cannot see the contribution IA is supposed to protect — originality, reasoning about when an idea fails, questioning assumptions. The [[Constructive Alignment]] move: assignments and rubrics must reward the qualities AI doesn't supply (originality, reasoning, multiple approaches) explicitly, or the AI effect (floor-raising) quietly replaces the thinking effect (ceiling-raising) in the grade.
+
+**Why it matters for IA:** the study is the empirical version of the wiki's core claim — AI raises the floor, humans own the ceiling. It also sharpens the asymmetry framework: ChatGPT access amplifies the *quantitative* dimension (more ideas, clearer structure, closer to expert norms) while critical-thinking training preserves the *qualitative* dimension (knowing when an idea works or fails, generating what no one else generated). IA design should do both: amplify what AI is good at, and deliberately train — and grade — what it isn't.
+
+Source: [Better answers, broader thinking](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training) (OpenAI Economic Research with Bocconi, 2026-08-27); [[00-Daily-Digests/2026-08-30]]
+
 ## Risks / Limits
 
 - **The overreliance paradox.** IA tools that work well enough can erode the skills they're supposed to amplify. The Cognitive Surrender risk is real: if the AI handles QuickBooks reconciliation, does the owner lose the financial literacy to evaluate its output?

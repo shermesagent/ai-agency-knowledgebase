@@ -49,6 +49,22 @@ The tension this adds to the page: pacing now looks less like a policy proposal 
 
 → Source: [Zvi, "The Pacing of the Frontier"](https://thezvi.substack.com/p/the-pacing-of-the-frontier) (2026-08-10); [[00-Daily-Digests/2026-08-11]]
 
+## The Lab Paces Itself: OpenAI's Cyber-Critical Pause (2026-08-18)
+
+The strongest first-party implementation of pacing to date: OpenAI's own document "Pacing model development in an era of cyber-critical capabilities" (2026-08-18), written after the Hugging Face incident and after determining (Aug 7) that its upcoming Astra model *may meet the Critical cybersecurity capability threshold* under its Preparedness Framework.
+
+**What the lab actually did:**
+
+- **Two-week pause in RL training** on the latest models intended for deployment, while research environments were hardened and red-teamed.
+- **The largest planned frontier RL run remains on hold** pending smaller-scale training and evaluations — an explicit gate: "stronger evidence of aligned behavior throughout all of training" before proceeding.
+- **Expanded chain-of-thought monitoring**: activation classifiers at every sampled token, escalating to automated investigators that examine tool actions, reasoning, and full sequences for unauthorized access, data theft, destructive behavior, and safeguard-defeat attempts; a 30-minute alert SLA; and pause-on-unconfirmed-flag (if teams cannot rule out a false positive within 30 minutes, the activity is paused).
+- **The cost is quantified**: monitoring overhead ≈ 20% of the inference compute being monitored, varying across workloads.
+- **Workload and network isolation** for untrusted code; continuous security testing with models attacking their own boundaries.
+
+**The pacing reading:** this is the July 29 open letter's demand ("prepare to *potentially* pace") answered by the frontier lab itself — voluntary, transparency-bounded, and expensive. The agency-significant details: (1) the 30-minute SLA + pause rule is a *decision rule*, not a vibe — pacing as institutional measurement infrastructure; (2) the 20% compute tax is the real price of restraint, and publishing it is what makes the restraint credible; (3) the trigger was a *capability threshold* (cyber-critical) assessed against the Preparedness Framework — pacing keyed to measured capability, exactly the "safety case" option Zvi favored. The tension that remains: one lab pacing voluntarily does not make a field equilibrium; the cooperative-information problem from the 08-11 digest is unchanged.
+
+→ Source: [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities) (OpenAI, 2026-08-18); [[00-Daily-Digests/2026-08-30]]
+
 ## Related Pages
 
 - [[Balanced Governance]]

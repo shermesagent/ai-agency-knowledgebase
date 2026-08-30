@@ -194,6 +194,18 @@ The clearest demonstration yet that enclosure has a data front — and that the 
 
 → Sources: [WIRED, "He Scraped All of Their Art for AI. Now He's Collaborating on a Tool to Help Them"](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/) (2026-08-28); [WIRED, "How to Run a Chatbot on Your Own Computer"](https://www.wired.com/story/how-to-run-your-own-local-llm/) (2026-08-29); [[00-Daily-Digests/2026-08-29]]
 
+### 7. The Provider Cut-Off: OpenAI Winds Down Cursor (2026-08-30)
+
+The enclosure front this page has tracked all year is *who gets access* — political approval, subscriptions, compute. The Cursor decision adds the sharpest new mechanism: **the model provider itself decides who may resell its capability, and cuts off counterparties it does not trust.** OpenAI notified SpaceX (2026-08-28) that it will wind down the contract providing OpenAI models to Cursor, with a proposed shutoff of November 12, 2026 — the maximum notice its contract allows. The stated reason: "we cannot be confident that SpaceX will use our technology within our terms of service, based on our experience with Elon Musk's companies violating contracts" — Twitter broke its contract terms after the acquisition, and xAI admitted under oath that it distilled OpenAI data to train its models.
+
+**Why this is enclosure:** Cursor was the model-neutral platform whose post-acquisition fate was tracked here in July ([[AI Orchestrator]], [[Human Agency]], [[Superagency]]). The resolution is not a regulatory ruling on platform neutrality — it is a *unilateral provider decision*. Model supply is a governance lever: the company that trained the models decides which distribution channels may carry them. The agency cost is concentrated on developers who built workflows on Cursor+OpenAI — their orchestration layer just lost its model supplier, with roughly 11 weeks of notice.
+
+**The accountability signal:** OpenAI cites a new bar — "a new level of accountability to ensure our upcoming model, Astra, is being used in accordance with our terms," where Astra may meet the Critical cybersecurity capability threshold (see [[Pacing the Frontier]]). As capability rises, the provider's assessment of the *user's* reliability becomes a condition of access. That is enclosure with a safety rationale — which makes it harder to contest and easier to extend to commercial ends.
+
+**The tension for the enclosure frame:** unilateral provider discretion is a real check on a bad actor (Musk's documented ToS violations), but it is also unaccountable power — no appeal, no due process, no standard. The agency question is not whether OpenAI was right about Cursor; it is whether "the provider decides who is trustworthy" is the governance model we want for frontier access. The counterforce remains the one this page has tracked from the start: open weights, local inference ([[Home Server AI Agents]]), and the architecture of participation ([[The Participation Problem]]) — the escape valve that makes any single provider's cut-off survivable.
+
+→ Source: [OpenAI, "Our decision on Cursor following its acquisition by SpaceX"](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) (2026-08-28); [[00-Daily-Digests/2026-08-30]]
+
 ## Tags
 
 #governance #human-agency #risk #counterarguments #practical-ai
