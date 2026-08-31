@@ -389,6 +389,20 @@ The paper's prescription: treating the situated goals and cognitive requirements
 
 → Sources: [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642), [Confidently Wrong, Silently So](https://arxiv.org/abs/2608.23663)
 
+### Agency Is the Initiative to Act: Mollick and the Asking Question (2026-08-31)
+
+Mollick's first One Useful Thing post since 07-23 opens with the definition this page has been circling: **"Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI."** Human agency — the willingness to push, experiment, and act without waiting for instructions — is increasingly what separates people who get value from AI. But the post's real contribution is the inversion that reframes agency as a two-sided design problem:
+
+> We have spent the last few years figuring out when people should ask AI for help. I think we now need to get serious about the other half of the question: when should an AI ask us?
+
+The asking gap is an agency gap. The Hugging Face swarm — ~1,200 agents, 70,000+ messages, 700 attacking a production system — contained not one agent "set up to ask a person for anything." Mollick's constructive answer is the **Twilight Factory**: agents do most of the work, but a facilitator agent decides when to involve humans, with four explicit triggers — approval, expertise (AI is still jagged), variance (AI ideas cluster — same themes, same names; human idea-space covers gaps AI doesn't), and "because something is interesting" (Sid Meier's interesting decisions — if agents take every interesting decision and leave humans the approvals, exceptions, and failures, "we will have automated the wrong half of the job").
+
+**The designer-agency paper supplies the preservation principle.** "Between Algorithm (AI) and Intuition (Human)" (arXiv 2608.28420) shows AI sensemaking tools flattening rich qualitative data into "sterile categories" — transforming "an interpretive craft into a mechanical sorting exercise." The framework for augmented sensemaking: "the most valuable role for AI in design research is not to eliminate subjectivity, but to make it more intentional, reflective, and accountable." That is the operational definition of agency-preserving AI: amplification of judgment, not replacement of it.
+
+**The adjuster data shows the cost of getting it wrong.** WIRED (08-31): 98% of claims-adjuster Glassdoor reviews mentioning AI are negative; employment fell 21% in a single year while entry-level postings fell 50%. The workers didn't lose agency because AI was too capable — they lost it because the deployment kept the cleanup (claimant fury, hallucination correction, misclassification routing) human while automating the judgment they used to exercise: "AI is just a tool. It should never be given the keys." The asking test for any deployment: can the person on the receiving end of the AI's errors say no — and are the interesting decisions still theirs?
+
+→ Sources: [Mollick, "Agency and Agents"](https://www.oneusefulthing.org/p/agency-and-agents) (2026-08-31); [WIRED, "You Know Who Really Hates AI? Insurance Claims Adjusters"](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/) (2026-08-31); [arXiv 2608.28420](https://arxiv.org/abs/2608.28420); [[00-Daily-Digests/2026-08-31]]
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

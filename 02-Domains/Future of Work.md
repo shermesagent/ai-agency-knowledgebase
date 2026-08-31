@@ -179,6 +179,19 @@ Zvi adds the inversion: **below some threshold of AI ability, AI is primarily a 
 
 → Sources: [Zvi, "AI #183: Pre Post Mortem"](https://thezvi.substack.com/p/ai-183-pre-post-mortem) (2026-08-27); [WIRED, "Inside Meta's Push to Put Robots to Work in Data Centers"](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) (2026-08-28); [[00-Daily-Digests/2026-08-29]]
 
+### The First Post-Crossing Labor Data: Insurance Adjusters (2026-08-31)
+
+The threshold model (08-29) has its first hard post-crossing labor data point, and it is not subtle. WIRED's Kate Taylor ([You Know Who Really Hates AI? Insurance Claims Adjusters](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/), 08-31):
+
+- **Employment fell 21% between May 2025 and May 2026** — the BLS had forecast a 5% decline over a *decade*. Entry-level postings are down **50% since 2025**.
+- **Glassdoor research: 98% of claims-adjuster reviews mentioning AI are negative** — enough to crown adjusters the biggest AI haters in the American workforce. The complaints: "AI-obsessed leaders forcing error-prone AI on them and their clients."
+- **Lemonade's AI Jim handles 96% of initial reports; ~55% of all claims are automated** — the intake tasks crossed first, exactly as the threshold model predicts (symmetric loss, bounded scope).
+- **The human residue is the asymmetric-loss cleanup:** misclassified claims needing rerouting, hallucinations relayed to claimants and attorneys, incorrect payouts from smudged documents — and the adjuster absorbs the fury because "customers often don't realize when AI is the root cause." Ahmad Jackson quit; "AI is getting things wrong... and it's implementing more work onto the adjusters."
+
+**Why this is the page's leading indicator:** the adjuster pattern is the drive-thru/sysadmin pattern with the strongest data — the entry rung is being removed while the asymmetric residue stays human, and the people left holding it are furious. Note the counterfactual the sources support: adjusters don't hate AI wholesale — the same workers say it helps with "nuisance calls." The 98% measures *forced adoption with the boundary in the wrong place*, not the technology. The fix is this week's engineering (boundaries at intake, certified alarms, checkpoints before propagation — see [[AI Coding Agents]] and [[Human Review Checkpoints]]), but the trust damage is a lagging indicator that engineering alone won't repair. "AI is just a tool. It should never be given the keys."
+
+→ Source: [WIRED, "You Know Who Really Hates AI? Insurance Claims Adjusters"](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/) (Kate Taylor, 2026-08-31); [[00-Daily-Digests/2026-08-31]]
+
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]

@@ -58,6 +58,16 @@ The 59.5% abstention accuracy finding (arXiv 2607.10059, July 14) applies direct
 
 → Connects to: [[AI Agent Revolution]], [[Agentic Workflow Patterns]], [[Future of Work]], [[AI Orchestrator]], [[Agentic Technical Debt]]
 
+## The Trusted Tool Boundary: OBPE and Runtime Alarms (2026-08-31)
+
+The coding agent's agency problem has a precise name now: **give an agent a human's credential and it inherits the person's reach without the judgment that limits its use** ([If Agents Were Angels](https://arxiv.org/abs/2608.27646), arXiv 2608.27646). Prompts are a brittle guardrail — one fallible reasoner interprets the task and enforces its limits. **Out-of-Band Policy Enforcement (OBPE)** puts the boundary outside agent reasoning: a trusted proxy authorizes the typed operation and resource, narrows the query before the backend call, then filters records/fields or masks values in the response. A data policy owner sets the maximum grant; agent policy can only narrow it. Against Jira/ServiceNow mocks with 20 adaptive red-team tasks, OBPE cut trace failures from **57.6% to 0.2%** in 3,621 trials. For coding agents with production/network access, this is the enforcement layer the "least privilege, logs, dry runs" rule has been missing.
+
+**The runtime-alarm complement ([CURA](https://arxiv.org/abs/2608.27808), arXiv 2608.27808):** coding agents don't report their own failures — 90% of a capable agent's failures ended with a success claim in CURA's benchmark. An external monitor reading only harness telemetry (no model internals) can certify false-alarm rates and gate mid-execution oversight, recovering 23 of 70 failures. The verified-checkpoint pattern this page tracks (StateM's checked transitions, Takano's checkpoint-beats-guardrails) now has a certified alarm primitive.
+
+**ChatGPT Work (Willison, 08-30) is the new default agent environment — and it shows how far the boundary question is from solved.** Work Cloud ships code execution with internet access (default open to all domains — only configurable via allowlist), a headless Chrome browser, a persistent filesystem shared between sessions, and sub-agent sessions. Two design wins worth copying: the browser prompts *the human* for passwords and 2FA (credentials never round-trip through the model), and the domain allowlist exists at all. The default-open posture is the OBPE inverse — capability without boundary — and it's the environment where the 94% sabotage-detection failure (Ye et al., above) gets its real-world test.
+
+→ Sources: [OBPE, arXiv 2608.27646](https://arxiv.org/abs/2608.27646); [CURA, arXiv 2608.27808](https://arxiv.org/abs/2608.27808); [Willison, "Understanding ChatGPT Work"](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) (2026-08-30); [[00-Daily-Digests/2026-08-31]]
+
 ## Practical Examples
 - Use agents to create failing tests first, propose a patch, run checks, and summarize the diff for human review.
 - Route low-risk maintenance tasks to AI workflows while keeping architecture, security, data migration, and user-impact decisions human-led.

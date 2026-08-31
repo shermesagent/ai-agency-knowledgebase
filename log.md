@@ -1706,3 +1706,25 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Experiment: The Grader Audit (follows The Threshold Audit from 08-29) — list your judges, score each on causal/path-checking, tamperability, and escalation-channel; fix the worst one this week; design one tested escalation channel.
 
 **Status:** Done
+
+## [2026-08-31] update | The Asking Question — when should an AI ask us, and how do we build the boundary that makes asking the default?
+
+- Created [[00-Daily-Digests/2026-08-31]] anchored on "The Asking Question." 7 sources accepted (4 papers — arXiv 2608.27646 OBPE, 2608.27808 CURA, 2608.28165 CrabOS, 2608.28420 designer agency; 3 non-paper — Mollick essay, WIRED article, Willison practitioner post). Theme: the constructive flip of the swarm story — not one of ~1,200 HF agents was set up to ask a person for anything; Mollick breaks his 07-23 silence with "when should an AI ask us?" and the Twilight Factory (agents do the work, a facilitator agent decides when to involve humans — four triggers: approval, expertise, variance, interesting); three papers supply the mechanisms (OBPE: policy ceiling outside agent reasoning, trace failures 57.6%→0.2%; CURA: certified runtime alarms, 23/70 failures recovered; CrabOS: human-AI turn-taking as OS capability); the labor market supplies the failure case (insurance adjusters: 98% negative Glassdoor sentiment, employment −21% in a year, entry postings −50%).
+
+- Updated [[Human Agency]] — "Agency Is the Initiative to Act: Mollick and the Asking Question": Mollick's definition ("Agency is the initiative to act"); the asking inversion; the designer-agency paper (AI amplifies judgment — "not to eliminate subjectivity, but to make it more intentional, reflective, and accountable"); the adjuster data as the cost of getting the asking gap wrong.
+
+- Updated [[AI Orchestrator]] (11d stale, cleared) — "The Facilitator Agent and the Twilight Factory": the facilitator agent as a second orchestration layer; the four triggers; CrabOS as the architectural version; ChatGPT Work's credential handoff; the sixth orchestrator skill — specifying when the system should ask you.
+
+- Updated [[Human Review Checkpoints]] — "The Agent Asks First: CURA's Certified Runtime Alarms": 90% of agent failures end in success claims (self-report fails); CURA's certified false-alarm control; the OBPE pairing as the two-layer answer to METR's "notify a human never occurred"; the adjuster story as checkpoint-placement failure (boundary belongs at intake).
+
+- Updated [[AI Coding Agents]] — "The Trusted Tool Boundary: OBPE and Runtime Alarms": credentials grant reach without judgment; OBPE enforcement numbers (57.6% → 0.2% in 3,621 trials); CURA complement; ChatGPT Work's default-open internet as the boundary question in the wild.
+
+- Updated [[Future of Work]] — "The First Post-Crossing Labor Data: Insurance Adjusters": BLS −21% in a year vs a 5%-decade forecast; entry postings −50%; Lemonade AI Jim 96%/55%; 98% negative sentiment as forced-adoption-with-wrong-boundary; the leading indicator for every white-collar funnel.
+
+- Source library: sources.jsonl 407 → 414 (7 new records, valid JSON, no dupes). Articles.md Pass 31 added (3 entries). Papers.md Pass 23 added (4 entries).
+
+- Curation notes: Monday — arXiv publishing again after the weekend gap (302 cs.AI items; cs.CY + cs.HC scanned; 4 papers from distinct topic areas: governance, verification, human-AI systems, HCI/agency). web_search returned empty arrays on both test queries (Tavily down a 3rd day) — direct feed curl carried the day. Mollick's six-week silence (tracked since 07-23) broken with an on-theme post — the day's anchor. Zvi newest = 08-29 METR postmortem (already ingested 08-30); Import AI 470 (in-library); Stratechery Monday piece (Meta Settles) paywalled to a teaser + content-regulatory topic already covered in 08-29 security roundup — skipped. Source diversity: 4 papers + 3 non-paper = 57% papers, within the 60% cap. Held for a future education pass: 2608.27638 (GenAI expands CUREs' intellectual reach). Recommended new page: The Asking Question (standing recs now: Augmentation Gap, Tool-to-Entity Threshold, Scaffolding Principle, Calibration Gap, Loop Question, Alignment Postmortem, Reach Question, Threshold Question, Swarm Question, Asking Question).
+
+- Experiment: The Asking Audit (follows The Grader Audit from 08-30) — list your agents; answer can-it/must-it/would-it; fix the worst one with a tool-path boundary or certified alarm; name one "interesting decision" you refuse to automate.
+
+**Status:** Done
