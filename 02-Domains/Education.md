@@ -287,5 +287,23 @@ The literacy thread on this page (the 11.1% benchmark, the normalization gap) ha
 
 → Sources: arXiv 2608.25815; arXiv 2608.25063; [[00-Daily-Digests/2026-08-27]]
 
+## Delegating Before Learning: Students Hand Over Their Highest-Stakes Writing (2026-09-01)
+
+**[arXiv 2608.28837](https://arxiv.org/abs/2608.28837)** — an interview study with twelve students on generative AI in academic communication finds delegation is **inverse to the stakes of the skill**: students delegated professional messages to AI *most* where the pressure to sound professional is highest — email to instructors and administrators. AI involvement ranged from correcting the student's own text to working out and writing the message outright; students checked AI-written text against two criteria: whether it looks like AI and whether it sounds like them.
+
+Modeling the AI-mediated process against an unaided model of writing the same messages, three differences emerge:
+
+1. **The learning loop that builds writing skill is removed** — the draft, revise, receive-response, adjust cycle never runs for the student.
+2. **The message is no longer written for its specific recipient** — the audience-specific tuning that is the actual professional skill is outsourced.
+3. **The confidence a successful exchange returns goes to using the system, not to the writer's own ability** — success reinforces tool competence, not self-efficacy.
+
+Two risks follow: individual capacities never form, and authenticity/trust in communication become work — every message requires checking whether it "sounds like me" rather than being me.
+
+**Why this matters for education:** This is the [[Cognitive Surrender]] thread at the skill-formation layer, and the exact failure mode the post-instrumental learning framework (2607.28041) warns about — the capacities (end-setting, reason-giving, contestability) are precisely what the delegation model removes. The students are not lazy; they're rational under pressure, delegating where failure is most visible and most costly. The design response is to move the boundary to the *learning* point: draft-support (outlines, tone checks, sentence-level suggestions) preserves the loop; full-message generation severs it. And "sounds like me" is a teachable, rubric-able criterion — the calibration task the traffic-light assignment (08-25) already experiments with, now with a research basis.
+
+**Connection to the handover thread:** the delegation-before-learning study is the individual-level case of the [[Agentic Workflow Patterns|handover layer]] — every handover of work to AI carries a choice about whether the learning loop crosses the boundary with it.
+
+→ Source: arXiv 2608.28837; [[00-Daily-Digests/2026-09-01]]; see also [[AI Writing Partners]]
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

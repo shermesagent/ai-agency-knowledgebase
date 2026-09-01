@@ -149,6 +149,43 @@ An agent contribution workflow that fails any of these three is ungovernable —
 
 → Sources: [PHP-AIO Protocol](https://arxiv.org/abs/2607.15944), [Coercion and Deception in AI-to-AI Management](https://arxiv.org/abs/2607.15434), [Agent Governance Manifest](https://arxiv.org/abs/2607.15769)
 
+## The Handover Layer: What State Must Cross the Boundary? (September 2026)
+
+The Abstention Layer asked "should the agent stop?" The Calibration Layer asked "when the agent acts, does safety hold?" The Handover Layer asks the mechanical question underneath both: **when control passes between human and AI, what state must travel with the work?** Three September 2026 sources converge on the answer: the state that crosses the boundary is not the artifact — it is the typed task state, the unresolved decision boundaries, and the learning loop.
+
+### Structured State Reconciliation: Handover as a Provenance Problem
+
+The Structured State Reconciliation paper (2608.28907) reframes task handover as an alignment problem between two partial records: **system records** (precise, timestamped, but only partially observing the task) and **human reports** (capturing intent and task knowledge no log contains, but vulnerable to omission and memory error). The proposed pipeline converts both into a shared typed task-state representation, aligns and reconciles their facts, detects conflicts, and generates structured handover reports — evaluated on 13 paired task states in a controlled spatial multitask environment, using task-grounded metrics that estimate the state-reconstruction cost a report would spare a recipient and the misinformation burden it would impose.
+
+**Workflow implication:** Every handover in an agentic workflow — human→AI, AI→human, AI→AI — should produce a **structured handover report**, not just a finished artifact. The report names: what was done, what is pending, what was assumed, and what conflicts were detected between the system's record and the human's account. This is the operational form of "state must travel with the work." A handover without a typed task state is a handover where the successor (human or agent) must reconstruct context from scratch — and reconstruction is where errors, omissions, and agency loss live.
+
+**Connection to Parallel Orchestration:** The reason multi-project orchestration is cognitively expensive ([[Parallel Orchestration]]) is that switching projects requires recalling "where B stands." A structured handover report is the external memory that makes the switch cheap: the state is written down, typed, and conflict-checked — the orchestrator's mental queue becomes a file.
+
+### O-I-B-A-R: Externalizing the Decision Boundaries Procedures Don't Capture
+
+Why Organizational Rules Fail AI (2608.29055) identifies a recurring class of organizational AI failures as a **knowledge representation problem at the sociotechnical interface**: the AI receives the procedure, while the organization operates on the procedure *plus* negative boundaries, runtime judgments, responsibility assignments, and learning history. Formal descriptions omit the contextual know-how experts use when judgments are uncertain.
+
+The proposed scaffold — **O-I-B-A-R (OPEN, IS, BUT, ACTION, RESULT)** — externalizes those missing boundaries:
+- **IS** records when a judgment holds
+- **BUT** records a concrete failure containing information beyond the logical negation of IS
+- Comparable success/failure cases decompose toward a minimally sufficient changing variable → a value-bearing decision dimension
+- A **suspension** represents the state where the dimension is known but its current value is unresolved — specifying what must be measured, asked, retrieved, or escalated to a human
+- **RESULT** confirms a boundary, shifts a threshold, or exposes a new dimension
+
+**Workflow implication:** For every automated decision in a workflow, name the IS (when this rule holds) and the BUT (a concrete failure that negates it). The suspension state is the explicit handoff definition — it converts Mollick's "when should an AI ask us?" ([[AI Orchestrator]]) from an aspiration into a typed field: *what must be measured, asked, retrieved, or escalated, and to whom.* A workflow whose playbooks contain only positive instructions is a workflow that has handed the AI the procedure without the judgment.
+
+**The candor tension (the paper's own caveat):** durable, attributable failure histories suppress the candor on which useful boundary knowledge depends. Externalization must be designed as an organizational intervention with real costs and incentives — people will not log the failures that teach the system if the log can be used against them. This is the same lesson as the MIT TR culture critique (08-31): observability infrastructure fails when the culture punishes what it reveals.
+
+### Delegating Before Learning: The Handover That Removes the Loop
+
+The Delegating Before Learning interview study (2608.28837) shows the handover failure mode at the individual level: twelve students delegated professional messages to AI **most where the pressure to sound professional is highest** — email to instructors and administrators. AI involvement ranged from correcting the writer's own text to writing the message outright; students checked AI text against two criteria: whether it looks like AI and whether it sounds like them.
+
+Three differences emerge versus an unaided writing model: (1) **the learning loop that builds writing skill is removed**; (2) **the message is no longer written for its specific recipient**; (3) **the confidence a successful exchange returns goes to using the system, not to the writer's own ability.** Two risks follow: individual capacities never form, and authenticity/trust in communication become work.
+
+**Workflow implication:** When designing any workflow, check for the delegation-before-learning handover: is this handover removing a skill the human needs to keep (or build)? The fix is not banning delegation — it's placing the boundary at the *learning* point: draft-support (outlines, tone checks) preserves the loop; full-message delegation severs it. "Sounds like me" is a teachable review rubric, not just a student's aesthetic preference.
+
+→ Sources: [Structured State Reconciliation](https://arxiv.org/abs/2608.28907), [Why Organizational Rules Fail AI](https://arxiv.org/abs/2608.29055), [Delegating Before Learning](https://arxiv.org/abs/2608.28837), MIT Technology Review 2026-08-31
+
 ## The Shaping Layer: Architecture Determines Agent Behavior (June 2026)
 
 The emerging research on agent architectures converges on a single thesis: **architecture shapes agent outcomes more than model capability.** Three new papers from June 25, 2026 make this concrete:
