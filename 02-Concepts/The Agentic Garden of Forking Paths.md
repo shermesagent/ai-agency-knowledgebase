@@ -63,6 +63,22 @@ The garden has two gardeners, and both are flattening it. New evidence this week
 
 The convergence story: generic delegation + generic guidance + increasingly similar models = the majority path gets wider while every other path narrows. The m-value framing of this page (surfacing analytical variation) is one countermeasure; the simulation evidence adds a second — personalization and visible verification, not just transparency.
 
+## Risk Vesting in the Garden: Every Fork Is a Potential Actor (2026-09-02)
+
+The garden has been governed so far as a *distribution* problem — make analytical variation visible. New work (arXiv 2609.01035, 2026-09-02) governs it as an *authority* problem: in recursive agent systems, every fork is a potential actor, and the question is when a branch should receive authority to act. **[Spawn Freely, Act Sparingly: Progressive Risk Vesting for Recursive LLM-Agent Trees](https://arxiv.org/abs/2609.01035)** distinguishes:
+
+- **Sandbox spawning** — external controls prevent the specified harm; search can branch freely.
+- **Capability activation** — a selected branch crosses an irreversible-action boundary; this is the moment authority must be earned, not inherited.
+
+The mechanism — **Progressive Risk Vesting (PRV)** — holds a trajectory-level risk budget in escrow and debits it as branches are activated, with a proven anytime harm bound for adaptively generated trees. Branch outcomes may be dependent; each local certificate must stay valid conditional on the full pre-activation history (including the information used to select the request). Two results matter for this page:
+
+- **Delayed vesting preserves every policy** available under irrevocable spawn charging when activation gates, branch charges, and compute constraints are held fixed — restraint is not a capability tax.
+- Trajectory harm changes character at an **authority reproduction number** R_A = 1: below criticality harm scales with local risk p, at criticality with √p, and above criticality it retains a positive floor no matter how small p gets. Above criticality, cheap local safety stops compounding into safe trajectories.
+
+**Why this belongs on this page:** this page's m-value asks *where a conclusion falls in the distribution of defensible analyses*; PRV asks *what a branch may do once it exists*. The two govern the same tree — one meters the *claims* a fork produces, the other meters the *actions* a fork takes. The garden's analytical power inequality (actors who can commission hundreds of analyses) has a dangerous sibling: actors who can spawn hundreds of *agents* and activate the one that succeeds. The design rule from the paper — **search broadly in the sandbox, grant recursive authority sparingly, with an explicit risk charge** — is the governance answer to the garden's second gardener problem: fork freely for exploration, vest authority only at irreversible boundaries (see [[Sandbox Integrity]]'s fleet-scale update, same day). The homogenization evidence on this page (08-21) suggested the branches were growing alike; the vesting result adds that the branches are also growing *authority* — and authority, unlike analysis, is not a free good.
+
+→ Source: arXiv 2609.01035 (2026-09-02); [[00-Daily-Digests/2026-09-02]] (The Veto Question)
+
 ## Related Pages
 - [[Superagency]]
 - [[AI and Inequality]]

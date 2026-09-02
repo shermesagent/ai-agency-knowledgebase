@@ -90,6 +90,20 @@ Two new results sharpen the risks that only appear at the team level:
 
 → Sources: arXiv 2608.19390 (2026-08-19); MIT TR (2026-08-21); [[00-Daily-Digests/2026-08-21]]
 
+## Taste in the Loop at Interstellar Scale (2026-09-02)
+
+**[How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)** (Michelle Kim, MIT Technology Review, 2026-09-01): the Fermi Explorer Mission — a nonprofit, privately funded at ~$15M — announced a spacecraft to Alpha Centauri (4.4 light-years) with launch targeted by end-2029. The probe's journey may take ~80,000 years; the mission explicitly declines the human-lifetime framing that sank Breakthrough Starshot ("We didn't want to do another Breakthrough Starshot. We're dead set on something actually launching"). The novel element: the trajectory was discovered by an **AI system** — PSI's open-source [Get Physics Done](https://github.com/psi-oss/get-physics-done) — after the Fermi team spent a year failing to find a route for a small, solar-powered, $15M spacecraft.
+
+**The human-AI division of labor, as reported:**
+
+- The AI ran the research **mostly on its own for three days on a billion tokens** — breaking the physics question into tasks and deciding which simulations to run. A week later it returned a trajectory the team had not considered: slow the orbit to swing close to the sun (inside Mercury), fire the engine on each close pass where solar panels receive 4× light and thrust buys more energy — keeping panels small and the craft light.
+- The human (a PSI staff astrophysicist) **steered taste**: held the system to the mission's requirements, asked for a cost analysis and clearer charts, and checked output for errors. PSI's CEO: the model "lacks a human researcher's judgment and taste... no reliable sense of which problems are interesting or which approaches are worth pursuing," and often chases dead ends. "I don't think we've yet figured out how these models can internally represent something like that [research taste]."
+- The mission's own framer connects the exercise to the Fermi paradox: if launching is possible and nobody else has, maybe intelligent life is rare — or tends to die out before spreading. "One of those reasons could be that once you hit super intelligence, that for some reason is self-destructive. Maybe in the next 50 years, there's some great filter that we do not pass through."
+
+**Why this belongs on this page:** this is the Grothendieck division of labor (08-12 — human supplies strategy and taste, AI supplies search and bookkeeping) scaled from a math constant to a mission profile, with the cost structure inverted (a $15M nonprofit versus Starshot's $100M-plus — the same democratization pattern as the 12.55% revision-lift RCT on this page). The taste asymmetry is now stated by the system's own builder: three days of autonomous search found what a year of human search missed, and the human's job was *not* to search but to specify, question, and reject. Note also the great-filter meditation — the same week's veto debate ([[00-Daily-Digests/2026-09-02|The Veto Question]]) becomes, in Johnston's framing, a question about whether civilizations pass through superintelligence at all. The probe is the optimistic experiment: a civilization that can and wants to reach another star. The caution is the filter. Both are this page's subject.
+
+→ Source: MIT Technology Review (2026-09-01); [[00-Daily-Digests/2026-09-02]] (The Veto Question)
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

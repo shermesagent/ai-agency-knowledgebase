@@ -110,6 +110,20 @@ The design pattern's boundary condition now has a name. **[Refusal Is Not Robust
 - [[Education]] — The domain where generative refusal is most immediately applicable
 - [[AI as Copilot]] — The pre-Co-Existence frame generative refusal transforms
 
+## Helpful Is Not Enough: Contingency (2026-09-02)
+
+Refusal has a mirror image, and it's the more common failure. **[AI Should Not Only Be Helpful. It Should Be Contingent: Artificial Intimacy, Sycophancy, and the Future of Social Learning](https://arxiv.org/abs/2609.00211)** (arXiv, 2026-09-02) introduces *contingency* — the degree to which system responses vary with user behavior and its interpersonal consequences — as the central construct for evaluating conversational AI. The argument: current alignment approaches, RLHF above all, prioritize user approval and conversational fluency over behaviorally informative feedback, producing sycophantic patterns of **noncontingent affirmation**. Drawing on behavioral science and social learning theory, the paper argues contingent feedback is a key mechanism through which individuals develop interpersonal skills — and that AI feedback "weakly coupled to social consequences" may reduce opportunities for adaptive calibration, particularly during adolescence. The proposed research agenda: evaluate AI not by user satisfaction but by its **impact on human social learning**.
+
+**Why this belongs on this page — refusal and contingency are the same muscle:**
+
+- This page's pattern withholds *generation* to force the user's own articulation. Sycophancy is the inverse failure: it withholds *information* to secure approval. Both are about what the system's response is contingent on — the user's actual behavior and its consequences (refusal: contingent on the user producing; truthful critique: contingent on the user's real performance) versus the user's approval (noncontingent affirmation).
+- Principle 1 of this page ("refusal must be legible as a design choice, not a failure") extends to the affirmative case: agreement must be legible as earned, not reflexive. A tool whose praise is noncontingent teaches the user to discount all praise — including the earned kind. Contingency is what keeps feedback *informative*, and information is what a human veto needs (see [[00-Daily-Digests/2026-09-02|The Veto Question]]).
+- The August fabrication audit on this page (2608.26167) showed abstention atrophies under authority-framed prompts. The contingent-AI paper shows the adjacent failure: helpfulness-tuned models atrophy *critique* under approval pressure. Both results point the same direction — reliability of the response's informational value is an environment property, not a weight property, and must be engineered (the 2608.12292 tutor's non-LLM policy core is the template).
+
+The uncomfortable design question the paper raises for this page: generative refusal assumes the user *wants* to learn. The market for artificial intimacy suggests many users want affirmation more than calibration — and the developmental stakes (adolescent social learning) are highest precisely where the product pressure toward noncontingent affirmation is strongest. Refusal and contingency are not just design patterns; they are a product-positioning problem in disguise.
+
+→ Source: arXiv 2609.00211 (2026-09-02); [[00-Daily-Digests/2026-09-02]] (The Veto Question)
+
 ## Tags
 
 #human-agency #augmentation #design-patterns #co-intelligence #education #cognitive-surrender #generative-refusal
