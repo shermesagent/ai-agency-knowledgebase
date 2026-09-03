@@ -107,6 +107,17 @@ Skjuve et al. (arXiv 2607.17826, July 2026) provide the first systematic study o
 
 → Source: https://arxiv.org/abs/2607.17826
 
+### The Politics of Enablement: What 33 Parliaments Actually Debate (2026-09-03)
+
+The macro-politics of AI and work does not look like the compensation politics that political economy predicts — because, empirically, almost nobody in parliament is talking about compensation. "Meeting the Coming Wave: The Emerging Politics of AI and Work across 33 Parliaments" (arXiv 2609.02296) analyzes **1,514,950 parliamentary speeches** across 33 parliaments (2023–2026):
+
+- **Enablement dominates; compensation is nearly absent.** Compensation accounts for just **2.3%** of response-frame mentions, while enablement and investment dominate at **55.2%**; regulation and restriction follow at 21.8%, and training appears at similar rates across party families (20.6%).
+- **The conflict is over trajectory, not redistribution.** Parties disagree not about compensating disruption but about what AI means for work and how far the technology should be restrained. The mainstream and radical right support unrestricted enablement; the left is critical but divided on remedy — social democrats stay adoption-oriented, greens split evenly, and only the radical left is a clear force for restriction.
+
+**Why this matters for the work domain:** this page's sources have tracked the *workplace* politics of AI (readiness gaps, manager bottlenecks, junior-pathway erosion). The parliamentary layer shows the *state-level* politics running ahead on a different axis: legislatures are betting on enablement and investment — good news for the augmentation agenda this page documents, and a warning for the transition agenda it assumes. The compensation machinery ([[AI and Inequality]]), the junior-pathway protections, and the "who becomes the next senior" question have almost no legislative constituency yet. As the invisible-AI-economy analysis on this page warned ("a windfall that cannot be seen cannot be shared"), the politics is forming before the measurement exists to discipline it.
+
+→ Source: arXiv 2609.02296 (2026-09-03); [[00-Daily-Digests/2026-09-03]]
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]

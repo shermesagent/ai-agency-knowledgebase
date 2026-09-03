@@ -93,6 +93,20 @@ The brief's core framing: "Leaders should optimise for workflow economics: small
 
 - Source: https://www.buildingcreativemachines.com/p/ai-and-creativity-monthly-brief-june
 
+### Novelty Is Individual, Diversity Is Collective: Composition as the Creative Design Variable (2026-09-03)
+
+**"Collective creativity in hybrid societies"** (arXiv 2609.02620) names the variable this page's convergence story has been circling for months. The field's disagreement about whether generative AI enriches or impoverishes culture, the paper argues, conflates two different properties:
+
+- **Novelty is a property of single artifacts; diversity is a property of populations.** AI-assisted ideation reliably raises the novelty of individual output while narrowing diversity in the aggregate — the empirical signature of Mikeda's metacognitive adaptation (above) and Presti's algorithmic repetition.
+- **But the narrowing is not inevitable.** Humans and models search in complementary ways; mixed groups can outperform *and* out-diversify groups of either kind alone, and machine-discovered solutions can enter human culture and persist there.
+- **What decides the outcome is composition**: which agents are present, in what proportion, and how they are connected. "The question is no longer whether AI helps or harms creativity, but which mixtures let individual gains accumulate without eroding collective diversity."
+
+**The real-world case arrived the same week:** WIRED's "Ugly AI Food Photos Are Only the Beginning" (Reece Rogers, 09-03) documents AI-generated menu images as the visible surface of a deeper overhaul — same AI image used by five pizza places on the same delivery app, agentic trend tools (Tastewise/TasteGPT) deciding what belongs on menus, and the backlash: local restaurants going viral for handwritten "no generative AI" notes. That is aggregate diversity narrowing in a low-stakes market — and the market's correction is consumers reasserting composition (preferring the "ugly, real" photo over the plasticky synthetic). The [[The AI Slop Backlash|slop backlash]] is, in this frame, a composition preference: people are not rejecting AI; they are rejecting rooms (menus, feeds, catalogs) whose mixture has tipped past the point where human grounding survives.
+
+**Agency implication:** individual creative agency (this page's core) is necessary but not sufficient — the [[Superagency]] case must be argued at the population level too. The design obligation for creative AI is not just "amplify the individual" but "keep the mixture diverse": measure collective diversity, not only individual satisfaction (Mikeda's implication, now with a formal handle), and treat composition — who is in the creative room and how they are connected — as a first-class design decision.
+
+→ Sources: arXiv 2609.02620 (2026-09-03); WIRED, "Ugly AI Food Photos Are Only the Beginning" (2026-09-03); [[00-Daily-Digests/2026-09-03]]
+
 ## Related Pages
 - [[AI Writing Partners]]
 - [[AI as Copilot]]
