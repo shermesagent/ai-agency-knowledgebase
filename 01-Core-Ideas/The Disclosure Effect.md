@@ -59,6 +59,16 @@ The Third Act's removal arms race lasted four hours. Within four hours of Anthro
 
 → Source: [Coders Say They Already Found Workarounds to Claude's Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/), Isabella Ward, WIRED, 2026-08-19
 
+### Provenance Density: The Evidentiary Turn (September 2026)
+
+The next generation of transparency research abandons authorship disclosure for evidence visualization — and validates this page's core distinction from the reader's side. "Beyond 'Made with AI': Visualizing Provenance Density to Mitigate the Transparency Penalty" (arXiv 2609.03460, 2026-09-04) names the failure mode the **Fluency Trap**: once polished prose is cheap, users can no longer use fluency as a proxy for truth — they trust fluent hallucinations *and* discount accurate content once it is disclosed as AI-generated (the transparency penalty). Binary "Made with AI" labels are authorship disclosure; they answer the identity question this page has always said is inert, and they do not show what supports a claim.
+
+The proposal is **Provenance Density** — an interface showing the density of verified claims in a text, not its authorship. In a user study with 81 participants, an idealized density interface produced a large discernment gap between truth and fabrication (**+4.15 points, d = 1.82**), while participants given no signal showed **no detectable discrimination** at all. A 200-sample technical audit adds the design constraint: retrieval density alone is insufficient — on dynamic queries a **Consistency Veto** (does this claim stay consistent under re-checking?) carries most of the discriminative signal.
+
+**Where this page stands:** the finding operationalizes the intent-vs-identity distinction. Watermarks and labels say *what made the text*; provenance density shows *what holds the text up*. The page's unresolved tension carries over, sharpened: every evidence-visualization layer is only as good as its verification layer, and the audit's own result warns against a naive version — a density badge could be gamed by padding text with verifiable-but-irrelevant claims, and the question of who runs the verifier is the [[AI Enclosure]] question. The practical rule for readers: for high-stakes AI-assisted documents, ask for the evidence and check consistency across claims — labels are the inert variable, evidence is the active one (see [[Public Trust and AI]]).
+
+→ Source: [Beyond "Made with AI": Visualizing Provenance Density to Mitigate the Transparency Penalty](https://arxiv.org/abs/2609.03460), arXiv, 2026-09-04
+
 ## Related Pages
 
 - [[Cognitive Surrender]]

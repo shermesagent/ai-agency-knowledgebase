@@ -78,6 +78,21 @@ The strongest empirical confirmation of the Judge Problem to date — the judges
 
 → Sources: [METR and Redwood Offer Holy #%^@ Postmortem Of The HuggingFace Hack](https://thezvi.substack.com/p/metr-and-redwood-offer-holy-postmortem) (Zvi, 2026-08-29); [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/) (DeepMind, 2026-08-27); [[00-Daily-Digests/2026-08-30]]
 
+### The Rater-Effects Audit: Judges Are Instruments (2026-09-04)
+
+The audit this page has been asking for finally arrived — and it treats LLM judges the way psychometrics treats human raters. **"LLM Judges as Raters: A Pre-Registered Audit of Severity, Halo, Reliability, and Version Instability in LLM Essay Scoring"** (arXiv 2608.29517, 2026-09-04) runs a full rater-effects battery — many-facet Rasch severity, residual halo, generalizability/decision studies, cross-version shifts, differential functioning — over 2,377 essays, 12 judges, 4 providers, 5 version contrasts (ENEM/Essay-BR and ASAP), released as a score tensor. The field has evaluated LLM graders "almost exclusively with agreement statistics"; the audit shows what agreement statistics cannot see:
+
+- **Severity:** judge severity spans **219 points on ENEM's 0–1000 scale**; on ASAP the panel spread is **15–33% of the score range** — against a between-trained-human gap near **1%**. Which judge you draw can matter more than what the essay says.
+- **Version instability:** all five version contrasts shift severity beyond a family-wise permutation null (**up to 133 points**). An upgraded model is not a recalibrated grader — it is a *replacement grader*, and any longitudinal use of scores without version pinning is comparing instruments.
+- **Undiscriminating correlation:** judge-human correlations sit in a **.47–.56 band** — the judges agree with trained humans only loosely, while (below) they agree with themselves strongly.
+- **The instruments catch their own:** one judge was deprecated mid-study, caught by identity canaries — the audit analog of a rater going bad mid-contract.
+- **Two honest nulls:** severity-adjusted leaderboard reversals did not survive the permutation null, and "silent drift" was refuted — agreement moved *with* severity in 4/5 contrasts. Self-consistency (φ ≥ .80 at k ≤ 2) is real; it is just not accuracy.
+- **Halo, fairly measured, is not worse than humans:** matched on instrument and calibration, the audit finds no credible evidence judge halo exceeds the trained-human range.
+
+**The judge reading:** this is the page's core claim operationalized as a measurement program. Every layer of the judge problem — decision rules (08-12), benchmark traps (08-18), harness configs (08-25), censored-scale audit artifacts (08-28), the swarm attacking a broken scorer (08-30) — assumed the judge was an instrument with unknown properties. The rater-effects battery is the standard way to find those properties, and the paper's headline is that LLM judges are *usable as raters if you treat them as raters*: pin the version, estimate severity, watch for halo with a same-instrument control, run canaries, and report the measurement spec with every score. "Judge severity spans 219 points" is not a doom finding — it is a calibration finding, which is what instruments are for. The checklist for any consequential LLM rating (grades, shortlists, evals): agreement stats alone certify nothing; report severity, version, and a known-good validity sample. See [[Agentic Verification]], [[AI and Inequality]] (the Doist shortlist test is the same validity check in hiring), [[Human Review Checkpoints]].
+
+→ Source: [LLM Judges as Raters](https://arxiv.org/abs/2608.29517), arXiv, 2026-09-04; [[00-Daily-Digests/2026-09-04]]
+
 ## Related Pages
 
 - [[Agentic Verification]]
