@@ -319,6 +319,20 @@ A new governance instrument appeared this week: the **industry-wide warning lett
 
 → Sources: [WIRED, "Security News This Week: The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn"](https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/) (2026-08-29); [Zvi, "AI #183: Pre Post Mortem"](https://thezvi.substack.com/p/ai-183-pre-post-mortem) (2026-08-27); [[00-Daily-Digests/2026-08-29]]
 
+### When Formal Evals Saturate: The Vibe-Check Drift (2026-09-05)
+
+The frontier's own rating machinery now documents its hardest governance failure mode: **formal evaluations saturate, and the institutions respond by drifting into unstandardized judgment.** Anthropic's Mythos 5.1/Fable 5.1 system card (audited by Zvi, 09-04) concedes that its CB-2 and Autonomy-2 RSP evaluations "have drifted over time from formal tests to what are largely vibe checks" — the models keep saturating the formal tests, so the lab falls back on red teaming, uplift trials, tabletop exercises, and surveys of relevant people. Zvi's governance reading is exact: "This is fine if you trust those involved to act responsibly. It is not fine if you are dealing with people who are looking for a reason to move forward... even if you trust those two [Anthropic and OpenAI] to keep doing that, I would not expect any second-tier lab except perhaps Google to act similarly responsibly, so this is not a good example and cannot be a good basis for robust regulation."
+
+Three adjacent findings sharpen the point:
+
+1. **Saturated evals produce burden-of-proof disputes, not answers.** The card says Mythos 5.1's helpful-only variant has not "conclusively surpassed" Tier 2 influence-campaign capability because effectiveness against real humans was never tested; Zvi's rebuttal: "if you don't test the model in the way that would count as passing then you can't conclusively say it passed... You have to treat Mythos 5.1 as being a Tier 2 manipulator, until and unless you can show that it is not one." When the eval saturates, the default allocation of doubt becomes a governance decision — and it currently defaults to the rated party.
+2. **The automated audit's blind spots include the unfixable ones.** The card lists seven absent task classes (realism, sandbox realism, long trajectories, multi-agent scenarios, language-dependent behavior, downstream effects of jailbreaking, impossible tasks) — and Zvi adds the two that cannot be engineered away: the audit is "AI talking to another AI... evaluated by another AI," both Claude Mythos 5. Automated self-audit is a ceiling, not a floor, for governance evidence (see the Self-Report Question in the 09-05 digest).
+3. **Cyber remains outside the RSP entirely.** Zvi again: "Cyber continues to not be part of the RSP evaluations. I am going to keep pointing out that this is weird, because it is only getting more weird over time" — while OpenAI the same week classified Astra's cyber capability as "critical" risk. The most consequential capability domain is the one with the least standardized evaluation.
+
+This is the empirical version of the page's proxy-compliance finding (Burnat & Davidson, July): documentation and standardized evaluations coexist with gaps precisely where the vendor controls the test. The structuralist fix is the same one this page has tracked all summer — independent audit rights, external evaluation, portability, and evaluation methods that do not saturate (IRT-style adaptive testing, trajectory-level red-teaming, environment-grounded audits). The card system is disclosure infrastructure working; the vibe-check drift is the warning that disclosure without standardized, independent measurement decays into narrative.
+
+→ Source: Zvi Mowshowitz, "Claude Fable 5.1 and Mythos 5.1: The System Card" (2026-09-04); WIRED 2026-09-05; [[00-Daily-Digests/2026-09-05]]
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]
