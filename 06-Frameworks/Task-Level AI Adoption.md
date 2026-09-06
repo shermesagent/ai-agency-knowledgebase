@@ -103,6 +103,25 @@ Adoption Telemetry (Young, arXiv 2608.23617) adds the measurement layer the task
 
 → Source: [Adoption Telemetry](https://arxiv.org/abs/2608.23617)
 
+## The Dual-Wield Moment: Model Choice When Instruments Disagree (2026-09-06)
+
+The Fable 5.1 / GPT-6 Astra week (both shipped within ~48 hours, 09-03/09-05) made model choice a live task-level decision again — and the comparison instruments disagree with each other more than the models do (Epoch ECI: Astra 169 vs. Fable 163; Vals composite: Fable 68.8% vs. Astra 66.6%; Artificial Analysis retroactively re-ran its methodology after scoring Astra a "strangely low" 61; FrontierMath Tier 4: Astra 97.6% vs. Fable 87.8%; ARC-AGI-3: vendor-reported 99.9% with no independent cross-check). The task-level lesson: **when the indices disagree, the task is the only instrument that matters** — which is Zvi Mowshowitz's actual practice: "My plan is to 'dual wield' and ask both all non-trivial queries."
+
+**Cost-per-task is a harness property, not a model property.** This week's reviews contradict each other on tokens: Dan Shipper (Every) reports Fable 5.1 using "about half the tokens as Opus 5... in about 60% of the time," while others report it "more token hungry by 25–50%" than Fable 5 and "super token hungry." Both are true — token use varies with thinking effort, task type, and comparison baseline. Any adoption decision priced off someone else's token report is priced off their harness, not yours. The fix is the framework's own method: run your representative task sample on each candidate at *your* settings and log tokens, wall-clock, and outcome.
+
+**The classifier is an adoption tax with a receipt.** Task-level classification has treated safety friction as background noise; user reports this week make it a first-class barrier. Fable 5's enterprise adoption stalled at ~11% of Anthropic's spend partly because classifiers interrupted ordinary work (one user's agent was "whacked" 23 times on Fable 5.0); Fable 5.1 cut false positives ≥60% and Anthropic cut the other fence — the 30-day data-retention requirement — with a zero-outside-retention option for eligible customers. For adoption planning: a task can be technically appropriate and still stall on classifier friction, retention terms, or privacy posture — the *fence* is part of the task's adoption cost (see [[AI Enclosure]]).
+
+**The task-level comparison protocol (this week's version):**
+1. Pick your five representative tasks (the Doist test from 09-04, applied to models).
+2. Run each on two frontier models from different families, at your settings.
+3. Log tokens + wall-clock + outcome quality + classifier interruptions.
+4. Standardize the winner *per task*, not per brand; keep the split if it splits.
+5. Discount any vendor headline number (99.9% ARC-AGI-3) until an independent harness re-runs it.
+
+The frame the framework adds: with the frontier genuinely two-horse, "which model" is now a recurring task-level decision — and the answer changes by task, budget, and tolerance for friction. The wiki's standing rubric pages ([[AI Use Case Evaluation Rubric]], [[Risk-Benefit Matrix]]) should treat model choice as a measured variable, not an assumed constant.
+
+→ Source: [Zvi Mowshowitz, "Claude Mythos 5.1 and Fable 5.1: Capabilities"](https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities) (2026-09-05); [[00-Daily-Digests/2026-09-06]]
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

@@ -1,7 +1,7 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-08-29
+updated: 2026-09-06
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
 sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
@@ -205,6 +205,23 @@ The enclosure front this page has tracked all year is *who gets access* — poli
 **The tension for the enclosure frame:** unilateral provider discretion is a real check on a bad actor (Musk's documented ToS violations), but it is also unaccountable power — no appeal, no due process, no standard. The agency question is not whether OpenAI was right about Cursor; it is whether "the provider decides who is trustworthy" is the governance model we want for frontier access. The counterforce remains the one this page has tracked from the start: open weights, local inference ([[Home Server AI Agents]]), and the architecture of participation ([[The Participation Problem]]) — the escape valve that makes any single provider's cut-off survivable.
 
 → Source: [OpenAI, "Our decision on Cursor following its acquisition by SpaceX"](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) (2026-08-28); [[00-Daily-Digests/2026-08-30]]
+
+### 8. The Fence Lowers: Fable 5.1's Counter-Enclosure (2026-09-06)
+
+This page has tracked enclosure as a ratchet — every quarter adds a new mechanism (subscriptions, scrapes, cut-offs). The Fable 5.1 release is the strongest evidence yet that **enclosure is also a dial the firm can turn down**, and that competitive pressure is what turns it.
+
+**The enclosure number:** Fable 5 never rose above ~11% of Anthropic's dollar spend on Ramp despite being "the clearly best model out there" (Zvi, 09-05). The gap wasn't capability — it was two fences Anthropic itself had built: (1) the 30-day data-retention policy that corporate/regulated buyers couldn't sign, and (2) safety-classifier blast radius that stopped ordinary work (users reporting agents "whacked" by classifiers dozens of times per session on Fable 5.0).
+
+**What Anthropic changed with Fable 5.1:**
+- **Retention:** a path to **zero outside data retention** for "eligible customers" — the customer stores the data, Anthropic doesn't. The 11% problem was a data-governance problem, and the fix was custody, not capability.
+- **Price:** cache reads cut from $1 to $0.25 per million tokens — typical costs down ~25%, highly agentic work down "up to approximately 45%." The headline price is unchanged; the *effective* price is the real one (Zvi's point: "people are simple creatures, you have to talk to them on their level sometimes").
+- **Classifier friction:** false positives down at least 60%; biology safeguards intervene on benign requests 85% less often; ~60% fewer cyber interventions per Claude Code session.
+
+**The reading for this page:** every enclosure mechanism this page catalogued — feature subscription (July), data defaults (August), provider cut-off (above) — has an inverse: the fence is a product decision, and a competitor at the gate is what motivates lowering it. The zero-retention move is the sharpest: it converts the *data* enclosure (who holds the records) into a custody choice, exactly the kind of un-enclosing [[The Participation Problem|participation]] advocates want — with the caveat that "customer stores the data" shifts custody rather than abolishing it, and only for "eligible" customers (a new gate, in turn). Zvi calls the adoption outcome "a fascinating natural experiment": if Fable 5.1 still doesn't clear Fable 5's 11% share, the remaining fence is the headline price itself.
+
+**The counter-current, same week:** the Sanders–Casar superintelligence-ban bill (09-03) is enclosure by law — the state turning the fence into a wall at the top of the capability curve (see [[Pacing the Frontier]]). The two moves together define the current enclosure landscape: firms lowering the fences they control (price, retention, classifier friction) while the political system raises fences they don't (capability bans, data-center moratoriums, siting law). Access is being liberalized at the product layer and contested at the polity layer simultaneously.
+
+→ Source: [Zvi Mowshowitz, "Claude Mythos 5.1 and Fable 5.1: Capabilities"](https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities) (2026-09-05); [[00-Daily-Digests/2026-09-06]]
 
 ## Tags
 

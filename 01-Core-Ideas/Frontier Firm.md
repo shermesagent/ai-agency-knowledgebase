@@ -127,6 +127,27 @@ The enterprise side of the frontier story broke open with a hard number: **annua
 
 → Source: [Zvi, "The Pacing of the Frontier"](https://thezvi.substack.com/p/the-pacing-of-the-frontier) (2026-08-10), including Hammond's comment; [[00-Daily-Digests/2026-08-11]]
 
+## Two Fronts, One Week: The Simultaneous Frontier Release (2026-09-06)
+
+The firm-level story of the Astra + Fable 5.1 week (both released within ~48 hours) is that the frontier became genuinely two-horse, and the instruments for comparing them disagree more than the models do. Zvi's capabilities review (09-05) opens: "This is the weirdest situation in which to write a capabilities review. Introducing the world's most powerful model, by a substantial margin. No wait, this just in, we also have someone else introducing the world's most powerful model."
+
+**The capability split (independent instruments):**
+- **Epoch ECI:** Astra 169 (from Sol's 162); Fable 5.1 and Fable 5 both 163. Zvi: "the strongest data point for Astra."
+- **FrontierMath Erdos:** Astra solved 2 of 68 problems — the *only model ever* to solve any — and dominates Tier 4 at 97.6%; Fable 5.1 at 87.8%, essentially unchanged from Fable 5's 88%.
+- **Vals:** Fable 5.1 leads composite 68.8% vs. Astra's 66.6% and tops Vals' RSI index.
+- **Artificial Analysis Index:** first run scored Fable 5.1 at 66 and Astra a "strangely low" 61; after a retroactive methodology re-run (adding AA-Briefcase and GDP.pdf), Fable 57 / Astra 55. Zvi: "Retroactive adjustments are more than a little suspicious, but this is more plausible."
+- **ARC-AGI-3:** Astra claims 99.9% (vendor-reported); Anthropic declined to report Fable 5.1 "due to a problem with the API misclassifying requests" — no cross-check available; Astra's official-harness figure is 62.7% at a $26k cost vs. Opus 5's 30.2%.
+
+**The firm-level dynamics:**
+- **Anthropic priced and governed against its own 11% problem.** Fable 5 never exceeded ~11% of Anthropic's Ramp spend despite being "the clearly best model out there"; Fable 5.1 cuts cache-read prices 75% ($1 → $0.25/M tokens; ~25% typical, up to ~45% agentic savings), offers zero-outside-data-retention for eligible customers, and cuts classifier false positives ≥60% — enclosure lowered as a competitive response (see [[AI Enclosure]]).
+- **OpenAI shipped while pausing.** Astra launched as its first "critical"-risk cyber classification (per yesterday's WIRED roundup) while OpenAI simultaneously reported halted training runs and a monitoring overhaul — the paced release and the release racing each other inside one firm (see [[Pacing the Frontier]]).
+- **The "natural experiment."** Zvi: expect "massive adoption of Fable 5.1 within the Anthropic ecosystem, far more than the 11% for Fable 5. If we do not, then people really are purely balking at the headline price." The firm's own pricing model is now a testable hypothesis about what actually gates adoption.
+- **User sentiment swung.** Before the week, Claude held a ~2:1 advantage over Sol (GPT-5.6) for coding and general use in Zvi's poll region; the split now "looks almost even." Zvi's practice: "dual wield" both models on all non-trivial queries. The blurb pitches from Jane Street, IMC, and Crosby were unusually specific — real-work signals (trading intuition, first-turn quality, readable long tasks) that read as more credible than the aggregate indices.
+
+**The tension the page must hold:** capability and safety are now being reported in the same week by the same two firms, and the index layer — the third party that was supposed to arbitrate — is itself adjusting retroactively. The firm that can't stop making helpful edits at high effort (Fable 5.1's FrontierCode regression), the claim that can't be cross-checked (ARC-AGI-3), and the index that moved after publication are all reminders that firm-level capability claims are self-reports with harnesses attached (see [[The Judge Problem]], [[Agentic Verification]]). The honest summary of the week: Astra looks like the bigger capability jump by the independent instruments that agree with each other (Epoch, FrontierMath); Fable 5.1 looks like the better product by the firms' own benchmarks and most user reports; and the difference between "best model" and "best product" is now a real, measurable distinction.
+
+→ Source: [Zvi Mowshowitz, "Claude Mythos 5.1 and Fable 5.1: Capabilities"](https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities) (2026-09-05); [[00-Daily-Digests/2026-09-06]]
+
 ## Related Pages
 - [[Work]]
 - [[Future of Work]]

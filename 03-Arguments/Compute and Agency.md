@@ -64,6 +64,20 @@ Compute's abstraction meets its meter. **[Data Centers Are Driving an Alarming G
 
 The agency angle: compute is power — literalized. The physical footprint is where the abstraction meets voters: 75% oppose local data centers (Zvi, 08-24), and local opposition, moratoriums, financing, and turbine supply all bind the buildout. Compute's constraints are no longer just chips and training runs; they are land, water, grid, and public consent. See [[Public Trust and AI]], [[AI Enclosure]].
 
+## The Backlash Gets a Villain: Scapegoating and the Politics of Compute (2026-09-06)
+
+The physical-footprint story (above) has a new political layer: the explanation war over why Americans oppose data centers. Molly Taft's new WIRED Sunday column "Power Play" (#1, 09-06) documents the boosters' turn to blaming China for the 75% opposition number this page already carries (Zvi, 08-24).
+
+**The claim:** X announced (late August) it identified **200 accounts linked to China** spreading anti-data-center talking points — inside a **200,000-account bot farm** the same purge caught. Axios amplified ("China is secretly fueling America's data center rage"); Trump joined in ("China could not be happier with this anti Data Center movement... let Data Reign!"). Earlier in the spring, right-wing policy shops circulated reports blaming the CCP for seeding opposition; in June, OpenAI banned a cluster of accounts it said were PRC-linked and "testing narratives against AI infrastructure."
+
+**The evidence problem:** OpenAI's own June report acknowledged the cluster was "simply exploiting existing discontent around data centers" — the discontent predated and dwarfed the operation. Graphika, which has tracked data-center sentiment all year, tells Taft "there's still very little evidence of significant foreign intervention"; its June read was that "most of the opposition... was homegrown." The pro-data-center blogger Andy Masley (popular with tech boosters) on the China turn: "as soon as I start talking China, they get quiet. It seems like a very convenient belief." WIRED's China editor Louise Matsakis: "Americans often find it easier to put the blame on a nebulous other, rather than to actually look at themselves."
+
+**Why it matters for compute and agency:** the objection stack behind the 75% (distrust of AI + big tech + data collection + big money + ugly buildings + few jobs — the Zvi 08-24 inventory) is homegrown and legible. Treating it as a foreign influence operation is the [[Public Trust and AI]] "it's a communications problem" fallacy in campaign costume — the Searchlight finding (messaging doesn't move opinions) applied to geopolitics. The scapegoat isn't baseless (the 200 accounts and OpenAI's June cluster are real); it's *disproportionate* — influence operations rode a wave they did not create. When the physical buildout hits local politics, the firms that misdiagnose the objection as manufactured will keep losing the siting fights, because the objection is about them.
+
+**Adjacent datapoints in the same column:** Entergy (Arkansas) sought a restraining order against the Arkansas Democrat-Gazette over records detailing its Google data-center deal — and dragged the young mother who filed the original records request into court (09-01); the Washington Post reports a massive state-level data-center legislative wave forming for the 2026–27 session (09-03); the FT reports AI-driven unemployment among college graduates in Texas, a top data-center state; more than 15 politicians have signed the "AI Pact" pledging data-center and AI regulation. The siting fight is now a midterm issue with its own candidate pledges, livestreams, and litigation — compute's agency stakes have moved from who owns the cloud to who grants the permit.
+
+→ Source: [Molly Taft, "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit"](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/) (WIRED Power Play #1, 2026-09-06); [[00-Daily-Digests/2026-09-06]]
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

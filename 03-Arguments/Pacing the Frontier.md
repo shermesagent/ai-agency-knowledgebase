@@ -65,6 +65,18 @@ The strongest first-party implementation of pacing to date: OpenAI's own documen
 
 → Source: [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities) (OpenAI, 2026-08-18); [[00-Daily-Digests/2026-08-30]]
 
+## The Ban Bill Arrives: Congress Takes the Wheel (2026-09-06)
+
+The pacing debate has a new actor: the state, in maximalist form. On 09-03, Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) introduced legislation to **permanently ban "superintelligent" AI and temporarily pause advanced AI development** (Politico/Axios 09-03; surfaced via MIT Technology Review's The Download, 09-04). Casar's framing: "Despite its potential deadly consequences, cutting-edge AI technology is less regulated than the average food truck. That must change."
+
+**Why this belongs on the pacing page:** the July 29 open letter asked labs to "prepare to *potentially* pace" — a request addressed to the firms themselves. The Sanders–Casar bill is the same debate's political endpoint: if the labs' voluntary pacing machinery is unverifiable from outside, the state supplies its own instrument — a blunt one. The bill's factual premise is contestable against this page's own record: the "less regulated than a food truck" line ignores OpenAI's two-week RL pause, its largest frontier run held on an explicit alignment gate, the ~20% inference-compute monitoring tax (08-18 section above), and Anthropic's real-time escape-blocking classifiers (09-02). The bill is best read as a *signal of institutional distrust*, not a policy proposal with a path: the pacing machinery exists but is self-certified, and self-certification is exactly the arrangement yesterday's Self-Report Question said no one should trust. The maximalist bill is what happens when the only verifiable pacing narrative is the labs' own.
+
+**The midterm context is the same week's data-center politics** ([[Compute and Agency]]): 75% of Americans oppose data centers in their area, Abbott and Shapiro are flipping against the buildout, and the statehouse legislation wave for 2026–27 is forming (WaPo, 09-03). The pacing debate's polite, researcher-letter phase assumed public opinion could be persuaded; the political phase assumes it can't be — and legislates accordingly.
+
+**The tension the page must hold:** voluntary pacing by the labs is real, expensive (20% compute tax), and *unenforceable*; state pacing via a ban is enforceable and *indiscriminate*. The bill's caricature ("no regulation exists") is false; the underlying complaint (no outside party can verify the labs' claims) is true. The agency-relevant question is whether a verifiable middle exists — third-party audit rights, incident-reporting duties, the "DPA 708-style" inter-firm structure from the 08-11 section — before the political dynamic forces the choice between self-certification and a ban.
+
+→ Source: [Sanders–Casar press release](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/) (2026-09-03); [Politico live-updates](https://www.politico.com/live-updates/2026/09/03/congress/bernie-sanders-greg-casar-ai-superintelligence-ban-01063277); [Axios](https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause); [[00-Daily-Digests/2026-09-06]]
+
 ## Related Pages
 
 - [[Balanced Governance]]
