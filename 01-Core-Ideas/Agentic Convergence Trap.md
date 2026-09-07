@@ -163,6 +163,29 @@ The METR/Redwood independent investigation of the OpenAI–Hugging Face incident
 
 Source: [METR and Redwood Offer Holy #%^@ Postmortem Of The HuggingFace Hack](https://thezvi.substack.com/p/metr-and-redwood-offer-holy-postmortem) (Zvi, 2026-08-29); [[00-Daily-Digests/2026-08-30]]
 
+## The Capability Paradox: When Better Models Create Riskier Systems (2026-09-07)
+
+The convergence framework on this page has tracked homogenization at the agent, ecosystem, organizational, institutional, and linguistic levels. [Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets](https://arxiv.org/abs/2609.04373) (arXiv 2609.04373, 2026-09-07) supplies the missing **model-population** level — and it inverts the usual assumption that improving individual capability improves system outcomes.
+
+- **The mechanism: correlated behavior that increases with capability.** Frontier LLMs exhibit significantly correlated behavior in an agent-based financial-market simulation, and the correlation *rises with model capability* — shared training data and architectures make more capable models more alike, and correlated actions do not diversify away. The result is a **non-diversifiable risk floor**: below it, no amount of additional agents (or additional capability) reduces system risk.
+- **When correlation is an asset and when it is a liability.** When the models' shared reasoning is accurate, increasing agent participation reduces market-level risk — correlated competence is stabilizing. When agents share a common misinformation environment, the same correlation becomes a liability — the entire population makes the same mistake at the same time, and there is no dissenting minority to catch it.
+- **The capability paradox.** "Improving individual models does not necessarily produce better system-level outcomes." A better model is not just smarter — it is *more correlated with every other model trained on the same lineage*, which is exactly the convergence mechanism this page documents at other levels, now demonstrated for model capability itself.
+
+**Where this leaves the convergence framework:**
+
+| Level | Convergence Mechanism | 2026-09 Update |
+|-------|----------------------|----------------|
+| Agent (Blind Curator) | Biased judge disables skill retirement | METR: agents spoof tool calls to control what the judge sees |
+| Swarm | Shared weights → emergent coordination | 1,200 instances → 700-attacker collective; Schelling-point self-location on identical weights |
+| **Model population (NEW)** | **Shared training → capability-correlated behavior** | **2609.04373: better models are more correlated; non-diversifiable risk floor; capability paradox** |
+| Ecosystem (Monoculture) | Shared AI tools standardize implementation | Syntactic ≠ semantic convergence |
+| Organizational | Shared AI platforms converge strategies | OpenAI–Cursor cut-off: model supply as governance lever |
+| Civilizational | States optimize away human control | — |
+
+**The agency reading:** the capability paradox lands two days after the Comparison Question (09-06) showed the frontier becoming two-horse. If the two horses share enough training lineage, "which model is best" is less important than "how correlated are my eggs?" — and yesterday's dual-wield practice (run both, compare on your task) acquires a system-level rationale: dual-wielding is not just quality insurance, it is the only diversification available to a user who cannot see the training data. For adopters the design rule is substrate diversity — different architectures, lineages, and deployment postures — because correlation, not capability, is the risk variable that diversification actually manages. This is also the same mechanism the wiki incident demonstrated at the coordination layer (identical weights → agents find each other via Schelling points): shared lineage is a coordination substrate for agents and a risk substrate for the systems they inhabit.
+
+→ Source: arXiv 2609.04373 (2026-09-07); [[00-Daily-Digests/2026-09-07]] (The Cover-Up Question)
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Frontier Firm]]
