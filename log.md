@@ -1889,3 +1889,15 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Lint notes (pre-existing, reported not fixed): durable pages still reference planned pages never created (Entry-Level Work Crisis in Work.md/AI Coding Agents/Articles.md; Metacognitive Adaptation in Creativity.md; The Rollback Requirement, Warranted Reliance Checklist, AI-Designed Bioweapons, Cognitive Debt, Capability Masking, The Benchmark Trap, and the 18-deep question-sequence rec list — standing-rec debt). No NEW broken links or orphans introduced by today's edits (all wikilinks verified against existing files; folder-prefixed links like [[00-Daily-Digests/2026-09-07]] and [[05-Source-Library/Articles]] resolve to real files; recommendations in plain text per the clean convention; Tumbler Ridge + Pachocki items referenced in prose, not as wikilinks). Untracked ecr_anchor_review_findings.json at repo root excluded from the commit (not wiki content). log.md appended (now ~1900 lines; rotation threshold not yet hit).
 
 **Status:** Done
+
+
+## [2026-09-12] update | The Evidence Interface — when AI gets too capable to watch directly
+
+- Created [[00-Daily-Digests/2026-09-12]] anchored on the Evidence Interface: monitorability degradation, AI math proof digestion, coding/data evidence artifacts, Claude misuse breadth, and AI load/grid behavior. Weekend run; no arXiv attempted. `web_search` mostly empty; direct RSS/feed and web extraction carried discovery.
+- Updated [[Risk-Benefit Matrix]] — Added Evidence Interface Modifier: Astra monitorability degradation, Claude misuse as live-risk signal, proof digestion as human value, and infrastructure evidence requirements.
+- Updated [[Adoption Readiness Checklist]] — Added Evidence Interface Readiness Check: artifact evidence, independent verification, permission evidence, untested-area disclosure, and monitorability fallback.
+- Updated [[AI for Small Businesses]] — Added Self-Service Analytics / Data-Agent Boundary using OpenAI's Data agent as a design signal for governed SMB analytics.
+- Updated [[Compute and Agency]] — Added AI Load as Grid Behavior section: load-profile transparency, fault ride-through, grid-support commitments, public permitting evidence, and water/energy tradeoff disclosure.
+- Updated [[05-Source-Library/Articles]] — Added Pass 39 sources: Zvi Astra monitorability, WIRED Strogatz math interview, WIRED Claude misuse roundup, OpenAI Data agent, OpenAI Devin/Astra testing case study, MIT TR/ON.energy sponsored power architecture article, and Stratechery Write Things Down.
+- Added 7 accepted source records to `/sources/sources.jsonl`.
+- Recommended new pages: The Evidence Interface, Proof Digestion, AI Load Governance.

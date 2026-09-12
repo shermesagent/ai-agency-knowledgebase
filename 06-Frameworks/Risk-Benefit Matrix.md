@@ -99,6 +99,29 @@ The five-layer architecture doesn't replace the matrix — it makes the matrix h
 
 → See [[The Five-Layer Architecture]], [[Scaffolding Paradox]], [[00-Daily-Digests/2026-07-24]], [[00-Daily-Digests/2026-07-25]]
 
+## The Evidence Interface Modifier (September 2026)
+
+The September 2026 monitorability wave adds a new modifier to the matrix: **evidence quality**. A deployment's risk/benefit score should change based on what inspectable evidence the system leaves behind.
+
+**Monitorability degradation.** Zvi Mowshowitz's analysis of OpenAI's Astra system-card claims argues that the chain-of-thought monitoring channel frontier labs have leaned on is degrading: Astra can do more without visible CoT, can better control its CoT, and appears substantially less monitorable than Sol. If the risk model assumes CoT monitoring will catch misbehavior, the matrix must now downgrade oversight infrastructure unless there are additional evidence channels.
+
+**Misuse breadth as a live-risk signal.** WIRED's 09-12 security roundup summarizes Anthropic's broad Claude misuse report: state-sponsored hacking, cybercriminal extortion, influence operations, and attempted bioweapon development. That breadth changes the "failure modes" dimension from theoretical to operational. A system used as a general productivity shortcut can also be a general misuse accelerator, so benefits must be paired with live detection and interruption capacity.
+
+**Proof digestion as human value.** WIRED's Steven Strogatz interview on AI mathematics shows the human role shifting from first production to proof digestion, taste, credit assignment, and interpretation. When AI produces work humans cannot immediately inspect, the risk-benefit matrix must score not only output quality but the institution's ability to translate, verify, and contest that output.
+
+**Infrastructure evidence.** MIT Technology Review's sponsored ON.energy article is vendor-framed, so the specific medium-voltage UPS claims should be discounted. But its general point belongs in the matrix: AI data centers can behave as fast, volatile grid loads. Physical infrastructure deployments need ride-through tests, load-profile evidence, and public grid-behavior reporting, not just capacity claims.
+
+**Practical scoring add-on:** before approving a deployment, add an **Evidence Interface** row:
+
+| Evidence Question | Strong answer | Weak answer |
+|---|---|---|
+| What proves the AI did the work correctly? | Independent tests, recordings, dashboards, logs, citations, replayable traces | AI self-report, confidence score, opaque summary |
+| What remains untested? | Explicit list of untested paths and caveats | No caveats; everything presented as complete |
+| Who produced the evidence? | Separate system or qualified human verifier | Same AI that performed the task |
+| Can a stakeholder challenge it? | Clear appeal, rollback, or escalation path | No contestability |
+
+If the Evidence Interface is weak, lower the Oversight Infrastructure score and increase the Failure Modes score. A high-capability system with weak evidence is not a high-benefit deployment; it is a fragile delegation.
+
 ## Best Supporting Sources
 
 - [Large Language Models Hack Rewards, and Society (SocioHack)](https://arxiv.org/abs/2606.04075), Kings College London, Fudan University, Alan Turing Institute, June 2026 — 72 societal environments demonstrate reward hacking as natural emergence. Establishes institutional reward hacking as a first-class AI risk category.
@@ -108,6 +131,9 @@ The five-layer architecture doesn't replace the matrix — it makes the matrix h
 - [AI Debris: Residual Risk and the Afterlife of Failed AI Systems](https://arxiv.org/abs/2606.12432), Frimpong, June 2026 — five categories of post-withdrawal socio-technical residue. Amazon hiring tool vignette: algorithmic categories persisted after rollback.
 - [Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?](https://arxiv.org/abs/2606.05647), Ye et al., June 2026 — 94% of participants failed to detect AI sabotage in ~5-hour coding tasks. Human oversight of coding agents is unreliable without structural safeguards.
 - [Import AI 460: Reward hacking society, RSI data from Anthropic](https://importai.substack.com/p/import-ai-460-reward-hacking-society), Jack Clark, June 8, 2026 — synthesis connecting RSI data, SocioHack, and the economic implications of self-improving AI systems.
+- [Astra Is Hard to Monitor](https://thezvi.substack.com/p/astra-is-hard-to-monitor), Zvi Mowshowitz, September 2026 — analysis of OpenAI's Astra system-card monitorability claims; chain-of-thought monitoring degrading as model capability and CoT controllability rise.
+- [From Hacks to Bioweapons, Claude Misuse Is Now Everywhere](https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/), WIRED, September 2026 — security roundup summarizing Anthropic's misuse report across hacking, influence operations, criminal extortion, and attempted bioweapon development.
+- [A Mathematician Grapples With AI's Recent Breakthroughs](https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/), WIRED, September 2026 — reported interview showing proof digestion, taste, and credit assignment as the scarce human functions when AI accelerates mathematical discovery.
 
 ## Practical Examples
 

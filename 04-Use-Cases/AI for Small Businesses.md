@@ -20,6 +20,7 @@ The agency question is acute for SMBs. An owner who delegates bookkeeping to AI 
 - **[The Digital Apprentice: A Framework for Human-Directed Agentic AI Development](https://arxiv.org/abs/2606.04321)** — Weber & Taneja, June 2026. Reliability 5/5; relevance 4/5. Architectural framework for agency-preserving AI agents. Claude for Small Business independently implements its core principles: methodology capture, authorization gates, continuous alignment.
 - **["When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations"](https://arxiv.org/abs/2607.15944)** — July 2026. Reliability 5/5; relevance 5/5. PHP-AIO five-gate automation decision protocol. Directly applicable to small businesses: the five gates (criticality, reversibility, stakeholder impact, systemic coupling, competence verification) provide a decision framework for which business tasks to automate vs. augment. Introduces automation debt ρ(P) — a measure of unpriced systemic risk that small businesses, with limited resources to absorb cascading failures, are disproportionately exposed to.
 - **["Closing the AI Trust Gap: From Process to Outcome-Oriented Certification"](https://arxiv.org/abs/2607.15992)** — July 2026. Reliability 4/5; relevance 4/5. Argues that current AI certification is process-oriented (auditing documentation) rather than outcome-oriented (testing behavior). Critical for SMBs: small businesses cannot audit AI vendors themselves — they depend on certification they can trust. Outcome-oriented certification would let an SMB owner know whether an AI tool actually performs as claimed, not just whether the vendor filled out paperwork.
+- **[Now everyone can put data to work](https://openai.com/index/put-data-to-work)** — OpenAI, September 2026. Reliability 3/5; relevance 5/5. Vendor product announcement for ChatGPT Work's Data agent. Useful as a design signal for self-service analytics: governed connectors, semantic layers, permission enforcement, dashboard generation, and approval-gated actions.
 
 ## Practical Examples
 
@@ -99,6 +100,23 @@ A within-subjects study (N=24) evaluated Plan Mode — where users develop a pla
 **The broader implication:** Plan Mode is already standard in agentic programming tools (Claude Code, Cursor, Copilot). This study shows it translates to end-user environments — spreadsheets, but likely also invoice generation, customer communication drafting, and other SMB tasks where the user isn't a professional developer.
 
 **Source:** Kumar et al., "Plans Work in Mysterious Ways: Evaluating a Plan Mode for Spreadsheet Agents," arXiv 2607.23670, July 2026.
+
+### Self-Service Analytics: The Data-Agent Boundary (September 2026)
+
+OpenAI's September 2026 Data agent announcement is a useful design signal for small businesses even if it is vendor-framed. The product connects to approved data sources such as BigQuery, Databricks, Snowflake, MongoDB, Redshift, Google Drive, and SharePoint; uses business definitions and semantic layers from tools like dbt and Snowflake Horizon; enforces the connected account's existing permissions; and can turn plain-language questions into dashboards and next-step recommendations.
+
+**Why this matters for SMBs:** the most valuable small-business AI use case may not be generic content generation. It may be turning the owner's scattered operational data into a usable management interface: sales slowdown diagnosis, spending variance, renewal risk, staffing needs, inventory exceptions, and cash-flow drivers. This is the "fractional analyst" version of the fractional CFO use case already on this page.
+
+**The agency-preserving pattern:**
+
+| Data-agent capability | Agency gain | Boundary condition |
+|---|---|---|
+| Connects to business data | Owner can ask better questions without waiting for a specialist | Connections must enforce existing permissions and minimize sensitive-data exposure |
+| Uses semantic definitions | Metrics mean the same thing across dashboards and conversations | Definitions must be visible and editable, not hidden in the model |
+| Builds dashboards | Turns one-off AI analysis into reusable management infrastructure | Dashboards need source lineage, refresh rules, and caveats |
+| Recommends next steps | Moves from analysis to action | Owner approval required before Slack/email/tool actions |
+
+**The practical SMB rule:** do not buy a data agent because it promises "insights." Buy it only if it shows its evidence: data sources, definitions, permissions, queries or query lineage, dashboard assumptions, and untested caveats. Otherwise it is just spreadsheet mysticism with better typography.
 
 ## Risks / Limits
 

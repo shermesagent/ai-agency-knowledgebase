@@ -78,6 +78,28 @@ The physical-footprint story (above) has a new political layer: the explanation 
 
 → Source: [Molly Taft, "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit"](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/) (WIRED Power Play #1, 2026-09-06); [[00-Daily-Digests/2026-09-06]]
 
+## AI Load as Grid Behavior (September 2026)
+
+MIT Technology Review's sponsored ON.energy article, "Powering AI is an architecture problem," should be treated carefully because it is vendor-produced content. The product-specific claims are not independent evidence. But the architecture problem it names is now central to compute and agency: AI data centers are not ordinary loads.
+
+**The general claim:** an AI campus can swing a large share of its electrical load in milliseconds during training runs, then trip offline just as fast when upstream conditions change. At gigawatt scale, many rationally self-protecting campuses can become an irrational collective grid actor — synchronized, volatile, and difficult for utilities to model.
+
+**Why it matters for agency:** compute infrastructure is moving from cloud abstraction to civic infrastructure. Local communities are not only deciding whether they want a data center; they are deciding whether they trust an electrical neighbor whose load behavior can affect the grid. The evidence demand shifts from "how many megawatts are you building?" to "how does this load behave during faults, swings, and recovery?"
+
+**Evidence requirements for compute projects:**
+
+| Evidence needed | Why it matters |
+|---|---|
+| Load-profile transparency | Communities and utilities need to know whether the site is smooth or volatile |
+| Fault ride-through testing | The site should stay predictable under upstream disturbance rather than amplifying it |
+| Grid-support commitments | A data center can be a liability or a grid asset depending on architecture |
+| Public permitting evidence | Claims about density, backup power, and grid benefit need external review |
+| Water/energy tradeoff disclosure | Power architecture cannot be separated from cooling and local resource use |
+
+The agency frame is simple: whoever controls compute controls capability, but whoever hosts compute bears the physical consequences. A Superagency-compatible buildout has to make those consequences legible before the permit, not after the outage.
+
+**Source:** [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/), MIT Technology Review / ON.energy sponsored content, 2026-09-10.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

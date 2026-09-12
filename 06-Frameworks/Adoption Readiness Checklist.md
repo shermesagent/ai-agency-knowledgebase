@@ -84,6 +84,20 @@ Enterprise-scale readiness got its hard datum: annual GenAI investment tripled t
 
 → Source: https://arxiv.org/abs/2607.29089
 
+## Evidence Interface Readiness Check (September 2026)
+
+Astra's monitorability problem and the new wave of agent/product interfaces add a simple adoption question: **what evidence will the system leave behind, and can humans verify it without trusting the same system's self-report?**
+
+Before adopting an agentic or analytical AI tool, answer these five questions:
+
+1. **Artifact evidence:** Does the AI produce inspectable artifacts — tests, screenshots, simulator recordings, dashboards, logs, citations, or replayable traces — rather than only a narrative answer?
+2. **Independent verification:** Is the evidence generated or checked by a separate system, qualified human, or deterministic process? Devin returning a simulator recording and a test report is stronger than Devin saying "I tested it."
+3. **Permission evidence:** For data tools, can the organization see which data sources, semantic definitions, row/column/table permissions, and business rules shaped the answer? OpenAI's Data agent points in the right direction by using existing connected-account permissions and semantic layers; adoption readiness requires verifying that this is true in your environment.
+4. **Untested-area disclosure:** Does the AI explicitly name what it did not test, did not know, or could not verify? A report that says what remains untested is safer than a polished answer with no uncertainty boundary.
+5. **Monitorability fallback:** If chain-of-thought monitoring becomes unreliable or unavailable, what other evidence channel remains? Logs, attestations, external tests, and behavioral checks must carry the oversight load.
+
+**Evidence readiness threshold:** If the system cannot produce independently checkable evidence for its most consequential actions, keep it in assistant mode. Do not grant higher autonomy until the evidence interface exists.
+
 ## Quick Adoption Readiness Scorecard
 
 | Dimension | Check | Score (1-5) |
@@ -98,6 +112,7 @@ Enterprise-scale readiness got its hard datum: annual GenAI investment tripled t
 | People Readiness | Users trained, consent obtained, feedback channel open | |
 | Guardrail Readiness | Human review checkpoints, escalation paths, override capability | |
 | Measurement Readiness | Success metrics, failure metrics, monitoring plan | |
+| Evidence Interface | Independent artifacts, permissions, untested areas, and verification traces | |
 
 **Adoption readiness threshold:** All dimensions ≥ 3. Any dimension at 1-2 requires remediation before deployment.
 
@@ -110,6 +125,9 @@ Enterprise-scale readiness got its hard datum: annual GenAI investment tripled t
 - **["Divergent Recommendations, Convergent Diagnoses"](https://arxiv.org/abs/2606.26116)** — Jack et al., June 2026. Cross-model failure convergence as practical governance signal.
 - [[Responsible Deployment]] — The practical governance loop: use, measure, improve, govern.
 - [[Human Review Checkpoints]] — Where and when humans must review AI decisions.
+- [Astra Is Hard to Monitor](https://thezvi.substack.com/p/astra-is-hard-to-monitor), Zvi Mowshowitz, September 2026 — monitorability degradation makes evidence channels beyond chain-of-thought necessary.
+- [Cognition helps Devin test its own work with GPT-6 Astra](https://openai.com/index/cognition-devin-testing-with-astra), OpenAI, September 2026 — vendor case study showing an evidence-interface pattern: simulator recordings, test reports, and explicit untested areas.
+- [Now everyone can put data to work](https://openai.com/index/put-data-to-work), OpenAI, September 2026 — Data agent announcement useful as a checklist for governed data access, semantic layers, dashboards, and permission enforcement.
 
 ## Practical Examples
 
