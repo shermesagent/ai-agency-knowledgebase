@@ -446,5 +446,15 @@ WIRED (Will Knight, 08-27) reports Anthropic's Model Hardware Standard: a framew
 
 Sources: [OpenAI Is Developing a 'Persistent' AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/) (WIRED, 08-27); [This Is How Anthropic Thinks AI Agents Should Navigate the Physical World](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/) (WIRED, 08-27); [OpenAI Offers Straight-Laced Postmortem](https://thezvi.substack.com/p/openai-offers-straight-laced-postmortem) (Zvi, 08-28); [[00-Daily-Digests/2026-08-28]]
 
+## Astra and the Ambition Threshold (September 2026)
+
+Zvi's "GPT-6-Astra Can Do Ambitious Things" marks a new phase of the agent revolution: agents that do not merely meet a user's ambition but **raise it.** Zvi's summary is blunt: Astra is the best model for ambitious projects, likely highest on raw intelligence, unusually strong at 3D/game-like work, computer use, and subagent coordination, and strong enough that the "is this AGI?" debate no longer feels silly even if the label remains premature. His practical recommendation is not model monotheism: use Astra and Fable 5.1 together on the hardest questions because they are complementary.
+
+The agency-positive reading is real. An agent that raises ambition can expand what individuals and small teams attempt. But the governance reading is equally real: the stronger the agent becomes at project-scale execution, the more important the control surfaces become — budgets, subagent limits, approval gates, evidence artifacts, and explicit stop conditions. The agent revolution is moving from **task completion** to **ambition formation**. That means human agency is no longer only about reviewing outputs; it is about deciding which enlarged ambitions deserve pursuit.
+
+WIRED's power analysis adds the infrastructure price tag: ambitious agents are not cheap queries. They can decompose work into hundreds or millions of internal messages, with energy and compute demands that do not scale with number of human users in any simple way. The more agentic the workflow, the more the revolution becomes a compute-governance story as much as a UX story.
+
+→ Sources: [Zvi Mowshowitz, "GPT-6-Astra Can Do Ambitious Things"](https://thezvi.substack.com/p/gpt-6-astra-can-do-ambitious-things) (2026-09-12); [WIRED, "AI Agents Are Thirsty for Power"](https://www.wired.com/story/ai-agents-are-thirsty-for-power/) (2026-09-13); [[00-Daily-Digests/2026-09-13]]
+
 ## Tags
 #ai-agents #augmentation #future-of-work #practical-ai #home-server-ai #counterarguments

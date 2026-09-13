@@ -25,10 +25,21 @@ Stratechery's Ben Thompson: "Fable 5 is the public version of Mythos, and while 
 
 The Fable 5 / Mythos 5 architecture implements capability access through provider-controlled, opaque tiers. The [[AI Agent Revolution#The Digital Apprentice|Digital Apprentice]] pattern offers the alternative: capability access through earned autonomy — transparent, inspectable, and user-governed. The difference is not tiering vs. no tiering — both involve graduated access. The difference is who controls the graduation criteria: the user (Digital Apprentice) or the provider (Fable 5).
 
+## Personal Agent Trust Architecture: Meta Muse (September 2026)
+
+WIRED's report on Meta's Muse launch turns the executive-assistant question from "can the agent do the task?" to **"what trust architecture makes personal delegation acceptable?"** Muse is designed to send emails, book travel, sell a car, make purchases through Stripe Link single-use cards, and eventually connect to AI glasses. That is executive-assistant territory for ordinary users — but with Meta-scale distribution and Meta-scale trust baggage.
+
+The important design signal is not the marketing claim that privacy is "built into it." It is the architecture Meta says surrounds the agent: a per-user Secure VM that isolates web/app activity from the action-taking layer; a Sentinel process that checks information leaving the VM against permission policies; human-in-the-loop approval dialogs that are not filtered through the model; planned Confidential VMs where users control local access keys; third-party security audits; published binaries and a transparency log; and a public bug bounty with prompt-injection payouts. Those controls read like the [[Digital Fiduciary Duty]] playbook finally arriving in a consumer agent product.
+
+The honest limit: Secure VM is still policy-isolated, not technically inaccessible to Meta. The planned Confidential VM is the stronger pattern. For AI executive assistants, this creates a two-tier trust standard: **policy privacy** may be acceptable for low-risk convenience; **cryptographic or user-keyed privacy** should be the bar for agents that touch email, payments, calendars, work documents, or family data.
+
+→ Source: [WIRED, "Meta Releases Muse, a Personal AI Agent With Privacy 'Built Into It'"](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/) (2026-09-09); [[00-Daily-Digests/2026-09-13]]
+
 ## Best Supporting Sources
 - **Anthropic, "Claude Fable 5 and Claude Mythos 5" (June 10, 2026):** Official announcement of the dual-tier release. Same underlying model, different access tiers. URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
 - **Sharon Goldman / Fortune, "Anthropic accused of 'secret sabotage' as Claude Fable 5 silently limits capabilities for AI researchers and developers" (June 10, 2026):** Documents researcher pushback against opaque capability caps. URL: https://fortune.com/2026/06/10/anthropic-accu-claude-fable-5-limits-capabilities-ai-researchers-developers/
 - **Ben Thompson / Stratechery, "Fable 5, Anthropic Alignment, AI Tiers" (June 10, 2026):** Analysis of the tiered release's precedent-setting implications. URL: https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/
+- **[WIRED, "Meta Releases Muse, a Personal AI Agent With Privacy 'Built Into It'"](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/) (September 9, 2026):** Consumer personal-agent launch with Secure VM, Sentinel policy checks, human approval dialogs, planned Confidential VM, external audits, transparency log, and bug bounty.
 - **[Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)** — Anthropic, 2024. Foundational patterns for agent workflow design (prompt chaining, routing, parallelization, evaluator-optimizer).
 - **Steven Levy / WIRED, "AI Agents Plunged the Tech World Into Chaos" (May 26, 2026):** Documents the early agent revolution and executive use cases. URL: https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/
 

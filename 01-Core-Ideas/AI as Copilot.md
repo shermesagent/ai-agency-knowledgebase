@@ -91,6 +91,16 @@ Fenoglio's framework also explains *why* [[Cognitive Surrender]] happens so read
 
 **→ Connects to:** The [[Human Agency#Asymmetric Communication — The Structural Foundation (July 2026)|asymmetric communication framework]], [[Digital Fiduciary Duty]] (fiduciaries must preserve the asymmetry by acting in the human's interest), [[Cognitive Surrender]] (surrender as the structural consequence of asymmetry), and the [[00-Daily-Digests/2026-07-31|July 31 digest]] for the full framework.
 
+## From App Copilot to Intelligent Personal Hub (September 2026)
+
+Stratechery's Apple analysis identifies the copilot interface problem in consumer form: Apple remains strongest where hardware and software are integrated, but its AI blind spot may be its belief in the primacy of apps. A true AI copilot does not live as one more app icon. It works across messages, calendar, files, audio, purchases, and context — more like an **intelligent personal hub** than a point solution.
+
+The copilot implication is uncomfortable for app-centric institutions: if AI is the coordinating layer, then the human's real interface becomes intent, context, and permission rather than app-by-app operation. That can expand agency by reducing coordination friction, but it can also erase legibility if the hub quietly decides which app, source, contact, or action path matters. The copilot standard should therefore be: **cross-app intelligence with cross-app accountability.** Users should see what context the copilot used, which app boundary it crossed, what action it proposes, and who is accountable for approval.
+
+This connects directly to Meta's Muse and OpenAI's ChatGPT Work pattern: the next copilot is not a writing helper or a sidebar. It is a delegated coordination layer. The design fight is whether that layer remains user-governed or becomes another enclosure point.
+
+→ Source: [Stratechery, "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence"](https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/) (2026-09-10); [[00-Daily-Digests/2026-09-13]]
+
 ## Risks / Limits
 - Copilot language can hide real automation; ask whether the human can understand, contest, and override the output.
 - Overreliance can deskill users if they stop practicing judgment, memory, writing, or quantitative reasoning.

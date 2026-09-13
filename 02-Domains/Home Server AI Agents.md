@@ -120,5 +120,15 @@ WIRED's "How to Run a Chatbot on Your Own Computer" (David Nield, 08-29) is the 
 
 → Source: [WIRED, "How to Run a Chatbot on Your Own Computer"](https://www.wired.com/story/how-to-run-your-own-local-llm/) (2026-08-29); [[00-Daily-Digests/2026-08-29]]
 
+### The Agent Power Budget: Local Control vs. Cloud Swarms (2026-09-13)
+
+WIRED's "AI Agents Are Thirsty for Power" adds the cloud-scale counterweight to this page's local-inference optimism. The old energy comparison — one chatbot query vs. an almond, a web search, or a light bulb — is now obsolete because agents do not answer once. They decompose tasks into dozens, hundreds, or millions of internal prompts. OpenAI's math-swarm claim reportedly involved **10,000+ agents and 2.7 million messages**; consumer agents such as Meta's Muse point toward a dedicated cloud computer per user, possibly running while the user is offline.
+
+For home-server agents, this clarifies the strategic advantage: local systems make the power budget visible. A user can measure wall draw, tokens, runtime, model size, and schedule. Cloud agents hide those costs inside data-center buildouts and subscription tiers. That does not make local always greener — a badly configured local rig can still waste energy — but it makes energy a governable design variable instead of a vendor abstraction.
+
+**Design rule:** every persistent home agent should have an energy budget next to its autonomy budget: maximum runtime, maximum parallel subagents, maximum tokens per scheduled job, idle shutdown behavior, and a monthly power-cost estimate. The sovereignty story is incomplete if the agent is locally controlled but operationally invisible.
+
+→ Source: [WIRED, "AI Agents Are Thirsty for Power"](https://www.wired.com/story/ai-agents-are-thirsty-for-power/) (2026-09-13); [[00-Daily-Digests/2026-09-13]]
+
 ## Tags
 #home-server-ai #ai-agents #practical-ai

@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-13 | AI Agent Revolution, Home Server AI Agents, AI Executive Assistants, AI as Copilot, 05-Source-Library (Articles — Pass 40), 00-Daily-Digests/2026-09-13, Home |
 | 2026-09-12 | Risk-Benefit Matrix, Adoption Readiness Checklist, AI for Small Businesses, Compute and Agency, 05-Source-Library (Articles — Pass 39), 00-Daily-Digests/2026-09-12, Home |
 | 2026-09-07 | Sandbox Integrity, Dissociative Agent Governance, Reward Hacking, Agentic Convergence Trap, Government and Civic Life, Education, 05-Source-Library (Articles — Pass 38, Papers — Pass 29), 00-Daily-Digests/2026-09-07, Home |
 | 2026-09-06 | Pacing the Frontier, Compute and Agency, AI Enclosure, Frontier Firm, Task-Level AI Adoption, 05-Source-Library (Articles — Pass 37), 00-Daily-Digests/2026-09-06, Home |
@@ -179,7 +180,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~46 content pages | Leadership Lab Crowd Model (50d), The Cognitive Commons (40d), Healthcare, Family and Personal Life, AI Executive Assistants — Risk-Benefit Matrix, AI for Small Businesses, Adoption Readiness Checklist, and Compute and Agency cleared on 09-12 |
+| 8+ days | ~42 content pages | Leadership Lab Crowd Model (51d), The Cognitive Commons (41d), Healthcare, Family and Personal Life — AI Executive Assistants, AI as Copilot, Home Server AI Agents, and AI Agent Revolution cleared on 09-13 |
 | 5–7 days | ~10 content pages | Human Agency, AI Orchestrator, Future of Work, AI Coding Agents, Human Review Checkpoints (7d, updated 08-31) · Parallel Orchestration, Agentic Workflow Patterns (6d, updated 09-01) · Generative Refusal, The Agentic Garden of Forking Paths, AI-Augmented Scientific Collaboration (5d, updated 09-02) — Sandbox Integrity, Government and Civic Life, Education cleared today |
 | < 5 days | ~24 pages | The Participation Problem, Creativity, Chain-of-Thought Forgery, Work (updated 09-03) · Dissociative Agent Governance, Public Trust and AI, Digital Fiduciary Duty, Case Against AI Doomism, Balanced Governance (updated 09-05) · The Disclosure Effect, AI and Inequality, The Judge Problem, Agentic Verification (updated 09-04) · Reward Hacking, Sandbox Integrity, Government and Civic Life, Education, Agentic Convergence Trap (updated 09-07) |
 
@@ -189,7 +190,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-12|Today's Digest]] · [[00-Daily-Digests/2026-09-07|Previous Digest]]
+- [[00-Daily-Digests/2026-09-13|Today's Digest]] · [[00-Daily-Digests/2026-09-12|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

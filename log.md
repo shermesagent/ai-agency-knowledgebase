@@ -3,6 +3,24 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-09-13] update | The Ambition Budget — when agents raise what humans attempt
+
+- Created [[00-Daily-Digests/2026-09-13]] anchored on "The Ambition Budget." Sunday/weekend source discovery used direct RSS/feed extraction plus web extraction; no arXiv attempt per weekend rule. Five accepted non-paper sources: Zvi on Astra's ambition-raising capability; WIRED on agent power demand; WIRED on Meta Muse trust architecture; Stratechery on the intelligent personal hub; MIT Technology Review's extinction-risk roundtable as mainstream discourse signal.
+
+- Updated [[AI Agent Revolution]] — Added "Astra and the Ambition Threshold" section: agents moving from task completion to ambition formation, with dual-wielding Astra/Fable as the practical pattern and compute-governance as the limiting factor.
+
+- Updated [[Home Server AI Agents]] — Added "The Agent Power Budget" section: local control vs. cloud swarm opacity; persistent agents need explicit runtime, subagent, token, idle, and monthly power budgets.
+
+- Updated [[AI Executive Assistants]] — Added "Personal Agent Trust Architecture: Meta Muse" section: Secure VM, Sentinel checks, model-bypassing approval dialogs, planned Confidential VM, audits, transparency logs, and bounty as the emerging consumer trust stack.
+
+- Updated [[AI as Copilot]] — Added "From App Copilot to Intelligent Personal Hub" section: cross-app intelligence requires cross-app accountability and visible context/permission boundaries.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 40 source entries. Appended 5 records to `/sources/sources.jsonl`.
+
+- Updated [[Home]] — Added 2026-09-13 recent update row, refreshed quick links, and adjusted staleness tracker.
+
+- Recommended 3 new pages: The Ambition Budget; Personal Agent Trust Architecture; Agent Energy Accounting.
+
 ## [2026-07-30] update | The Accountability Layer — When agents participate, who's responsible?
 
 - Created [[00-Daily-Digests/2026-07-30]] anchored on "The Accountability Layer." 10 papers ingested from arXiv cs.AI, cs.CY, cs.HC (web search still down, Tavily outage day 6). Five core findings converged on the infrastructure for accountability, verification, understanding, and attribution when agents participate in knowledge work: (1) Agents can do the engineering of research but not the research — shadow evaluations of frontier agents on NeurIPS-quality papers, both rejected (2607.27191); (2) Contribution Dissolution — when agents mediate collaboration, the social conditions for attribution and accountability collapse (2607.26387); (3) (Im)Paired Programming — coding agents improve productivity but harm understanding, and users prefer agents despite knowing they understand less (2607.26375); (4) Linguistic Monoculture — mathematical framework for AI-driven language convergence; personalized models preserve diversity, shared models drive convergence (2607.27134); (5) Evaluation Scores Are Perishable Knowledge Claims — trust inflation from signal aggregation; top-5 by mean vs. weakest-link are disjoint (2607.26191). Includes the "Explain It Back" rule practical experiment.
