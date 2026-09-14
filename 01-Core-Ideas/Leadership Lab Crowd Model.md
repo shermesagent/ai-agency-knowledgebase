@@ -43,6 +43,20 @@ The Scientific Labor Reorganization finding (Zheng et al., arXiv 2607.20923, Jul
 
 The three-layer model is the defense against this narrowing: **Leadership** sets a vision for team design that maintains role breadth; **The Crowd** surfaces where narrowing is happening — the workers who feel their skills contracting; and **The Lab** builds tools and benchmarks that measure not just AI performance but human capability development over time. Without all three layers, organizations drift toward AI-optimized narrowness: AI coordinates, humans execute narrow roles, and the cross-functional judgment that drives innovation atrophies. → See [[Democratization of Expertise#The Narrowing Role]] for the full analysis.
 
+### The Learning System Upgrade (September 2026)
+
+Microsoft's 2026 Work Trend Index sharpens the Leadership/Lab/Crowd model by naming the organizational end state: **the firm becomes a learning system.** In a 20,000-worker survey plus Microsoft 365 telemetry, Microsoft argues that workers are often ahead of the organizations around them. Forty-nine percent of classified Copilot chats support cognitive work — analysis, problem-solving, evaluation, and creativity — and 66% of surveyed AI users say AI lets them spend more time on high-value work. But organizational factors such as culture, manager support, governance maturity, and talent practices account for more than twice the reported AI impact of individual mindset and behavior.
+
+This maps cleanly onto the three layers:
+
+- **Leadership** must reward work redesign, not just output volume. Microsoft reports only 13% of AI users say they are rewarded for reinventing work with AI even when results are uncertain.
+- **The Crowd** supplies the practical discovery layer: frontline workers find where AI actually changes the work, including the boring-but-real frictions that leadership decks miss.
+- **The Lab** converts those discoveries into reusable standards, benchmarks, and shared workflows so every team does not have to rediscover the same pattern.
+
+The arXiv paper **When Does AI Augment Work?** (2609.12482) adds the missing unit of analysis: workflows, not atomized tasks. It argues that AI's value should be characterized by how human-agent collaboration transforms whole workflows, because task automation metrics miss redesign effects. That is exactly where Leadership/Lab/Crowd earns its keep: Leadership chooses which workflows matter, the Crowd discovers practical redesigns, and the Lab makes those redesigns reliable enough to spread.
+
+The updated rule: **adoption is not the goal; organizational learning is the goal.** A company can have high AI usage and still fail if the learning stays trapped inside individual workers' private hacks. The model works when local experiments become shared operating knowledge.
+
 ## Practical Examples
 - Mollick "vibe-benchmarked" Manus (Claude-based agent) on a Wharton business simulation that normally takes student teams dozens of hours. Manus produced a 45-page business model analysis, website, pitch deck, and financial deep-dive in minutes with fewer mistakes than talented students.
 - One enterprise switched from output metrics (cost per query) to outcome metrics (% of contracts reviewed without human escalation) and measured ROI from agentic AI tripled in two quarters.

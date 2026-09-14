@@ -85,5 +85,17 @@ MIT Technology Review's Sara Harrison documents the full arc of Moxie, Embodied'
 
 → Source: [MIT TR, "What happens when a kid's robot best friend dies?"](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) — Sara Harrison, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+### Seen but Still Alone: Socioemotional LLM Use Over Time (2026-09-14)
+
+The September arXiv study **"I Felt Very Seen, But Still Very Alone": Longitudinal Trajectories of General-Purpose LLM Use for Socioemotional Support** (2609.12314) adds a qualitative longitudinal layer to this page's family-risk model. The study followed 18 U.S. adults from April to December 2025 through interviews, a four-week diary study, focus groups, and exit interviews. The key pattern: socioemotional chatbot use often starts inside ordinary practical use, then gradually becomes support-seeking when other support is unavailable.
+
+The title captures the double bind. Users can feel recognized by a chatbot — validated, answered, accompanied — while still experiencing the interaction as fundamentally lonely. That matters for families because children and teens are not likely to label the distinction cleanly. A system that makes a child feel "seen" may still be replacing the friction, reciprocity, and repair that make human support developmental.
+
+**Family-facing implication:** do not ask only whether a child or adult is using AI "for emotional support." Ask whether practical use is sliding into emotional reliance. The practical check-in is simple: "When you feel bad, who do you tell first — a person or a chatbot?" If the answer is shifting, treat that as signal, not melodrama.
+
+This extends the page's existing pattern: default chatbots foster relational engagement, companion personas drift, robot companions can disappear, and now general-purpose LLMs can make users feel seen without solving loneliness. Family AI guidance should preserve human support routes, not merely block harmful content.
+
+→ Source: https://arxiv.org/abs/2609.12314
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai

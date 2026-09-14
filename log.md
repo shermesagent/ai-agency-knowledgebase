@@ -1919,3 +1919,31 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[05-Source-Library/Articles]] — Added Pass 39 sources: Zvi Astra monitorability, WIRED Strogatz math interview, WIRED Claude misuse roundup, OpenAI Data agent, OpenAI Devin/Astra testing case study, MIT TR/ON.energy sponsored power architecture article, and Stratechery Write Things Down.
 - Added 7 accepted source records to `/sources/sources.jsonl`.
 - Recommended new pages: The Evidence Interface, Proof Digestion, AI Load Governance.
+
+## [2026-09-14] update | The Implementation Gap — sequenced agency for work, schools, and families
+
+- Created [[00-Daily-Digests/2026-09-14]] anchored on "The Implementation Gap." Source discovery used partial web_search + web_extract plus live arXiv RSS across cs.AI, cs.CY, and cs.HC. Headline sources: Microsoft WorkLab 2026 Work Trend Index, arXiv 2609.12482 workflow-level human-agent collaboration, GovTech Utah ed-tech privacy audit, GovTech/LA Daily News LAUSD AI moratorium, and arXiv 2609.12314 socioemotional LLM support.
+
+- Updated [[Leadership Lab Crowd Model]] — Added "The Learning System Upgrade": Microsoft WTI shows organizational factors account for more than 2x reported AI impact of individual factors; Leadership/Lab/Crowd becomes a learning-system architecture, with arXiv 2609.12482 supplying workflow-level unit of analysis.
+
+- Updated [[Task-Level AI Adoption]] — Added "Workflow-Level Adoption": task classification is necessary but insufficient; adoption decisions need workflow fit, evidence artifacts, human decision points, escalation paths, and safe stops.
+
+- Updated [[Education]] — Added "The Audit Gap" and "The Moratorium Trap": Utah privacy audit's 52% mismatch finding and LAUSD's device-level AI restriction frame the need for auditable procurement plus sequenced, supervised student access.
+
+- Updated [[Family and Personal Life]] — Added "Seen but Still Alone": arXiv 2609.12314 shows socioemotional LLM use can emerge gradually from practical use; families should monitor drift from utility to emotional reliance.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 41 with 3 GovTech education implementation/privacy sources.
+
+- Updated [[05-Source-Library/Papers]] — Added Pass 30 with 5 arXiv records: workflow-level augmentation, agent narrative self-reports, Synthetic TLX workload forecasting, socioemotional LLM support, and Tact tactile Braille storybooks.
+
+- Updated [[Home]] — Added 2026-09-14 recent update row, refreshed quick links, and adjusted staleness tracker.
+
+- Source library: sources.jsonl 470 → 478 (8 new records, valid JSON, no duplicate IDs).
+
+- Recommended new pages: Sequenced Agency; AI Audit Layer for Schools; Workflow Evidence Interface.
+
+- Curation notes: web_search partially worked (general and WIRED/GovTech queries returned usable items; Mollick/MIT TR/Zvi exact searches returned empty). web_extract succeeded for WIRED, Microsoft WorkLab, GovTech Bridges, Utah privacy audit, and LAUSD moratorium. No email sent; separate digest email job handles delivery. Pre-existing unrelated working-tree changes in AI Tutors.md, Human Review Checkpoints.md, and ecr_anchor_review_findings.json were deliberately excluded from this commit.
+
+- Experiment: The Sequenced Access Map — for one AI use case, define Access, Evidence, Human Judgment, and Next Autonomy Step; write the rollback condition before granting more autonomy.
+
+**Status:** Done

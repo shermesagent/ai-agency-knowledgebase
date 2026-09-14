@@ -65,6 +65,29 @@ Source: https://arxiv.org/abs/2606.28186
 - Positive tutoring results should be treated as design evidence, not proof that every chatbot improves learning.
 - **Interaction architecture risk (June 2026):** The chat interface itself biases toward solution delivery over exploration — the Mittal et al. field experiment shows this is an architectural problem, not a content problem. Even well-designed AI content may reduce learning if delivered through an interaction paradigm that defaults to convenience over cognitive development.
 
+### The Audit Gap: Privacy Promises Are Not Controls (September 2026)
+
+GovTech's September report on Utah's ed-tech privacy investigation gives districts a concrete governance lesson. Utah compared vendor privacy promises against actual app behavior and found that among 85 tested applications with standard data privacy agreements, **44 apps — 52% — collected at least one type of data not permitted under their agreement.** Eleven apps, or 13%, shared at least one unpermitted data element with a third party. More broadly, 61% shared some data with third parties, and 36% shared data with advertising-related entities.
+
+The important point is not that every mismatch was malicious. Some were probably sloppy agreements, routine IP-address disclosures, or app changes after contracting. The important point is that the contract did not verify itself. As Internet Safety Labs' Lisa LeVasseur put it: **"A contract is only as good as it is auditable and enforceable."**
+
+That directly applies to AI adoption in schools. A district can have a strong AI data privacy agreement and still be blind if nobody tests the actual data flows. Education AI governance needs an evidence layer: app inventory, network testing, third-party sharing review, change monitoring, and a way for districts to consult centralized audits rather than expecting teachers to inspect traffic.
+
+### The Moratorium Trap: Blocking Access Is Not the Same as Teaching Judgment
+
+The same GovTech September sweep captured LAUSD temporarily blocking student access to standalone generative AI and embedded Google Workspace AI features on district-issued devices while it develops rules. The pause is understandable: student data, chatbot dependence, cheating, and vendor uncertainty are real. But the article also names the equity problem: students with personal devices and non-district accounts can keep experimenting, while students dependent on school devices lose supervised practice.
+
+The responsible position is not "ban" or "YOLO." It is **sequenced access**:
+
+1. Teach what AI is, how it is trained, what it gets wrong, and what interests shape it.
+2. Audit privacy and procurement before student data enters the tool.
+3. Give age-appropriate, teacher-guided use cases where process and reflection are assessed.
+4. Increase autonomy only when students demonstrate AI literacy, verification habits, and disclosure norms.
+
+Without step 3, schools may produce the worst version of both worlds: official bans at school, unsupervised use at home, and no common language for judgment. Education's agency goal is not to keep students away from AI forever; it is to make supervised AI use safer, more equitable, and more intellectually honest than the shadow system students will otherwise build themselves.
+
+→ Sources: GovTech, "What Happened When Utah Put Ed-Tech Privacy Promises to the Test" (2026-09-04); GovTech / Los Angeles Daily News, "LAUSD Temporarily Bans Generative AI on School-Issued Devices" (2026-09-04)
+
 ## Related Pages
 - [[AI Tutors]]
 - [[AI for School Districts]]

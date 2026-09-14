@@ -103,6 +103,26 @@ Adoption Telemetry (Young, arXiv 2608.23617) adds the measurement layer the task
 
 → Source: [Adoption Telemetry](https://arxiv.org/abs/2608.23617)
 
+### Workflow-Level Adoption: The Unit Is Bigger Than the Task (September 2026)
+
+The next refinement is that task-level adoption can become too small a lens. **When Does AI Augment Work? A Workflow-Level Framework for Human-Agent Collaboration** (arXiv 2609.12482) argues that automation/adoption metrics built around atomized tasks miss AI's larger effect: humans and agents change the structure of work around the task. The value question becomes not only "can AI do this step?" but "does AI change the workflow so humans move to better decision points?"
+
+That creates a two-layer classification:
+
+1. **Task fit:** automate, augment, human-only, or prohibit for each action.
+2. **Workflow fit:** whether the surrounding sequence has clear handoffs, evidence artifacts, escalation paths, and human decision points.
+
+This also explains the consumer-agent engagement barrier. WIRED's Josh Miller piece — already tracked in this framework — says normal people do not want "AI agents" as a category; they want calm, useful products. The workflow-level version is harsher: if an agent requires the user to redesign the work alone, adoption stalls. If the product embeds the redesign into an existing routine, the agent disappears into value.
+
+**New audit questions:**
+- What workflow changes if this task is delegated?
+- Which human decision point becomes more important after delegation?
+- What evidence artifact lets the human judge the agent's work without replaying every step?
+- If the agent fails, where does the workflow safely stop?
+- Does the tool make the user's existing routine easier, or does it demand a new routine before value appears?
+
+The framework now treats task classification as necessary but insufficient. A task can be safe to augment and still fail because the workflow has no adoption path, no evidence interface, or no obvious human judgment point.
+
 ## The Dual-Wield Moment: Model Choice When Instruments Disagree (2026-09-06)
 
 The Fable 5.1 / GPT-6 Astra week (both shipped within ~48 hours, 09-03/09-05) made model choice a live task-level decision again — and the comparison instruments disagree with each other more than the models do (Epoch ECI: Astra 169 vs. Fable 163; Vals composite: Fable 68.8% vs. Astra 66.6%; Artificial Analysis retroactively re-ran its methodology after scoring Astra a "strangely low" 61; FrontierMath Tier 4: Astra 97.6% vs. Fable 87.8%; ARC-AGI-3: vendor-reported 99.9% with no independent cross-check). The task-level lesson: **when the indices disagree, the task is the only instrument that matters** — which is Zvi Mowshowitz's actual practice: "My plan is to 'dual wield' and ask both all non-trivial queries."
