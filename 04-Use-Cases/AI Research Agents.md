@@ -98,6 +98,24 @@ This page matters for the wiki's thesis because research agents are the limit ca
 
 → Source: arXiv 2608.07542 (2026-07-30); [[00-Daily-Digests/2026-08-12]]
 
+### LabAgent and the Inheritance Problem (2026-09-15)
+
+**LabAgent** (arXiv 2609.13437) reframes research agents around a less glamorous but more useful problem than autonomous genius: laboratories forget. Students graduate, staff leave, methods become unreproducible, and expensive workflows cannot be continued because the tacit correction history was never captured. LabAgent is a reproduce-and-discovery harness that records executable skills, verification steps, corrective methods, and prior mistakes so a lab can inherit its own methods instead of starting over.
+
+That makes it a direct answer to this page's verification gap. The goal is not "AI replaces the scientist." The stronger use case is **continuity infrastructure**: preserve the lab's procedural memory, reproduce a published figure, verify a method still works, and expand from an inherited base. In life-science tasks including drug-property prediction, biomedical problem analysis, protein-variant effects, and statistical genetics, the authors report LabAgent outperforming commercial generalist agents and accurately reproducing a published figure.
+
+**The agency interpretation:** research agents are most trustworthy when they make tacit work explicit. A lab that can show the skill record, failed correction path, and verification artifact is less dependent on any one person and less tempted to treat the agent's conclusion as magic. This connects [[AI Research Agents]] to [[The Cognitive Commons]]: the commons is not preserved by refusing automation; it is preserved by making the apprenticeship trail durable.
+
+→ Sources: arXiv 2609.13437; [[00-Daily-Digests/2026-09-15]]
+
+### Root-Cause Attribution as Continual Search (2026-09-15)
+
+Long-horizon agents produce execution traces too large for ordinary human review. **Root-Cause Attribution Is a Search Problem** (arXiv 2609.13463) argues that automated RCA fails when LLM judges settle on a plausible diagnosis early and stop looking. The proposed fix, Continual Search, repeatedly nudges the judge to keep searching unresolved evidence across long traces instead of collapsing to the first coherent story.
+
+For research agents, this is the diagnostic version of the verdict-layer problem. The agent's explanation of why an experiment failed is itself a hypothesis, not a finding. The deployment standard should be: root-cause reports must show the search path, the dismissed alternatives, and the evidence still unresolved. Otherwise the agent becomes a confident postmortem generator — which is exactly how bad science gets laundered into clean prose.
+
+→ Sources: arXiv 2609.13463; [[Agentic Verification]]; [[00-Daily-Digests/2026-09-15]]
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-15 | The Cognitive Commons, Practical AI, AI Research Agents, Responsible Deployment, 05-Source-Library (Articles — Pass 42, Papers — Pass 31), 00-Daily-Digests/2026-09-15, Home |
 | 2026-09-14 | Leadership Lab Crowd Model, Task-Level AI Adoption, Education, Family and Personal Life, 05-Source-Library (Articles — Pass 41, Papers — Pass 30), 00-Daily-Digests/2026-09-14, Home |
 | 2026-09-13 | AI Agent Revolution, Home Server AI Agents, AI Executive Assistants, AI as Copilot, 05-Source-Library (Articles — Pass 40), 00-Daily-Digests/2026-09-13, Home |
 | 2026-09-12 | Risk-Benefit Matrix, Adoption Readiness Checklist, AI for Small Businesses, Compute and Agency, 05-Source-Library (Articles — Pass 39), 00-Daily-Digests/2026-09-12, Home |
@@ -181,9 +182,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~39 content pages | The Cognitive Commons, Healthcare, AI for School Districts, AI Writing Partners — Leadership Lab Crowd Model and Family and Personal Life cleared on 09-14 |
+| 8+ days | ~37 content pages | Healthcare, AI for School Districts, AI Writing Partners, Deployment Wall — The Cognitive Commons cleared on 09-15 |
 | 5–7 days | ~10 content pages | Human Agency, AI Orchestrator, Future of Work, AI Coding Agents, Human Review Checkpoints (updated 08-31) · Parallel Orchestration, Agentic Workflow Patterns (updated 09-01) · Generative Refusal, The Agentic Garden of Forking Paths, AI-Augmented Scientific Collaboration (updated 09-02) |
-| < 5 days | ~28 pages | Leadership Lab Crowd Model, Task-Level AI Adoption, Education, Family and Personal Life (updated 09-14) · AI Agent Revolution, Home Server AI Agents, AI Executive Assistants, AI as Copilot (updated 09-13) · Risk-Benefit Matrix, Adoption Readiness Checklist, AI for Small Businesses, Compute and Agency (updated 09-12) |
+| < 5 days | ~32 pages | The Cognitive Commons, Practical AI, AI Research Agents, Responsible Deployment (updated 09-15) · Leadership Lab Crowd Model, Task-Level AI Adoption, Education, Family and Personal Life (updated 09-14) · AI Agent Revolution, Home Server AI Agents, AI Executive Assistants, AI as Copilot (updated 09-13) |
 
 ---
 
@@ -191,7 +192,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-14|Today's Digest]] · [[00-Daily-Digests/2026-09-13|Previous Digest]]
+- [[00-Daily-Digests/2026-09-15|Today's Digest]] · [[00-Daily-Digests/2026-09-14|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

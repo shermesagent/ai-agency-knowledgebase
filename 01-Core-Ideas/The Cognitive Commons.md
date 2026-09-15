@@ -32,6 +32,16 @@ For [[Superagency]], this is the load-bearing wall: AI amplifies human agency *o
 - **Persona drift (2607.28818):** AI companions that shift behavior over long horizons quietly change what users are attached to — the relational commons (trust in a "best friend") depletes without any single visible event.
 - **Enterprise "prompt engineering" as distributed mastery:** teams that externalize all skill into prompts and pipelines (see [[Deployment Wall]]) build Distributed Mastery on top of a shrinking Internalized base — a fragile commons that a model change or tool sunset can collapse overnight.
 
+## PAUSE and the Commons Ledger (2026-09-15)
+
+**PAUSE** (arXiv 2609.13155) gives the cognitive commons its first lightweight self-audit pattern. The tool is deliberately non-diagnostic and private: a no-login reflection check organized around four domains where LLM use can substitute for human effort — reasoning and critical thinking, creativity and originality, research and learning, and social or communicative capacity. That matters because the commons problem is not only institutional. It starts as thousands of tiny personal substitutions that nobody logs.
+
+The useful move is the **commons ledger**: every AI-heavy workflow should name what it externalized and what it preserved. If AI drafted the answer, did the human still generate the initial claim? If AI summarized the paper, did the human still inspect the method? If AI handled a difficult message, did the human still decide what they meant? PAUSE is not proof of harm; it is a mirror for noticing when [[Cognitive Surrender]] is quietly converting Internalized Mastery into Distributed Mastery without a regeneration plan.
+
+**Why this matters:** the Validation Tether depends on self-awareness before it depends on policy. Institutions can mandate [[Human Review Checkpoints]], but a reviewer who no longer practices private reasoning has little left to review with. The commons survives when AI use includes deliberate re-entry: draft first, verify by hand, explain without the tool, and only then let the machine accelerate the work.
+
+→ Sources: arXiv 2609.13155; [[00-Daily-Digests/2026-09-15]]
+
 ## Risks / Limits
 
 - **Not a Luddite frame.** The commons is not an argument against AI use; it is an argument for *deliberate* use — track what expertise you are externalizing and what you are preserving. Compression of pathways is sometimes good (the tutored junior), sometimes corrosive (the validator who never learned to validate).
@@ -49,9 +59,9 @@ For [[Superagency]], this is the load-bearing wall: AI amplifies human agency *o
 - [[Healthcare]] — the validation tether in clinical practice
 - [[Education]] — tutoring, internalization, and the next generation of experts
 - [[AI Tutors]] — the regeneration side of the ledger
-- [[Knowledge Collapse]] — the prior framing of the same line (see SCHEMA for naming conventions)
+- Knowledge Collapse — prior framing of the same line; not yet a standalone page
 - [[00-Daily-Digests/2026-08-03]] — "The Pattern Generalizes"
 
 ## Tags
 
-#cognitive-commons #human-agency #ai-education #future-of-work #research #augmentation #risk #superagency
+#human-agency #ai-education #future-of-work #research #augmentation #risk #superagency

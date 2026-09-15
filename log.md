@@ -1947,3 +1947,30 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Experiment: The Sequenced Access Map — for one AI use case, define Access, Evidence, Human Judgment, and Next Autonomy Step; write the rollback condition before granting more autonomy.
 
 **Status:** Done
+
+
+## [2026-09-15] update | The Attestation Gap — autonomy only scales when evidence scales with it
+
+- Created [[00-Daily-Digests/2026-09-15]] anchored on "The Attestation Gap." Source discovery used web_search, web_extract, and live arXiv RSS across cs.AI, cs.CY, cs.HC, and cs.LG. Headline sources: MIT Technology Review on the doomer-turn slowdown rhetoric, OpenAI's Navier-Stokes agent-swarm announcement plus Zvi analysis, WIRED on Claude Managed Agents, arXiv 2609.13466 on the attestation deficit, and arXiv 2609.13155 on PAUSE.
+
+- Updated [[The Cognitive Commons]] — Added PAUSE and the commons ledger: a private self-audit for what AI externalizes versus what the human still practices. Also fixed a stale planned-page wikilink and normalized tags to the existing taxonomy while the page was touched.
+
+- Updated [[Practical AI]] — Added Managed Agents and the Practical Harness: evaluate tools, memory, sandbox evidence, permissions, and monitoring before treating agent output as business-ready.
+
+- Updated [[AI Research Agents]] — Added LabAgent as research-continuity infrastructure and Continual Search for root-cause attribution over long agent traces.
+
+- Updated [[Responsible Deployment]] — Added the Attestation Deficit: policy without evidence is decoration; serious deployment needs audit records proving authorization, enforcement, monitoring, and intervention.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 42 with MIT TR doomer-turn analysis, OpenAI Navier-Stokes announcement, Zvi Millennium Prize analysis, and WIRED Claude Managed Agents.
+
+- Updated [[05-Source-Library/Papers]] — Added Pass 31 with 5 arXiv records: attestation deficit, PAUSE, root-cause attribution as continual search, LabAgent, and Vibe Patenting.
+
+- Updated [[Home]] — Added 2026-09-15 recent update row, refreshed quick links, and adjusted staleness tracker.
+
+- Source library: appended 8 accepted records to `/sources/sources.jsonl` for 2026-09-15. Pre-existing 2026-09-14 source-enrichment edits already in the working tree were left intact.
+
+- Recommended new pages: Attestation Deficit; Commons Ledger; Research Continuity Infrastructure.
+
+- Experiment: The Evidence Receipt Drill — for one AI workflow, write a four-line receipt before running it: intent, access, evidence, and human re-entry. If one line cannot be filled, that is the next control to build.
+
+**Status:** Done

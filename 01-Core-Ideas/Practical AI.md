@@ -112,6 +112,23 @@ August's bluntest data point on practical AI: Josh Miller (The Browser Company C
 
 **→ Connects to:** the feature-awareness divide below, [[Home Server AI Agents]] (local sovereignty), and the [[00-Daily-Digests/2026-08-09|August 9 digest]].
 
+## Managed Agents and the Practical Harness (2026-09-15)
+
+Anthropic's **Claude Managed Agents** announcement, reported by WIRED on September 15, moves practical AI one layer down the stack. The product is not just another model. It sells the **harness**: tools, memory, cloud runtime, sandboxes, multi-agent monitoring, and permission toggles so businesses can run fleets of agents for hours without building distributed-systems infrastructure from scratch.
+
+That is practical and dangerous for the same reason. The adoption barrier drops from "can we engineer agent infrastructure?" to "can we specify the work, permissions, evidence, and stop conditions?" A Notion onboarding demo looks boring in the right way: task lists, tool use, dashboard visibility, permissions. But boring enterprise agents become consequential fast when they can access customer data, write to systems, and monitor other agents.
+
+**The practical rule this adds:** do not evaluate agent products by demo output. Evaluate the harness. Ask four questions before calling the workflow ready:
+
+1. What tools can the agent touch, and who can change that list?
+2. What memory persists, and how is it inspected or deleted?
+3. What sandbox boundary exists, and what evidence proves it held?
+4. What monitoring dashboard shows the work without relying on the agent's own narrative?
+
+If those questions have concrete answers, Managed Agents can expand agency by making reliable automation cheaper. If the answers are vague, the product just industrializes vibes-based delegation. See [[Responsible Deployment]] and [[Agentic Workflow Patterns]].
+
+→ Sources: WIRED, "Anthropic's New Product Aims to Handle the Hard Part of Building AI Agents"; [[00-Daily-Digests/2026-09-15]]
+
 ## Risks / Limits
 
 - **The cognitive debt trap**: Every practical AI workflow accumulates unverified reasoning obligations. The Cognitive Debt model (Meng, 2606.15078) shows this is individually rational but collectively fragile — the Minsky moment arrives when subjective confidence is highest.
