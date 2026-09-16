@@ -156,6 +156,18 @@ This is not just competing institutions — it's competing answers to "who gets 
 
 Source: https://arxiv.org/abs/2606.23860
 
+### Sector Vulnerability vs. Governance Attention (2026-09-16)
+
+**[Mapping U.S. Federal AI Governance Against Sector Vulnerability](https://arxiv.org/abs/2609.16260)** (Hung, Chowdhury, Teague & Mylius, arXiv, 2026-09-14) gives balanced governance a coverage audit. The authors assessed **684 U.S. federal AI governance documents** for coverage of 14 sectors and 24 AI risks, then compared coverage patterns to a Delphi vulnerability assessment from **272 experts**.
+
+The finding is the bureaucratic version of proxy compliance: governance attention is not aligned with vulnerability. Robustness, system security, and governance receive more attention; socioeconomic, environmental, emerging, and multi-agent risks receive less. Public administration, national security, information, and scientific services are comparatively well covered, while finance and healthcare are highly vulnerable but receive comparatively less coverage.
+
+**Governance implication:** balanced governance needs a coverage ledger, not just more rules. A federal document pile can grow while the risk map stays misaligned. The operational question becomes: for each sector-risk pair, is coverage deep enough for the assessed vulnerability? If not, the gap should be named before the next guidance memo creates the illusion of action.
+
+This strengthens the page's measurement prerequisite: measure not only AI capability and incident rates, but also **governance coverage relative to vulnerability**. Otherwise the governance system will over-manage visible risks and under-manage the places where failure would actually hurt people.
+
+→ Source: arXiv 2609.16260; [[00-Daily-Digests/2026-09-16]]
+
 ## Best Supporting Sources
 - [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260525-magnifica-humanitas.html) — Pope Leo XIV, May 25, 2026. Reliability 5/5; relevance 5/5. Landmark governance document: calls for "disarming technology," challenges power concentration, asserts self-regulation is insufficient.
 - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) — Stanford HAI, 2025. Annual evidence base on AI technical progress, adoption, policy, education, and public attitudes.

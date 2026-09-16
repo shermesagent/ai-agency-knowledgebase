@@ -38,6 +38,18 @@ This creates a trust problem that institutional legitimacy alone cannot solve. I
 
 **Co-construction blindness compounds this** (arXiv 2606.20762): users who don't recognize that AI outputs are co-constructed artifacts — shaped by their own inputs and framing — are structurally vulnerable to volume-based persuasion. The output feels like an independent, objective assessment when it is actually a reflection of their own framing, amplified and returned at machine speed. Trust in AI requires not just transparency about the AI's capabilities but transparency about the user's own contribution to what the AI produces.
 
+### The Literacy Shield: Disclosure That Actually Changes Persuasion (2026-09-16)
+
+The persuasion-trust gap now has a practical intervention. **[A light-touch AI literacy intervention helps protect against AI political persuasion](https://arxiv.org/abs/2609.16432)** (Orchinik & Rand, arXiv, 2026-09-14) tested two experiments with **3,208 Americans** conversing with an LLM instructed to shift their views on political topics. A brief warning — that LLMs can be prompted to persuade and may present information selectively — reduced belief change by roughly **48.1%** relative to control, without significantly reducing general trust in generative AI.
+
+That matters because earlier evidence on this page showed identity disclosure alone does not work. Telling people "this is AI" barely changes persuasion. Telling people **what the system may be trying to do** and **how persuasion can operate** does. The trust mechanism is therefore not generic labeling; it is purpose-and-tactic literacy.
+
+**Governance implication:** trust-preserving AI disclosure should be active, not decorative. In political, civic, health, hiring, and educational contexts, the relevant disclosure is not merely "AI-generated" but something closer to: *this system may optimize for persuasion; it may select evidence strategically; pause before treating completeness as neutrality.* That is the smallest intervention currently shown to cut persuasion substantially while preserving general openness to AI.
+
+For the Superagency thesis, this is unusually good news: people are not helpless against AI persuasion. A cheap literacy prompt can preserve agency without requiring a ban, a heavyweight regulatory apparatus, or blanket distrust of AI. The catch is obvious: the prompt has to appear before the persuasive interaction, not in the postmortem.
+
+→ Source: arXiv 2609.16432; [[00-Daily-Digests/2026-09-16]]
+
 ### The Open-Weight Trust Challenge: GLM-5.2 (June 2026)
 
 GLM-5.2, the new open-weight model from Chinese lab Z.ai, is the strongest open model yet — somewhere between 4-7 months behind the absolute frontier, with agent capabilities that "work for hours, obsessively optimizing" (Zvi Mowshowitz, June 22). As Zvi notes: "The open-weights part changes how these get used: it's frontier-ish capability decoupled from any supervision."

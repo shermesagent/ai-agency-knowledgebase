@@ -1974,3 +1974,21 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Experiment: The Evidence Receipt Drill — for one AI workflow, write a four-line receipt before running it: intent, access, evidence, and human re-entry. If one line cannot be filled, that is the next control to build.
 
 **Status:** Done
+
+## [2026-09-16] update | The Procedure Layer — AI earns legitimacy when people can contest it
+
+- Created [[00-Daily-Digests/2026-09-16]] anchored on the Procedure Layer: refusals, persuasion warnings, hiring appeals, and sector-risk governance coverage all point to contestability as the agency-preserving layer around AI.
+
+- Updated [[Generative Refusal]] — Added "Refusal Usability Debt" from arXiv 2609.16191: users prefer genuine answers, then hallucinations, then refusals; explanations only help for infrequent refusals. Refusal must include a next action or it trains users toward confident fiction.
+
+- Updated [[Public Trust and AI]] — Added "The Literacy Shield" from arXiv 2609.16432: a brief pre-exposure warning about AI persuasion and selective evidence presentation reduced belief change by about 48% without broadly reducing AI trust.
+
+- Updated [[The Turing Trap]] — Added "Procedural Dignity in AI Hiring" from arXiv 2609.16390: job seekers value human involvement, appeal, opt-out, and bias audit partly for their own sake, not merely because procedure corrects errors.
+
+- Updated [[Balanced Governance]] — Added sector vulnerability vs. governance attention from arXiv 2609.16260: 684 federal AI governance documents are misaligned with expert-rated sector vulnerability; coverage ledgers should compare risk attention to actual vulnerability.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 43 with Zvi AI #185. Updated [[05-Source-Library/Papers]] — Added Pass 32 with four arXiv papers. Appended 5 records to `/sources/sources.jsonl`.
+
+- Updated [[Home]] — Added 2026-09-16 recent update row, refreshed quick links, page count, and staleness tracker.
+
+- Recommended 3 new pages: Procedural Dignity; AI Literacy as Inoculation; Governance Coverage Ledger.

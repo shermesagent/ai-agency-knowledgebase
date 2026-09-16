@@ -73,6 +73,21 @@ The design pattern's boundary condition now has a name. **[Refusal Is Not Robust
 
 → Source: arXiv 2608.26167 (2026-08-28); [[00-Daily-Digests/2026-08-28]]
 
+## Refusal Usability Debt (2026-09-16)
+
+**[When AI Says "I Am Unable to Answer": Understanding User Responses to AI Refusals](https://arxiv.org/abs/2609.16191)** (Nahar, Lee, Heo & Lee, arXiv, 2026-09-14) adds the user-experience constraint this page needed. In an N=599 repeated-interaction study, participants preferred genuine answers most, then even hallucinations, and refusals last — despite recognizing hallucinations as less accurate. Explanations improved satisfaction only when refusals were infrequent; frequent refusals stayed frustrating. Users with higher need for cognitive closure rated refusing systems more negatively.
+
+**The design implication:** refusal is not free. It creates **refusal usability debt** — the accumulated frustration, lost trust, and workarounds users develop when the system refuses too often or without useful explanation. Generative refusal still matters because hallucination avoidance and human capability development matter. But refusal has to be calibrated like any other scarce interface resource:
+
+1. **Refuse with a next action.** "I cannot answer from the evidence available" should be paired with what evidence would change the answer, what safer partial answer is possible, or what human check is required.
+2. **Explain selectively.** Explanations help for occasional refusals but do not rescue chronic refusal. If a workflow triggers frequent refusals, redesign the workflow instead of writing longer apology prose.
+3. **Distinguish safety refusal from developmental refusal.** A tutor withholding a solution and a model declining a medical inference are both refusals, but users experience them differently. The interface should name the reason: learning scaffold, insufficient evidence, policy boundary, or human-only decision.
+4. **Track refusal burden.** A system that is technically safer but systematically pushes users toward less-safe alternatives has failed at deployment, not just UX.
+
+This sharpens the page's original thesis: good refusal is not simply "the AI says no." Good refusal preserves human agency while leaving the human less stuck than before. Bad refusal trains users to prefer confident fiction over honest limits — which is exactly the wrong equilibrium for [[Cognitive Surrender]], [[Public Trust and AI]], and [[Responsible Deployment]].
+
+→ Source: arXiv 2609.16191; [[00-Daily-Digests/2026-09-16]]
+
 ## Connection to Existing Frameworks
 
 - **Co-Existence:** Generative refusal is the practical implementation of Co-Existence in domains where the AI *could* be better than the human at generation but the human's developmental needs override immediate productivity. It's "knowing when the AI is better than you — and asking it NOT to be."

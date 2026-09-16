@@ -74,5 +74,26 @@ Meta's smart glasses subscription (WIRED, July 2, 2026) is the leading edge of t
 
 → Sources: arXiv 2608.20425; arXiv 2608.21089; arXiv 2608.20345 ([[00-Daily-Digests/2026-08-24]])
 
+## Procedural Dignity in AI Hiring (2026-09-16)
+
+The Turing Trap in hiring is not only "AI screens people out." It is that automated screening can remove the experience of being procedurally treated as a person. **[Do job seekers value procedure in AI hiring only for error correction?](https://arxiv.org/abs/2609.16390)** (Wang, Sturgis & de Kadt, arXiv, 2026-09-14) tested this directly in a preregistered paired-profile conjoint experiment with **1,919 U.S. job seekers**. Participants chose between hiring-screening systems with randomized levels of decision authority, error rate, explanation, opt-out, appeal, and independent bias audit.
+
+The key finding: appeal rights, opt-out, and independent bias audits did **not** become more valuable as wrongful-rejection rates rose. Human involvement mattered about as much as cutting wrongful rejections from 30% to 10%. That means applicants value procedure partly for its own sake, not merely because procedure fixes errors.
+
+**Why this belongs in the Turing Trap:** an AI hiring system can become more accurate and still feel illegitimate if it erases contestability. The trap is not just substitution of machine judgment for human judgment; it is substitution of machine process for human standing. A person rejected before any human reads the application has not simply lost an opportunity. They have lost a procedure they can recognize as addressed to them.
+
+**Escape hatch:** AI hiring tools should be evaluated on two axes:
+
+| Axis | Bad version | Agency-preserving version |
+|---|---|---|
+| Accuracy | Lower error rate as sole legitimacy claim | Error rate plus appeal, opt-out, audit, and human decision points |
+| Human role | Human rubber-stamps AI shortlist | Human owns consequential rejection decisions |
+| Explanation | Generic score rationale | Contestable explanation tied to criteria and evidence |
+| Audit | Vendor self-report | Independent bias and process audit |
+
+The practical governance line: performance does not substitute for procedure. In hiring, the [[AI as Normal Technology]] frame only works if normal institutional rights survive the tool.
+
+→ Source: arXiv 2609.16390; [[00-Daily-Digests/2026-09-16]]
+
 ## Tags
 #augmentation #future-of-work #human-agency #risk
