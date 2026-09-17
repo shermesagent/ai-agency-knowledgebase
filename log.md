@@ -1992,3 +1992,23 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[Home]] — Added 2026-09-16 recent update row, refreshed quick links, page count, and staleness tracker.
 
 - Recommended 3 new pages: Procedural Dignity; AI Literacy as Inoculation; Governance Coverage Ledger.
+
+## [2026-09-17] update | The Evidence-Seeking Layer — agents should not act before they know enough
+
+- Created [[00-Daily-Digests/2026-09-17]] anchored on "The Evidence-Seeking Layer." Source discovery used arXiv RSS across cs.AI/cs.CY/cs.HC plus direct MIT Technology Review and Stratechery feed extraction. `web_search` returned empty arrays for most current queries; newsletter feeds for Mollick, Zvi, Import AI, and WIRED returned HTTP 403. Five primary sources: SAFE evidence acquisition (2609.17865), GraphEcho evidence provenance (2609.17695), Publication Authority / PAC-2026 (2609.17631), AI Leadership Battery (2609.17965), and MIT TR's AI infrastructure finance analysis.
+
+- Updated [[Agentic Workflow Patterns]] — Added "The Evidence-Seeking Gate" section: before an agent acts, deploys, publishes, or escalates, the workflow should log what safety-relevant evidence was needed, checked, skipped, and authorized. SAFE shows model-specific evidence-acquisition policies; evidence seeking is a workflow primitive, not a virtue to assume.
+
+- Updated [[Agentic Verification]] — Added "Evidence Independence and Exact-State Publication" section: GraphEcho shows path volume is not corroboration; PAC-2026 shows publication authorization must bind the exact evidence/artifact/surface state that ships.
+
+- Updated [[AI Orchestrator]] — Added Publication Authority as an orchestration responsibility: the final human approval must authorize the exact artifact state, not a moving target.
+
+- Updated [[Future of Work]] — Added AI Leadership Battery as measurable organizational capability and MIT TR's trillion-dollar infrastructure bet as capital-discipline counterweight.
+
+- Updated [[Human Agency]] — Added AI leadership as organizational agency infrastructure; leadership must preserve judgment, learning, transparency, and accountability rather than merely accelerate execution.
+
+- Updated [[05-Source-Library/Papers]] — Added Pass 33 source entries. Updated [[05-Source-Library/Articles]] — Added Pass 44 entries. Appended 6 records to `/sources/sources.jsonl`.
+
+- Updated [[Home]] — Added 2026-09-17 recent update row, refreshed quick links, and adjusted staleness tracker.
+
+- Recommended 3 new pages: Evidence-Seeking Agents; Exact-State Publication Authority; AI Leadership Battery.

@@ -192,6 +192,16 @@ The threshold model (08-29) has its first hard post-crossing labor data point, a
 
 → Source: [WIRED, "You Know Who Really Hates AI? Insurance Claims Adjusters"](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/) (Kate Taylor, 2026-08-31); [[00-Daily-Digests/2026-08-31]]
 
+### AI Leadership Becomes a Measurable Work Capability (2026-09-17)
+
+**[Measuring AI Leadership: Development and Validation of a Multidimensional Measure for AI-Native Organizations](https://arxiv.org/abs/2609.17965)** (Akben & Coyne, arXiv, 2026-09-17) turns "AI leadership" from slogan into behavioral target. The AI Leadership Battery organizes 36 behaviorally specific subdimensions into 11 theory-specified content families, then validates the structure across scale-development steps. It captures what leaders in AI-enabled work must actually regulate: judgment, explanation, learning, adaptation, transparency, coordination, accountability, security/risk management, adoption, and integration.
+
+**Why this matters for work:** the next adoption bottleneck is not whether workers can prompt. It is whether leaders can redesign work without turning AI into either surveillance theater or unmanaged automation. The Battery contributes information beyond adjacent constructs across organizational growth, decision speed, customer/stakeholder response, AI-enabled team performance, work experience, security/risk management, and adoption. That makes leadership behavior a deployment-readiness variable.
+
+**The capital-discipline counterweight.** MIT Technology Review's ["What must happen for AI's trillion-dollar gamble to pay off"](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) (David Rotman, 2026-09-15) frames the hyperscaler data-center boom as a three-part wager: hyperscalers must generate massive revenues, AI must drive broad productivity growth, and expensive frontier models must defend against cheaper good-enough alternatives. One estimate cited in the piece puts 2027 spending near $1.1T; another projects required revenues around $3.7T by 2032 under a large buildout scenario. The future-of-work connection is direct: if AI does not create measurable productivity inside real organizations, the infrastructure bet turns into stranded capital rather than broad agency expansion.
+
+→ Sources: arXiv 2609.17965; MIT Technology Review, 2026-09-15; [[Human Agency]]; [[AI Orchestrator]]; [[00-Daily-Digests/2026-09-17]]
+
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]

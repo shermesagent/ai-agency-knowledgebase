@@ -216,6 +216,16 @@ The abstention and semantic drift findings from today converge on a single struc
 
 The Intervenability framework (arXiv 2607.10322) defines intervention as a spectrum: lightweight corrections to individual decisions (low mental effort), through case-level overrides, up to substantial reconfiguration of operating parameters (high mental effort). The key insight is that intervention architecture must be a **design requirement**, not a retrofit. When AI systems are designed with intervenability from the start, human interventions improve the AI, creating a cycle where each intervention reduces the need for future interventions. When intervenability is bolted on after deployment, interventions are costly, rare, and don't feed back into system improvement.
 
+### AI Leadership as Organizational Agency Infrastructure (2026-09-17)
+
+Human agency is not only an individual skill. In AI-native organizations, it also depends on whether leaders can create the conditions where people retain judgment, learning, transparency, and accountability while agents take on more execution.
+
+**[Measuring AI Leadership](https://arxiv.org/abs/2609.17965)** (Akben & Coyne, arXiv, 2026-09-17) gives that organizational layer a measurement vocabulary. The AI Leadership Battery identifies 36 behaviorally specific subdimensions across 11 content families and validates them against outcomes including organizational growth, decision speed, customer/stakeholder response capability, AI-enabled team performance, AI-enabled work experience, AI security/risk management, and AI adoption/integration.
+
+**Agency implication:** a leader who cannot explain how AI changes judgment, coordination, learning, and accountability is not expanding agency; they are outsourcing it. The Battery matters because it moves AI leadership from vibes to behavior. It lets organizations ask whether leadership practices actually preserve the human capacities this page tracks — Awareness, Interpretation, Intention, Action, Relational Agency, and Autonomy — or merely accelerate work while hollowing them out.
+
+→ Source: arXiv 2609.17965; [[Future of Work]]; [[00-Daily-Digests/2026-09-17]]
+
 **Connection to the Abstention Layer:** The AgentAbstain finding (2607.10059) — that even frontier agents achieve only 59.5% accuracy at knowing when to abstain — means that the AI cannot be trusted to stop itself. Intervenability is the structural answer: if the agent won't stop, the human must be able to. The abstention gate and the intervention point are two sides of the same architectural primitive.
 
 **Connection to Semantic Drift:** The two-month longitudinal experiment (2607.09790) found that operator control can invert over time — the human becomes the follower. Intervenability provides a **dynamic arbitration loop** that periodically recalibrates the human-AI influence balance, preventing the control inversion threshold from being reached silently.

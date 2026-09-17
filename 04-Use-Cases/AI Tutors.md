@@ -52,6 +52,16 @@ The architecture enforces withholding as a per-turn, machine-checkable contract 
 
 The reusable lesson: Socratic behavior is a **contract with a detector and a judge**, not a prompt. And per Khan Academy's Khanmigo methodology (arXiv 2608.11259, 2026-08-07), tutor quality moves through four levers — models, prompting, personalization, agents — each requiring live experimentation against engagement and learning metrics. The withholding contract is the fifth lever, and the one with the strongest delayed-outcome evidence.
 
+### Feedback Utility vs. Evaluative Authority (2026-09-08)
+
+**[Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](https://arxiv.org/abs/2609.05346)** (Rayed AlGhamdi, arXiv, 2026-09-04) uncovers a fundamental distinction in educational AI deployment:
+
+- **The finding:** In a study of computing students whose handwritten technical communication was evaluated transparently by ChatGPT under rubric-guided prompts, qualitative analysis revealed that learners cleanly separate **feedback utility** from **evaluative authority**.
+- **The nuance:** Students welcomed AI feedback for low-level revisions, grammar checks, structure, and rapid iterative drafting (high utility), but strongly rejected the legitimacy of AI acting as the ultimate grading authority or arbiter of course standing. They consistently located evaluative authority in human instructors who understand course context, institutional norms, and developmental progress.
+- **Tutor architecture rule:** Educational systems must make this distinction architectural. When AI tutors or grading assistants conflate feedback generation with summative judgment, they trigger institutional friction and student alienation. Tutors should position themselves as formative scaffolding tools, explicitly leaving evaluative certification in human hands.
+
+→ Source: arXiv 2609.05346 (2026-09-04); [[00-Daily-Digests/2026-09-08]]
+
 ## Related Pages
 - [[Education]]
 - [[AI Use Case Evaluation Rubric]]

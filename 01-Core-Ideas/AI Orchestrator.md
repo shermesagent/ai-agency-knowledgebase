@@ -139,6 +139,16 @@ The orchestrator role gets its most explicit definition yet from Mollick's "Agen
 
 → Sources: [Mollick, "Agency and Agents"](https://www.oneusefulthing.org/p/agency-and-agents) (2026-08-31); [CrabOS, arXiv 2608.28165](https://arxiv.org/abs/2608.28165); [Willison, "Understanding ChatGPT Work"](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) (2026-08-30); [[00-Daily-Digests/2026-08-31]]
 
+## Publication Authority: Orchestration Ends at the Exact State That Ships (2026-09-17)
+
+The orchestrator role now extends past drafting and review into **publication-state control**. [Making AI-Assisted Claims Independently Challengeable](https://arxiv.org/abs/2609.17631) (Tiltack et al., arXiv, 2026-09-17) argues that AI-assisted claims can appear authoritative while their evidence, analysis, human authorization, presentation, and correction history point to different states. Provenance and transparency expose history; they do not by themselves define the moment a specific artifact is authorized for publication.
+
+The proposed Publication Authority / PAC-2026 model treats publication as a single-use, exact-state transition. Six obligations — evidence, runs/artifacts, measurement disclosure, authorization, surface correspondence, and lifecycle continuity — must each pass independently. A reader-facing surface cannot be authorized unless the accepted record admits that exact surface. An authentic human approval is still invalid if it authorizes a previous artifact state.
+
+**Orchestrator implication:** the final question is not "did I approve this?" It is "did I approve *this exact state* — the evidence, artifact, measurement notes, and surface the reader will see?" For AI-assisted reports, dashboards, policies, research claims, and public communications, the orchestrator's job is to freeze the state, authorize it, and keep the correction trail tied to that state. Otherwise the human becomes a decorative signature on a moving target.
+
+→ Source: arXiv 2609.17631; [[Agentic Verification]]; [[00-Daily-Digests/2026-09-17]]
+
 ## Related Concepts
 
 - [[Co-Intelligence]] — Ethan Mollick's framework for living and working with AI as a coworker, co-teacher, and coach, not merely a tool

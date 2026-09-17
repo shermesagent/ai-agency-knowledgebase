@@ -186,6 +186,18 @@ Three differences emerge versus an unaided writing model: (1) **the learning loo
 
 → Sources: [Structured State Reconciliation](https://arxiv.org/abs/2608.28907), [Why Organizational Rules Fail AI](https://arxiv.org/abs/2608.29055), [Delegating Before Learning](https://arxiv.org/abs/2608.28837), MIT Technology Review 2026-08-31
 
+## The Evidence-Seeking Gate: Did the Agent Look Before Acting? (2026-09-17)
+
+The next workflow primitive is not another evaluator loop. It is an **evidence-seeking gate**: before an agent acts, deploys, publishes, or escalates, the workflow asks whether the agent acquired the evidence needed to know action is safe.
+
+**[Do Frontier Models Seek Safety Evidence Before Acting?](https://arxiv.org/abs/2609.17865)** (Omer Tafveez, arXiv, 2026-09-17) tests exactly this earlier decision point. The SAFE benchmark gives frontier models deployment decisions with optional safety evidence whose retrieval cost, probability, severity, and presentation vary. The finding is not "models are safe" or "models are unsafe." The finding is that they have distinct evidence-acquisition policies: Claude Opus 4.8 inspects nearly by default, o3 is the most skip-heavy and threshold-sensitive, and GPT-5.5 plus Claude Sonnet 4.6 sit between them. Inspection rises strongly with severity and falls with retrieval cost; stated probability has much weaker behavioral influence than models' rationales imply.
+
+**Workflow implication:** treat evidence acquisition as a logged step, not an assumed virtue. Every higher-consequence agent run should produce an evidence ticket: what evidence was needed, what was checked, what was skipped, what retrieval cost blocked inspection, and who authorized acting anyway. A workflow that asks the model to reason about safety but does not require it to *look for safety evidence* is still guessing.
+
+**Connection to the Abstention Layer:** Abstention asks whether the agent should stop. The Evidence-Seeking Gate asks whether the agent knows enough to decide. These are different gates. An agent can be willing to stop when risk is visible and still fail because it never looked for the evidence that would make the risk visible.
+
+→ Source: [SAFE, arXiv 2609.17865](https://arxiv.org/abs/2609.17865); [[00-Daily-Digests/2026-09-17]]
+
 ## The Shaping Layer: Architecture Determines Agent Behavior (June 2026)
 
 The emerging research on agent architectures converges on a single thesis: **architecture shapes agent outcomes more than model capability.** Three new papers from June 25, 2026 make this concrete:

@@ -176,6 +176,18 @@ Three additions this week extend the framework in two directions: *not acting* b
 
 → Sources: arXiv 2609.03438, 2609.03787, 2609.03189 (2026-09-04); Stratechery interview with Greg Brockman (2026-09-04); [[00-Daily-Digests/2026-09-04]]
 
+### Evidence Independence and Exact-State Publication (2026-09-17)
+
+Two September papers sharpen this framework's evidence layer: agents need independent evidence, and publications need exact-state authorization.
+
+**Graph paths are not corroboration.** [GraphEcho](https://arxiv.org/abs/2609.17695) (Wang, Zhou, Fan & Zhang, arXiv, 2026-09-17) tests whether LLM graph agents mistake repeated paths for additional evidence. The benchmark holds evidence content fixed while varying path counts and evidential origins, then evaluates both judgments and active exploration. Redundant supporting paths increase repeated walks across all evaluated frozen agents. Provenance-aware post-training reduces revisits and improves synthetic accuracy, but it covers fewer distinct sources and loses accuracy on scientific claims. The instrument lesson: source independence must be measured directly. A graph agent that walks ten routes to one origin has one piece of evidence, not ten.
+
+**Authorization has to bind the exact state that ships.** [Making AI-Assisted Claims Independently Challengeable](https://arxiv.org/abs/2609.17631) (Tiltack et al., arXiv, 2026-09-17) introduces Publication Authority and PAC-2026: a single-use, exact-state publication capability where evidence, runs/artifacts, measurement disclosure, authorization, surface correspondence, and lifecycle continuity each produce a target-bound witness or localized failure. None can compensate for another. The protocol does not prove factual truth; it makes the publication transition challengeable by ensuring the human approval, evidence record, and reader-facing surface refer to the same state.
+
+**Framework update:** add two checks to the verification cluster: (1) **independence accounting** — evidence graphs should count distinct origins, not graph path volume; (2) **exact-state authorization** — no AI-assisted claim is publishable unless the approved evidence/artifact/surface tuple is the tuple that ships.
+
+→ Sources: [GraphEcho, arXiv 2609.17695](https://arxiv.org/abs/2609.17695); [Publication Authority / PAC-2026, arXiv 2609.17631](https://arxiv.org/abs/2609.17631); [[00-Daily-Digests/2026-09-17]]
+
 ## Tags
 
 #verification #agents #responsible-ai #frameworks #superagency

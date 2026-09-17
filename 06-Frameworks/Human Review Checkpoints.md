@@ -76,6 +76,17 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 
 → Sources: [CURA, arXiv 2608.27808](https://arxiv.org/abs/2608.27808); [OBPE, arXiv 2608.27646](https://arxiv.org/abs/2608.27646); [WIRED, "You Know Who Really Hates AI? Insurance Claims Adjusters"](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/) (2026-08-31); [[00-Daily-Digests/2026-08-31]]
 
+### Behavioral Necessity and Sufficiency: When Explanations Disagree with Agent Actions (2026-09-08)
+
+**[Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](https://arxiv.org/abs/2609.05385)** (Pawar, Ramanayake, Kemal & Kandath, arXiv, 2026-09-04) delivers a crucial empirical critique of post-hoc explanations in human-in-the-loop workflows. In high-stakes agent systems, operators rely on named factors to diagnose errors, verify reasoning, or decide when to intervene at a checkpoint:
+
+- **The test:** Evaluates eight models across Claude, GPT, and Gemini families on two tasks (advisor recommendation and prompt monitoring for safety/risk) where models output a decision alongside their "top 3 factors." Researchers applied black-box causal interventions to measure *necessity* (does changing the factor change the output?) and *sufficiency* (does keeping the factor while altering others preserve the output?).
+- **The decoupling:** Mean Spearman correlations between cited factor rankings and empirical necessity/sufficiency were weak (0.349–0.354 for recommendations; 0.431–0.580 for prompt monitoring).
+- **The phantom factor problem:** In **57.6% of advisor recommendation responses**, an *uncited* factor had higher empirical necessity than the lowest cited factor (58.1% under sufficiency). In prompt monitoring, uncited factors outranked cited factors in up to 25.8% of cases.
+- **Checkpoint design rule:** An agent's self-generated explanation is a communication layer, not a causal audit log. Human reviewers at checkpoints must not assume cited explanations reflect the model's actual decision drivers. Checkpoint protocols must audit input-output boundaries and environment-grounded assertions rather than trusting the model's own explanation of why it acted.
+
+→ Source: arXiv 2609.05385 (2026-09-04); [[00-Daily-Digests/2026-09-08]]
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]
