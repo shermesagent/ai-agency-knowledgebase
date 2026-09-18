@@ -193,6 +193,16 @@ This complicates the "Normalization Gap" finding (institutions falling behind st
 
 → Source: https://arxiv.org/abs/2607.19699
 
+## Agency and Legitimacy in Digital Educational Systems (2026-09-18)
+
+**[Who Decides? Agency and Legitimacy in Digital Educational Systems](https://arxiv.org/abs/2609.19939)** gives education a useful map for the platform era. The authors argue that digital education systems differ along two structural dimensions: **agency** — how much decision-making the learner retains in the learning process — and **legitimacy** — whether the system is backed by institutional authority that makes the learning socially recognized. A plain LMS, an adaptive course, a degree-granting online university, and a fast-skill platform are not just different tools; they encode different answers to "who decides what counts as learning?"
+
+For school AI adoption, this is the missing procurement question. A high-legitimacy / low-agency platform can certify learning while quietly shrinking student control. A high-agency / low-legitimacy tool can support exploration while producing credentials nobody trusts. The agency-preserving sweet spot is not simply "more personalization." It is a design where students retain meaningful choices, teachers retain pedagogical authority, and the institution can honestly stand behind what the system certifies.
+
+**District test:** before buying or enabling an AI learning platform, ask: (1) what decisions does the system make for the learner, teacher, and institution; (2) which decisions can be contested; (3) what evidence makes the learning legitimate; and (4) does the system expand student agency or merely make the pathway smoother while moving authority into the platform?
+
+→ Source: arXiv 2609.19939; [[AI for School Districts]]; [[Responsible Deployment]]; [[00-Daily-Digests/2026-09-18]]
+
 ## The Easy Trap: LLMs Underestimate Misconception-Driven Difficulty (July 2026)
 
 **[arXiv 2607.26067](https://arxiv.org/abs/2607.26067)** — A large-scale empirical study (N=770 items) demonstrating that LLMs systematically misestimate student item difficulty in a specific and predictable way: **they approximate curricular difficulty (how advanced the topic is) rather than cognitive difficulty (how hard the concept really is).**

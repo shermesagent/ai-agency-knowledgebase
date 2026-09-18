@@ -342,5 +342,17 @@ This extends the September 14 implementation gap. Yesterday's [[Education]] upda
 
 → Sources: arXiv 2609.13466; MIT Technology Review, "The AI industry has taken a doomer turn. What now?"; [[00-Daily-Digests/2026-09-15]]
 
+### Machine-Checkable Safety and Compliance: From Attestation to Executable Gates (2026-09-18)
+
+Two September 18 sources push responsible deployment from "produce evidence" to **execute the evidence as a gate**.
+
+**MAGS** (arXiv 2609.19391) shows a practical version for code-generating agents. Instead of asking a human to inspect every generated program, the system freezes human-audited APIs and safety requirements, translates generated code into Dafny, uses verifier feedback to repair violations, and compiles verified programs back into executable code. Across 100 CUDA kernels, 100 terminal scripts, and 20 robotic-arm tasks, it produced programs with non-trivial safety guarantees against frozen specifications in all 220 examples. The catch is exactly the deployment lesson: guarantees hold only for the formalized specification. If the auto-formalized semantics miss the target behavior, the proof can be clean and the system can still be wrong.
+
+**Governance-as-Code** (arXiv 2609.20016) generalizes the same pattern to compliance. The paper translates EU AI Act Articles 8–15 into 43 machine-checkable acceptance criteria across six CI/CD modules and emits Article-indexed audit evidence. Its useful move is turning open-textured obligations like "appropriate levels" and "possible biases" into declared, auditable numbers, while clarifying that downstream deployers verify the upstream provider's Article 53 training-data summary rather than pretending to document per-sample training data they never possessed.
+
+**Deployment implication:** the next responsible-deployment maturity level is not another checklist. It is a pipeline gate: no release unless the safety specification, compliance criteria, audit evidence, and human authorization all pass. But MAGS also supplies the warning label: executable governance is only as good as the specification humans freeze. [[Human Review Checkpoints]] do not disappear; they move upstream to defining the property being checked.
+
+→ Sources: arXiv 2609.19391; arXiv 2609.20016; [[00-Daily-Digests/2026-09-18]]
+
 ## Tags
 #responsible-ai #governance #practical-ai #risk #ai-agents #human-agency

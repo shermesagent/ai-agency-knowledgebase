@@ -44,6 +44,16 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - Treating all AI risks as existential can distract from nearer institutional failures; treating all risks as mundane can miss frontier or systemic hazards.
 - The right posture is [[Optimism Without Naivety]]: use, measure, improve, govern, and sometimes refuse.
 
+## The Dual-Use Biology Risk Gets Concrete (2026-09-18)
+
+MIT Technology Review's biotech analysis moves AI-enabled bio-risk from abstract doom rhetoric into a concrete dual-use pathway: AI tools can generate candidate toxic molecules, answer lab-process questions, and combine with increasingly accessible synthetic-biology infrastructure. The article revisits the 2022 Collaborations Pharmaceuticals result where a molecule generator produced 40,000 potential chemical-warfare candidates in under six hours, then connects that history to present LLM access to scientific knowledge, DIY biology, and Anthropic's recent acknowledgement that users attempted to explore more transmissible chikungunya, more human-dangerous bird flu, and venom-toxin peptide atlases.
+
+The strongest counterargument remains live: AI may help design dangerous ideas, but testing, culturing, delivery, and systems engineering are still hard wet-lab work. Some biologists argue the near-term pandemic baseline risk from circulating pathogens like H5N1 remains more urgent than bespoke AI-designed bioweapons. That does not make the AI risk fake. It means the risk is not "AI presses button, pathogen appears." It is **barrier lowering**: more people can search more dangerous design space faster, while existing DNA-screening, red-team, blue-team, and model refusal controls are not ironclad.
+
+**Actionable version of the risk:** strengthen synthesis screening, log manufactured DNA sequences and requesters, fund public-health surveillance, red-team biology models before release, and treat biosecurity as part of [[Responsible Deployment]] rather than as a rhetorical prop in the existential-risk debate. The risk argument is strongest when it produces boring infrastructure, not bunker cosplay.
+
+→ Sources: MIT Technology Review, "The specter of AI-enabled bioweapons is a wake-up call for biotech" (2026-09-18); MIT Technology Review, "Could AI really kill us all? Your questions, answered" (2026-09-18); [[00-Daily-Digests/2026-09-18]]
+
 ## Related Pages
 - [[Optimism Without Naivety]]
 - [[Balanced Governance]]

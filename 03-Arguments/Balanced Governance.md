@@ -168,6 +168,16 @@ This strengthens the page's measurement prerequisite: measure not only AI capabi
 
 → Source: arXiv 2609.16260; [[00-Daily-Digests/2026-09-16]]
 
+### The Polarization Risk: Frontier Governance Needs a Both-And Coalition (2026-09-18)
+
+The September 2026 safety cascade moved the AI-risk debate from specialist circles into mass politics. Zvi Mowshowitz's "AI #186: The World Takes Notice" documents the sudden acceleration after Jacob Coxon's resignation, Dario Amodei's call to pace the frontier, OpenAI's partial convergence, Google collaboration signals, congressional-hearing pressure, and a public salience jump around existential risk. WIRED's "The Leftist Split Over AI Doom" shows the other half of the governance problem: the American left is splitting between those who treat frontier risk as real and urgent, and those who see extinction rhetoric as a lab-serving distraction from current harms such as labor displacement, surveillance, data centers, and corporate power.
+
+**Governance implication:** balanced governance now has a coalition-design problem, not just a policy-design problem. The correct frame is neither "ignore frontier risk because companies benefit from fear" nor "ignore present harms because future catastrophe dominates." A workable governance coalition has to hold both claims at once: current harms are already real, and increasingly autonomous frontier systems create additional systemic risks that cannot wait for perfect certainty. The failure mode is polarization: if existential-risk language becomes a partisan identity marker, governance turns into culture war, and the actual instruments — independent audits, incident reporting, frontier evaluations, data-center accountability, public-interest oversight, liability, and deployment controls — get stuck behind team membership.
+
+**Practical test:** every proposed AI regulation should answer two questions: (1) what present harm does it reduce for affected people now, and (2) what frontier or systemic failure mode does it make more measurable, contestable, or controllable later? If it answers only one, it is incomplete. That test keeps the [[Responsible Deployment]] loop grounded in current users while preserving the [[Pacing the Frontier]] argument that preparation must precede crisis.
+
+→ Sources: Zvi Mowshowitz, "AI #186: The World Takes Notice" (2026-09-17); WIRED, "The Leftist Split Over AI Doom" (2026-09-18); MIT Technology Review, "Could AI really kill us all? Your questions, answered" (2026-09-18); [[00-Daily-Digests/2026-09-18]]
+
 ## Best Supporting Sources
 - [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260525-magnifica-humanitas.html) — Pope Leo XIV, May 25, 2026. Reliability 5/5; relevance 5/5. Landmark governance document: calls for "disarming technology," challenges power concentration, asserts self-regulation is insufficient.
 - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) — Stanford HAI, 2025. Annual evidence base on AI technical progress, adoption, policy, education, and public attitudes.

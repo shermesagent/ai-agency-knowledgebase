@@ -2012,3 +2012,23 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[Home]] — Added 2026-09-17 recent update row, refreshed quick links, and adjusted staleness tracker.
 
 - Recommended 3 new pages: Evidence-Seeking Agents; Exact-State Publication Authority; AI Leadership Battery.
+
+## [2026-09-18] update | The Coalition Layer — present harms and frontier risks need the same governance table
+
+- Created [[00-Daily-Digests/2026-09-18]] anchored on "The Coalition Layer." Source discovery used direct RSS/feed extraction because `web_search` returned empty arrays across current-source queries; `web_extract` successfully recovered the five accepted non-paper sources. Five main accepted sources: Zvi on the post-Coxon safety cascade, WIRED on the left split over AI doom, MIT Technology Review's mainstream risk Q&A, MIT Technology Review on AI-enabled bioweapons, and WIRED's David Baker / AI BioDesign interview. Supporting arXiv sources: MAGS formal safety guarantees, Governance-as-Code, agency/legitimacy in digital education systems, LLMs in ICML peer review, and conversational agents' web search.
+
+- Updated [[Balanced Governance]] — Added "The Polarization Risk" section: present-harm politics and frontier-risk politics must be governed together; proposed the both-and policy test for any AI regulation.
+
+- Updated [[Responsible Deployment]] — Added "Machine-Checkable Safety and Compliance" section: MAGS and Governance-as-Code move responsible deployment from policy documentation to executable gates, while preserving human responsibility for the specification.
+
+- Updated [[Strongest AI Risk Arguments]] — Added "The Dual-Use Biology Risk Gets Concrete" section: AI-enabled bio-risk as barrier lowering, not magic pathogen creation; concrete controls include synthesis screening, logging, surveillance, red-teaming, and deployment review.
+
+- Updated [[AI-Augmented Scientific Collaboration]] — Added "AI BioDesign" section: David Baker's generative biology frontier as agency-expanding scientific search, bounded by validation, containment, and governance.
+
+- Updated [[Education]] — Added agency/legitimacy lens for digital educational systems: procurement should ask who decides, what can be contested, and what makes learning legitimate.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 45 source entries. Updated [[05-Source-Library/Papers]] — Added Pass 34 source entries. Appended 10 records to `/sources/sources.jsonl`.
+
+- Updated [[Home]] — Added 2026-09-18 recent update row, refreshed quick links, and adjusted staleness tracker.
+
+- Recommended 3 new pages: Coalition Governance for AI; AI BioDesign Governance; Executable AI Governance.

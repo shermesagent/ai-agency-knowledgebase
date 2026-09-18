@@ -104,6 +104,16 @@ Two new results sharpen the risks that only appear at the team level:
 
 → Source: MIT Technology Review (2026-09-01); [[00-Daily-Digests/2026-09-02]] (The Veto Question)
 
+## AI BioDesign: The Generative Biology Frontier (2026-09-18)
+
+WIRED's interview with Nobel-winning protein designer David Baker captures the positive scientific frontier that sits right next to the biosecurity discussion: AI BioDesign aims to explore molecules and biological functions that never evolved in nature but are physically and chemically possible. Baker's stated ambition is not small: cures in weeks rather than decades, enzymes that clean polluted water and plastic waste, crops that survive hostile conditions, molecular machines that recover critical minerals, and eventually biological computers.
+
+The agency-expanding version of this story is clear. AI can expand the searchable space of biology beyond what human scientists can manually imagine, then route candidates into experimental validation. The human role remains setting goals, judging value, choosing constraints, and demanding mechanism-level understanding when empirical success alone is not enough. Baker is explicit that computational screening and contained lab validation reduce risk before real-world use, but he also acknowledges the governance line: some technically possible designs deserve heightened scrutiny or restriction.
+
+**Connection to the collaboration thesis:** this is the same division of labor this page has tracked in math and research agents: AI expands search; humans supply taste, safety boundaries, experimental discipline, and social purpose. The hard question is not whether AI can design new molecules. It is whether scientific institutions can preserve enough human understanding and public governance to decide which molecules should exist.
+
+→ Sources: WIRED, "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature" (2026-09-18); MIT Technology Review, "The specter of AI-enabled bioweapons is a wake-up call for biotech" (2026-09-18); [[00-Daily-Digests/2026-09-18]]
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]
