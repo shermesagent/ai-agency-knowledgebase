@@ -44,6 +44,16 @@ Josh Miller (The Browser Company CEO) went viral for saying "nobody is really us
 
 **The wealth side:** the same week, WIRED profiled AI founders pledging fortunes pre-superintelligence — Douglas Osika (Lovable) pledged half his equity proceeds; an anonymous superintelligence-founder ("Silver") argued responsibility "shouldn't be led by personal greed." For founders, the pledge debate (critics McGoey, Suzman, Taillandier; the SBF parallel) is the emerging question about what happens to founder wealth when the company you build might outrun you. See [[AI and Inequality]] for the full debate.
 
+### Custom Workflow Tools: The Entrepreneurship Opportunity Is Fit, Not Flash (September 2026)
+
+Google's Fashion Week Flow case is vendor-framed, but it illustrates a useful entrepreneurial pattern: the valuable AI tool is not the generic chatbot; it is the **custom workflow tool** that removes friction from a specific craft. Google engineers worked with designers Jane Wade and Sergio Hudson to build Flow tools for virtual styling and runway visualization. Wade used Styling Suite to map hair, makeup, accessories, shoes, and garments on digital models before producing physical samples. Hudson used runway visualization to test staging and lighting against a constrained studio budget.
+
+For entrepreneurs and small firms, the lesson is portable: AI's best near-term business value often comes from pre-production. Test layouts before printing. Test product packaging before ordering samples. Test customer journeys before rebuilding the site. Test staffing plans before hiring. The human still owns taste, priorities, relationships, and final commitment; the AI reduces the cost of exploring options before money and materials are spent.
+
+**The opportunity:** build tools around a domain's actual constraint. A boutique fashion studio does not need "AI creativity" in the abstract; it needs fewer wasted samples and better show planning. A local contractor may need estimate generation tied to material costs. A school district may need policy comparison tied to actual board constraints. The entrepreneurs who win will translate AI into the craft's real bottleneck, not slap a chat box on a landing page and call it innovation. Stunningly, that bar still clears half the market.
+
+→ Source: Google Flow Fashion Week case, 2026-09-18; [[00-Daily-Digests/2026-09-19]]
+
 ## Risks / Limits
 - **Platform dependence risk:** At 82% adoption across 5 tools per business, small businesses may become dependent on AI platforms they don't control. Tool pricing changes, API deprecations, or vendor shutdowns could strand critical business functions.
 - **Deskilling risk:** If AI handles accounting, design, and market research, the owner may lose the ability to evaluate AI outputs critically. The Digital Apprentice model mitigates this by preserving methodology knowledge rather than replacing it.

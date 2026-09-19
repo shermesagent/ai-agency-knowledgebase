@@ -118,6 +118,16 @@ The macro-politics of AI and work does not look like the compensation politics t
 
 → Source: arXiv 2609.02296 (2026-09-03); [[00-Daily-Digests/2026-09-03]]
 
+### The Translation Bottleneck: AI Saves Time, Then Moves the Constraint (September 2026)
+
+Google's AI & Economy ATLAS update (September 2026) adds useful evidence for the work page because it separates **adoption** from **realized output**. ATLAS reports that AI use differs sharply by occupation and geography: arts, design, and media occupations make up 19% of work-related AI usage in India (1.6× the global average), while computer and mathematical occupations account for 30% of U.S. work-related AI usage — roughly double the rest-of-world share.
+
+The scientist-use study attached to ATLAS is the more important work signal: a survey of 600+ U.S. and U.K. scientists and analysis of 2,600 specialized AI models found that nearly half of surveyed scientists use some form of AI every day and report saving almost seven hours per week. But the time savings do not automatically become discoveries. The bottleneck shifts to validation, physical experimentation, clinical testing, and the backlog of hypotheses that AI helps generate faster than institutions can test.
+
+**Why this matters for work:** AI does not simply "increase productivity." It changes where the constraint lives. In office work, the constraint may move from drafting to review. In science, from hypothesis generation to validation. In creative work, from ideation to selection and execution. In management, from producing outputs to coordinating what gets trusted and acted on. Work redesign has to follow the bottleneck, not the demo.
+
+→ Source: Google AI & Economy ATLAS, 2026-09-15; [[00-Daily-Digests/2026-09-19]]
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]

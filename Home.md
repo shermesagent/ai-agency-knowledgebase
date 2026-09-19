@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-19 | Work, Practical AI, Entrepreneurship, AI Writing Partners, 05-Source-Library (Articles — Pass 46), 00-Daily-Digests/2026-09-19, Home |
 | 2026-09-18 | Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, Education, 05-Source-Library (Articles — Pass 45, Papers — Pass 34), 00-Daily-Digests/2026-09-18, Home |
 | 2026-09-17 | Agentic Workflow Patterns, Agentic Verification, AI Orchestrator, Future of Work, Human Agency, 05-Source-Library (Articles — Pass 44, Papers — Pass 33), 00-Daily-Digests/2026-09-17, Home |
 | 2026-09-16 | Generative Refusal, Public Trust and AI, The Turing Trap, Balanced Governance, 05-Source-Library (Articles — Pass 43, Papers — Pass 32), 00-Daily-Digests/2026-09-16, Home |
@@ -185,9 +186,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~29 content pages | Healthcare, AI for School Districts, AI Writing Partners, Deployment Wall — Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, and Education refreshed on 09-18 |
+| 8+ days | ~27 content pages | Healthcare, AI for School Districts, Deployment Wall — Work, Practical AI, Entrepreneurship, and AI Writing Partners refreshed on 09-19; Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, and Education refreshed on 09-18 |
 | 5–7 days | ~8 content pages | AI Coding Agents, Human Review Checkpoints (updated 08-31) · Parallel Orchestration (updated 09-01) · The Agentic Garden of Forking Paths (updated 09-02) |
-| < 5 days | ~42 pages | Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, Education (updated 09-18) · Agentic Workflow Patterns, Agentic Verification, AI Orchestrator, Future of Work, Human Agency (updated 09-17) · Generative Refusal, Public Trust and AI, The Turing Trap (updated 09-16) |
+| < 5 days | ~46 pages | Work, Practical AI, Entrepreneurship, AI Writing Partners (updated 09-19) · Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, Education (updated 09-18) · Agentic Workflow Patterns, Agentic Verification, AI Orchestrator, Future of Work, Human Agency (updated 09-17) |
 
 ---
 
@@ -195,7 +196,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-18|Today's Digest]] · [[00-Daily-Digests/2026-09-17|Previous Digest]]
+- [[00-Daily-Digests/2026-09-19|Today's Digest]] · [[00-Daily-Digests/2026-09-18|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

@@ -129,6 +129,16 @@ If those questions have concrete answers, Managed Agents can expand agency by ma
 
 → Sources: WIRED, "Anthropic's New Product Aims to Handle the Hard Part of Building AI Agents"; [[00-Daily-Digests/2026-09-15]]
 
+### Authoritative Data as Practical AI Infrastructure (September 2026)
+
+The UN System Data Commons launch (built on Google Data Commons) adds a concrete substrate for practical AI: **agent-ready official statistics**. The platform unifies siloed UN datasets into an AI-ready knowledge graph, supports natural-language exploration, and exposes data through open standards like MCP so agents can fetch authoritative figures, connect datasets, and package results into charts, infographics, or draft reports.
+
+This matters because many practical AI workflows fail for a boring reason: the model is capable, but the data underneath is messy, unauditable, or unofficial. An agent that can write a beautiful policy memo from garbage data is still a garbage-data machine with a nicer suit. The practical path is source-grounded infrastructure first, agentic assistance second.
+
+**The new practical rule:** when building AI for civic, education, finance, healthcare, or policy work, ask whether the data source is agent-ready before asking whether the model is good enough. Agent-ready means: validated source, stable identifiers, clear schema, provenance, machine-readable access, and a human-review path for critical figures. Without that, the workflow is a hallucination amplifier with a dashboard.
+
+→ Source: Google / UN System Data Commons, 2026-09-17; [[00-Daily-Digests/2026-09-19]]
+
 ## Risks / Limits
 
 - **The cognitive debt trap**: Every practical AI workflow accumulates unverified reasoning obligations. The Cognitive Debt model (Meng, 2606.15078) shows this is individually rational but collectively fragile — the Minsky moment arrives when subjective confidence is highest.

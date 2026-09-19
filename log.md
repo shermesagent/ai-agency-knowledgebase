@@ -3,6 +3,24 @@
 > Chronological record of wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-09-19] update | The Translation Layer — AI only matters when it becomes usable by normal people
+
+- Created [[00-Daily-Digests/2026-09-19]] anchored on "The Translation Layer." Saturday/weekend source discovery used direct RSS/feed extraction after `web_search` returned empty arrays across current-source queries; no arXiv attempt per weekend rule. Accepted 5 sources: Google AI & Economy ATLAS, Google / UN System Data Commons, Google Flow Fashion Week case, Simon Willison / Thomas Ptacek on writing with LLMs, and Stratechery on agents as UI.
+
+- Updated [[Work]] — Added "The Translation Bottleneck" section: AI adoption and time savings shift constraints to validation, physical/clinical experimentation, and workflow redesign rather than automatically producing outcomes.
+
+- Updated [[Practical AI]] — Added "Authoritative Data as Practical AI Infrastructure" section: UN System Data Commons as agent-ready official statistics; practical AI in civic/policy domains needs validated source data, schema, provenance, and human review before agent automation.
+
+- Updated [[Entrepreneurship]] — Added "Custom Workflow Tools" section: Google Flow Fashion Week as a concrete case of AI reducing pre-production friction for creative work; small-business opportunity is domain fit, not generic chat UI.
+
+- Updated [[AI Writing Partners]] — Added "Copyediting PPE" section: use LLMs as copyeditors/critics, but never borrow the model's phrasing; protects voice while preserving practical editing help.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 46 source entries. Appended 5 records to `/sources/sources.jsonl`.
+
+- Updated [[Home]] — Added 2026-09-19 recent update row, refreshed quick links, and adjusted staleness tracker.
+
+- Recommended 3 new pages: The Translation Layer; Agent-Ready Public Data; Copyediting PPE.
+
 ## [2026-09-13] update | The Ambition Budget — when agents raise what humans attempt
 
 - Created [[00-Daily-Digests/2026-09-13]] anchored on "The Ambition Budget." Sunday/weekend source discovery used direct RSS/feed extraction plus web extraction; no arXiv attempt per weekend rule. Five accepted non-paper sources: Zvi on Astra's ambition-raising capability; WIRED on agent power demand; WIRED on Meta Muse trust architecture; Stratechery on the intelligent personal hub; MIT Technology Review's extinction-risk roundtable as mainstream discourse signal.

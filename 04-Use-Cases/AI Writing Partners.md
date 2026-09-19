@@ -69,6 +69,21 @@ Mollick's education contrast is essential: AI-as-answer-giver (Turkish math stud
 
 Individual intentionality is necessary but insufficient. The Good Advice Cupcake case (Amazon/BuzzFeed licensing a creator's character for AI animation without her consent) shows the structural dimension: even if individual writers choose to use AI intentionally, platforms that own the IP can choose otherwise. See [[AI and Creator Rights]] for the full argument.
 
+### Copyediting PPE: Never Borrow the Phrase (September 2026)
+
+Simon Willison highlighted Thomas Ptacek's practical rule for AI-assisted writing: **"You may not use a single word an LLM suggests to you."** The point is not anti-AI purity. It is voice protection. Use an LLM as a copyeditor — fact-checking, spelling, grammar, ambiguity spotting, reader simulation, and thesaurus-like support — but treat its actual phrasing as off limits.
+
+This rule strengthens the Mode B pattern on this page. A writer can benefit from AI without letting it launder their voice into default-model prose. The workflow is simple:
+
+1. Write the sentence yourself.
+2. Ask AI what is unclear, overstated, unsupported, or awkward.
+3. Read the diagnosis, not the replacement text.
+4. Rewrite in your own words.
+
+The rule is useful because it is enforceable. "Use AI intentionally" is vague. "Do not copy the phrase" is a bright line. It preserves the craft friction that makes writing thinking, while still capturing the accessibility benefits of a tireless proofreader. For educators, this is also a clean policy distinction: AI may critique and diagnose; the writer must produce the language.
+
+→ Source: Simon Willison linking Thomas Ptacek, 2026-09-17; [[00-Daily-Digests/2026-09-19]]
+
 ## Risks / Limits
 - **The fluency trap:** AI produces confident, polished text that masks substantive errors. Writers who can't distinguish fluent from correct will ship mistakes.
 - **Voice atrophy:** Regular AI-as-replacement use causes writing voice to decline — not because AI is bad, but because craft requires practice.
