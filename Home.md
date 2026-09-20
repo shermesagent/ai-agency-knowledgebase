@@ -66,6 +66,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-20 | Healthcare, AI Enclosure, Case Against AI Doomism, 05-Source-Library (Articles — Pass 47), 00-Daily-Digests/2026-09-20, Home |
 | 2026-09-19 | Work, Practical AI, Entrepreneurship, AI Writing Partners, 05-Source-Library (Articles — Pass 46), 00-Daily-Digests/2026-09-19, Home |
 | 2026-09-18 | Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, Education, 05-Source-Library (Articles — Pass 45, Papers — Pass 34), 00-Daily-Digests/2026-09-18, Home |
 | 2026-09-17 | Agentic Workflow Patterns, Agentic Verification, AI Orchestrator, Future of Work, Human Agency, 05-Source-Library (Articles — Pass 44, Papers — Pass 33), 00-Daily-Digests/2026-09-17, Home |
@@ -186,9 +187,9 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | ~27 content pages | Healthcare, AI for School Districts, Deployment Wall — Work, Practical AI, Entrepreneurship, and AI Writing Partners refreshed on 09-19; Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, and Education refreshed on 09-18 |
+| 8+ days | ~24 content pages | AI for School Districts, Deployment Wall, Beyond Prompting — Healthcare refreshed on 09-20; Work, Practical AI, Entrepreneurship, and AI Writing Partners refreshed on 09-19 |
 | 5–7 days | ~8 content pages | AI Coding Agents, Human Review Checkpoints (updated 08-31) · Parallel Orchestration (updated 09-01) · The Agentic Garden of Forking Paths (updated 09-02) |
-| < 5 days | ~46 pages | Work, Practical AI, Entrepreneurship, AI Writing Partners (updated 09-19) · Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, Education (updated 09-18) · Agentic Workflow Patterns, Agentic Verification, AI Orchestrator, Future of Work, Human Agency (updated 09-17) |
+| < 5 days | ~49 pages | Healthcare, AI Enclosure, Case Against AI Doomism (updated 09-20) · Work, Practical AI, Entrepreneurship, AI Writing Partners (updated 09-19) · Balanced Governance, Responsible Deployment, Strongest AI Risk Arguments, AI-Augmented Scientific Collaboration, Education (updated 09-18) |
 
 ---
 
@@ -196,7 +197,7 @@ Pages that need curator attention. The knowledgebase was seeded on 2026-05-24. D
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-19|Today's Digest]] · [[00-Daily-Digests/2026-09-18|Previous Digest]]
+- [[00-Daily-Digests/2026-09-20|Today's Digest]] · [[00-Daily-Digests/2026-09-19|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

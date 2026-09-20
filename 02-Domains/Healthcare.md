@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-08-29
+updated: 2026-09-20
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -155,6 +155,21 @@ The strongest "AI alone" claim yet published in a major medical venue — and th
 **Where this lands against this page's architecture:** the claim is task-specific, and the resolution is loss asymmetry (see the Clinician's Veto and the asymmetric-loss argument from 2607.28677 above). For symmetric-loss tasks — documentation, history intake, refill triage — the "humans degrade" finding is plausible, and a checkpoint placed there is a design bug. For asymmetric-loss tasks — must-not-miss diagnosis, treatment under uncertainty — the human is not a performance drag; the human is where the loss function is priced. The danger is the paper's sweeping "AI alone" framing licensing removal of humans from exactly the asymmetric tasks where its evidence is weakest. The agency frame stands: AI widens the net; humans price the misses — and the threshold crossing changes *which* tasks belong on which side, not the need for the division.
 
 → Sources: [WIRED, "AI Has Human Doctors Asking: What's Left for Us?"](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/) (2026-08-28); Emanuel & Khosla et al., JAMA (August 2026); [[00-Daily-Digests/2026-08-29]]
+
+### Population-Scale Health AI: Detection, Access, and the Evidence Burden (2026-09-20)
+
+Google's September 2026 societal-impact package is vendor-framed, but it usefully pulls together the difference between **clinical AI as product demo** and **clinical AI as population infrastructure**. The relevant healthcare signal is not one chatbot beating one physician in one benchmark; it is AI systems attached to screening programs, phones, wearables, genomics tools, and public-health data flows.
+
+Concrete signals worth tracking:
+
+- **Earlier detection at screening scale:** Google's breast-cancer work with Imperial College London and the U.K. NHS reports AI detection of **25% of interval cancers previously missed** in mammograms of 175,000 women. That is the right kind of healthcare AI claim: bounded task, known denominator, clinical workflow, and a measurable miss category.
+- **Global diagnostic reach:** Google's chest X-ray work for tuberculosis has screened **25,000+ x-rays across 40 locations in six countries**, while diabetic-retinopathy deployments have supported **1.15 million screenings globally**, with a plan to expand to 6 million over the next decade.
+- **Everyday-device detection:** The package points to smartphone and wearable work on cardiovascular disease, insulin resistance, hypertension, loss of pulse, and passive heart-rate monitoring. The Superagency upside is obvious: detection moves closer to ordinary life. The risk is also obvious: false positives, insurance consequences, privacy leakage, and a new class of people told they are "probably sick" by a device without a care pathway.
+- **Research-to-care bridge:** AlphaFold, AlphaMissense, AlphaGenome Atlas, Co-Scientist, DeepVariant, DeepConsensus, AMIE, and pangenome tooling all sit on the same pipeline: discover biological structure, generate hypotheses, validate them, then translate carefully into care.
+
+**Reading for this page:** healthcare AI is strongest when it widens the net and weakest when it pretends the net is the clinician. Population screening, genomics, and wearable detection expand agency only when paired with evidence thresholds, follow-up capacity, privacy protections, and human accountability. Otherwise, early detection becomes early anxiety at scale. This reinforces the page's standing architecture: AI handles recall, pattern-finding, and scalable monitoring; clinicians and health systems price the misses, manage the downstream burden, and decide what action is warranted.
+
+→ Source: [Google, "Building AI to accelerate science and improve lives"](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) (2026-09-15); [[00-Daily-Digests/2026-09-20]]
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents

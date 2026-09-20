@@ -1,7 +1,7 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-09-06
+updated: 2026-09-20
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
 sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
@@ -222,6 +222,24 @@ This page has tracked enclosure as a ratchet — every quarter adds a new mechan
 **The counter-current, same week:** the Sanders–Casar superintelligence-ban bill (09-03) is enclosure by law — the state turning the fence into a wall at the top of the capability curve (see [[Pacing the Frontier]]). The two moves together define the current enclosure landscape: firms lowering the fences they control (price, retention, classifier friction) while the political system raises fences they don't (capability bans, data-center moratoriums, siting law). Access is being liberalized at the product layer and contested at the polity layer simultaneously.
 
 → Source: [Zvi Mowshowitz, "Claude Mythos 5.1 and Fable 5.1: Capabilities"](https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities) (2026-09-05); [[00-Daily-Digests/2026-09-06]]
+
+### 9. Capital Enclosure: When the AI Buildout Becomes Everyone's Balance Sheet (2026-09-20)
+
+David Rotman's MIT Technology Review analysis sharpens this page's **capital enclosure** thread from a platform concern into a civic-economy concern. Hyperscalers are no longer just spending retained cash on data centers. Increasingly, the AI buildout is being financed through external capital, debt, special-purpose vehicles, utility commitments, and power infrastructure whose risks can land far from the companies making the bet.
+
+Key numbers from the piece:
+
+- Hyperscalers may spend about **$750B this year** and more than **$1T by 2027** on AI data centers.
+- Some projections put total AI capital investment above **$5T over four years**.
+- Gary Gensler estimates current AI revenues around **$150B–$200B** this year — not yet commensurate with the buildout.
+- Columbia's Stijn Van Nieuwerburgh estimates that a large 183-GW buildout would require roughly **$3.7T in annual revenue by 2032** to justify a minimum investor return.
+- Meta's Louisiana Hyperion project illustrates the local version: a data-center plan expanding toward **5 GW**, with associated gas-fired power planning around **7.5 GW** — roughly six times New Orleans' electricity use — and ratepayer advocates asking who pays if demand projections fail.
+
+**Why this is enclosure:** when data centers are financed through utilities, private credit, pensions, insurance-linked exposure, and local power planning, the public becomes a silent risk-bearing partner without becoming an owner, governor, or beneficiary. That is enclosure at the capital layer: the upside is concentrated in hyperscalers and financiers; the downside is distributed through electricity bills, land use, pension exposure, local air quality, and opportunity cost.
+
+**The counter-enclosure implication:** local inference, smaller good-enough models, open-weight systems, and domain-specific tools are not just cheaper alternatives — they are civic-risk reducers. Every useful workload that runs outside the trillion-dollar hyperscale stack weakens the claim that agency must be routed through massive, debt-financed infrastructure. The enclosure question now has a utility-bill version: *who owns the model, who owns the data center, who pays for the power plant, and who gets stuck with the stranded asset if the scaling bet misses?*
+
+→ Source: [MIT Technology Review, "What must happen for AI's trillion-dollar gamble to pay off"](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) (2026-09-15); [[00-Daily-Digests/2026-09-20]]
 
 ## Tags
 

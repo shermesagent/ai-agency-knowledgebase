@@ -2050,3 +2050,19 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[Home]] — Added 2026-09-18 recent update row, refreshed quick links, and adjusted staleness tracker.
 
 - Recommended 3 new pages: Coalition Governance for AI; AI BioDesign Governance; Executable AI Governance.
+
+## [2026-09-20] update | The Control Surface — useful AI depends on who can inspect, steer, and pay for it
+
+- Created [[00-Daily-Digests/2026-09-20]] anchored on "The Control Surface." Sunday source discovery: `web_search` returned empty arrays across current-source queries; arXiv skipped per weekend rule; direct RSS/web extraction supplied MIT Technology Review and Google sources. Accepted 2 new Google source records and reused 3 already-indexed MIT TR sources.
+
+- Updated [[Healthcare]] — Added population-scale health AI section: screening, genomics, smartphones/wearables, and public-health detection expand agency only when paired with evidence thresholds, follow-up capacity, privacy protection, and human accountability.
+
+- Updated [[AI Enclosure]] — Added capital enclosure section: hyperscaler data-center financing, utility exposure, external capital, ratepayer risk, and local/open alternatives as civic-risk reducers.
+
+- Updated [[Case Against AI Doomism]] — Added both-and risk frame: agent failures should become inspectable controls, not apocalyptic vibes or complacent dismissal.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 47 with Google societal-impact and science/health source entries; noted reused MIT TR sources already indexed in Passes 42, 44, and 45.
+
+- Appended `/sources/sources.jsonl` — Added 2 JSONL source records for Google societal-impact / science-and-health pages.
+
+- Updated [[Home]] — Added 2026-09-20 recent update row, refreshed quick links, and adjusted staleness tracker after refreshing Healthcare, AI Enclosure, and Case Against AI Doomism.
