@@ -350,5 +350,17 @@ The classroom-scale version of the AI-satisfaction problem has arrived as a simu
 
 → Source: arXiv 2609.05018 (2026-09-07); [[00-Daily-Digests/2026-09-07]] (The Cover-Up Question); see also [[AI Tutors]], [[Constructive Alignment]]
 
+## The Configuration Layer: Educators Are Setting the Hidden Rules (2026-09-21)
+
+Two new arXiv papers make the education problem more concrete: AI use is not governed only by whether students can open a chatbot. It is governed by the hidden configuration layer around the chatbot.
+
+**[Understanding How Educators Configure GenAI Support for Open-Ended Learning](https://arxiv.org/abs/2609.21019)** studies 15 U.S. educators designing GenAI support for K-12 career exploration. The important finding is not that educators wanted personalized content — obviously. The important finding is that educators configured *when student activity became an inference, whether learner information persisted, who could access it, and how it informed later recommendations*. Those are governance decisions hiding inside “personalization.” If a system infers that a student is interested in nursing, remembers it, and steers later activities around that inference, then the system is not just helping the student learn; it is shaping what options feel visible.
+
+**[Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership](https://arxiv.org/abs/2609.21194)** puts numbers behind the old worry. In a controlled experiment with undergraduate C programming students, ChatGPT access improved immediate task performance but reduced retention and ownership compared with conventional web search. That is the education tradeoff in one line: the artifact improves while the learner's durable claim on the work weakens.
+
+**Implication for schools:** every student-facing AI pilot needs a configuration record, not just an acceptable-use statement. The record should answer: what does the tool infer, what does it remember, who can see it, how does it affect future recommendations, and how can the student or teacher contest it? Without that record, “AI literacy” becomes theater — students learn to use a system whose most important decisions they cannot see.
+
+→ Sources: arXiv 2609.21019; arXiv 2609.21194; [[AI for School Districts]]; [[The Comprehension Bottleneck]]; [[00-Daily-Digests/2026-09-21]]
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

@@ -2066,3 +2066,25 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Appended `/sources/sources.jsonl` — Added 2 JSONL source records for Google societal-impact / science-and-health pages.
 
 - Updated [[Home]] — Added 2026-09-20 recent update row, refreshed quick links, and adjusted staleness tracker after refreshing Healthcare, AI Enclosure, and Case Against AI Doomism.
+
+## [2026-09-21] update | The Configuration Layer — AI outcomes are decided before the prompt
+
+- Created [[00-Daily-Digests/2026-09-21]] anchored on "The Configuration Layer." `web_search` returned empty arrays across One Useful Thing, MIT Technology Review, WIRED, Zvi, and arXiv web queries, so the run pivoted to arXiv RSS across cs.AI, cs.CY, cs.HC, cs.CL, and cs.LG.
+
+- Accepted 5 arXiv sources: 2609.21019 on educator GenAI configuration, 2609.21194 on ChatGPT programming performance vs. retention and ownership, 2609.20942 on recursive AI peer-review contamination, 2609.21756 on gendered workplace AI risk, and 2609.20840 on interpretive knowledge nodes.
+
+- Updated [[Education]] — Added the configuration-layer education finding: personalization involves inference timing, memory persistence, access rules, and recommendation steering; also added ChatGPT retention/ownership risk.
+
+- Updated [[AI for School Districts]] — Added the AI configuration record as a district procurement/pilot artifact: inference, persistence, access, recommendation, and contestation rules.
+
+- Updated [[The Comprehension Bottleneck]] — Added retention-without-ownership and interpretive-knowledge-node synthesis: task completion and polished artifacts are weak proxies for durable understanding.
+
+- Updated [[The Judge Problem]] — Added recursive review contamination: AI-generated reviews entering training corpora can train future AI reviewer judgment unless provenance controls and validity anchors exist.
+
+- Updated [[AI and Inequality]] — Added gendered workplace-risk frame: exposure is converted into harm or benefit by role design, upskilling access, and return capture.
+
+- Updated [[05-Source-Library/Papers]] — Added Pass 35 with five arXiv records.
+
+- Updated `/sources/sources.jsonl` — Appended five validated JSONL source records.
+
+- Updated [[Home]] — Added today's recent update, digest links, quick links, and staleness tracker refresh.

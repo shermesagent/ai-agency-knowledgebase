@@ -93,6 +93,16 @@ The audit this page has been asking for finally arrived — and it treats LLM ju
 
 → Source: [LLM Judges as Raters](https://arxiv.org/abs/2608.29517), arXiv, 2026-09-04; [[00-Daily-Digests/2026-09-04]]
 
+### Recursive Review Contamination: When AI Reviews Train AI Reviewers (2026-09-21)
+
+The judge problem now has a scholarly-communication feedback loop. **[When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation](https://arxiv.org/abs/2609.20942)** studies one step of recursive AI peer review: start with a model fine-tuned on official ICLR reviews, then train successor reviewer models on later data with systematically varied amounts of AI-generated review content.
+
+The warning is straightforward: once model-generated reviews enter public review corpora, future automated reviewers can inherit and amplify the earlier models' judgment patterns. The judge stops being an instrument pointed at scholarship and becomes a feedback loop pointed at its own prior preferences. In fields already tempted to scale peer review with LLMs, that is not a theoretical edge case. It is the obvious failure mode.
+
+**The judge reading:** provenance becomes part of validity. Review corpora need labels for human, AI-assisted, and AI-generated reviews; reviewer models need human validity anchors; and journals/conferences need contamination audits before using prior reviews as training data. Otherwise “AI helps review papers” quietly becomes “AI trains the taste of future reviewers,” which is a great way to fossilize mediocre judgment at scale. Very efficient. Also terrible.
+
+→ Source: arXiv 2609.20942; see [[AI-Augmented Scientific Collaboration]], [[The Comprehension Bottleneck]], [[Responsible Deployment]], [[00-Daily-Digests/2026-09-21]].
+
 ## Related Pages
 
 - [[Agentic Verification]]

@@ -173,6 +173,22 @@ WIRED's "AI Use in the Job Market Is Creating an Infinite Doom Loop" (Jill Duffy
 
 **Source:** [AI Use in the Job Market Is Creating an Infinite Doom Loop](https://www.wired.com/story/ai-job-market-infinite-doom-loop/), Jill Duffy, WIRED, 2026-09-04.
 
+### Gendered AI Risk: Exposure Is Mediated by Role Design (2026-09-21)
+
+**[When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis](https://arxiv.org/abs/2609.21756)** adds a needed correction to generic “AI exposure” talk. The abstract frames gender inequality as a persistent labor-market structure and asks how AI-driven innovation may amplify disparities through **task automation, unequal access to upskilling, and differential returns from technological change**, especially across male- and female-dominated occupations.
+
+The important shift is from exposure to conversion. Exposure does not automatically become harm or benefit. It is converted by role design:
+
+1. **Automation vs. augmentation:** if AI removes routine support tasks without creating higher-skill pathways, exposed workers lose leverage.
+2. **Upskilling access:** if training goes first to already-advantaged roles, AI becomes an amplifier of existing hierarchy.
+3. **Return capture:** even when productivity rises, gains may accrue to firms, managers, or tool vendors rather than the workers whose tasks changed.
+
+**The inequality reading:** gendered AI risk is not “women use AI differently” or some other lazy demographic nonsense. It is that labor markets already distribute task types, advancement pathways, flexibility, and training unequally. AI enters that structure. If organizations only measure aggregate productivity, they will miss whether one group gets augmentation while another gets surveillance, task compression, or automation.
+
+**Practical audit:** every workforce AI rollout should report outcomes by gender, role family, seniority, and training access: who received the tool, who received training, whose tasks were automated, whose responsibilities expanded, and who captured the return.
+
+→ Source: arXiv 2609.21756; see [[Work]], [[Future of Work]], [[The Turing Trap]], [[00-Daily-Digests/2026-09-21]].
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

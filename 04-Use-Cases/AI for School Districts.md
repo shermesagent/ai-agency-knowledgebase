@@ -48,6 +48,22 @@ The agency goal is to help students and teachers do more meaningful learning wor
 
 → Source: arXiv 2608.07364 (2026-08-07)
 
+## Configuration Records for Student-Facing AI (2026-09-21)
+
+**[Understanding How Educators Configure GenAI Support for Open-Ended Learning](https://arxiv.org/abs/2609.21019)** gives districts a concrete procurement and pilot artifact: the **AI configuration record**. In interviews and design activities with 15 U.S. educators using K-12 career exploration as the test case, educators were not merely choosing prompts or content. They were deciding:
+
+1. **Inference rules:** when does student behavior become a claim about the student?
+2. **Persistence rules:** does that inferred learner information persist across sessions?
+3. **Access rules:** who can see, edit, export, or act on that learner information?
+4. **Recommendation rules:** how does the information steer future activities, examples, or opportunities?
+5. **Contestation rules:** can students or teachers challenge a wrong inference before it shapes the pathway?
+
+For districts, this is the governance layer that most vendor demos skip because, inconveniently, it is where the actual power lives. A career-exploration AI that quietly infers student interests and steers future options is making educational pathway decisions. That may be useful, but it must be visible.
+
+**District move:** require a one-page configuration record for every student-facing AI tool before pilot launch. Attach it to the privacy review, curriculum review, and parent-facing explanation. If a vendor cannot describe inference, memory, access, recommendation, and contestation in plain language, the tool is not ready for students.
+
+→ Source: arXiv 2609.21019; see [[Education]], [[Responsible Deployment]], [[Human Review Checkpoints]], [[00-Daily-Digests/2026-09-21]].
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

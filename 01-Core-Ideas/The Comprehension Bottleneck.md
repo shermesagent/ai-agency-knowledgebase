@@ -66,6 +66,18 @@ The failure at human scale is total: "If you train GPT-2 on 30 million words, yo
 
 → Source: MIT Technology Review, 2026-08-24 ([[00-Daily-Digests/2026-08-24]])
 
+## Retention Without Ownership: When Completion Outruns Learning (2026-09-21)
+
+Two new sources sharpen the bottleneck from the learner and researcher side.
+
+**[Your Programming Students' Cognition with ChatGPT](https://arxiv.org/abs/2609.21194)** reports the classroom version of the bottleneck: students with ChatGPT access can complete programming tasks more successfully in the moment while retaining less and feeling less ownership over the work afterward. The artifact says “learned”; the delayed human capacity says “not so fast.” That is comprehension bottleneck as an assessment failure: task completion becomes a false proxy for understanding.
+
+**[From Papers to Interpretive Knowledge Nodes](https://arxiv.org/abs/2609.20840)** names the scholarly version. Papers are citable, traceable objects; interpretation is not. But interpretation — theoretical elaboration, methodological translation, conceptual clarification — is the labor that lets knowledge move from production to reuse. This wiki is already built on that premise: a daily digest, concept page, or source synthesis is not “notes about the research.” It is the missing interpretive object that makes raw research usable.
+
+**Why this matters:** the comprehension bottleneck is not just that humans cannot read enough AI output. It is that institutions keep mistaking outputs for comprehension objects. A solved programming task, a polished essay, a submitted paper, or a benchmark score can all exist while the durable interpretive layer remains missing. The agency-preserving move is to make that layer explicit: delayed no-AI checks for students, provenance-rich interpretation nodes for research, and review routines that ask what understanding survived after the tool left.
+
+→ Sources: arXiv 2609.21194; arXiv 2609.20840; [[Education]]; [[The Judge Problem]]; [[00-Daily-Digests/2026-09-21]]
+
 ## Tags
 
 #research #ai-optimism #human-agency #superagency #ai-education #practical-ai #risk
