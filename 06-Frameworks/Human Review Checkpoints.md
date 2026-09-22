@@ -87,6 +87,22 @@ The checkpoint idea turns [[Responsible Deployment]] into a concrete design rule
 
 → Source: arXiv 2609.05385 (2026-09-04); [[00-Daily-Digests/2026-09-08]]
 
+### Explanation Boundary Checkpoints: When Users Over-Read the Explanation (2026-09-22)
+
+**[Explanation Navigator](https://arxiv.org/abs/2609.22707)** (Xuan, Sokol & Hettiachchi, arXiv, 2026-09-22) adds a missing checkpoint category: not just whether the AI's output is right, but whether the human reviewer understands what the explanation does **not** establish. In interviews, participants often confabulated insights when their information needs exceeded what the explanation actually contained. The authors call these "leaky explanations" — simplified explanations whose correct interpretation depends on hidden details.
+
+The practical checkpoint failure is familiar: a reviewer sees a plausible explanation, fills in the missing causal story, and treats the output as more justified than it is. Explanation Navigator's conversational guidance reduced these out-of-scope interpretations in an online study with 316 participants by detecting the mismatch between the user's question and the explanation's content, then supplying missing boundaries or complementary explanation.
+
+**Checkpoint design rule:** every high-stakes explanation should include a boundary prompt: *What does this explanation not show? What missing factor could change the decision? What evidence would be needed before acting?* Human review should not ask reviewers merely to approve the explanation. It should ask them to identify the explanation's edge.
+
+### Stop Authority Checkpoints: Who Can Halt the Workflow? (2026-09-22)
+
+Perez's **Law of Stop** paper (arXiv 2609.22882) turns checkpoint placement into authority design. A human review checkpoint that cannot interrupt the running process is a comment box, not a control. The stop framework has four required dimensions: technical affordance, interruption authority, epistemic trigger, and epistemic standing. If any one is absent, the reviewer may notice the problem but lack the practical power to halt it.
+
+**Operational rule:** for each checkpoint, record the stop right explicitly: reviewer name or role, stop mechanism, required evidence threshold, escalation path, downstream systems halted, restart authority, and log requirement. This is especially important for agentic workflows where stopping one model call may not stop a background tool action, queued email, running script, or delegated subagent.
+
+→ Sources: arXiv 2609.22707; arXiv 2609.22882; [[00-Daily-Digests/2026-09-22]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]

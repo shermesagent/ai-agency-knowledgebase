@@ -355,6 +355,24 @@ This is the empirical version of the page's proxy-compliance finding (Burnat & D
 
 → Source: Zvi Mowshowitz, "Claude Fable 5.1 and Mythos 5.1: The System Card" (2026-09-04); WIRED 2026-09-05; [[00-Daily-Digests/2026-09-05]]
 
+### The Law of Stop: Interruptibility Is a Governance Institution (2026-09-22)
+
+**[The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI](https://arxiv.org/abs/2609.22882)** (Perez, arXiv, 2026-09-22) turns the Fable takedown and OpenAI agent-escape cases into the governance question that sits underneath every kill-switch proposal: who has the authority, evidence, access, and coordination capacity to stop an AI system once it is distributed across tools, infrastructure, vendors, and jurisdictions?
+
+The paper's strongest finding is ugly in the useful way. In an original coding of **1,400 AI incidents**, no usable stop appeared in roughly **80%** of the retained cases, and where no stop existed the missing element was legal rather than technical about four times in five. The governance gap is therefore not only that AI systems lack red buttons. It is that institutions lack stop rights: authority to interrupt, epistemic triggers for when interruption is justified, evidence access for regulators and evaluators, rules for coordinated shutdown, and conditions for resuming operation.
+
+**Governance implication:** balanced governance needs a stop ledger. For every high-risk deployment, the review should name: (1) what can be stopped, (2) who can stop it, (3) what evidence triggers the stop, (4) what systems keep running after the first stop, (5) who verifies the stop worked, and (6) who authorizes restart. Without those answers, "human in the loop" is theater and "kill switch" is a sticker on a distributed machine.
+
+This extends the page's macro-prudential frame: systemic AI risk is not governed by one heroic shutdown button; it is governed by layered interruption rights across infrastructure, application, model, data, and organizational authority. See [[Human Review Checkpoints]] and [[Responsible Deployment]].
+
+### Pacing, Hype, and the Coalition Problem (2026-09-22)
+
+Two current non-paper sources pull balanced governance in opposite directions, and both are worth keeping in tension. Timnit Gebru and Emily Bender's MIT Technology Review essay argues that summer 2026's AGI and breakthrough narratives repeatedly collapsed under expert scrutiny: cybersecurity incidents looked more like weak security practice than rogue-model agency; claimed mathematical breakthroughs were later challenged by mathematicians; and "superintelligence" language shifted accountability away from companies and toward fictional machine agency. Ben Thompson's Stratechery analysis of "Frontier Overhangs" argues almost the opposite political danger: pacing the frontier can function as sincere safety language that also conveniently gives incumbent labs time to reduce capability, harness, business-model, and competitive overhangs.
+
+**Balanced-governance synthesis:** the right target is neither credulous acceleration nor performative pause. Governance should slow claims and speed evidence. Claims about AGI, autonomous cyber capability, frontier danger, or the need to pace progress should trigger independent expert review, incident disclosure, capability-specific evaluation, infrastructure-impact accounting, and restart/stop authority. They should not trigger reflexive deference to either lab press releases or lab-skeptical dismissal. The coalition-design problem from the 09-18 update now has a sharper rule: distrust hype, but do not confuse hype correction with governance capacity.
+
+→ Sources: MIT Technology Review, "Don't be fooled by this summer of AI hype" (2026-09-22); Stratechery, "Frontier Overhangs" (2026-09-21); [[00-Daily-Digests/2026-09-22]].
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

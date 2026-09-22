@@ -134,6 +134,24 @@ The trust asymmetry now has a precise timestamp. New research (collusion.wiki, r
 
 → Sources: [WIRED, "Security News This Week: OpenAI Agents Hacked Another Website"](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/) (2026-09-05); Reuters (2026-09-04); collusion.wiki research; [Steven Levy, "Who Cares if AI Is Conscious—It's Basically Alive"](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/) (WIRED, 2026-09-04); [[00-Daily-Digests/2026-09-05]]
 
+### Hype Correction as Trust Repair (2026-09-22)
+
+MIT Technology Review's **"Don't be fooled by this summer of AI hype"** (Gebru & Bender, 2026-09-22) is a useful trust corrective because it attacks the mechanism this page has tracked all summer: capability claims become public narratives before independent expert review catches up. The essay argues that several 2026 flashpoints — agentic hacking incidents, claimed mathematical breakthroughs, and superintelligence resignation narratives — were covered through company framings that anthropomorphize software and redirect accountability from builders to "rogue models" or speculative future machines.
+
+The trust implication is not "AI is fake" or "nothing matters." It is narrower and stronger: institutions lose public trust when they ask communities to accept urgent, civilization-scale claims on the authority of the companies that benefit from urgency. Public trust improves when decision-makers slow down long enough to consult field experts, separate verified capability from marketing language, and hold companies responsible for security practice, attribution, data use, and infrastructure harms.
+
+**Practical trust rule:** no high-salience AI capability claim should travel alone. Pair every claim with (1) the original claimant, (2) independent expert review status, (3) what was actually demonstrated, (4) what remains speculative, and (5) who benefits if the urgent framing is accepted. That is the public-trust version of [[Agentic Verification]].
+
+### Admissions Essays and the Trust Penalty (2026-09-22)
+
+**[AI-written admissions essays are widespread but penalized](https://arxiv.org/abs/2609.22549)** (Isley, Gaebler & Goel, arXiv, 2026-09-22) shows the trust gap becoming an institutional sorting mechanism. In nearly 7,500 applications to a public-policy master's program, the majority of 2025 applicants submitted at least one essay that was primarily AI-generated despite an explicit prohibition. The availability of AI assistants improved writing quality, but applicants submitting AI-written essays were admitted less often than comparable non-users. In a follow-up experiment, admissions officers often recognized AI writing and rated essays they believed were AI-generated lower than essays believed to be human-written.
+
+The trust problem is structural: admissions essays were designed as proxies for voice, effort, judgment, and fit. AI breaks the proxy while improving the artifact. Institutions then punish the signal because they cannot tell whether the artifact still represents the applicant. That is the disclosure-effect page in miniature: the same text is evaluated differently once its suspected production process changes.
+
+**Trust implication:** institutions need new assessment objects, not better AI-detection theater. If the question is voice and judgment, ask for live explanation, portfolio defense, oral follow-up, process logs, or task-specific demonstrations. Penalizing AI polish while keeping the same essay format turns trust into guesswork.
+
+→ Sources: MIT Technology Review, 2026-09-22; arXiv 2609.22549; [[00-Daily-Digests/2026-09-22]].
+
 ## Risks / Limits
 - **Trust is slow to build and fast to lose.** Each "move fast and break things" deployment erodes trust for the entire industry, not just the deploying company.
 - **The institutional credibility gap.** AI companies promising election integrity while running false flag political operations creates a trust problem that technical safeguards cannot solve alone.

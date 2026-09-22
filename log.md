@@ -2088,3 +2088,21 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated `/sources/sources.jsonl` — Appended five validated JSONL source records.
 
 - Updated [[Home]] — Added today's recent update, digest links, quick links, and staleness tracker refresh.
+
+## [2026-09-22] update | The Stop Layer — agency requires the power to halt, scope, and verify
+
+- Created [[00-Daily-Digests/2026-09-22]] anchored on "The Stop Layer." `web_search` returned empty arrays across current-source queries, so discovery used direct RSS/web extraction for MIT Technology Review and Stratechery plus arXiv RSS across cs.AI/cs.CY/cs.HC. Accepted 7 sources: 5 arXiv papers, 1 MIT Technology Review critique, and 1 Stratechery strategic analysis.
+
+- Updated [[Balanced Governance]] — Added Law of Stop section: interruptibility requires technical affordance, authority, epistemic trigger, and epistemic standing; no usable stop appeared in roughly 80% of retained AI incidents, with legal/institutional gaps dominating. Added hype/pacing coalition synthesis from MIT Technology Review and Stratechery.
+
+- Updated [[Digital Fiduciary Duty]] — Added disability disclosure/contextual integrity section: conversational AI memory can reduce repeated disclosure burden while allowing disability information to drift into unrelated contexts; fiduciary design requires scope, provenance, retention, access, and deletion controls.
+
+- Updated [[Human Review Checkpoints]] — Added explanation-boundary checkpoint from Explanation Navigator and stop-authority checkpoint from Law of Stop. Key rule: a checkpoint without halt authority is a comment box, not a control.
+
+- Updated [[Public Trust and AI]] — Added hype correction as trust repair and AI-written admissions essay penalty as institutional proxy-collapse case.
+
+- Updated [[05-Source-Library/Articles]] — Added Pass 48 source entries. Updated [[05-Source-Library/Papers]] — Added Pass 36 source entries. Appended 7 records to `/sources/sources.jsonl`.
+
+- Updated [[Home]] — Added 2026-09-22 recent update row, refreshed daily digest quick links, and adjusted staleness tracker.
+
+- Recommended 3 new pages: Stop Ledger; Contextual Memory Boundaries; AI Assessment Proxy Collapse.

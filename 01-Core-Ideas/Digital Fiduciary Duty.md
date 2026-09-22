@@ -57,6 +57,16 @@ A fiduciary's defining duties — loyalty, candor, confidentiality — all presu
 
 → Sources: Steven Levy, "Who Cares if AI Is Conscious—It's Basically Alive" (WIRED, 2026-09-04); Cameron Berg et al., arXiv 2510.24797; Zvi Mowshowitz, "Claude Fable 5.1 and Mythos 5.1: The System Card" (2026-09-04); Pan/Zhou/Hu, arXiv 2609.00652; [[00-Daily-Digests/2026-09-05]]
 
+## Disability Disclosure and Contextual Fiduciary Boundaries (2026-09-22)
+
+**[When Disability Disclosure Travels: Memory, Privacy, and Contextual Integrity in Conversational AI](https://arxiv.org/abs/2609.22720)** (Taheri, Tazike, Carrington & Bigham, arXiv, 2026-09-22) is the fiduciary-duty page's privacy test case. In interviews with 12 disabled adults using ChatGPT, Claude, and Gemini, participants disclosed disability by need rather than by label — translating disability into task-scoped instructions — while simultaneously evaluating two recipients: the helpful non-judging interlocutor and the data-holding company behind it.
+
+That split is the whole fiduciary problem. Memory can be agency-expanding when it saves a disabled user from repeated disclosure. The same memory becomes agency-reducing when disability information drifts into contexts where it does not belong. Participants wanted control over **scope, provenance, retention, and access**, not one-off per-utterance toggles.
+
+**Fiduciary design rule:** sensitive disclosures need contextual boundaries, not generic memory settings. A digital fiduciary should treat disability-related information as scoped authority: useful for the task in which it was disclosed, traceable to its source, retained only with an explicit purpose, inspectable by the user, and barred from unrelated contexts unless the user affirmatively widens the scope. "Remember this" is not specific enough. The question is: remember it for what, visible to whom, until when, and with what right of deletion?
+
+This also tightens the [[AI for School Districts]] configuration-record pattern: student disability, accommodation, language, health, or family-context information should never become ambient personalization sludge. It needs explicit contextual integrity.
+
 ## Risks / Limits
 - **Platform business models rely on the absence of fiduciary duty.** If AI must serve users rather than platforms, free AI services become difficult to sustain. The economics of "AI for everyone" may depend on the user-as-product model.
 - **Fiduciary duty is legally complex.** It requires defining the scope of the duty, the standard of care, and the remedies for breach — all of which are harder for AI than for human professionals.
