@@ -72,5 +72,11 @@ Two studies define the failure mode. "When Vocabulary Comprehension Fails Clinic
 
 → Sources: arXiv 2608.20345, 2026-06-14; arXiv 2608.21089, 2026-08-21 ([[00-Daily-Digests/2026-08-24]])
 
+## Instructional Authority Profile (2026-09-23)
+
+[Instructional Governance by Design](https://arxiv.org/abs/2609.26098) is a **position/framework paper**, not a K–12 outcome trial. It proposes six dimensions for educational AI: pedagogical grounding, AI instructional authority, human accountability and control, learner agency and cognitive engagement, context and boundaries, and evaluation visibility/revision. Its cases are computing and first-year engineering tools; a district should adapt and test rather than assume transfer to younger students.
+
+For an [[AI Tutors]] pilot, document who approves the tool's content, whether it may assess or only coach, what students must do without it, what the teacher can inspect/correct, which class data can enter the system, and how errors trigger revision. This converts a generic 'teacher in the loop' promise into a testable governance profile. Pair the profile with [[Education]]'s concern about completion versus durable learning: a well-governed tutor must show learning evidence, not just clean outputs.
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

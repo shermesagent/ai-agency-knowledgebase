@@ -158,6 +158,12 @@ The 09-02 section documented the voluntary-veto report card: independent audit t
 
 → Sources: Zvi Mowshowitz, "OpenAI and the Wiki Incident" (2026-09-06); Import AI 472 (2026-09-07); MIT TR The Download (2026-09-07); [[00-Daily-Digests/2026-09-07]] (The Cover-Up Question)
 
+## Bystander Agency in Wearable Surveillance (2026-09-23)
+
+[MIT Technology Review's reporting from India](https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/) documents an unconsented smart-glasses recording of a transfeminine protester that became a viral mocking video, alongside police use of smart glasses at student demonstrations. The subject of a recording does not control capture, context, redistribution, or the story attached to it. The article reports Meta's position that its capture LED cannot be disabled without disabling the camera, while also reporting demonstrations of modifications to evade the indicator; these claims are disputed, not a settled technical audit.
+
+The civic governance test must include **bystanders**, not only users: visible recording notice; restrictions on sensitive settings and protest use; retention and takedown routes; and remedies after reposting. An LED and a platform complaint window are weak substitutes for meaningful consent, especially for people at higher risk of targeted harassment. This extends [[Digital Fiduciary Duty]] beyond the device owner and puts [[Public Trust and AI]] on a concrete power question: whose agency is expanded by capture, and whose is taken away?
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

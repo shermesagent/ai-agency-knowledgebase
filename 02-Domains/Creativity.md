@@ -188,5 +188,11 @@ Giorgio Presti's "The Aura in the Machine" (arXiv 2607.17940, July 2026) provide
 
 → Source: arXiv 2608.09023 (2026-08-10)
 
+### Protect the Narrative Layer (2026-09-23)
+
+[Interviews with 12 expert visual-data storytellers](https://arxiv.org/abs/2609.25700) find selective delegation rather than autonomous storytelling: participants used LLMs for execution-oriented tasks but kept narrative intent and meaning under human control. Human seeding and constraints preceded useful AI assistance; the work shifted toward verification. This is qualitative evidence about expert practice, not proof that the pattern improves audience comprehension.
+
+In [[AI Writing Partners]] and visual design alike, define the claim and audience before generation; delegate chart-code drafts or alternative layouts; then verify data, framing, and omissions against the original evidence. A polished chart can still tell the wrong story. The defensible augmentation boundary is not simply human versus machine output; it is **who owns the intended claim and who signs off on what the audience will infer**. See [[AI Use Case Evaluation Rubric]] for the corresponding pilot measure.
+
 ## Tags
 #creativity #augmentation #human-agency #practical-ai

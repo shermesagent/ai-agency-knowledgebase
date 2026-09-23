@@ -2106,3 +2106,10 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[Home]] — Added 2026-09-22 recent update row, refreshed daily digest quick links, and adjusted staleness tracker.
 
 - Recommended 3 new pages: Stop Ledger; Contextual Memory Boundaries; AI Assessment Proxy Collapse.
+
+## [2026-09-23] update | The Delegation Boundary — preserve the right to define meaning and contest impacts
+
+- Created [[00-Daily-Digests/2026-09-23]] with five verified sources (MIT Technology Review on smart-glasses bystanders; WIRED on AT&T's simultaneous AI, workforce, and copper transitions; arXiv 2609.25010 on synthetic persona validation, 2609.26098 on instructional governance, 2609.25700 on human narrative control). Source diversity: two reported articles, three research preprints. `web_search` returned empty arrays; publisher and arXiv feeds plus direct extraction supplied sources.
+- Updated [[Government and Civic Life]] with bystander agency in wearable recording; [[Creativity]] with narrative-ownership boundaries; [[AI Use Case Evaluation Rubric]] with held-out sim-to-real baseline; [[AI Tutor Evaluation Checklist]] with a six-part instructional authority profile.
+- Updated [[05-Source-Library/Articles]] (Pass 49), [[05-Source-Library/Papers]] (Pass 37), and [[Home]] navigation/recent activity. Appended five validated records to `sources/sources.jsonl`.
+- Recommended, not created: Bystander Agency; Instructional Authority Profile; Sim-to-Real Validation Gate. Important limits: AT&T layoffs cannot be attributed to AI alone; education position paper is not K–12 outcome evidence; story-authoring interviews are qualitative; wearable LED claims are disputed.

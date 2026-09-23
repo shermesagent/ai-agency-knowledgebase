@@ -36,6 +36,12 @@ This converts the rubric's "measurable in context" criterion from an aspiration 
 
 → Sources: [There Is No Neutral Harness](https://arxiv.org/abs/2608.21382), [How much of a measured AI preference is the model, and how much is the instrument?](https://arxiv.org/abs/2608.23641)
 
+## Sim-to-Real Validation Gate (2026-09-23)
+
+[A held-out Upworthy headline A/B-test study](https://arxiv.org/abs/2609.25010) compared a ten-persona LLM panel with a plain no-persona LLM prediction on **399 tests with distinguishable outcomes**. The no-persona baseline did better at ranking variants (Kendall tau 0.361 versus 0.084; top-choice accuracy 49.2% versus 34.6%). It is a preprint about aggregate headline clicks, not a verdict on all persona research or individual preference prediction.
+
+**Add to the rubric:** before buying synthetic-persona or AI-simulation tools, name the real-world outcome, retain a no-persona baseline, preregister a held-out test, and report uncertainty and evaluation-set exclusions. If the elaborate simulation cannot beat the simple baseline on actual behavior, do not use its vivid explanations to stand in for evidence. For creative workflows, pair this with [[Creativity]]'s narrative-ownership check and [[AI Field Experiment Evidence]]'s insistence on observed outcomes.
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[Responsible Deployment]]
