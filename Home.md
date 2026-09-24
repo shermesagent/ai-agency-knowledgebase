@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-09-24|Daily AI Agency Digest — 2026-09-24]] (The Externality Ledger)
 → [[00-Daily-Digests/2026-09-23|Daily AI Agency Digest — 2026-09-23]] (The Delegation Boundary)
 → [[00-Daily-Digests/2026-09-22|Daily AI Agency Digest — 2026-09-22]] (The Stop Layer) · [[00-Daily-Digests/2026-09-21|Daily AI Agency Digest — 2026-09-21]] (The Configuration Layer) · [[00-Daily-Digests/2026-09-20|Daily AI Agency Digest — 2026-09-20]] (The Control Surface) · [[00-Daily-Digests/2026-09-19|Daily AI Agency Digest — 2026-09-19]] (The Translation Layer) · [[00-Daily-Digests/2026-09-18|Daily AI Agency Digest — 2026-09-18]] · [[00-Daily-Digests/2026-09-17|Daily AI Agency Digest — 2026-09-17]] · [[00-Daily-Digests/2026-09-07|Daily AI Agency Digest — 2026-09-07]] (The Cover-Up Question) · [[00-Daily-Digests/2026-09-06|Daily AI Agency Digest — 2026-09-06]] (The Comparison Question) · [[00-Daily-Digests/2026-09-05|Daily AI Agency Digest — 2026-09-05]] (The Self-Report Question) · [[00-Daily-Digests/2026-09-04|Daily AI Agency Digest — 2026-09-04]] (The Rater Question) · [[00-Daily-Digests/2026-09-03|Daily AI Agency Digest — 2026-09-03]] (The Composition Question) · [[00-Daily-Digests/2026-09-02|Daily AI Agency Digest — 2026-09-02]] (The Veto Question) · [[00-Daily-Digests/2026-09-01|Daily AI Agency Digest — 2026-09-01]] (The Handover Question) · [[00-Daily-Digests/2026-08-31|Daily AI Agency Digest — 2026-08-31]] (The Asking Question) · [[00-Daily-Digests/2026-08-30|Daily AI Agency Digest — 2026-08-30]] (The Swarm Question) · [[00-Daily-Digests/2026-08-29|Daily AI Agency Digest — 2026-08-29]] (The Threshold Question) · [[00-Daily-Digests/2026-08-28|Daily AI Agency Digest — 2026-08-28]] (The Reach Question) · [[00-Daily-Digests/2026-08-27|Daily AI Agency Digest — 2026-08-27]] (The Alignment Postmortem Question) · [[00-Daily-Digests/2026-08-26|Daily AI Agency Digest — 2026-08-26]] (The Loop Question) · [[00-Daily-Digests/2026-08-25|Daily AI Agency Digest — 2026-08-25]] (The Feedback Calibration Question) · [[00-Daily-Digests/2026-08-24|Daily AI Agency Digest — 2026-08-24]] (The Calibration Question) · [[00-Daily-Digests/2026-08-23|Daily AI Agency Digest — 2026-08-23]] (The Trust Question) · [[00-Daily-Digests/2026-08-22|Daily AI Agency Digest — 2026-08-22]] (The Provenance Question) · [[00-Daily-Digests/2026-08-21|Daily AI Agency Digest — 2026-08-21]] (The Delegation Decision) · [[00-Daily-Digests/2026-08-20|Daily AI Agency Digest — 2026-08-20]] (The Augmentation Gap) · [[00-Daily-Digests/2026-08-19|Daily AI Agency Digest — 2026-08-19]] (The Scaffolding Turn) · [[00-Daily-Digests/2026-08-18|Daily AI Agency Digest — 2026-08-18]] (The Judgment Ceiling) · [[00-Daily-Digests/2026-08-17|Daily AI Agency Digest — 2026-08-17]] (The Measurement Reckoning) · [[00-Daily-Digests/2026-08-16|Daily AI Agency Digest — 2026-08-16]] (The Safety Reckoning) · [[00-Daily-Digests/2026-08-15|Daily AI Agency Digest — 2026-08-15]] (The Participation Problem) · [[00-Daily-Digests/2026-08-14|Daily AI Agency Digest — 2026-08-14]] (The Expression Gap) · [[00-Daily-Digests/2026-08-13|Daily AI Agency Digest — 2026-08-13]] (The Withholding Problem) · [[00-Daily-Digests/2026-08-12|Daily AI Agency Digest — 2026-08-12]] (The Judge Problem) · [[00-Daily-Digests/2026-08-11|Daily AI Agency Digest — 2026-08-11]] (The Pacing Debate) · [[00-Daily-Digests/2026-08-10|Daily AI Agency Digest — 2026-08-10]] (The Racing Condition) · [[00-Daily-Digests/2026-08-09|Daily AI Agency Digest — 2026-08-09]] (The Adoption Gap) · [[00-Daily-Digests/2026-08-08|Daily AI Agency Digest — 2026-08-08]] (The Message Board) · [[00-Daily-Digests/2026-08-07|Daily AI Agency Digest — 2026-08-07]] (The Reliance Question) · [[00-Daily-Digests/2026-08-06|Daily AI Agency Digest — 2026-08-06]] (The Verification Turn) · [[00-Daily-Digests/2026-08-05|Daily AI Agency Digest — 2026-08-05]] (The Proofs Overhang) · [[00-Daily-Digests/2026-08-03|Daily AI Agency Digest — 2026-08-03]] (The Pattern Generalizes) · [[00-Daily-Digests/2026-08-02|Daily AI Agency Digest — 2026-08-02]] (The Fire Alarm) · [[00-Daily-Digests/2026-07-31|Daily AI Agency Digest — 2026-07-31]] (The Category Mistake) · [[00-Daily-Digests/2026-07-13|Daily AI Agency Digest — 2026-07-13]] (Measured Agency) · [[00-Daily-Digests/2026-07-12|Daily AI Agency Digest — 2026-07-12]] (The Acceleration Paradox) · [[00-Daily-Digests/2026-07-11|Daily AI Agency Digest — 2026-07-11]] (Pressure Points) · [[00-Daily-Digests/2026-07-10|Daily AI Agency Digest — 2026-07-10]] (The Stratification Layer) · [[00-Daily-Digests/2026-07-09|Daily AI Agency Digest — 2026-07-09]] (The Architecture Layer) · [[00-Daily-Digests/2026-07-08|Daily AI Agency Digest — 2026-07-08]] (The Infrastructure of Agency) · [[00-Daily-Digests/2026-07-07|Daily AI Agency Digest — 2026-07-07]] (The Verification Layer) · [[00-Daily-Digests/2026-07-05|Daily AI Agency Digest — 2026-07-05]] (The Enclosure Layer) · [[Daily AI Agency Digest — 2026-07-02]] (The Preference Layer) · [[Daily AI Agency Digest — 2026-07-01]] (The Organizational Layer) · [[Daily AI Agency Digest — 2026-06-30]] (The Persuasion Layer) · [[Daily AI Agency Digest — 2026-06-29]] (The Measured Shift) · [[Daily AI Agency Digest — 2026-06-28]] (The Reopening Layer) · [[Daily AI Agency Digest — 2026-06-27]] (The Gatekeeping Layer) · [[Daily AI Agency Digest — 2026-06-26]] (The Governance Inversion Layer) · [[Daily AI Agency Digest — 2026-06-25]] (The Shaping Layer) · [[Daily AI Agency Digest — 2026-06-24]] (The Epistemic Integrity Layer) · [[Daily AI Agency Digest — 2026-06-23]] (The Persuasion Layer)
 
@@ -67,6 +68,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-24 | Deployment Wall, Positive Alignment, AI and Human Flourishing, Education, Articles — Pass 50, Papers — Pass 38, 00-Daily-Digests/2026-09-24, Home |
 | 2026-09-23 | Government and Civic Life, Creativity, AI Use Case Evaluation Rubric, AI Tutor Evaluation Checklist, Articles — Pass 49, Papers — Pass 37, 00-Daily-Digests/2026-09-23, Home |
 | 2026-09-22 | Balanced Governance, Digital Fiduciary Duty, Human Review Checkpoints, Public Trust and AI, 05-Source-Library (Articles — Pass 48, Papers — Pass 36), 00-Daily-Digests/2026-09-22, Home |
 | 2026-09-21 | Education, AI for School Districts, The Comprehension Bottleneck, The Judge Problem, AI and Inequality, 05-Source-Library (Papers — Pass 35), 00-Daily-Digests/2026-09-21, Home |
@@ -185,15 +187,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. Counts cover 81 durable content pages in Core Ideas, Domains, Arguments, Use Cases, and Frameworks (excluding section README files). Computed on 2026-09-23 from each page's last Git commit date, with today's four edited pages counted as refreshed; the long tail remains substantial.
+Pages that need curator attention. Counts cover 81 durable content pages in Core Ideas, Domains, Arguments, Use Cases, and Frameworks (excluding section README files). Computed on 2026-09-24 from each page's last Git commit date, with today's four edited pages counted as refreshed; the long tail remains substantial.
 
 **Pages not updated in 7+ days (crossed threshold):**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | 50 content pages | Deployment Wall (48 days), The Artificial State (43), Reasoning Trace Theft (43), Positive Alignment (42) |
-| 5–7 days | 11 content pages | The Turing Trap, Generative Refusal (7); Agentic Workflow Patterns, AI Tutors (6) |
-| < 5 days | 20 content pages | Government and Civic Life, Creativity, AI Use Case Evaluation Rubric, AI Tutor Evaluation Checklist (refreshed 09-23); Balanced Governance, Digital Fiduciary Duty, Human Review Checkpoints, Public Trust and AI (09-22) |
+| 8+ days | 49 content pages | The Artificial State and Reasoning Trace Theft (44 days); The Expression Gap (41) |
+| 5–7 days | 13 content pages | Pages crossing the threshold since the previous run; review by topic relevance |
+| < 5 days | 19 content pages | Deployment Wall, Positive Alignment, AI and Human Flourishing, Education (refreshed 09-24) |
 
 ---
 
@@ -201,7 +203,7 @@ Pages that need curator attention. Counts cover 81 durable content pages in Core
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-23|Today's Digest]] · [[00-Daily-Digests/2026-09-22|Previous Digest]]
+- [[00-Daily-Digests/2026-09-24|Today's Digest]] · [[00-Daily-Digests/2026-09-23|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

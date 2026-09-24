@@ -362,5 +362,11 @@ Two new arXiv papers make the education problem more concrete: AI use is not gov
 
 → Sources: arXiv 2609.21019; arXiv 2609.21194; [[AI for School Districts]]; [[The Comprehension Bottleneck]]; [[00-Daily-Digests/2026-09-21]]
 
+## September 24 evidence check: item difficulty and privacy are not vendor defaults
+
+In a 10-week Drexel data-science-course study, [An and Wang](https://arxiv.org/abs/2609.27063) compared model-assigned difficulty for 378 authored questions (311 deployed; 7,888 student responses) with observed item difficulty. Its Easy/Medium/Hard labels largely tracked the model's own Bloom labels (Spearman ρ = 0.90), but neither predicted empirical difficulty well (ρ = 0.06 and 0.02, respectively). This is college data science, **not a K–12 validation**. Before teachers use generated questions for intervention groups, collect actual student-response distributions and teacher misconception checks; see [[The Comprehension Bottleneck]] and [[AI Tutor Evaluation Checklist]].
+
+[Nair and Greenstadt](https://arxiv.org/abs/2609.28137) interviewed 12 EdTech professionals and audited 48 platform privacy policies. They report a repeated pattern of postponing privacy decisions and find that 33% lacked meaningful AI disclosures despite visible AI features, while 73% offered only generic accountability and breach-response language. This is a preprint and a policy-document audit, not direct evidence of every vendor's operational conduct. District procurement should request written retention, deletion, training-use, escalation, and breach-notification terms before student data flows; see [[Digital Fiduciary Duty]] and [[Deployment Wall]]. No student records belong in a public pilot note.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

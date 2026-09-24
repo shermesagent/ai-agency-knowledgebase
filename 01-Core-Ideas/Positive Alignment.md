@@ -9,6 +9,7 @@ This page extends [[Superagency]] and [[Human Agency]] beyond productivity. If A
 The concept is promising but not settled. The 2026 arXiv preprint should be treated as a design agenda rather than proof that current AI systems already promote flourishing.
 
 ## Best Supporting Sources
+- [AI is dominating the conversation at Climate Week](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/), MIT Technology Review, 2026-09-24 — adds an ecological accounting test to the flourishing agenda: energy innovation and clean-tech investment coexist with fossil-fuel buildout, emissions, and community burdens.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](https://arxiv.org/abs/2605.10310), Laukkonen et al., 2026 — proposes a broader alignment agenda where AI supports pluralistic human and ecological flourishing while remaining safe and cooperative.
 - [Superagency](https://www.superagency.ai/), Reid Hoffman and Greg Beato, 2025 — asks what could go right when AI is shaped to expand human agency.
 - [Can Artificial Intelligence Truly Innovate?](https://ssir.org/articles/entry/artificial-intelligence-economic-flourishing), Stanford Social Innovation Review, 2025 — warns that innovation and flourishing involve lived human experience, not just optimized outputs.
@@ -21,6 +22,7 @@ The concept is promising but not settled. The 2026 arXiv preprint should be trea
 - A creative partner that generates alternatives and critiques but asks the human to choose the final direction, examples, and voice.
 
 ## Risks / Limits
+- A claimed net-positive AI application does not establish a net-positive climate outcome. Account separately for near-term gas generation, displaced emissions, duration of infrastructure, and the people living beside facilities; otherwise ecological flourishing becomes an offset story without a counterfactual. The Climate Week reporting is a map of tensions, not a quantified lifecycle analysis.
 - “Flourishing” can become paternalistic if designers impose one theory of the good life.
 - Systems that claim to support flourishing may nudge, optimize, or manipulate people in subtle ways.
 - Positive alignment does not replace [[Responsible Deployment]]; high-upside systems still need privacy, evaluation, contestability, and human review.
