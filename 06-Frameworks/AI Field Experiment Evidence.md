@@ -53,5 +53,11 @@ Two sources expand the field-experiment frame beyond solo-model outcomes. "AI Ev
 
 → Sources: [AI Evaluation Should Work With Humans](https://arxiv.org/abs/2608.13577), [BCM: Measuring Cross-Task Behavioral Consistency in Language Model Agents](https://arxiv.org/abs/2608.13598) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+### Evaluator precision is part of the intervention (2026-09-25)
+
+[When Evaluators Cry Wolf](https://arxiv.org/abs/2609.28478) reports an internal production evaluation program at MagicSchool, not an independent learning-outcome trial. Across 21 deployed LLM-as-judge evaluators, the authors report that repeated-run unanimous-fail panels, judge-model selection, and softened rubrics cut confirmed false-positive flags by 99% and improved per-flag precision from 0.6% to 49%. An **egregious-failure set** still registered 100% capture for all 21 evaluators. These are promising operational metrics, but the benchmark and egregious cases are synthetic; 100% capture on that set is not proof of perfect real-world safety.
+
+This is a measurement design lesson for [[AI Tutors]] and [[Agentic Verification]]: a flagging system that overwhelms reviewers with false alarms consumes the attention needed to find consequential failures. Before scaling an educational AI pilot, track reviewer time, confirmed precision, and recall on an independently reviewed, privacy-safe local sample; keep severe-case checks separate. Do not translate a cleaner alert queue into a claim that students learned more.
+
 ## Tags
 #research #practical-ai #augmentation #responsible-ai

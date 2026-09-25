@@ -251,6 +251,18 @@ The augmentation half of Co-Intelligence now has a cognitive-search result. **AI
 
 Source: https://arxiv.org/abs/2608.26152
 
+### The collaboration terms come before the interface (2026-09-25)
+
+[The Interface Is Downstream](https://arxiv.org/abs/2609.28801) argues from a single personal-agent case that memory, evidence rules, permissions, and learning rules determine what a human can actually inspect or contest. In a model-blind review of 33 citations, one reviewer judged a retrieved intermediary supplied the claim in 16 relayed citations and part of it in four; five of 12 directly retrieved target excerpts did not support the cited claim. The author says these judgments are **unadjudicated and the packet is not public**. Treat this as a design warning and audit hypothesis, not a measured population failure rate.
+
+For [[Co-Intelligence]], a polished answer is downstream of the evidence chain. Require an inspectable provenance path (including intermediate syntheses), an action-permission record, and a way for the person to correct what memory carries forward. This sharpens [[Human Review Checkpoints]]: consent after an opaque synthesis is weaker than a chance to contest the inputs before action.
+
+### The preference cost of the personal agent (2026-09-25)
+
+[WIRED's hands-on Muse test](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) found useful browser execution and marketplace search alongside repeated invitations to connect inbox, banking, documents, and other personal data. The reporter says memory can be edited or wiped but cannot be switched off entirely; agent interactions are opted into model training by default, with a data-controls opt-out. Meta disputes the reporter's characterization and says future confidential virtual machines are planned. This is a product review of one agent at one point in time, not a measurement of all personal agents.
+
+The deeper [[Human Agency]] question: if the assistant chooses what is worth browsing and recommending, does convenience displace the practice of discovering one's own preferences? Make memory visibility, training opt-out, and a no-agent path explicit in the collaboration contract. Connects to [[Digital Fiduciary Duty]] and the upstream governance rules above.
+
 ## Risks / Limits
 - Co-intelligence can become overreliance if users stop checking sources and assumptions.
 - **Co-Existence risk:** The frame works best for domain experts who can tell when the AI is better. For novices, "sometimes better than you" is a recipe for undetected errors and misplaced trust.

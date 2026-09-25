@@ -54,6 +54,12 @@ The strongest counterargument remains live: AI may help design dangerous ideas, 
 
 → Sources: MIT Technology Review, "The specter of AI-enabled bioweapons is a wake-up call for biotech" (2026-09-18); MIT Technology Review, "Could AI really kill us all? Your questions, answered" (2026-09-18); [[00-Daily-Digests/2026-09-18]]
 
+## The Ground-Truth Trap in AI Lie Detection (2026-09-25)
+
+[MIT Technology Review](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) reports a **proposed**, not approved, $30.3 million five-year Pentagon Polygraph+ program combining AI scoring with standoff physiological sensing. The underlying polygraph has weak screening evidence according to the cited 2003 National Research Council review. Experts interviewed in the article argue that stress and cognitive-load signals are not ground-truth labels for deception; adding more sensors and a model can make a score look more precise without validating the target. The American Polygraph Association's 80–94% accuracy claim is a claim by its trade association, not a demonstrated real-world screening performance figure.
+
+The risk extends beyond security screening: high-stakes school or workplace AI monitoring must not convert weak proxies into accusations. Ask what the label means, who verified it independently, the false-positive burden at the actual base rate, subgroup performance, and a meaningful appeal route. See [[Balanced Governance]] and [[AI Use Case Evaluation Rubric]]. Avoid treating this proposed program as evidence that AI lie detection works.
+
 ## Related Pages
 - [[Optimism Without Naivety]]
 - [[Balanced Governance]]

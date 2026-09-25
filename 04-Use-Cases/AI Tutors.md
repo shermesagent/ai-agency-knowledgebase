@@ -88,5 +88,11 @@ The feedback layer gets its first real quality instrument. **[Consistently Good 
 
 But the warning is in the same paper: **significant LLM self-preference bias** — the model rated its own outputs above human expert ratings, and the bias persists even in cross-model evaluation (a different model rating the outputs still favors the LLM). Two implications: (1) any tutor-quality evaluation that leans on LLM-as-judge inherits this bias — human anchors required; (2) teachers' stated reluctance to delegate feedback (Cheshire Academy, MIT TR 08-24) is not Luddism — the quality/self-preference concern is real, and "consistently good but self-graded" needs an external check before it enters the classroom. See [[Education]], [[The Judge Problem]].
 
+### Help-Seeking as the Learning Target (2026-09-25)
+
+[HelpCoach](https://arxiv.org/abs/2609.28918) changes what the tutor teaches: a chat add-on helps learners name the missing knowledge and request a specific scaffold, then prompts revision of vague requests in the middle of a task. In a study of **40 college web-programming students**, the authors report more specific questions and better knowledge retention than pre-task help-seeking training alone. This is not a K–12 trial and does not establish district-scale effectiveness.
+
+The design opportunity is to evaluate the student's *question formulation*, not just the assistant's answer: can a learner identify what they do not understand, ask for a hint rather than a solution, then solve a related problem without help? Pair this with the evaluator-precision warning in [[AI Field Experiment Evidence]] and the instructional boundaries in [[AI Tutor Evaluation Checklist]]. Avoid collecting student chat histories for this experiment without approved privacy and retention terms.
+
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai
