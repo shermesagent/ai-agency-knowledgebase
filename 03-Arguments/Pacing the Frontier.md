@@ -77,6 +77,12 @@ The pacing debate has a new actor: the state, in maximalist form. On 09-03, Sen.
 
 → Source: [Sanders–Casar press release](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/) (2026-09-03); [Politico live-updates](https://www.politico.com/live-updates/2026/09/03/congress/bernie-sanders-greg-casar-ai-superintelligence-ban-01063277); [Axios](https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause); [[00-Daily-Digests/2026-09-06]]
 
+## Optionality Needs Decision Gates (2026-09-26)
+
+[RAND's September 15 expert perspective](https://www.rand.org/pubs/perspectives/PEA5105-1.html) argues that five uncertainties make a premature commitment to any one of seven superintelligence strategies costly. Its proposed **Freedom of Action** strategy invests in human-AI capacity, security and verification infrastructure, national-security adaptation, and public/institutional preparedness. This is a policy recommendation under uncertainty, not evidence that superintelligence is imminent or that this strategy will work. See [[The Artificial State]]: optionality still needs institutions authorized to decide when a gate closes.
+
+Operationalize the distinction between *preserving options* and *indefinite deferral*: for each deployment gate name the observable trigger, independent evaluator, decision owner, and reversible action. Zvi's [September 26 Opus 5.5 review](https://thezvi.substack.com/p/claude-opus-55-should-raise-your) illustrates the tension: a useful model can increase the scale of projects people attempt, while qualitative user reports of over-eager action are a reason to separate discussion from execution. His model rankings and price comparisons are commentary and vendor-derived claims, not a controlled safety comparison. **Why this matters:** pacing can expand ambition without outsourcing the decision about what to ship. See [[Cognitive Surrender]] and [[Balanced Governance]].
+
 ## Related Pages
 
 - [[Balanced Governance]]

@@ -2127,3 +2127,14 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[AI Field Experiment Evidence]] with educational evaluator alert precision and synthetic severe-case limits; [[AI Tutors]] with in-situ help-seeking scaffolds; [[Co-Intelligence]] with hidden intermediary provenance and personal-agent data boundaries; [[Strongest AI Risk Arguments]] with the polygraph ground-truth trap.
 - Updated [[05-Source-Library/Articles]] (Pass 51), [[05-Source-Library/Papers]] (Pass 39), and [[Home]] navigation and Git-based staleness tracker. Appended five validated records to `sources/sources.jsonl`.
 - Recommended, not created: Evidence Contract; Review-Queue Precision; Help-Seeking Scaffold. Limits: proposed spending is not approved deployment; MagicSchool severe-case recall is synthetic; the provenance case is unadjudicated; HelpCoach's participants are college students; Muse is a single product review.
+
+## [2026-09-26] update | Optionality Needs a Decision Gate — ambition with authorization and recourse
+
+- Created [[00-Daily-Digests/2026-09-26]] with five verified sources: Zvi on Claude Opus 5.5, RAND's Freedom of Action perspective, WIRED on the Anthropic procurement ruling, WIRED on Meta Muse's mascot and training default, and Steven Levy's computing-history commentary. Source types: two reported articles, two analytical essays, one policy perspective. `web_search` returned empty across independent queries; direct RSS and publisher pages supplied the content. Weekend: no arXiv RSS attempted.
+- Updated [[Pacing the Frontier]] — added RAND's uncertainty/optionality framework and an operational gate test, distinguishing analyst impressions of a new model from measured safety.
+- Updated [[The Artificial State]] — added the DC appeals ruling and its separate-case boundary, plus Levy's historical counterargument.
+- Updated [[Cognitive Surrender]] — added the adult-only Muse design/privacy tension without claiming measured youth uptake or a causal mascot effect.
+- Updated [[Export Controls and the Jailbreak Fallacy]] — clarified that Pentagon supply-chain designation and June export licensing are separate legal levers.
+- Updated [[05-Source-Library/Articles]] — Pass 52; appended five structured records to `sources/sources.jsonl`.
+- Updated [[Home]] — new digest navigation, recent update row, and recalculated staleness buckets from Git history.
+- Recommended, not created: Optionality Decision Gate; Permission Before Affection; AI Procurement Law Map. All five accepted sources are cited in the digest and source library. No student data used.

@@ -27,6 +27,12 @@ Pacing, coordination, evaluation, and the liberal order all presuppose the state
 - [[AI and Inequality]] — states are the redistributive layer; stateless orders concentrate.
 - [[Creativity]] — the Odyssey anecdote is the slop critique in miniature.
 
+## A Court-Defined Boundary, Not a General Ban (2026-09-26)
+
+[WIRED reports](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/) that a divided DC appeals panel on September 25 left **one Pentagon supply-chain-risk designation** of Anthropic in place, while a separate designation had been rejected by a San Francisco federal judge. The majority treated Anthropic's model-use restrictions as a covered contracting risk and rejected the firm's due-process and speech challenges; Anthropic may appeal. This is not a judicial finding that Anthropic's models are unsafe for all users, nor does it resolve the distinct Fable/Mythos export-control dispute described in [[Export Controls and the Jailbreak Fallacy]].
+
+The case tests the page's institutional thesis more sharply than another anti-state slogan: government can exercise consequential procurement power *through* courts and contract terms, with contested rights and uneven outcomes across statutes. The democratic question is whether the rule, evidence, remedy, and appeal route are legible to those affected—not whether a company or a state can simply declare itself the final authority. Steven Levy's [historical argument in WIRED](https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/) resists the claim that Silicon Valley was always purely military or purely idealist; his recollections and interviews are interpretation, not a quantitative history of defense funding. **Why this matters:** agency requires institutions capable of restraining both private and public concentrations of power. See [[Balanced Governance]] and [[Pacing the Frontier]].
+
 ## Related Pages
 
 - [[Government and Civic Life]]

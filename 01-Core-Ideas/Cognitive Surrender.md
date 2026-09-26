@@ -208,6 +208,12 @@ The oversight literature on this page has treated the human in the loop as a res
 
 → Sources: [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642), [Confidently Wrong, Silently So](https://arxiv.org/abs/2608.23663)
 
+## Cute Interface, Serious Permission (2026-09-26)
+
+[WIRED's September 26 reporting on Meta Muse](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/) surfaces an interface mismatch: an adults-only personal agent has a childlike mascot and a planned Tamagotchi-style device. Youth advocates worry about attraction to minors; Meta says it asks for birth dates, blocks detected under-18 accounts, and runs additional checks. The article does **not** show how many children use Muse or that the mascot was designed to target them. It does report a concrete permission issue for adults: Meta trains on Muse interactions unless the user opts out; a planned confidential-VM option is not yet a deployed remedy.
+
+This extends surrender beyond answer acceptance to *permission acceptance*: affection and ease may lower the perceived need to inspect an agent's memory, training setting, and connector access. The evidence here is expert concern and product reporting, not a measured causal effect of cute mascots. A practical countermeasure is a pre-connection permission card: what data is read, retained, used for training, or shared; which actions require approval; how to revoke access. Test it without children's or students' data. See [[Digital Fiduciary Duty]] and [[Public Trust and AI]]. **Why this matters:** an inviting interface should not substitute for informed, reversible authorization.
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]

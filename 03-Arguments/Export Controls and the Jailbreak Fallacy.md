@@ -142,6 +142,10 @@ The Hugging Face incident postmortem gives this page's core argument its sharpes
 
 → Sources: [Stratechery — Autonomy and Innovation](https://stratechery.com/2026/autonomy-and-innovation/) (2026-08-24); arXiv 2608.25361; [[00-Daily-Digests/2026-08-27]]
 
+## Distinguish the Legal Levers (2026-09-26)
+
+The September 25 [DC appeals decision reported by WIRED](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/) addresses **one of two Pentagon supply-chain designations**, not the June export-control directive at the heart of this page. The majority allowed the Pentagon to exclude Anthropic from its supply chain over model-use restrictions; a separate designation was rejected in a San Francisco proceeding, and appeals remain possible. This decision does not prove the June jailbreak rationale or settle the scope of export authority. Keep procurement exclusion, export licensing, and model release/access tiers on separate timelines when evaluating who lost access and why. See [[The Artificial State]] and [[Balanced Governance]].
+
 ## Related Pages
 - [[Balanced Governance]] — comprehensive governance analysis including The Export Governance Shock section
 - [[Strongest AI Risk Arguments]] — what actual AI risk looks like

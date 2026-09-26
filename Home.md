@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-09-26|Daily AI Agency Digest — 2026-09-26]] (Optionality Needs a Decision Gate)
 → [[00-Daily-Digests/2026-09-25|Daily AI Agency Digest — 2026-09-25]] (The Evidence Contract)
 → [[00-Daily-Digests/2026-09-24|Daily AI Agency Digest — 2026-09-24]] (The Externality Ledger)
 → [[00-Daily-Digests/2026-09-23|Daily AI Agency Digest — 2026-09-23]] (The Delegation Boundary)
@@ -69,6 +70,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-26 | Pacing the Frontier, The Artificial State, Cognitive Surrender, Export Controls and the Jailbreak Fallacy, Articles — Pass 52, 00-Daily-Digests/2026-09-26, Home |
 | 2026-09-25 | Co-Intelligence, Strongest AI Risk Arguments, AI Tutors, AI Field Experiment Evidence, Articles — Pass 51, Papers — Pass 39, 00-Daily-Digests/2026-09-25, Home |
 | 2026-09-24 | Deployment Wall, Positive Alignment, AI and Human Flourishing, Education, Articles — Pass 50, Papers — Pass 38, 00-Daily-Digests/2026-09-24, Home |
 | 2026-09-23 | Government and Civic Life, Creativity, AI Use Case Evaluation Rubric, AI Tutor Evaluation Checklist, Articles — Pass 49, Papers — Pass 37, 00-Daily-Digests/2026-09-23, Home |
@@ -189,15 +191,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. Counts cover 81 durable content pages in Core Ideas, Domains, Arguments, Use Cases, and Frameworks (excluding section README files). Computed on 2026-09-25 from each page's last Git commit date, with today's four edited pages counted as refreshed; the long tail remains substantial.
+Pages that need curator attention. Counts cover 81 durable content pages in Core Ideas, Domains, Arguments, Use Cases, and Frameworks (excluding section README files). Computed on 2026-09-26 from each page's last Git commit date, counting today's four edited pages as refreshed; the long tail remains substantial.
 
-**Pages not updated in 7+ days (crossed threshold):**
+**Staleness by days since last edit:**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | 52 content pages | The Artificial State and Reasoning Trace Theft (45 days); The Expression Gap (42) |
-| 5–7 days | 9 content pages | Pages crossing the threshold since the previous run; review by topic relevance |
-| < 5 days | 20 content pages | Co-Intelligence, Strongest AI Risk Arguments, AI Tutors, AI Field Experiment Evidence (refreshed 09-25) |
+| 8+ days | 50 content pages | Reasoning Trace Theft (46 days); The Expression Gap and Agentic Business Transformation (43) |
+| 5–7 days | 11 content pages | Work, Practical AI, Entrepreneurship, and AI Writing Partners (7) |
+| < 5 days | 20 content pages | Pacing the Frontier, The Artificial State, Cognitive Surrender, Export Controls and the Jailbreak Fallacy (refreshed 09-26) |
 
 ---
 
@@ -205,7 +207,7 @@ Pages that need curator attention. Counts cover 81 durable content pages in Core
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-25|Today's Digest]] · [[00-Daily-Digests/2026-09-24|Previous Digest]]
+- [[00-Daily-Digests/2026-09-26|Today's Digest]] · [[00-Daily-Digests/2026-09-25|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags
