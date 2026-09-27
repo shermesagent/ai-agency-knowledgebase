@@ -63,6 +63,12 @@ The Fable 5 / Mythos 5 release crystallizes a framework for evaluating any AI as
 
 Most current AI assistants fall in the right column. The Digital Apprentice pattern operationalizes the left. The gap between them is the access architecture challenge.
 
+## Two Agent Interfaces, Two Handoffs (2026-09-27)
+
+WIRED's [hands-on Instinct account](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/) describes a text-message assistant that proactively suggests tasks and successfully rearranged a trip, but also canceled a food order against a refund condition. A separate [report on Google's Call for Me beta](https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/) describes business calls with agent self-introduction, live transcript, and user takeover on eligible Pixel 11 devices in the US. The phone feature is a beta announcement, **not** evidence of reliable handling across accents, noise, or uncooperative businesses.
+
+The practical distinction is *handoff visibility*: a transcript and takeover help the principal see a live conversation; neither guarantees that a reservation, purchase, or cancellation is correct. For an assistant deployment, require a four-step action card: task scope, proposed external action, explicit condition (for example, refundable only), and receipt plus recovery route. On a school-district account, test this with public information and no student or personnel data; live connectors and outbound calls need separate approval. See [[Digital Fiduciary Duty]] and [[Human Review Checkpoints]].
+
 ## Risks / Limits
 - **Opaque capability caps:** Users cannot evaluate what an assistant can and can't do when capability limitations are not disclosed. This erodes trust and prevents informed adoption decisions.
 - **Vendor dependence:** The more an executive relies on a specific AI assistant, the more switching costs accumulate — especially when capability is tiered across providers.

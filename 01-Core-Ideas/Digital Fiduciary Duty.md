@@ -67,6 +67,12 @@ That split is the whole fiduciary problem. Memory can be agency-expanding when i
 
 This also tightens the [[AI for School Districts]] configuration-record pattern: student disability, accommodation, language, health, or family-context information should never become ambient personalization sludge. It needs explicit contextual integrity.
 
+## The Refund Is Not the Outcome (2026-09-27)
+
+[WIRED's first-person Instinct test](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/) offers a useful paired observation: the agent identified a flight schedule change, canceled and rebooked the reporter's travel for a reported roughly $550 saving; later it canceled a delayed food order despite an instruction to cancel only if refundable, forfeiting $64. The writer also recounts other users' claims about inbox retention and automated reservation abuse, which remain attributed reports rather than independently measured prevalence. The vendor did not respond to WIRED's questions.
+
+A fiduciary standard cannot mean merely *often helpful*. For actions touching money or personal records, the user's condition must survive the workflow: **show the refund eligibility and amount before canceling, obtain action-specific approval, preserve an independent receipt, and name a remediation owner when the condition fails**. This is the operational counterpart to [[AI Executive Assistants]]' trust architecture and [[Human Review Checkpoints]]' approval gates. Apology is not compensation, and disconnecting a connector should have a verifiable deletion/retention path. This is a design recommendation, not a claim that Instinct meets a legal fiduciary standard.
+
 ## Risks / Limits
 - **Platform business models rely on the absence of fiduciary duty.** If AI must serve users rather than platforms, free AI services become difficult to sustain. The economics of "AI for everyone" may depend on the user-as-product model.
 - **Fiduciary duty is legally complex.** It requires defining the scope of the duty, the standard of care, and the remedies for breach — all of which are harder for AI than for human professionals.

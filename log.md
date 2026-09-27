@@ -2138,3 +2138,10 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[05-Source-Library/Articles]] — Pass 52; appended five structured records to `sources/sources.jsonl`.
 - Updated [[Home]] — new digest navigation, recent update row, and recalculated staleness buckets from Git history.
 - Recommended, not created: Optionality Decision Gate; Permission Before Affection; AI Procurement Law Map. All five accepted sources are cited in the digest and source library. No student data used.
+
+## [2026-09-27] update | The Conditional-Action Test — permissions, handoffs, and external costs
+
+- Created [[00-Daily-Digests/2026-09-27]] with five publisher-verified non-paper sources: WIRED on Instinct's successful travel refund and failed conditional cancellation; WIRED on Google's call beta; Stratechery's public aggregator roundup; Zvi's interpretation of Jensen Huang's safety remarks; and WIRED on the data-center climate/local-impact split. `web_search` returned empty for three distinct queries; direct publisher RSS and article pages provided verification. No Sunday arXiv polling.
+- Updated [[Compute and Agency]] with separate local and system-wide climate/siting ledgers; [[Digital Fiduciary Duty]] with the conditional-refund failure and remediation requirement; [[AI Executive Assistants]] with live handoff vs. outcome verification. These are design interpretations, not new deployment performance estimates.
+- Updated [[05-Source-Library/Articles]] with Pass 53 and appended five rich records to `sources/sources.jsonl`; updated [[Home]] navigation and recent activity. Recommended, not created: Conditional-Action Card, Agent-to-Business Etiquette, and Two-Ledger Siting Review.
+- Sunday maintenance: five new JSONL IDs and URLs are unique; five older URL duplicates persist (May–September records). Baseline link scan reports legacy broken links, while today's added links and tags were checked. No student or personnel data used. No email sent (separate job).

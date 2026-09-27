@@ -100,6 +100,12 @@ The agency frame is simple: whoever controls compute controls capability, but wh
 
 **Source:** [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/), MIT Technology Review / ON.energy sponsored content, 2026-09-10.
 
+## Local Siting Is Not the Whole Climate Ledger (2026-09-27)
+
+Molly Taft's [WIRED reporting](https://www.wired.com/story/data-center-backlash-climate-reckoning/) separates two legitimate objections that a single data-center talking point can collapse: neighbors cite water use, power prices, and local impacts; climate campaigners emphasize emissions from the broader energy buildout. At a Climate Week panel, data-center executives defended potential local tax and grid benefits while protesters objected to gas dependence. Taft cites BloombergNEF projections for electricity demand and *proposed* on-site gas plants; those are scenarios, not measured emissions from completed projects.
+
+**Agency implication:** permit hearings should publish both a local ledger (water, rates, land, jobs, fault behavior) and a system ledger (fuel mix, additional generation, emissions over the project's life). A developer's claim of being a good grid citizen does not answer the climate question; a climate projection alone does not settle local distribution. The accountable unit is the project plus its energy contract, not a generic promise about AI's benefits. See [[AI Enclosure]] for who absorbs capital risk and [[Public Trust and AI]] for why transparent tradeoffs matter more than messaging.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]
