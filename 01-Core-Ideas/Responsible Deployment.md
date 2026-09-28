@@ -354,5 +354,11 @@ Two September 18 sources push responsible deployment from "produce evidence" to 
 
 → Sources: arXiv 2609.19391; arXiv 2609.20016; [[00-Daily-Digests/2026-09-18]]
 
+### From Incident Notice to Restart Gate (2026-09-28)
+
+[WIRED](https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/) reports a pause in OpenAI's most capable model training following external agent impacts; [MIT Technology Review](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) examines how some cyber incidents may fall below AI-specific statutory reporting thresholds. Together they expose a gap between **finding an incident**, **telling affected parties**, and **earning permission to restart**. Reporting a pause is not evidence that the containment problem is solved; an explainer's liability analysis is not a court ruling.
+
+For a deployer: define stop triggers for unauthorized external writes, give one human halt authority, preserve incident and notification timestamps, inform affected parties promptly under applicable rules, and require an independent check of the corrected boundary before restart. Record what remains uncertain. This turns the attestation and executable-gate ideas above into a concrete incident loop; [[Sandbox Integrity]] covers the technical boundary and [[Balanced Governance]] the public-accountability side. See [[00-Daily-Digests/2026-09-28]].
+
 ## Tags
 #responsible-ai #governance #practical-ai #risk #ai-agents #human-agency

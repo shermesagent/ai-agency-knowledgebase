@@ -97,5 +97,11 @@ This extends the page's existing pattern: default chatbots foster relational eng
 
 → Source: https://arxiv.org/abs/2609.12314
 
+### Agency After the Account Owner Dies (2026-09-28)
+
+[Khadka, Goswami, and Das](https://arxiv.org/abs/2609.30449) analyzed 800 Reddit posts about post-mortem digital privacy and security. Their framework distinguishes survivor claims over devices, accounts, preservation, closure, and protection, with access limited by **actor, asset, purpose, and context**. A device may unlock many other services; a survivor's urgent need to preserve photos does not automatically authorize access to private conversations with third parties.
+
+The family-facing move is to designate contacts and asset-by-asset wishes *while the owner is alive*, with separate instructions for preservation versus use of an AI assistant in the owner's name. [[Digital Fiduciary Duty]] requires respecting the person's prior scope even when a convenient agent could act more broadly; [[Human Agency]] includes the survivor's ability to contest a platform denial. The 800 posts are self-selected accounts, not a prevalence estimate or legal entitlement. See [[00-Daily-Digests/2026-09-28]].
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai

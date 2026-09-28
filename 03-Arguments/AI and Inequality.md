@@ -189,6 +189,12 @@ The important shift is from exposure to conversion. Exposure does not automatica
 
 → Source: arXiv 2609.21756; see [[Work]], [[Future of Work]], [[The Turing Trap]], [[00-Daily-Digests/2026-09-21]].
 
+### Cultural Flattening Is an Agency Gap (2026-09-28)
+
+[Eriksson, Vartanova, and Strimling](https://arxiv.org/abs/2609.30896) compared four LLMs' predictions about 150 everyday-norm scenarios across 90 societies to the Global Study of Everyday Norms. The models predicted between-society variation at less than half the human-measured size on average; they also sometimes got the *pattern* of variation wrong. Local-language prompting helped only modestly in the authors' tests.
+
+This adds **representation inequality** to the access ledger: even where a community can use the same model, its norms may be described less accurately, particularly if the system treats a culturally flattened answer as universal guidance. The paper reports better estimates for more developed societies, but the benchmark does not establish the error rate of every deployment or every local language. For [[Education]] and [[Government and Civic Life]], compare AI-generated cultural claims with local surveys and affected people's testimony; do not make an AI summary the voice of a community. See [[00-Daily-Digests/2026-09-28]].
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

@@ -128,6 +128,12 @@ The scientist-use study attached to ATLAS is the more important work signal: a s
 
 → Source: Google AI & Economy ATLAS, 2026-09-15; [[00-Daily-Digests/2026-09-19]]
 
+### When the Agent Joins the Org Chart (2026-09-28)
+
+[WIRED's workplace report](https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/) describes named, avatar-equipped agents embedded in ordinary communication channels. It reports a BCG poll of 1,261 managers in which 22% said agents appeared on organizational charts, and a BCG finding that managers caught 18% fewer errors when told the same work came from an AI *employee* rather than a tool. Those are reported study results, not an estimate of labor displacement or proof that avatars by themselves caused the effect.
+
+An org chart can help assign responsibility, but the agent is not a human colleague: record an accountable human owner, permitted systems, escalation contact, and sampled error-review results for every agent role. Review should not become more lenient because the system has a name. This is [[Human Review Checkpoints]] applied to social design, not merely technical output; it also sharpens [[The Turing Trap]]'s concern about confusing imitation with augmentation. See [[00-Daily-Digests/2026-09-28]].
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]
