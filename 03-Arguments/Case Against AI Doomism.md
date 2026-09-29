@@ -1,7 +1,7 @@
 ---
 title: Case Against AI Doomism
 created: 2026-05-24
-updated: 2026-09-20
+updated: 2026-09-29
 type: concept
 tags: [ai-optimism, counterarguments, risk]
 sources: [arxiv 2606.06674, arxiv 2606.06572, arxiv 2606.04075, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026]
@@ -116,6 +116,12 @@ The strongest anti-doomist position in late September is therefore **not** optim
 **Connection to [[Balanced Governance]]:** the same Q&A identifies the core governance gap: labs say they need more time to control agents, but self-regulation has a conflict-of-interest problem, and current monitoring methods are fragile. The structuralist move is to make the control evidence external, inspectable, and enforceable — exactly the opposite of both blind acceleration and bunker-core doomism.
 
 → Source: [MIT Technology Review, "Could AI really kill us all? Your questions, answered"](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/) (2026-09-18); [[00-Daily-Digests/2026-09-20]]
+
+### 10. The Accountability Test for Risk Narratives (2026-09-29)
+
+In [WIRED's interview with Timnit Gebru](https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/), Gebru argues that extinction rhetoric can crowd out current harms and serve commercial concentration. Her proposed counterweight is concrete: enforce existing rules on deceptive marketing, require data provenance and documentation, and scrutinize data-work labor. Her claims about investors' motives and regulatory capture are her interpretation, not findings established by this interview. Nor does near-term enforcement prove catastrophic risk impossible; [[Strongest AI Risk Arguments]] remains the necessary counterweight.
+
+The week's [MIT Technology Review science-discovery analysis](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) offers a parallel test of hype: separate the measurable work (candidate search) from the larger label (novel scientific mechanism). A responsible anti-doomist program therefore asks *which claim can be verified, by whom, under which law or experimental protocol?* Keep [[Balanced Governance]] anchored to enforceable near-term controls without ruling out precaution at the frontier.
 
 ## Best Supporting Sources
 

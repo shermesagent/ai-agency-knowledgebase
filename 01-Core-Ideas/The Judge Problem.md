@@ -103,6 +103,12 @@ The warning is straightforward: once model-generated reviews enter public review
 
 → Source: arXiv 2609.20942; see [[AI-Augmented Scientific Collaboration]], [[The Comprehension Bottleneck]], [[Responsible Deployment]], [[00-Daily-Digests/2026-09-21]].
 
+### Sparse Human Overlap Can Reverse a Judge Deployment Decision (2026-09-29)
+
+[Li, Mukherjee, and Pal](https://arxiv.org/abs/2609.31857) study the measurement design for validating LLM judges when human raters label only partially overlapping items. Across ten judges and four evaluation matrices, their analysis reports a **25% wrong-decision rate at 5% pairwise overlap** and a **65% probability of selecting the wrong best judge among ten**; their derived minimum-overlap formula says **at least 25%** suffices for *non-borderline* judges under their assumptions, not for all cases. An informative, zero-extra-cost stratified allocation halves false-rejection relative to random allocation in their tests. The judge can appear accurate yet be selected on a validation sample too thin to support the choice.
+
+For [[Agentic Verification]] and [[Human Review Checkpoints]], record the human-label overlap graph, stratum definitions, uncertainty intervals, and preregistered accept/reject threshold before choosing a grader. If the candidate sits near the threshold, collect more human overlap rather than treating 25% as a universal certification rule. This is a NeurIPS-accepted research result on evaluation matrices, not a district-specific validation of automated student grading.
+
 ## Related Pages
 
 - [[Agentic Verification]]

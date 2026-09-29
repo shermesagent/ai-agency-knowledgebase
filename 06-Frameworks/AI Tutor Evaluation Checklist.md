@@ -78,5 +78,11 @@ Two studies define the failure mode. "When Vocabulary Comprehension Fails Clinic
 
 For an [[AI Tutors]] pilot, document who approves the tool's content, whether it may assess or only coach, what students must do without it, what the teacher can inspect/correct, which class data can enter the system, and how errors trigger revision. This converts a generic 'teacher in the loop' promise into a testable governance profile. Pair the profile with [[Education]]'s concern about completion versus durable learning: a well-governed tutor must show learning evidence, not just clean outputs.
 
+## Add the Unaided Retest Gate (2026-09-29)
+
+[Chatbot Engagement Does Not Always Beget Metalearning](https://arxiv.org/abs/2609.32739) reports a preregistered randomized experiment in the US, India, and Singapore (~2,200 participants) on identifying out-of-context image misinformation. A Socratic chatbot improved immediate discernment most (d = 0.097, p = .023); all three intervention formats reduced false-claim sharing. On an **unaided retest one week later**, the chatbot advantage did not persist, with the chatbot arm declining relative to control. This is media-literacy evidence, **not a K–12 tutoring outcome trial**; its useful transfer is an evaluation design, not a vendor-effect estimate.
+
+Add to the [[AI Tutors]] pilot checklist: pretest; randomized or comparable alternative condition; immediate measure; **delayed, unaided measure on both seen and unseen items**; subgroup results; and an explicit decision rule for scaling. Count faster in-session corrections as assistance, not as evidence of independent skill transfer. Use public or district-approved de-identified materials in any demonstration; do not send student responses to unapproved tools. See [[AI Field Experiment Evidence]].
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

@@ -114,6 +114,14 @@ The agency-expanding version of this story is clear. AI can expand the searchabl
 
 → Sources: WIRED, "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature" (2026-09-18); MIT Technology Review, "The specter of AI-enabled bioweapons is a wake-up call for biotech" (2026-09-18); [[00-Daily-Digests/2026-09-18]]
 
+## Discovery Claims Need a Mechanism Gate (2026-09-29)
+
+[MIT Technology Review's account of Anthropic's molecular-biology lab](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) distinguishes *finding a candidate pattern* from *showing what that pattern does*. Anthropic said a 950-agent system flagged a repeating sequence around a known enzyme after 21 hours. Biologists disputed whether that constituted a discovery; another researcher said his team had already found the pattern, while Anthropic denied learning it from his conversations. The novelty and provenance claims are contested, not settled by the announcement or the criticism.
+
+**Operational test:** log the search space and human inputs, independently check prior work and data provenance, experimentally validate function, and assign credit before calling an AI result a discovery. A useful shortlist is still useful even if the stronger discovery claim fails. This is the distinction [[The Judge Problem]] and [[AI Research Agents]] need to preserve: throughput is not evidence of mechanism.
+
+The [Working with AI design framework](https://arxiv.org/abs/2609.31793) (Lu et al., 2026, white paper) widens that gate beyond the model and task: human roles, organizational incentives, and the wider social environment affect whether a human-AI workflow works at all. Its collaborative-assembly cobot case demonstrates a proposed design method, not evidence that this method improves scientific discovery. Use the five-context map to ask who specifies novelty, who runs the experiment, who challenges credit, and who bears the cost of a mistaken claim.
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]
