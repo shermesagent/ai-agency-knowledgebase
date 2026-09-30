@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-09-30|Daily AI Agency Digest — 2026-09-30]] (The Usable-Authority Test)
 → [[00-Daily-Digests/2026-09-29|Daily AI Agency Digest — 2026-09-29]] (The Transfer-and-Claim Gate)
 → [[00-Daily-Digests/2026-09-28|Daily AI Agency Digest — 2026-09-28]] (The Incident-to-Authority Gap)
 → [[00-Daily-Digests/2026-09-27|Daily AI Agency Digest — 2026-09-27]] (The Conditional-Action Test)
@@ -73,6 +74,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-09-30 | AI for School Districts, Adoption Readiness Checklist, Balanced Governance, Education, Articles — Pass 56, Papers — Pass 42, 00-Daily-Digests/2026-09-30, Home |
 | 2026-09-29 | AI-Augmented Scientific Collaboration, Case Against AI Doomism, AI Tutor Evaluation Checklist, The Judge Problem, Articles — Pass 55, Papers — Pass 41, 00-Daily-Digests/2026-09-29, Home |
 | 2026-09-28 | Sandbox Integrity, Responsible Deployment, Work, Family and Personal Life, AI and Inequality, Articles — Pass 54, Papers — Pass 40, 00-Daily-Digests/2026-09-28, Home |
 | 2026-09-27 | Compute and Agency, Digital Fiduciary Duty, AI Executive Assistants, Articles — Pass 53, 00-Daily-Digests/2026-09-27, Home |
@@ -197,15 +199,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. Counts cover 81 durable content pages in Core Ideas, Domains, Arguments, Use Cases, and Frameworks (excluding section README files). Computed on 2026-09-29 from last Git commit dates, treating today's four edited durable pages as refreshed.
+Pages that need curator attention. Counts cover 82 reader pages in the section inventory used by `compute-staleness.py`. Computed on 2026-09-30 from last Git commit dates, treating today's four edited durable pages as refreshed.
 
 **Staleness by days since last edit:**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | 51 content pages | Reasoning Trace Theft (49 days); The Expression Gap and Agentic Business Transformation (46) |
-| 5–7 days | 10 content pages | Public Trust and AI and Balanced Governance (7); Government and Civic Life (6) |
-| < 5 days | 20 content pages | AI-Augmented Scientific Collaboration, Case Against AI Doomism, AI Tutor Evaluation Checklist, The Judge Problem (refreshed 09-29) |
+| 8+ days | 52 reader pages | Reasoning Trace Theft (50 days); The Expression Gap and Agentic Business Transformation (47) |
+| 5–7 days | 10 reader pages | AI Use Case Evaluation Rubric and Government and Civic Life (7); Deployment Wall (6) |
+| < 5 days | 20 reader pages | AI for School Districts, Adoption Readiness Checklist, Balanced Governance, Education (refreshed 09-30) |
 
 ---
 
@@ -213,7 +215,7 @@ Pages that need curator attention. Counts cover 81 durable content pages in Core
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-29|Today's Digest]] · [[00-Daily-Digests/2026-09-28|Previous Digest]]
+- [[00-Daily-Digests/2026-09-30|Today's Digest]] · [[00-Daily-Digests/2026-09-29|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

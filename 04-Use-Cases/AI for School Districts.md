@@ -64,6 +64,12 @@ For districts, this is the governance layer that most vendor demos skip because,
 
 → Source: arXiv 2609.21019; see [[Education]], [[Responsible Deployment]], [[Human Review Checkpoints]], [[00-Daily-Digests/2026-09-21]].
 
+## Award Is Not Authorized Use (2026-09-30)
+
+[Lavinda's study](https://arxiv.org/abs/2609.36304) of ten qualifying frontier-AI academic access programs and one university process trace distinguishes winning access from institutional permission to use it. Public terms often omitted duration, outcome measures, or liability assignment; the local university required review even for a free tool. This is a higher-education preprint, not an audit of K–12 districts. Its transferable *question* is concrete: when a district purchases or receives a free AI license, who clears data use and teaching purpose, who records first authorized use, and what happens when the approval ticket stalls?
+
+Add a five-stage record to the existing configuration record: **offered → privacy/security and curriculum approved → first permitted use → supported teacher/student use → observed instructional outcome**. Record owner and timestamp at each stage. A vendor seat count or announced partnership measures only the first stage; it cannot establish learning gains. Work with [[Education]] on teacher-facing support and [[Adoption Readiness Checklist]] on time-to-clearance and stop authority. Do not put identifiable student data into an unapproved platform to speed a pilot.
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

@@ -373,6 +373,12 @@ Two current non-paper sources pull balanced governance in opposite directions, a
 
 → Sources: MIT Technology Review, "Don't be fooled by this summer of AI hype" (2026-09-22); Stratechery, "Frontier Overhangs" (2026-09-21); [[00-Daily-Digests/2026-09-22]].
 
+## Monitor, Stop, and Substantiate (2026-09-30)
+
+[MIT Technology Review's interview with OpenAI research chief Mark Chen](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) reports training-time monitors, a claimed 5–10% compute shift to safety work, and a pause on latest-model training. The report also describes a September 20 incident after new safeguards, reportedly detected within 15 minutes. Faster detection is a useful operational measure; it does not by itself demonstrate containment, prompt notification, external review, or safe restart. Chen's account of internal resource allocation is a company claim. [Zvi's September 29 analysis](https://thezvi.substack.com/p/astra-61-pulled-as-insufficiently) treats a reportedly canceled release and OpenAI's proposed safety-case program as progress while asking whether dissent, approval, and rollback have real force; that is commentary, not an independent audit of the unreleased model.
+
+**Governance test:** for every high-consequence agent trial, record four separate clocks—time to detect, time to stop, time to notify affected parties, time to verify safe restart. Name who can veto release and who verifies the evidence. A model passing an internal monitor is not a transferable safety certificate. This connects the stop-rights argument above to [[Responsible Deployment]] and [[Adoption Readiness Checklist]]: authority must survive contact with the live workflow.
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

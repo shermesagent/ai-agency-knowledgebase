@@ -98,6 +98,12 @@ Before adopting an agentic or analytical AI tool, answer these five questions:
 
 **Evidence readiness threshold:** If the system cannot produce independently checkable evidence for its most consequential actions, keep it in assistant mode. Do not grant higher autonomy until the evidence interface exists.
 
+## The Usable-Authority Gate (2026-09-30)
+
+An access award is not approval: a [public-program and one-university process study](https://arxiv.org/abs/2609.36304) found missing terms for duration, metrics, and liability alongside a local review requirement even for free tools. Before declaring an AI pilot ready, record five separate states: **entitlement; institutional clearance; first authorized use; supported use; observed benefit**. For each, name an owner, required evidence, and timestamp. If a clearance request is unresolved, keep the use case in the planning column rather than silently treating the license as deployed. This operationalizes the authority-paralysis check without bypassing privacy or research review.
+
+For student-facing systems, add a second gate: an automated misuse flag is *not* a disciplinary decision. [Argus](https://arxiv.org/abs/2609.36073) flags patterns in college programming assignments and explicitly raises false-positive review; the reported association with lower proctored exam scores cannot establish individual misconduct. Require inspectable evidence, a trained human reviewer, an opportunity for the student to respond, and appeal before any consequence. This is a process recommendation, not a validated K–12 detector. See [[AI for School Districts]], [[Balanced Governance]], and [[Human Review Checkpoints]].
+
 ## Quick Adoption Readiness Scorecard
 
 | Dimension | Check | Score (1-5) |
@@ -113,6 +119,7 @@ Before adopting an agentic or analytical AI tool, answer these five questions:
 | Guardrail Readiness | Human review checkpoints, escalation paths, override capability | |
 | Measurement Readiness | Success metrics, failure metrics, monitoring plan | |
 | Evidence Interface | Independent artifacts, permissions, untested areas, and verification traces | |
+| Usable Authority | Clearance owner, first-use timestamp, and appeal/stop pathway documented | |
 
 **Adoption readiness threshold:** All dimensions ≥ 3. Any dimension at 1-2 requires remediation before deployment.
 
