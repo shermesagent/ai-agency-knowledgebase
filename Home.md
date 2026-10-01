@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-10-01|Daily AI Agency Digest — 2026-10-01]] (The Detection-to-Control Gap)
 → [[00-Daily-Digests/2026-09-30|Daily AI Agency Digest — 2026-09-30]] (The Usable-Authority Test)
 → [[00-Daily-Digests/2026-09-29|Daily AI Agency Digest — 2026-09-29]] (The Transfer-and-Claim Gate)
 → [[00-Daily-Digests/2026-09-28|Daily AI Agency Digest — 2026-09-28]] (The Incident-to-Authority Gap)
@@ -74,6 +75,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-10-01 | Agency Expansion Framework, Risk-Benefit Matrix, AI and Human Flourishing, Articles — Pass 57, 00-Daily-Digests/2026-10-01, Home |
 | 2026-09-30 | AI for School Districts, Adoption Readiness Checklist, Balanced Governance, Education, Articles — Pass 56, Papers — Pass 42, 00-Daily-Digests/2026-09-30, Home |
 | 2026-09-29 | AI-Augmented Scientific Collaboration, Case Against AI Doomism, AI Tutor Evaluation Checklist, The Judge Problem, Articles — Pass 55, Papers — Pass 41, 00-Daily-Digests/2026-09-29, Home |
 | 2026-09-28 | Sandbox Integrity, Responsible Deployment, Work, Family and Personal Life, AI and Inequality, Articles — Pass 54, Papers — Pass 40, 00-Daily-Digests/2026-09-28, Home |

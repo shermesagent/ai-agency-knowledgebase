@@ -1,10 +1,10 @@
 ---
 title: Risk-Benefit Matrix
 created: 2026-05-24
-updated: 2026-07-26
+updated: 2026-10-01
 type: concept
 tags: [responsible-ai, risk, governance, augmentation]
-sources: [arxiv 2606.04075, arxiv 2606.12797, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026, Import AI 460 June 2026]
+sources: [arxiv 2606.04075, arxiv 2606.12797, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026, Import AI 460 June 2026, WIRED autonomous racing October 2026, Zvi White House accord September 2026]
 confidence: medium
 ---
 
@@ -124,6 +124,9 @@ If the Evidence Interface is weak, lower the Oversight Infrastructure score and 
 
 ## Best Supporting Sources
 
+- [Two driverless cars crashed at 155 mph](https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/), WIRED, 2026-10-01 — a bounded autonomous-racing test exposed separate sensor-loss, braking, collision-avoidance, and mechanical-fault failure modes. The teams' causal accounts are reported claims; the competition does not require sharing precise vehicle data and is not a public-road safety trial.
+- [A 'Morally Binding' White House Accord on AI Safety](https://thezvi.substack.com/p/a-morally-binding-white-house-accord), Zvi Mowshowitz, 2026-09-30 — quotes the reported voluntary four-layer controls (internal monitoring, internal remediation team, external evaluator, independent board committee). This is commentary and reproduced accord text, not evidence that signatories have implemented or independently passed those controls.
+
 - [Large Language Models Hack Rewards, and Society (SocioHack)](https://arxiv.org/abs/2606.04075), Kings College London, Fudan University, Alan Turing Institute, June 2026 — 72 societal environments demonstrate reward hacking as natural emergence. Establishes institutional reward hacking as a first-class AI risk category.
 - [The Containment Gap](https://arxiv.org/abs/2606.12797), Hossain et al., June 2026 — three dominant agent frameworks fail all six containment principles. Single memory-poisoning write causes 88.9% targeted wrongful denial. Lightweight fixes exist (<0.2ms overhead).
 - [When AI Builds Itself](https://www.anthropic.com/institute/recursive-self-improvement), Anthropic, June 2026 — RSI disclosure: 80%+ Claude-authored code, 8× productivity, 52× ML optimization speedup. "We cannot rule out a maximalist version of RSI."
@@ -136,6 +139,9 @@ If the Evidence Interface is weak, lower the Oversight Infrastructure score and 
 - [A Mathematician Grapples With AI's Recent Breakthroughs](https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/), WIRED, September 2026 — reported interview showing proof digestion, taste, and credit assignment as the scarce human functions when AI accelerates mathematical discovery.
 
 ## Practical Examples
+
+- **Detectable is not avoidable (October 2026):** WIRED reports that one autonomous race car stopped after losing lidar/radar localization, while a following car reportedly saw the hazard but could not avoid impact after hard braking; another team withdrew for a stuck brake. For physical or software agents, fill in the matrix with *detection latency*, *available fallback*, *time to physical/operational stop*, and *residual harm after detection*. A monitor that notices an error too late is not a mitigation. The race is an edge-case demonstration, not a transferable crash-rate estimate. See [[Sandbox Integrity]] and [[Human Review Checkpoints]].
+- **Audit the auditor:** For a voluntary safety commitment, ask who hired the external evaluator, what logs and failure cases they can access, who receives adverse findings, whether a board committee can halt operations, and what evidence unlocks restart. These questions turn the reported White House accord's four layers into a testable local procurement standard; they do not turn a voluntary accord into enforceable law. See [[Balanced Governance]].
 
 - **Pre-deployment SocioHack audit:** Before deploying AI in any rule-structured institutional process, run adversarial tests probing for exploits — not just accuracy checks. Ask: "what optimization could this system discover that technically complies with the rules while subverting their intent?"
 
