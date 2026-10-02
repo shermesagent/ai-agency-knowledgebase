@@ -97,5 +97,10 @@ The Hugging Face incident postmortem (OpenAI + METR, 08-26) adds a sixth debt ca
 - [[AI Coding Agents]]
 - [[Cognitive Surrender]]
 
+## Authority-to-Effect Debt (2026-10-02)
+[Praxa's author-run engineering preprint](https://arxiv.org/abs/2610.00015) distinguishes proposal, authorization, dispatch, external effect verified by read-back, and reviewed promotion. Its 12-task Terminal-Bench pilot gave the baseline and reliability-layer arms the same 17/36 strict passes, with higher token use for the reliability layer. A later development comparison reported lower tokens and estimated cost with equal measured accuracy, but does **not** establish quality, latency, security, or production benefit. Correct spelling and attribution: Praxa, Stefan G. Creadore (arXiv:2610.00015).
+
+This adds a concrete debt item: workflows that log a successful tool call as a successful *outcome* accumulate unverified external-effect debt. For a reversible test, log five timestamps/states: proposed → approved → dispatched → exact target read back → human acceptance; mark missing read-back as **unverified**, never as done. Pair this with [[AI Coding Agents]]' local-app trust boundary and [[Agentic Verification]]'s independent checks. A unit-test pass or agent self-report cannot clear the debt by itself.
+
 ## Tags
 #ai-agents #governance #responsible-ai #future-of-work #risk

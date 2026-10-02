@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-10-02|Daily AI Agency Digest — 2026-10-02]] (The Authority-to-Effect Gap)
 → [[00-Daily-Digests/2026-10-01|Daily AI Agency Digest — 2026-10-01]] (The Detection-to-Control Gap)
 → [[00-Daily-Digests/2026-09-30|Daily AI Agency Digest — 2026-09-30]] (The Usable-Authority Test)
 → [[00-Daily-Digests/2026-09-29|Daily AI Agency Digest — 2026-09-29]] (The Transfer-and-Claim Gate)
@@ -75,6 +76,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-10-02 | AI Coding Agents, Agentic Technical Debt, AI Field Experiment Evidence, Articles — Pass 58, Papers — Pass 43, 00-Daily-Digests/2026-10-02, Home |
 | 2026-10-01 | Agency Expansion Framework, Risk-Benefit Matrix, AI and Human Flourishing, Articles — Pass 57, 00-Daily-Digests/2026-10-01, Home |
 | 2026-09-30 | AI for School Districts, Adoption Readiness Checklist, Balanced Governance, Education, Articles — Pass 56, Papers — Pass 42, 00-Daily-Digests/2026-09-30, Home |
 | 2026-09-29 | AI-Augmented Scientific Collaboration, Case Against AI Doomism, AI Tutor Evaluation Checklist, The Judge Problem, Articles — Pass 55, Papers — Pass 41, 00-Daily-Digests/2026-09-29, Home |
@@ -217,7 +219,7 @@ Pages that need curator attention. Counts cover 82 reader pages in the section i
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-09-30|Today's Digest]] · [[00-Daily-Digests/2026-09-29|Previous Digest]]
+- [[00-Daily-Digests/2026-10-02|Today's Digest]] · [[00-Daily-Digests/2026-10-01|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

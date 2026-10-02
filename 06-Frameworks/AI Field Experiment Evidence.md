@@ -59,5 +59,10 @@ Two sources expand the field-experiment frame beyond solo-model outcomes. "AI Ev
 
 This is a measurement design lesson for [[AI Tutors]] and [[Agentic Verification]]: a flagging system that overwhelms reviewers with false alarms consumes the attention needed to find consequential failures. Before scaling an educational AI pilot, track reviewer time, confirmed precision, and recall on an independently reviewed, privacy-safe local sample; keep severe-case checks separate. Do not translate a cleaner alert queue into a claim that students learned more.
 
+## Assisted Performance Is Not Retained Capability (2026-10-02)
+[Welsch's two preregistered simulated-factory experiments](https://arxiv.org/abs/2610.00163) (N=200 and N=198) separate immediate outcomes from what users can do after an LLM advisor leaves. Participants with AI reported more confidence and understanding at lower effort; the first study improved company value but found no detectable prediction-accuracy difference. After withdrawal, an advantage depended on the comparator (repeating prior choices, not default settings). In the second study, fewer assisted participants went bankrupt; a small registered knowledge advantage was largely tied to remaining solvent. Within assisted groups, *altering* recommendations more often predicted stronger later unaided performance or knowledge; that association is not proof that altering advice causes learning.
+
+**Pilot design:** predeclare three distinct outcomes—task result while assisted, explanation/prediction quality, and delayed unaided performance—with the same baseline and a fair comparator for each. Record when a participant challenges or changes the AI recommendation. This turns [[Cognitive Surrender]] and [[AI Coding Agents]] from intuitions into testable transfer questions. Simulation results do not establish K–12 classroom effects or production productivity gains.
+
 ## Tags
 #research #practical-ai #augmentation #responsible-ai

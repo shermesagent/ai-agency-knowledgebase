@@ -119,5 +119,10 @@ This is the missing half of the oversight problem this page has documented all s
 - [[Entry-Level Work Crisis]]
 - [[Agentic Technical Debt]]
 
+## The Local-App Trust Boundary (2026-10-02)
+[WIRED's report on the patched ChatGPT macOS flaw](https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/) describes Objective-See researchers' finding: a trusted script interpreter could relay an untrusted script into the app despite layered process-signature checks. The researchers say a local attacker could potentially reach chat logs, browser sessions, or app actions; OpenAI acknowledged a fix on September 25. This is a reported vulnerability and proof of concept, **not** evidence that users were breached.
+
+For a coding agent, authorization has two boundaries: what the *model* may request and which *local processes* may impersonate the application or its tools. A prompt-level approval gate does not protect against a compromised trusted component. Pilot agents with separate, short-lived credentials; keep sensitive browser sessions and production tokens outside the agent environment; and verify patched versions before granting connectors. This operationalizes [[Agentic Technical Debt]] and [[Human Review Checkpoints]] without pretending human code review can detect process-boundary exploits.
+
 ## Tags
 #ai-agents #augmentation #practical-ai #tools
