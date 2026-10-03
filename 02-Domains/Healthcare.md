@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-09-20
+updated: 2026-10-03
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -170,6 +170,12 @@ Concrete signals worth tracking:
 **Reading for this page:** healthcare AI is strongest when it widens the net and weakest when it pretends the net is the clinician. Population screening, genomics, and wearable detection expand agency only when paired with evidence thresholds, follow-up capacity, privacy protections, and human accountability. Otherwise, early detection becomes early anxiety at scale. This reinforces the page's standing architecture: AI handles recall, pattern-finding, and scalable monitoring; clinicians and health systems price the misses, manage the downstream burden, and decide what action is warranted.
 
 → Source: [Google, "Building AI to accelerate science and improve lives"](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) (2026-09-15); [[00-Daily-Digests/2026-09-20]]
+
+### Scheduling Is a Clinical Input, Not Just an Administrative Saving (2026-10-03)
+
+[WIRED's reporting on HCA's Timpani scheduling system](https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/) places a neglected workflow inside the clinical safety boundary. Nurses interviewed describe unwanted consecutive shifts, thin experience mix and a centralized appeal path that reportedly replaced some local edits. HCA says nursing leaders retain final decisions and cites reduced scheduling hours, reduced contract staffing and improved retention. The nurses' allegations of patient harm have **not** been established as a causal outcome study; the competing accounts need independent staffing and safety data.
+
+An evaluation should compare requested versus assigned shifts, protected-day exceptions, skill mix by shift, fatigue indicators, appeal time and changes made after appeal, alongside patient outcomes. A nominal human final decision means little if the person who knows the ward cannot correct the schedule before it takes effect. This extends [[Human Review Checkpoints]] from clinical recommendations to the staffing infrastructure that determines whether care is possible. No individual patient or employee records belong in an exploratory AI pilot; use de-identified aggregate measures and labor consultation. **Why it matters:** administrative efficiency is an agency gain only if caregivers still have a usable correction path.
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents

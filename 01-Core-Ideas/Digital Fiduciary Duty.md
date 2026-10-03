@@ -100,5 +100,11 @@ SocialRL (2608.13787) tests principal-driven tasks — scheduling, offers, haggl
 
 → Source: [From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL](https://arxiv.org/abs/2608.13787) — arXiv, 2026-08-17 ([[00-Daily-Digests/2026-08-17]])
 
+## Relationship Memory Needs Third-Party Boundaries (2026-10-03)
+
+[WIRED's examination of extracted Muse instructions](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) describes an hourly process for building person-by-person relationship pages from available information. Meta says each user's data sit in an isolated virtual machine, users can wipe memories and disconnect services, and significant actions require confirmation with an audit trail. These are reported design features and company claims, not an independent audit of deletion, inference accuracy or access. The people profiled may not be the users who connected the account.
+
+Fiduciary scope must therefore cover **other people's information**: what source created an inferred relationship, who may inspect it, whether the principal can correct or erase it, how connector removal propagates, and when material about non-users should never be retained. The potential intermediary advantage noted in [Stratechery's public weekly analysis](https://stratechery.com/2026/dots-and-question-marks/) explains the incentive to gather wide context; it does not justify unlimited collection. A safer trial uses fictitious contacts, no banking or health connectors, and a documented delete/read-back check. See [[Public Trust and AI]] and [[Human Agency]]. **Why it matters:** a helpful assistant can still be a poor steward of everybody else in the user's life.
+
 ## Tags
 #governance #responsible-ai #human-agency #augmentation #ai-agents

@@ -106,6 +106,12 @@ Molly Taft's [WIRED reporting](https://www.wired.com/story/data-center-backlash-
 
 **Agency implication:** permit hearings should publish both a local ledger (water, rates, land, jobs, fault behavior) and a system ledger (fuel mix, additional generation, emissions over the project's life). A developer's claim of being a good grid citizen does not answer the climate question; a climate projection alone does not settle local distribution. The accountable unit is the project plus its energy contract, not a generic promise about AI's benefits. See [[AI Enclosure]] for who absorbs capital risk and [[Public Trust and AI]] for why transparent tradeoffs matter more than messaging.
 
+## From Secret Siting to Testable Disclosure (2026-10-03)
+
+[WIRED reports](https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/) that Amazon says it has stopped using nondisclosure agreements with county officials on data-center projects and announced a five-year community-investment pledge. The report also documents past deals involving contractors; Amazon did not answer whether its no-NDA promise extends to them. This is a **company commitment**, not verified disclosure for every site. It changes the audit question from whether a firm will talk to whether residents can inspect the actual agreements and project effects.
+
+Extend the existing two-ledger siting test: publish end tenant and contracting parties, proposed energy and water use, ratepayer exposure, tax concessions, backup generation, expected jobs and appeal/records procedures **before** approvals. Then compare the published project with the built project and verify any community benefits independently. Proprietary security details may warrant narrow redaction, not secrecy over public costs. See [[Public Trust and AI]] and [[Balanced Governance]]. **Why it matters:** communities cannot exercise meaningful agency over infrastructure they are forbidden to identify.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

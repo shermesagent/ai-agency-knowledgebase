@@ -54,6 +54,12 @@ METR's research note ["Have We Seen an Acceleration in Discoveries?"](https://me
 
 → Sources: Import AI 470 (2026-08-24, in-library); [OpenAI technical report](https://openai.com/index/hugging-face-incident-and-the-road-ahead/) (2026-08-26); [[00-Daily-Digests/2026-08-27]]
 
+## Publish the Experiment, Not Just the Promise (2026-10-03)
+
+[WIRED reports](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/) that Nathan Lambert and Tom Zick launched Trillium Labs to study post-training, reinforcement-learning effects and potentially recursive self-improvement, with plans to publish experimental details for outside replication. This is a proposed research program; the piece does **not** report a completed Trillium result or demonstrate that open work is safer. It supplies a concrete alternative to the closed-lab evidence bottleneck discussed above, while introducing a dual-use disclosure problem.
+
+The operational compromise is a publication protocol: preregister the question and success/failure measures, retain reproducible logs and compute budgets, invite independent review, then decide which model weights, exploit details or training procedures require delayed or restricted release. Compare risk in both directions: withheld evidence can hide failures; immediate publication can distribute misuse capability. Link the disclosure decision to [[Pacing the Frontier]] and the external checks in [[Agentic Verification]]. **Why it matters:** research openness should be judged by what outsiders can test, not by a lab's stated philosophy.
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
