@@ -195,6 +195,12 @@ The important shift is from exposure to conversion. Exposure does not automatica
 
 This adds **representation inequality** to the access ledger: even where a community can use the same model, its norms may be described less accurately, particularly if the system treats a culturally flattened answer as universal guidance. The paper reports better estimates for more developed societies, but the benchmark does not establish the error rate of every deployment or every local language. For [[Education]] and [[Government and Civic Life]], compare AI-generated cultural claims with local surveys and affected people's testimony; do not make an AI summary the voice of a community. See [[00-Daily-Digests/2026-09-28]].
 
+### Rural AI Infrastructure: Eligibility Is Not Community Benefit (2026-10-04)
+
+[WIRED's reporting on rural opportunity zones](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/) says Searchlight Institute matched more than 100 planned or developing rural data centers to tracts that *could* qualify under expanded federal incentives. The analysis used a dataset of fewer than 700 proposed or under-construction projects; it does **not** establish that those projects claimed a tax benefit. Microsoft, Meta and Amazon told WIRED they were not using the program; Google did not respond. A tax incentive tied to capital investment is not a requirement to create permanent local jobs. The inequality question is whether local residents receive wages, infrastructure protection and decision rights proportional to the public incentive and energy/water burden. The program's reported ten-year federal cost estimate is not a data-center-specific expenditure.
+
+Add a distribution test to [[Compute and Agency]] and [[Public Trust and AI]]: publish eligibility separately from actual claims; compare construction jobs with lasting employment, household rate impacts and tax revenue; give residents a route to inspect and challenge the project's benefit assumptions before siting approval. **Why this matters:** cheap compute that expands agency elsewhere can still be financed by communities with little power over who captures its value. See [[00-Daily-Digests/2026-10-04]].
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.

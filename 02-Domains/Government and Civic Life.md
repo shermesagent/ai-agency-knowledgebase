@@ -164,6 +164,12 @@ The 09-02 section documented the voluntary-veto report card: independent audit t
 
 The civic governance test must include **bystanders**, not only users: visible recording notice; restrictions on sensitive settings and protest use; retention and takedown routes; and remedies after reposting. An LED and a platform complaint window are weak substitutes for meaningful consent, especially for people at higher risk of targeted harassment. This extends [[Digital Fiduciary Duty]] beyond the device owner and puts [[Public Trust and AI]] on a concrete power question: whose agency is expanded by capture, and whose is taken away?
 
+## From a Case Record to a Consequential Flag (2026-10-04)
+
+[WIRED reports on a partially unsealed federal court filing](https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/) alleging that DHS officers placed information about ICE observers in the Palantir-built Investigative Case Management system and sent some photos for facial-recognition searches. A 2016 DHS privacy assessment says ICM subject records are shared with CBP's TECS border-screening system. Plaintiffs allege intimidation and chilling of protected observation; DHS calls the suit meritless, disputes a purported domestic-terrorist database and says policy forbids the conduct. **These are disputed allegations and documented system pathways, not an adjudicated finding that each observer was placed on a terrorist watchlist.**
+
+The civic-AI question is wider than whether a particular model made a decision: when a record can travel from observation to identification to border screening, who verifies the initial label, limits downstream reuse and gives the person an effective way to contest it? This connects [[Public Trust and AI]]'s evidence standard to [[Balanced Governance]]'s audit/appeal design and [[Digital Fiduciary Duty]]'s third-party-data boundary. In any public-sector procurement, demand a map of source, label, sharing destination, retention and correction authority before deploying automated identification. **Why this matters:** agency is lost at the data handoff long before a final enforcement action. See [[00-Daily-Digests/2026-10-04]].
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

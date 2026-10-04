@@ -152,6 +152,12 @@ The trust problem is structural: admissions essays were designed as proxies for 
 
 → Sources: MIT Technology Review, 2026-09-22; arXiv 2609.22549; [[00-Daily-Digests/2026-09-22]].
 
+### Visible Devices, Invisible Capabilities (2026-10-04)
+
+In [WIRED's hands-on review of Meta Glasses Nova](https://www.wired.com/review/meta-glasses-gen-3/), the reviewer found useful microphone/noise handling but a current assistant that could not accurately identify the features of the very glasses in use, even when given the model and a product-page photo. The Gen 3 frame retains a camera with a more tamper-resistant indicator; WIRED notes that a small camera housing can be hard to spot. Muse integration is promised for later, **not tested as part of this review**. This is a first-person product test, not a population-level reliability or bystander-consent study.
+
+The trust test has two separate subjects: the wearer deciding when to rely on an assistant and the bystander deciding how to respond to possible recording. A capture LED alone does not give a bystander a deletion, complaint or correction path. Compare [[Government and Civic Life]]'s protest-recording case and [[Digital Fiduciary Duty]]'s third-party data boundary. For institutions, evaluate permitted locations, notice, actual assistant error rates and a timely removal channel before approving wearable AI in sensitive spaces. **Why this matters:** usefulness for one wearer cannot stand in for consent by everyone in view. See [[00-Daily-Digests/2026-10-04]].
+
 ## Risks / Limits
 - **Trust is slow to build and fast to lose.** Each "move fast and break things" deployment erodes trust for the entire industry, not just the deploying company.
 - **The institutional credibility gap.** AI companies promising election integrity while running false flag political operations creates a trust problem that technical safeguards cannot solve alone.
