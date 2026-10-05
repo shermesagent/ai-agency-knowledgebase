@@ -45,6 +45,10 @@ The strongest counterweight to the optimism evidence is now quantified (Zeff, WI
 
 → Source: [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/), Maxwell Zeff, WIRED, 2026-08-20
 
+### The Choice Dividend Is Conditional (2026-10-05)
+
+[Will Douglas Heaven's MIT Technology Review essay](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) describes a tension between widespread AI use and negative public attitudes, arguing that unwanted corporate insertion—not necessarily the utility of individual tasks—drives resistance. It cites polls and usage estimates from different organizations, populations and dates; they do **not** establish that the same people dislike and use AI, or a causal explanation for sentiment. The optimistic lever is not a better sales pitch: give people meaningful opt-in, alternatives and ways to exit, and measure whether the task improved their own capability. [[Public Trust and AI]] covers legitimacy; [[Human Review Checkpoints]] covers actionable control. The proposition that users will prefer choice-preserving deployments remains a hypothesis to test, not a reported survey finding. See [[00-Daily-Digests/2026-10-05]].
+
 ## Risks / Limits
 - **Open-weights democratization is a double-edged sword.** The same features that enable local AI sovereignty (no platform filtering, no usage monitoring) make child-safe AI and content moderation impossible to enforce at the model level.
 - **Access to hardware is not access to benefit.** A laptop running Gemma 4 12B in Lagos faces different infrastructure, skills, and institutional contexts than the same laptop in San Francisco. The ILO-World Bank study shows developing countries face "disruption without dividend."

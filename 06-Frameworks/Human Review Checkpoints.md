@@ -103,6 +103,10 @@ Perez's **Law of Stop** paper (arXiv 2609.22882) turns checkpoint placement into
 
 → Sources: arXiv 2609.22707; arXiv 2609.22882; [[00-Daily-Digests/2026-09-22]].
 
+### Capacity-Aware Review, Not Just Risk-Aware Review (2026-10-05)
+
+[Conklin, Gao and North's cyber-operations preprint](https://arxiv.org/abs/2610.02384) proposes routing AI-generated anomaly explanations to reviewers using both event risk and environmental proxies for operator workload and connectivity. It is a **reference architecture**, with maritime examples, not a field trial proving safer cyber operations. The useful challenge to this framework: a correctly placed stop is not meaningful if the assigned human cannot process the evidence or reach help. At each high-stakes checkpoint, record the decision owner, available time, current workload, connectivity, escalation path and whether the system actually stopped pending review. If capacity is inadequate, queue or halt the action rather than treating an unanswered notification as approval. This bridges [[Cognitive Surrender]] and [[Responsible Deployment]]: preserve the reviewer's capacity as well as their formal right to stop. See [[00-Daily-Digests/2026-10-05]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]

@@ -214,6 +214,10 @@ The oversight literature on this page has treated the human in the loop as a res
 
 This extends surrender beyond answer acceptance to *permission acceptance*: affection and ease may lower the perceived need to inspect an agent's memory, training setting, and connector access. The evidence here is expert concern and product reporting, not a measured causal effect of cute mascots. A practical countermeasure is a pre-connection permission card: what data is read, retained, used for training, or shared; which actions require approval; how to revoke access. Test it without children's or students' data. See [[Digital Fiduciary Duty]] and [[Public Trust and AI]]. **Why this matters:** an inviting interface should not substitute for informed, reversible authorization.
 
+## Equal Scores, Unequal Ownership (2026-10-05)
+
+[Fábrega's analysis of 150 student–AI conversations](https://arxiv.org/abs/2610.02731) finds that similar assessed performance can coexist with different observable participation in **direction, integration and evaluation**. This is evidence that a final score cannot reconstruct how thinking was distributed, not proof that any specific learner failed to learn. For an AI-permitted assignment, ask the learner to state the goal before assistance, identify a decision they changed after evaluating the model's output, and defend one choice without the tool. Compare the process and a short unaided transfer task instead of using chat traces as a misconduct detector. [[Education]] and [[AI Tutor Evaluation Checklist]] can use this as an assessment-design question; identifiable student conversations should not be uploaded to an external analysis tool. See [[00-Daily-Digests/2026-10-05]].
+
 ## Related Pages
 - [[Co-Intelligence]]
 - [[Human Agency]]
