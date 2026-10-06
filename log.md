@@ -2194,3 +2194,11 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[05-Source-Library/Articles]] (Pass 60), appended three rich records to `sources/sources.jsonl`, added three hashed immutable curator source notes under `raw/articles/`, and refreshed [[Home]] links, recent activity, and Git-derived staleness buckets.
 - Recommended, not created: Infrastructure Benefit Card; Bystander Capture Boundary; Consequential Label Provenance.
 - Sunday maintenance: checked the new records for unique IDs and URLs and verified raw-note hashes and today's links. Legacy link and source-ledger debt, if any, is reported separately rather than silently changed. No student, employee, patient or protester-level data processed; no email sent.
+
+
+## [2026-10-06] update | The Participation-to-Decision Test — input must change a decision
+
+- Created [[00-Daily-Digests/2026-10-06]] with five findings from four directly inspected sources: Import AI 475, WIRED’s Kevin Roose interview and two arXiv abstracts (2610.03932; 2610.03722). Two non-papers, two preprints. Web search returned empty across multiple topic probes; publisher full text and arXiv RSS abstracts provided evidence.
+- Updated [[The Participation Problem]] with the legibility-trap test; [[AI Use Case Evaluation Rubric]] with outcome ownership and swarm latency versus total cost; [[Optimism Without Naivety]] with distinctions between second-hand polling, practitioner testimony and independently tested outcomes.
+- Updated [[05-Source-Library/Articles]] Pass 62, [[05-Source-Library/Papers]] Pass 45, and [[Home]] navigation. Reconciled missing prior-day Pass 61/44 library entries and appended the two missing Oct 5 structured records while retaining two already-uncommitted prior-day records; appended four Oct 6 records to sources/sources.jsonl. No raw article text was duplicated; source URLs and evidence limitations are in the ledger.
+- Recommended, not created: Participation-to-Decision Register; Outcome-Ownership Gate; Swarm Cost-and-Latency Card. No student, employee or individual public-comment data used. No email sent (separate job).

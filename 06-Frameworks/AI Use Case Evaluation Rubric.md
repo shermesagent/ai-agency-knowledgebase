@@ -42,6 +42,12 @@ This converts the rubric's "measurable in context" criterion from an aspiration 
 
 **Add to the rubric:** before buying synthetic-persona or AI-simulation tools, name the real-world outcome, retain a no-persona baseline, preregister a held-out test, and report uncertainty and evaluation-set exclusions. If the elaborate simulation cannot beat the simple baseline on actual behavior, do not use its vivid explanations to stand in for evidence. For creative workflows, pair this with [[Creativity]]'s narrative-ownership check and [[AI Field Experiment Evidence]]'s insistence on observed outcomes.
 
+## Outcome Ownership and Parallelism Gates (2026-10-06)
+
+[Didion, Garaialde and Coyle](https://arxiv.org/abs/2610.03722) report two experiments distinguishing the *feeling* of controlling a computer's immediate action from judgments of responsibility for its later outcome. Their abstract reports no pre-reflective sense of agency over the final effect, even where participants judged they caused a meaningful outcome after a specific instruction. Add to the rubric: identify the person accountable for the final effect, show the sequence from command to consequence, and provide time and means to review or stop before externally visible effects. This is a design implication, not a measured safety improvement for deployed agents; pair with [[Human Review Checkpoints]].
+
+[Jack Clark's Import AI 475](https://importai.substack.com/p/import-ai-475-swarm-scaling-google) summarizes Toby Ord's swarm-scaling analysis: parallel agents can trade higher total token use for lower elapsed time, with coordination costs. Before approving a swarm use case, compare **same-task** elapsed time, total tokens/cost, review time, error duplication and quality against one agent. Do not book a theoretical wall-clock gain as a measured productivity gain. **Why this matters:** a fast workflow that obscures responsibility or consumes more review than it saves is not automatically agency-expanding. See [[The Participation Problem]] and [[00-Daily-Digests/2026-10-06]].
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[Responsible Deployment]]

@@ -66,6 +66,12 @@ The page's founding cases were about *defaults* — who is opted in, who is surv
 
 → Sources: arXiv 2609.02122 (2026-09-03); arXiv 2609.01873 (2026-09-03); [[00-Daily-Digests/2026-09-03]]
 
+## Participation Must Survive the Decision Record (2026-10-06)
+
+[Pandey and Saxena's public-sector case analysis](https://arxiv.org/abs/2610.03932) examines 22 documents across the Allegheny Family Screening Tool, Detroit Project Green Light and Oakland CCOPS ordinances. Their **legibility-trap** argument: officials can record community input and still filter out dissent that does not fit a predefined design category, especially requests not to deploy. This adds a fourth participation test to the defaults, ownership and evidence-independence tests above: **can community input change the institutional decision?** The work is a qualitative preprint, not a measured rate of ignored comments across government.
+
+For [[Government and Civic Life]], use a disposition register: preserve the original concern, name the decision owner, state whether the proposal changed, and publish a reason for non-adoption plus a way to contest it. Do not substitute attendance or comment counts for influence. **Why this matters:** invitations to participate expand agency only when disagreement remains legible to decision-makers and can produce a different outcome. See [[00-Daily-Digests/2026-10-06]].
+
 ## Related Pages
 
 - [[Superagency]] — the organizing idea participation makes concrete

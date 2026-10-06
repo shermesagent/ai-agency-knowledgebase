@@ -17,7 +17,8 @@ This idea matters because the knowledgebase is organized around AI that expands 
 ## Best Supporting Sources
 - [Orphan risks at the frontier of artificial intelligence](https://arxiv.org/abs/2608.16895) — Andrew D. Maynard, arXiv, 2026-07-07. Reliability 4/5; relevance 5/5. The four filters (measurability, severity, auditability, competitive cost) determining which risks survive in frontier companies' self-authored frameworks; the "safety differential" between self-selected and regulator-selected risk landscapes. The structural case for external audit as the naivety check.
 - [Anthropic Risk Report: August 2026](https://thezvi.substack.com/p/anthropic-risk-report-august-2026) — Zvi Mowshowitz, Don't Worry About the Vase, 2026-08-18. Reliability 5/5; relevance 5/5. Voluntary disclosure of alarming new information (internal-only Model 2; misalignment as latent computation property; researcher-substitution 62.8%) reads as a moderately positive update — "if we presume they are not silently omitting the worst of it." Thresholds are serious but not literal: commitments bind only when honored under pressure.
-- Pending daily curator updates. Add accepted sources with links and short summaries as they are found.
+- [Import AI 475](https://importai.substack.com/p/import-ai-475-swarm-scaling-google) — Jack Clark, 2026-10-05. Summarizes a poll reporting dissatisfaction with voluntary AI company agreements, and an analysis of swarm latency versus total tokens. Both are second-hand here; poll methods and speedups need independent verification before policy or budget decisions.
+- [Kevin Roose Didn’t Use AI to Write His Book About AI](https://www.wired.com/story/the-big-interview-podcast-kevin-roose/) — Katie Drummond / WIRED interview, 2026-10-06. Roose describes AI-assisted research, notes, critique and supplemental fact checks while keeping human authorship and a human fact-checker; a practitioner account, not a controlled comparison.
 
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
@@ -28,6 +29,12 @@ This idea matters because the knowledgebase is organized around AI that expands 
 - Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
 - Update this section whenever strong counterarguments appear.
 - **The Delphi risk study provides an empirical basis:** The Saeri et al. study (June 2026, 272 experts, 24 risks) shows that catastrophic risk is a design choice, not an inevitability: 18/24 risks have >10% catastrophic probability in business-as-usual, but only 5/24 under pragmatic mitigations. This is the "Optimism Without Naivety" pattern at empirical scale — the bad outcomes are real but avoidable. https://arxiv.org/abs/2606.04490
+
+## The Two Evidence Boundaries (2026-10-06)
+
+Optimism can learn from practice without confusing testimony with validation. Roose's [WIRED interview](https://www.wired.com/story/the-big-interview-podcast-kevin-roose/) offers a bounded augmentation workflow: AI assists research and critique, a person writes and checks the work. It does not demonstrate that AI fact-checking is accurate at scale. Clark's [Import AI 475](https://importai.substack.com/p/import-ai-475-swarm-scaling-google) relays a poll in which 61% of 2,498 respondents reportedly found a voluntary industry agreement insufficient and 54% reportedly favored government-set, enforced AI rules. Those figures are **newsletter-reported polling**, not an independent audit of sampling or a mandate for any particular regulation.
+
+For [[Balanced Governance]], test a proposed rule against enforceability and actual public outcomes; for [[AI Use Case Evaluation Rubric]], test a proposed assistive workflow against unaided quality and human review costs. **Why this matters:** neither a skeptical poll nor an optimistic first-person success story should outrun its evidence. See [[00-Daily-Digests/2026-10-06]].
 
 ## Related Pages
 - [[Case for AI Optimism]]
