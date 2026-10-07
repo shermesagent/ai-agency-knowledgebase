@@ -104,6 +104,10 @@ An access award is not approval: a [public-program and one-university process st
 
 For student-facing systems, add a second gate: an automated misuse flag is *not* a disciplinary decision. [Argus](https://arxiv.org/abs/2609.36073) flags patterns in college programming assignments and explicitly raises false-positive review; the reported association with lower proctored exam scores cannot establish individual misconduct. Require inspectable evidence, a trained human reviewer, an opportunity for the student to respond, and appeal before any consequence. This is a process recommendation, not a validated K–12 detector. See [[AI for School Districts]], [[Balanced Governance]], and [[Human Review Checkpoints]].
 
+## Interactive alignment and authority changes (2026-10-07)
+
+[Long and Chilton's SPEAR position paper](https://arxiv.org/abs/2610.07204) proposes five lenses for an agent after deployment: **Specification** (shared intent), **Process** (act, ask, defer or pause), **Evaluation** (how success is judged), **Adaptation** (how the agent changes with repeated use), and **Recalibration** (how the human changes trust and behavior). It proposes a framework, not measured safety gains. Before granting an assistant a connector or recurring task, record an example for each lens, then test one reversible case. [WIRED's Dots trial](https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/) illustrates why: refined shopping recommendations were useful, but a misheard exchange and an unsuccessful cancellation attempt show that smooth conversation is not proof of successful action. Keep external purchases, cancellations and district records behind explicit review. See [[AI Executive Assistants]] and [[Human Review Checkpoints]].
+
 ## Quick Adoption Readiness Scorecard
 
 | Dimension | Check | Score (1-5) |

@@ -2202,3 +2202,10 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[The Participation Problem]] with the legibility-trap test; [[AI Use Case Evaluation Rubric]] with outcome ownership and swarm latency versus total cost; [[Optimism Without Naivety]] with distinctions between second-hand polling, practitioner testimony and independently tested outcomes.
 - Updated [[05-Source-Library/Articles]] Pass 62, [[05-Source-Library/Papers]] Pass 45, and [[Home]] navigation. Reconciled missing prior-day Pass 61/44 library entries and appended the two missing Oct 5 structured records while retaining two already-uncommitted prior-day records; appended four Oct 6 records to sources/sources.jsonl. No raw article text was duplicated; source URLs and evidence limitations are in the ledger.
 - Recommended, not created: Participation-to-Decision Register; Outcome-Ownership Gate; Swarm Cost-and-Latency Card. No student, employee or individual public-comment data used. No email sent (separate job).
+
+## [2026-10-07] update | The Authority-Before-Connector Test
+
+- Created [[00-Daily-Digests/2026-10-07]] with five findings from four sources: WIRED's Dots hands-on test, Zvi's education essay, SPEAR (2610.07204), and FACTRIA (2610.07205). Two non-papers, two arXiv papers. Publisher-specific web searches returned empty; publisher full text and arXiv RSS abstracts were verified directly. No new immutable raw copies were needed; source URLs, limitations and metadata are preserved in the library and ledger.
+- Updated [[AI Executive Assistants]] on research vs transaction authority; [[Adoption Readiness Checklist]] on SPEAR's five interactive alignment lenses; [[AI and Inequality]] on context-before-decision in institutional analytics.
+- Updated [[05-Source-Library/Articles]] Pass 63, [[05-Source-Library/Papers]] Pass 46, [[Home]] navigation and its corrected staleness tracker; appended four rich source records to sources/sources.jsonl.
+- Recommended, not created: Agent Authority Card; Context-before-Intervention Checklist; Trust Recalibration Diary. No student or employee records used; no email sent (separate job).
