@@ -84,5 +84,11 @@ For an [[AI Tutors]] pilot, document who approves the tool's content, whether it
 
 Add to the [[AI Tutors]] pilot checklist: pretest; randomized or comparable alternative condition; immediate measure; **delayed, unaided measure on both seen and unseen items**; subgroup results; and an explicit decision rule for scaling. Count faster in-session corrections as assistance, not as evidence of independent skill transfer. Use public or district-approved de-identified materials in any demonstration; do not send student responses to unapproved tools. See [[AI Field Experiment Evidence]].
 
+## Diagnostic Feedback Gate (2026-10-08)
+
+[Zhao, Jiao and Xu](https://arxiv.org/abs/2610.09460) analyzed 3,041 higher-education computer-science responses to 50 open questions. Across three commercial LLMs, rubric sub-scores were strongly correlated (r = 0.82–0.99), while model feedback identified misconceptions in 5–7% of responses versus 15–31% for instructors. Feedback stayed uniformly positive across quality levels. This is a preprint on college computing, **not** evidence of K–12 model performance or an approved grading system.
+
+Add a diagnostic gate before any tutoring or feedback pilot: on approved de-identified exemplars, have educators independently annotate the underlying misconception and a useful next question; then blind-review the model's feedback for correct diagnosis, instructional next step and appropriate uncertainty. Report diagnostic recall and false alarms by item type alongside score agreement. Never treat a detailed rubric or pleasant tone as proof of learning support. This extends the correct-answer trap on [[Education]] and the delayed unaided transfer check on [[AI Field Experiment Evidence]]. No identifiable student work belongs in an unapproved external service. See [[00-Daily-Digests/2026-10-08]].
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

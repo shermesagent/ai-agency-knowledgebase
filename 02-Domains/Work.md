@@ -134,6 +134,12 @@ The scientist-use study attached to ATLAS is the more important work signal: a s
 
 An org chart can help assign responsibility, but the agent is not a human colleague: record an accountable human owner, permitted systems, escalation contact, and sampled error-review results for every agent role. Review should not become more lenient because the system has a name. This is [[Human Review Checkpoints]] applied to social design, not merely technical output; it also sharpens [[The Turing Trap]]'s concern about confusing imitation with augmentation. See [[00-Daily-Digests/2026-09-28]].
 
+### The Demonstration-to-Deployment Gap in Robotics (2026-10-08)
+
+[MIT Technology Review's robotics feature](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/) distinguishes a Gemini Robotics/ALOHA 2 bench-top lunch-packing demonstration from general-purpose physical autonomy. Vision-language-action systems learn from human demonstrations, but the article describes persistent out-of-training-set failures, costly physical data collection and real-world variability. Researchers disagree about whether more data alone solves generalization; neither a demo nor a forecast establishes a household deployment date.
+
+For a workplace buyer, require actual site-task coverage, recovery/override, safety incidents, uptime, maintenance burden and worker feedback before assigning labor savings. This is [[Task-Level AI Adoption]] applied to embodied tasks and [[The Turing Trap]] applied to substitution claims. **Why it matters:** physical AI may expand capacity, but workers' agency depends on reliable assistive tasks and a usable stop, not on humanoid appearance. See [[00-Daily-Digests/2026-10-08]].
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]

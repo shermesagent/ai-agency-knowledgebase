@@ -60,6 +60,12 @@ The strongest counterargument remains live: AI may help design dangerous ideas, 
 
 The risk extends beyond security screening: high-stakes school or workplace AI monitoring must not convert weak proxies into accusations. Ask what the label means, who verified it independently, the false-positive burden at the actual base rate, subgroup performance, and a meaningful appeal route. See [[Balanced Governance]] and [[AI Use Case Evaluation Rubric]]. Avoid treating this proposed program as evidence that AI lie detection works.
 
+## The Plan Cannot Be an Unexamined Handoff (2026-10-08)
+
+[Zvi Mowshowitz's conference reflection](https://thezvi.substack.com/p/the-curve-bends-you) argues that using today's AI to solve tomorrow's alignment problem without a workable human verification plan is unsafe; he supports pacing frontier development. The reported conversations fall under Chatham House rules, and attendee predictions and his own >50% doom assessment are **views**, not representative risk estimates. The strongest testable version of his concern is whether responsible people can explain, contest and stop AI-generated changes before those changes compound.
+
+[Comprehension Audits](https://arxiv.org/abs/2610.10064) proposes one answer: independent explanation checks with a remediation gate. It is a research proposal rather than a demonstrated fix; cost, auditor independence and ritualized compliance are serious objections. Contrast [[Automated AI R&D]] with [[Optimism Without Naivety]]: pace where oversight cannot keep up, pilot where bounded evidence and a working stop are available. **Why it matters:** risk analysis should produce an auditable decision right rather than a prediction treated as fact. See [[00-Daily-Digests/2026-10-08]].
+
 ## Related Pages
 - [[Optimism Without Naivety]]
 - [[Balanced Governance]]

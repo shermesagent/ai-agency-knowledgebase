@@ -60,6 +60,12 @@ METR's research note ["Have We Seen an Acceleration in Discoveries?"](https://me
 
 The operational compromise is a publication protocol: preregister the question and success/failure measures, retain reproducible logs and compute budgets, invite independent review, then decide which model weights, exploit details or training procedures require delayed or restricted release. Compare risk in both directions: withheld evidence can hide failures; immediate publication can distribute misuse capability. Link the disclosure decision to [[Pacing the Frontier]] and the external checks in [[Agentic Verification]]. **Why it matters:** research openness should be judged by what outsiders can test, not by a lab's stated philosophy.
 
+## Can the Owner Explain the Contribution? (2026-10-08)
+
+[Bodkin, Sokhansanj and Hadfield](https://arxiv.org/abs/2610.10064) propose a comprehension audit: independent auditors ask responsible humans to explain AI-generated R&D contributions, with graded reports and a pause on contributions whose owners cannot demonstrate understanding until remediation. Their open-source analysis reports code output rising as human review-commentary rates per line fall. It does **not** show that frontier labs already operate this regime or that it prevents incidents. The abstract's claim about how much code AI writes in labs is background asserted by the authors, not a measured percentage we can independently adopt here.
+
+This adds an accountability gate to the earlier reproducibility/disclosure protocol: before promotion, identify the owner, ask them to reconstruct the change's rationale, dependencies, failure mode and rollback without an agent's explanation, then test on an unexpected case. A sign-off alone is not comprehension; make a failed audit stop consequential changes and allow a documented retry. Pair with [[Human Review Checkpoints]] and [[Strongest AI Risk Arguments]]. **Why it matters:** faster research only expands human agency while humans retain the ability to interpret and interrupt it. See [[00-Daily-Digests/2026-10-08]].
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
