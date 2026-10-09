@@ -202,6 +202,12 @@ The threshold model (08-29) has its first hard post-crossing labor data point, a
 
 → Sources: arXiv 2609.17965; MIT Technology Review, 2026-09-15; [[Human Agency]]; [[AI Orchestrator]]; [[00-Daily-Digests/2026-09-17]]
 
+### Remote Pilot as a New Supervision Role (2026-10-09)
+
+[MIT Technology Review's profile of Trevor Wischnewsky](https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/) describes a Texas delivery-drone remote pilot in command who checks readiness, weather and routing, monitors several flights, and can intervene when conditions change. The company requires FAA drone-pilot certification and additional training; he recounts returning a drone when wind changed suddenly. This is a **reported role profile**, not a labor-market forecast or proof that autonomous flight is generally safe.
+
+It gives [[Work]]'s augmentation argument a specific counterexample to both easy narratives: automation can generate human supervision roles, yet one pilot watching multiple flights also concentrates attention and liability. Before claiming this is a scalable new career pathway, measure intervention frequency, simultaneous-load limits, training time, compensation, incident handling and authority to ground flights. See [[Human Review Checkpoints]] and [[00-Daily-Digests/2026-10-09]].
+
 ## Related Pages
 - [[Work]]
 - [[AI Executive Assistants]]

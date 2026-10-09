@@ -83,6 +83,12 @@ The pacing debate has a new actor: the state, in maximalist form. On 09-03, Sen.
 
 Operationalize the distinction between *preserving options* and *indefinite deferral*: for each deployment gate name the observable trigger, independent evaluator, decision owner, and reversible action. Zvi's [September 26 Opus 5.5 review](https://thezvi.substack.com/p/claude-opus-55-should-raise-your) illustrates the tension: a useful model can increase the scale of projects people attempt, while qualitative user reports of over-eager action are a reason to separate discussion from execution. His model rankings and price comparisons are commentary and vendor-derived claims, not a controlled safety comparison. **Why this matters:** pacing can expand ambition without outsourcing the decision about what to ship. See [[Cognitive Surrender]] and [[Balanced Governance]].
 
+### Risk Ceilings Are Not Calendar Promises (2026-10-09)
+
+[Li Gan's preprint](https://arxiv.org/abs/2610.11093) models a regulator promising both a hazard ceiling and a development deadline when safety-research productivity is uncertain. Its abstract argues that both guarantees require ruling out weak safety research; rules fixing compute allocation may fix a date without fixing risk. A simplified calibration with constant safety yield and full knowledge transfer says a learn-first, then develop strategy needs 3.3% more productivity than the necessary bound. **This is a model result under explicit assumptions, not an empirical safety estimate or a timetable for a real lab.**
+
+The institutional takeaway for [[Balanced Governance]] is to publish two separate claims: an externally checkable risk criterion and a schedule *conditional* on meeting it. If a safety case cannot be reproduced, the deadline is not evidence that the risk ceiling was met. This refines the existing optionality gate on this page and [[Responsible Deployment]]: name the evaluator, the failure trigger, the stop authority and what new evidence would restart work. See [[00-Daily-Digests/2026-10-09]].
+
 ## Related Pages
 
 - [[Balanced Governance]]

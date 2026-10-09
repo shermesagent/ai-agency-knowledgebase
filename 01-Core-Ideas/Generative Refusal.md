@@ -88,6 +88,12 @@ This sharpens the page's original thesis: good refusal is not simply "the AI say
 
 → Source: arXiv 2609.16191; [[00-Daily-Digests/2026-09-16]]
 
+### Safety Refusal Is a Different Decision (2026-10-09)
+
+[Arthur Holland Michel's MIT Technology Review investigation](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/) distinguishes the usefulness of declining harmful requests from the fragility and political power of model-level refusal. Refusal behavior is learned and can fail under adversarial pressure; the line between dangerous and legitimate requests is also set by institutions, and can block research or dissent. These are the reporter's synthesis and quoted expert concerns, **not** measured rates of attack success or proof that a particular government has deployed censorship through this mechanism.
+
+That is not this page's *generative* refusal: a learner-facing, development-oriented decision to withhold a complete answer. A tutor's optional Socratic scaffold, an evidence-based abstention, and a provider-imposed safety block require different owners and appeals. For a school pilot, label the reason, offer a safe next step, allow a teacher to inspect the case, and distinguish override of a learning scaffold from an attempt to bypass a non-optional safety boundary. The practical test is whether the human can tell **who said no, why, and what can be reviewed**; see [[Education]], [[Responsible Deployment]] and [[00-Daily-Digests/2026-10-09]].
+
 ## Connection to Existing Frameworks
 
 - **Co-Existence:** Generative refusal is the practical implementation of Co-Existence in domains where the AI *could* be better than the human at generation but the human's developmental needs override immediate productivity. It's "knowing when the AI is better than you — and asking it NOT to be."

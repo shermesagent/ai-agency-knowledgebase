@@ -374,5 +374,11 @@ In a 10-week Drexel data-science-course study, [An and Wang](https://arxiv.org/a
 
 [Argus](https://arxiv.org/abs/2609.36073) analyzed Purdue undergraduate programming traces and reports 45% of students with patterns consistent with LLM-assisted development in one Spring 2026 course; flagged use correlated negatively with in-person exam performance. Neither the pattern nor the correlation proves individual cheating or causal learning loss. Districts should not import that percentage or detector into student discipline. Clarify assignment-specific AI-use rules, assess unaided learning separately, and require human evidence review and student response under local policy before a high-stakes decision; see [[Human Review Checkpoints]] and [[AI Tutor Evaluation Checklist]]. Keep identifiable student traces out of public tools.
 
+## When the Tutoring Metric Improves but Teaching Gets Worse (2026-10-09)
+
+[Domínguez Figaredo and Fernández De la Cruz](https://arxiv.org/abs/2610.12125) report an audit of a frontier tutor across 2,000 learner scenarios. After they fine-tuned an open-weights proxy on its weakest cases, their pedagogical-adaptivity metric rose from +0.05 to +0.42, while **31 educators' blind ratings of pedagogical alignment fell from 4.46 to 3.03**. The abstract attributes this to repeating the highest-scoring local instructional move rather than responding to the learner's trajectory; a trajectory-aware score reduced but did not reverse the verdict. This is a preprint's reported experimental result with simulated scenarios and a proxy model, **not a Texas K–12 field outcome or a finding about every tutor**.
+
+The new procurement failure mode is *optimization validity*: even a plausible per-turn measure can reward the wrong behavior when used for training. Pair [[AI Tutor Evaluation Checklist]]'s misconception checks with whole-session educator review and delayed, unaided learner performance. Keep any test on public or district-approved de-identified scenarios; no identifiable student work goes to an unapproved service. See [[Generative Refusal]], [[AI Field Experiment Evidence]] and [[00-Daily-Digests/2026-10-09]].
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai
