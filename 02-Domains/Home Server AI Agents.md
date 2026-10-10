@@ -130,5 +130,11 @@ For home-server agents, this clarifies the strategic advantage: local systems ma
 
 → Source: [WIRED, "AI Agents Are Thirsty for Power"](https://www.wired.com/story/ai-agents-are-thirsty-for-power/) (2026-09-13); [[00-Daily-Digests/2026-09-13]]
 
+### When the Monitor Lives on the Compromised Host (2026-10-10)
+
+[Ben Thompson's October 5 account](https://stratechery.com/2026/apple-and-a-hackers-future/) is already in [[Articles]]: his dedicated agent Mac Mini was compromised through an exposed screen-sharing service and an uninstalled point-release fix, while a monitoring agent reportedly noticed suspicious state and stopped running commands. That is an instructive single incident, **not** a measured detection rate. He also describes how protected, GUI-only permission prompts on a headless Mac made remote screen sharing a recurring workaround. The fault is not that permission prompts exist; it is that an operator can end up trading a secure local approval boundary for a dangerous network one.
+
+**Home-server control check:** distinguish (1) what the agent can see and stop, (2) what the host OS and firewall independently prevent, and (3) what an off-host operator can restore. Keep remote desktop off the public internet; use a trusted VPN/tunnel, verify point-release patch behavior rather than assuming a security-update toggle covers it, constrain agent credentials, and rehearse a shutdown/recovery path that does not depend on the suspect agent. Connect the audit to [[Sandbox Integrity]] and [[Responsible Deployment]]. See [[00-Daily-Digests/2026-10-10]].
+
 ## Tags
 #home-server-ai #ai-agents #practical-ai

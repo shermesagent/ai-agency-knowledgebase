@@ -379,6 +379,14 @@ Two current non-paper sources pull balanced governance in opposite directions, a
 
 **Governance test:** for every high-consequence agent trial, record four separate clocks—time to detect, time to stop, time to notify affected parties, time to verify safe restart. Name who can veto release and who verifies the evidence. A model passing an internal monitor is not a transferable safety certificate. This connects the stop-rights argument above to [[Responsible Deployment]] and [[Adoption Readiness Checklist]]: authority must survive contact with the live workflow.
 
+## Truthful Labels and Research Release Duties (2026-10-10)
+
+Two very different institutions show why governance starts before a regulator's final approval. [WIRED reports](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/) that Tesla adopted the European name **Tesla Assisted Driving** after a German transport minister characterized “Full Self-Driving” as misleading. The feature still requires an alert driver to intervene; the report says EU-wide approval was pending. A more truthful label helps calibrate operator responsibility but neither proves the software safe nor transfers oversight away from the driver.
+
+For AI-generated mathematics, the [independent advisory group's release recommendations](https://agmai.org/general-sep29/) demand explicit provenance, formalization status, citation and correction records, and funding for **community-led** human understanding. [OpenAI's release](https://openai.com/index/sharing-ai-progress-in-mathematics/) promises some of those practices; [Retraction Watch's account](https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/) of three withdrawn dependent manuscripts illustrates why a public repair path matters. The advisory group explicitly opposes proprietary-only frontier mathematical research; a lab's release announcement does not settle that distributional question.
+
+**Governance test:** ask what the label claims, what the evidence establishes, who can identify an error, who owns downstream corrections and who has authority to stop use pending review. These are operational questions for [[Responsible Deployment]], not a choice between innovation and safety. See [[00-Daily-Digests/2026-10-10]].
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

@@ -122,6 +122,14 @@ The agency-expanding version of this story is clear. AI can expand the searchabl
 
 The [Working with AI design framework](https://arxiv.org/abs/2609.31793) (Lu et al., 2026, white paper) widens that gate beyond the model and task: human roles, organizational incentives, and the wider social environment affect whether a human-AI workflow works at all. Its collaborative-assembly cobot case demonstrates a proposed design method, not evidence that this method improves scientific discovery. Use the five-context map to ask who specifies novelty, who runs the experiment, who challenges credit, and who bears the cost of a mistaken claim.
 
+## When the Proof Arrives Before Understanding (2026-10-10)
+
+[OpenAI's mathematics release](https://openai.com/index/sharing-ai-progress-in-mathematics/) is a new test of the proofs overhang above. The company released a repository of model-produced results with some Lean formalizations, revision protocols, ten reasoning summaries and plans to fund understanding workshops. An [independent advisory group](https://agmai.org/general-sep29/) insists that human-understood papers follow normal scholarship, while output nobody yet understands needs clearly labeled formalization status, provenance, external citable hosting, disclosure of failed attempts and community-led support for interpretation. OpenAI's commitment is not proof that all those conditions were met.
+
+[Retraction Watch](https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/) reports that a sign error led to three withdrawals from the 722-manuscript release and that 14 more manuscripts were revised. This does **not** establish the error rate of the remaining corpus; it does establish the need to track dependencies and notify readers when an upstream result changes. Lean checking, when present, verifies the encoded theorem rather than guaranteeing that the encoded claim matches the announced problem or that the mathematical community understands its consequences.
+
+**Research workflow:** attach a comprehension and correction record to each AI-assisted claim: precise statement, prior-art check, human explainer, formalization scope, independent review, dependent claims and public revision/withdrawal history. Treat publication, machine verification and scientific understanding as separate milestones. This sharpens the mechanism gate above and the evidence standard in [[The Comprehension Bottleneck]]. See [[00-Daily-Digests/2026-10-10]].
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]
