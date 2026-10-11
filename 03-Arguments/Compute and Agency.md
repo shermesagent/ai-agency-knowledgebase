@@ -112,6 +112,12 @@ Molly Taft's [WIRED reporting](https://www.wired.com/story/data-center-backlash-
 
 Extend the existing two-ledger siting test: publish end tenant and contracting parties, proposed energy and water use, ratepayer exposure, tax concessions, backup generation, expected jobs and appeal/records procedures **before** approvals. Then compare the published project with the built project and verify any community benefits independently. Proprietary security details may warrant narrow redaction, not secrecy over public costs. See [[Public Trust and AI]] and [[Balanced Governance]]. **Why it matters:** communities cannot exercise meaningful agency over infrastructure they are forbidden to identify.
 
+## The Permit Becomes a Ballot Question (2026-10-11)
+
+[WIRED's October 11 election survey](https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/) shows local siting disputes entering competitive congressional and gubernatorial campaigns; it reports more than 30 local ballot measures in eight states and cites at least 20 gubernatorial candidates promising some version of a moratorium. These are reported political counts and promises, **not** a forecast of election outcomes or evidence that every proposed facility has identical costs. This extends the October 3 disclosure test: public records are useful only if they arrive before a rezoning, utility agreement or permit becomes irreversible.
+
+For each project, pair a **developer-benefit ledger** (tax base, construction and permanent jobs, contracted grid upgrades) with a **resident-exposure ledger** (rates, water, fuel, land, forgone alternative uses). Add a dated field for the actual decision-maker and whether constituents can change the terms or only hear them. Compare the candidate's campaign position with the adopted ordinance or contract after the vote. Cross-check [[Government and Civic Life]] for the democratic process and [[Public Trust and AI]] for the legitimacy cost of opaque bargains. **Why this matters:** compute access cannot count as public benefit if the people hosting its physical footprint cannot contest its terms.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

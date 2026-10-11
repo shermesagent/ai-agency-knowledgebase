@@ -170,6 +170,12 @@ The civic governance test must include **bystanders**, not only users: visible r
 
 The civic-AI question is wider than whether a particular model made a decision: when a record can travel from observation to identification to border screening, who verifies the initial label, limits downstream reuse and gives the person an effective way to contest it? This connects [[Public Trust and AI]]'s evidence standard to [[Balanced Governance]]'s audit/appeal design and [[Digital Fiduciary Duty]]'s third-party-data boundary. In any public-sector procurement, demand a map of source, label, sharing destination, retention and correction authority before deploying automated identification. **Why this matters:** agency is lost at the data handoff long before a final enforcement action. See [[00-Daily-Digests/2026-10-04]].
 
+## Data-Center Siting Becomes an Electoral Decision (2026-10-11)
+
+[Molly Taft's WIRED election survey](https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/) reports data-center disputes entering Ohio's Senate race, competitive House races and state/local ballot questions. It cites Multistate research that at least 20 gubernatorial candidates have promised some form of moratorium and identifies more than 30 local measures across eight states. Campaign pledges and ads are **positions and allegations**, not proof that each project raised household bills or that a proposed moratorium will deliver benefits. Nor does prominence in campaigns prove which issue will decide an election.
+
+For civic AI, the constructive unit is a *project-specific public decision record*: proposed site and owner, power/water demands, utility cost allocation, tax terms, expected permanent jobs, developer commitments, an independent review, and the official vote or ballot text. Publish both the build case and the no-build tradeoff before hearings; record whether public input altered a condition, not just whether people attended. This applies [[Compute and Agency]]'s physical-cost ledger and [[Public Trust and AI]]'s earned-legitimacy test. **Why this matters:** voters gain leverage when campaign rhetoric can be checked against the terms that officials actually approve.
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

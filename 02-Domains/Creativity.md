@@ -107,6 +107,12 @@ The brief's core framing: "Leaders should optimise for workflow economics: small
 
 → Sources: arXiv 2609.02620 (2026-09-03); WIRED, "Ugly AI Food Photos Are Only the Beginning" (2026-09-03); [[00-Daily-Digests/2026-09-03]]
 
+### Playable Is Not Finished: Prompt-to-Game Creation (2026-10-11)
+
+[Google's October 7 Playground announcement](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) says US adults can make and share browser games through conversational instructions; its launch notes tiered creation access by AI subscription and a *planned* Unity Spark integration, not a generally available professional workflow. [WIRED's October 11 hands-on test](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/) provides the useful counterweight: Boone Ashworth made three playable games in a day, iterated on controls and mechanics, and found that revisions sometimes created new faults. His usage allowance ran out before he could fix remaining issues; he observed repeated menus and music across games. This is one reporter's test, not a quality benchmark across creators.
+
+The agency gain is a **prototype-to-play loop** for people without game-engine skills. The new bottleneck is taste, testing and affordable iteration: define a distinctive mechanic before prompting, play-test with another person, log failures and compare games side by side for sameness. A working artifact is evidence of access, not yet evidence of originality or sustained creative control. This strengthens the earlier collective-diversity concern and connects to [[Democratization of Expertise]] and [[The AI Slop Backlash]]. **Why this matters:** lowering the entry barrier only expands creative agency if people can revise, differentiate and finish what they start.
+
 ## Related Pages
 - [[AI Writing Partners]]
 - [[AI as Copilot]]
