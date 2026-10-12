@@ -70,6 +70,14 @@ For districts, this is the governance layer that most vendor demos skip because,
 
 Add a five-stage record to the existing configuration record: **offered → privacy/security and curriculum approved → first permitted use → supported teacher/student use → observed instructional outcome**. Record owner and timestamp at each stage. A vendor seat count or announced partnership measures only the first stage; it cannot establish learning gains. Work with [[Education]] on teacher-facing support and [[Adoption Readiness Checklist]] on time-to-clearance and stop authority. Do not put identifiable student data into an unapproved platform to speed a pilot.
 
+### Teacher intent is an artifact, not a prompt (2026-10-12)
+
+[A qualitative study of eight secondary computing teachers](https://arxiv.org/abs/2610.12834) used focus groups and think-aloud sessions with LessonBuilder. Teachers developed instructional intentions *while* creating and inspecting materials, delegated selectively to AI, and retained the judgment of classroom readiness. In computing, that meant checking whether programming tasks and guidance matched students' understanding and the intended learning goal. Eight teachers and one subject area cannot establish effectiveness in Texas K–12 classrooms; this is a workflow-design finding, not a learning-outcome trial.
+
+**District pilot gate:** retain the teacher's target skill and intended misconception, an annotated first draft, the teacher's revisions and a classroom-readiness sign-off. Check standards alignment against the adopted TEKS and local scope and sequence separately; this study does not validate any particular TEKS alignment. Never put identifiable student work in an unapproved drafting tool. [[AI Writing Partners]] describes the parallel author-first pattern; [[Human Review Checkpoints]] supplies the sign-off boundary.
+
+The [WIRED report on Indigenous-language keyboard support](https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/) is **not an AI study**: it illustrates an upstream access condition. Community-led language representation, usable scripts and input methods must exist before a district can assume AI-based translation or literacy support works for a language. In bilingual/ESL procurement, test input, display and review with speakers and language experts instead of assuming English-language demo performance transfers.
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

@@ -82,6 +82,12 @@ Amazon now trains its AI on Twitch creators' content **unless they opt out** (Se
 
 → Source: WIRED Twitch opt-out article (2026-08-15); [[00-Daily-Digests/2026-08-15]]
 
+## Publishing's consent-and-workflow gap (2026-10-12)
+
+[WIRED's interviews with more than two dozen publishing workers](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/) describe AI use in publicity copy, agent email and cover-related work at three large publishers, alongside employee concerns over undisclosed uses, potential exposure of unpublished manuscripts, and a proposed workflow-analysis tool. The reporting includes publisher responses: Simon & Schuster says its approved AI tools are not mandatory; Hachette says it supports operational, not creative, use. Anonymous accounts and a proposed pilot are not proof of a uniform company policy or an installed surveillance system.
+
+Creator rights include the **input** (may a manuscript be uploaded?), the **output** (who approves copy that speaks for a creator?) and the **workplace process** (may workflow traces be used to replace staff?). An AI clause, a permitted tool and a disclosure to the author can answer different questions. This extends [[Digital Fiduciary Duty]] beyond training consent; [[AI Writing Partners]] explains why a human signature on an AI-drafted pitch alone does not establish authorship or care. Ask for a task-by-task approval matrix before procurement rather than a blanket ban or blanket license.
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]

@@ -123,6 +123,12 @@ The fix is interface design, not blame: (1) **decomposed interaction** — break
 
 This is the structural complement to the Four Types of Reliance taxonomy: telling an anxiety-driven writer to "be more intentional" fails when the interface is engineered for collapse. Mode B (co-pilot) is not only a choice the writer makes — it is a property the interface can make nearly impossible. The tool that makes writing feel easiest may be the worst for developing craft (cf. GenUI above) — and now we know why: ease is what collapse feels like. Source: https://arxiv.org/abs/2608.17326
 
+### Faster resumption is not deeper connection (2026-10-12)
+
+In a [two-session study of academic search with 36 participants](https://arxiv.org/abs/2610.12755), steerable AI summaries helped participants resume a search faster and were associated with broader conceptual coverage and higher *self-reported* domain knowledge. Human-authored notes were associated with richer connections among concepts and higher *self-reported* certainty. These are different outcomes, not an overall victory for either condition; the study concerns academic search consolidation, not K–12 writing attainment.
+
+For a writing or research workflow, choose the scaffold to match the learning objective: AI can assemble a revisable evidence map, but the author should write the claim and explain how two sources relate before accepting the summary. Retain the source trail and a next-session note in the author's own words. This adds an observable handoff to the author-first rule and [[Co-Intelligence]] while resisting the mere fluency of [[Cognitive Surrender]]. In school settings, use only approved tools and non-identifiable research material for trials.
+
 ## Related Pages
 - [[Creativity]]
 - [[AI as Copilot]]
