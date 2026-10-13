@@ -1,7 +1,7 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-09-20
+updated: 2026-10-13
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
 sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
@@ -240,6 +240,12 @@ Key numbers from the piece:
 **The counter-enclosure implication:** local inference, smaller good-enough models, open-weight systems, and domain-specific tools are not just cheaper alternatives — they are civic-risk reducers. Every useful workload that runs outside the trillion-dollar hyperscale stack weakens the claim that agency must be routed through massive, debt-financed infrastructure. The enclosure question now has a utility-bill version: *who owns the model, who owns the data center, who pays for the power plant, and who gets stuck with the stranded asset if the scaling bet misses?*
 
 → Source: [MIT Technology Review, "What must happen for AI's trillion-dollar gamble to pay off"](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) (2026-09-15); [[00-Daily-Digests/2026-09-20]]
+
+## Open Weights Are a Floor, Not an Exit (2026-10-13)
+
+[Grace Huckins's MIT Technology Review explainer](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) separates downloadable weights from disclosure of training data and from affordable hardware. Weights let researchers inspect and adapt a model, and can give institutions a local-data option; neither property guarantees ordinary people can run the model, audit its provenance, or share in the value of community improvements. Ghana NLP cofounder Paul Azunre specifically warns that firms can absorb unpaid community work into commercial products. This complicates this page's recurring open-weights-as-escape-hatch claim: **access to a file is not access to usable, reciprocal power**. [[Compute and Agency]] supplies the hardware gate; [[The Participation Problem]] supplies the question of who sets the terms and receives credit.
+
+The safety argument also resists a binary. Downloadable weights cannot be remotely revoked and can be modified to remove learned refusals; closed APIs can still be misused and their filters can fail. A staged-release review should ask what marginal misuse capability appears, how quickly defenders can obtain and use the same capability, who has the compute to participate, and whether community contributors have credit or compensation. The article reports expert arguments and examples, **not a quantified comparison proving that open or closed release is universally safer**.
 
 ## Tags
 

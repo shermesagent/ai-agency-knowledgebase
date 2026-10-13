@@ -62,6 +62,12 @@ The useful move is the **commons ledger**: every AI-heavy workflow should name w
 - Knowledge Collapse — prior framing of the same line; not yet a standalone page
 - [[00-Daily-Digests/2026-08-03]] — "The Pattern Generalizes"
 
+## The Wikipedia Maintenance Test (2026-10-13)
+
+In [Richard Cooke's WIRED book excerpt](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/), Wikipedians' early hope that AI would take over housekeeping gives way to concerns about fabricated sources and low-quality generated articles. The excerpt reports an English Wikipedia restriction on LLM-written articles by March 2026, while allowing translation and minor proofreading. Treat this as the **author's account of a community policy and experience**, not a controlled study of edit quality or a claim about all Wikimedia projects.
+
+The commons question is not simply whether AI makes text faster. It is whether volunteers still want and are able to research, argue about sources, and maintain the underlying knowledge that AI answers reuse. A proposed pilot should measure human editor retention, source correction time and the ratio of substantive contributions to AI-output cleanup, with policy verified against the current community rule before deployment. An AI-assisted draft that creates more verification work than it saves extracts from the commons; bounded proofreading that leaves authorship and citation decisions with people may regenerate it. This connects [[Cognitive Surrender]] to [[The Participation Problem]]: volunteers need the authority to set AI-use rules for the commons they maintain.
+
 ## Tags
 
 #human-agency #ai-education #future-of-work #research #augmentation #risk #superagency
