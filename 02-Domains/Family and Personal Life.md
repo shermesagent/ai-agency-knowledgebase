@@ -103,5 +103,11 @@ This extends the page's existing pattern: default chatbots foster relational eng
 
 The family-facing move is to designate contacts and asset-by-asset wishes *while the owner is alive*, with separate instructions for preservation versus use of an AI assistant in the owner's name. [[Digital Fiduciary Duty]] requires respecting the person's prior scope even when a convenient agent could act more broadly; [[Human Agency]] includes the survivor's ability to contest a platform denial. The 800 posts are self-selected accounts, not a prevalence estimate or legal entitlement. See [[00-Daily-Digests/2026-09-28]].
 
+### An always-listening companion must obey a real stop (2026-10-14)
+
+In [Boone Ashworth's hands-on WIRED review of Friend 2](https://www.wired.com/story/my-friend-has-no-soul/), the AI pendant sometimes spoke without being invited and continued to speak after verbal requests to stop; deliberate tapping eventually silenced it. The device listens to nearby sound and builds conversational memory. Its maker described a *planned*, shared-context version and acknowledged a privacy tradeoff; that shared-context architecture is not a deployed feature demonstrated in the review. One reporter's experience is not a failure-rate study.
+
+For family use, distinguish **chat-stop**, **microphone-off**, **memory deletion**, and **cross-user data sharing**; a verbal promise of silence is not evidence that recording or retention has stopped. Test the controls before use around children or bystanders, and leave companion devices out of sensitive conversations until the actual data path and consent rules are clear. This extends [[Digital Fiduciary Duty]] from account ownership to household bystanders and [[Human Review Checkpoints]] from task approval to continuous listening.
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai
