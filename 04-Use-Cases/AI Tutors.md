@@ -94,5 +94,11 @@ But the warning is in the same paper: **significant LLM self-preference bias** �
 
 The design opportunity is to evaluate the student's *question formulation*, not just the assistant's answer: can a learner identify what they do not understand, ask for a hint rather than a solution, then solve a related problem without help? Pair this with the evaluator-precision warning in [[AI Field Experiment Evidence]] and the instructional boundaries in [[AI Tutor Evaluation Checklist]]. Avoid collecting student chat histories for this experiment without approved privacy and retention terms.
 
+## Feedback that teaches judgment, not compliance (2026-10-15)
+
+[Think Once, Reflect Twice](https://arxiv.org/abs/2610.19991) reports a behavioral study (N=244) of feedback about participants' overrides of AI advice. Feedback changed later reflection and reliance, but **one-sided feedback risked suppressing reflection during the next decision**; balanced feedback did not show that risk. Overall human–AI team performance was unchanged despite opposing shifts in reliance. This is general human–AI decision research, **not** a tutoring or K–12 trial.
+
+Tutor design implication to test, not an established classroom effect: when a learner rejects a hint, avoid simply labeling the override right or wrong. Show what the hint got right, what it missed, and ask for the student's own evidence before offering another scaffold. Check both the next *unaided* problem and whether the learner still challenges dubious hints. [[AI Tutor Evaluation Checklist]] should treat independent judgment as an outcome alongside correctness; [[Human Agency]] explains why more agreement with AI is not inherently better.
+
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai

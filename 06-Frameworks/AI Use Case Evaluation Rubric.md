@@ -48,6 +48,12 @@ This converts the rubric's "measurable in context" criterion from an aspiration 
 
 [Jack Clark's Import AI 475](https://importai.substack.com/p/import-ai-475-swarm-scaling-google) summarizes Toby Ord's swarm-scaling analysis: parallel agents can trade higher total token use for lower elapsed time, with coordination costs. Before approving a swarm use case, compare **same-task** elapsed time, total tokens/cost, review time, error duplication and quality against one agent. Do not book a theoretical wall-clock gain as a measured productivity gain. **Why this matters:** a fast workflow that obscures responsibility or consumes more review than it saves is not automatically agency-expanding. See [[The Participation Problem]] and [[00-Daily-Digests/2026-10-06]].
 
+## Whose success does the benchmark measure? (2026-10-15)
+
+[Whose Data, Whose Benchmark?](https://arxiv.org/abs/2610.19268) audits 16 evaluation resources. Its abstract reports that all 16 documented source-user context but none operationalized the intended *target user's* context. In paired scoring experiments, meaning-preserving answer variants changed DROP exact-match accuracy from 100.0% to 33.3% under the tested setup. Those are findings about the studied resources and scoring examples, not a universal drop in model capability.
+
+**Rubric amendment:** name both the people who supplied the benchmark's content and the people the deployment is supposed to serve. Before treating a vendor score as fit-for-purpose, run a small, consented local set of equivalent answers and contexts, with human review for meaning rather than exact string alone. Record the benchmark version, scoring rule, subgroup/context coverage and failures. In schools, do not upload identifiable student responses to a vendor benchmark as a shortcut; use approved, de-identified or purpose-built test items with privacy review. Cross-check [[AI and Inequality]] and [[AI Field Experiment Evidence]].
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[Responsible Deployment]]
