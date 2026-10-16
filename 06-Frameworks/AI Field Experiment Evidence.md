@@ -64,5 +64,11 @@ This is a measurement design lesson for [[AI Tutors]] and [[Agentic Verification
 
 **Pilot design:** predeclare three distinct outcomes—task result while assisted, explanation/prediction quality, and delayed unaided performance—with the same baseline and a fair comparator for each. Record when a participant challenges or changes the AI recommendation. This turns [[Cognitive Surrender]] and [[AI Coding Agents]] from intuitions into testable transfer questions. Simulation results do not establish K–12 classroom effects or production productivity gains.
 
+## Benchmarks of Human Impact Still Need Field Validation (2026-10-16)
+
+[ImpactBench](https://arxiv.org/abs/2610.20690) proposes expert-guided wellbeing metrics for simulated multi-turn teen/adult conversations: 809 metrics drawn from 26 benchmarks, applied to ten frontier LLMs across 48,540 conversations. The authors report desirable-behavior promotion in 68.7% of evaluations and harm avoidance in 53.1%; majority expert ratings agreed with an automated judge in 83.3% of reviewed cases (Cohen's kappa = 0.667). These are **benchmark evaluations**, not observed improvements or harms in real people. A public metric-to-transcript trail is valuable for checking a score's meaning, but judge agreement is not clinical or educational validity.
+
+Use the benchmark as an *upstream screening* layer for [[AI Use Case Evaluation Rubric]], not a substitute for field evidence: predeclare the local outcome, stress-test teen/adult and contextual differences, independently inspect flagged conversations, then compare real assisted outcomes with an appropriate baseline and delayed unaided outcomes where learning is the goal ([[AI Tutor Evaluation Checklist]]). Do not upload identifiable student or staff conversations to an unapproved benchmark. The distinction between simulated behavior and lived impact is the core measurement boundary.
+
 ## Tags
 #research #practical-ai #augmentation #responsible-ai

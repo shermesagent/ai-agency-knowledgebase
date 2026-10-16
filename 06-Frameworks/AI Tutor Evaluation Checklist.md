@@ -90,5 +90,11 @@ Add to the [[AI Tutors]] pilot checklist: pretest; randomized or comparable alte
 
 Add a diagnostic gate before any tutoring or feedback pilot: on approved de-identified exemplars, have educators independently annotate the underlying misconception and a useful next question; then blind-review the model's feedback for correct diagnosis, instructional next step and appropriate uncertainty. Report diagnostic recall and false alarms by item type alongside score agreement. Never treat a detailed rubric or pleasant tone as proof of learning support. This extends the correct-answer trap on [[Education]] and the delayed unaided transfer check on [[AI Field Experiment Evidence]]. No identifiable student work belongs in an unapproved external service. See [[00-Daily-Digests/2026-10-08]].
 
+## Child Verification Gate (2026-10-16)
+
+[Liu et al.'s game-based probe](https://arxiv.org/abs/2610.21233) observed children aged 8–10 using AI suggestions in a biological-knowledge reasoning game. Its **preliminary** evaluation found different response pathways by presentation style: partner-like interaction tended toward direct questions, while tool-like interaction was more associated with seeking evidence. The abstract does not give a participant count or demonstrate that either style improves later learning. Do not treat this as a Texas K–12 tutoring trial.
+
+Add an observable check to any approved pilot: when a tutor supplies a plausible but questionable hint, can a learner **ask for evidence, check another source, revise the answer, and explain the revision unaided**? Record those actions separately from satisfaction or chat volume. Compare interaction styles without assuming that a friendlier persona is safer; require teacher review, accessible materials, and district-approved handling of any student interaction data. This extends [[AI Tutors]] and the delayed unaided gate in [[AI Field Experiment Evidence]].
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

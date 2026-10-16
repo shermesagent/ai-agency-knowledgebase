@@ -36,6 +36,12 @@ The backlash's abstract stakes — attention dilution, devalued human labor, deg
 
 → Source: [AI Slop Is Ruining Cute Animals on the Internet](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/), WIRED, 2026-08-26
 
+## Copying the Work, Not Just Generating the Face (2026-10-16)
+
+[WIRED's reporting](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/) identifies eight comedians whose videos were replicated by AI-presented accounts, including accounts redirecting viewers toward paid adult content. One comic says a copied routine retained her verbal hesitations; another showed a near-identical stage setting. The reporting distinguishes the creators' complaints, the platform's impersonation/content policies, and Meta's response. It does **not** establish a court finding of copyright infringement or prove the accounts' owners' intent.
+
+The narrow governance lesson is sharper than an AI-content label: disclosure that a performer is synthetic does not credit the *human source of the bit* or give that person a workable dispute path. For an AI-assisted publishing workflow, retain source-to-post attribution, a creator complaint channel with human review, and a record of what was removed and why. This links [[AI and Creator Rights]] to [[The Disclosure Effect]]: labels and provenance answer different questions. Avoid automatic takedowns based only on similarity; common joke premises and legitimate remix need review.
+
 ## Related Pages
 - [[Creativity]]
 - [[AI and Creator Rights]]
