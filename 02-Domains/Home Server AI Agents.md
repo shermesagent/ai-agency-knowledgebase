@@ -136,5 +136,11 @@ For home-server agents, this clarifies the strategic advantage: local systems ma
 
 **Home-server control check:** distinguish (1) what the agent can see and stop, (2) what the host OS and firewall independently prevent, and (3) what an off-host operator can restore. Keep remote desktop off the public internet; use a trusted VPN/tunnel, verify point-release patch behavior rather than assuming a security-update toggle covers it, constrain agent credentials, and rehearse a shutdown/recovery path that does not depend on the suspect agent. Connect the audit to [[Sandbox Integrity]] and [[Responsible Deployment]]. See [[00-Daily-Digests/2026-10-10]].
 
+### Local Privacy Depends on the Network Around It (2026-10-17)
+
+[WIRED's October 17 privacy newsletter](https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/) reports that proposed Canadian C-22 powers could require technical access and metadata retention; Signal and Psiphon say they might leave Canada if the bill passes. This is reporting on a **proposal and stakeholder warnings**, not a statement that backdoors have been enacted. It is also not evidence that local inference alone solves messaging privacy.
+
+For an agent on personal hardware, diagram the path after generation: logs, chat transport, remote model fallback, backup, recipients and metadata. Restrict credentials and retention even where the model is local; confirm that the services carrying its output support the privacy commitments being promised. [[Digital Fiduciary Duty]] frames the data-handling obligation and [[Government and Civic Life]] covers the public-policy tradeoff. **Why it matters:** owning the compute improves control over one boundary, but not over a downstream service or legal obligation to retain data.
+
 ## Tags
 #home-server-ai #ai-agents #practical-ai

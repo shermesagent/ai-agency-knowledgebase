@@ -176,6 +176,12 @@ The civic-AI question is wider than whether a particular model made a decision: 
 
 For civic AI, the constructive unit is a *project-specific public decision record*: proposed site and owner, power/water demands, utility cost allocation, tax terms, expected permanent jobs, developer commitments, an independent review, and the official vote or ballot text. Publish both the build case and the no-build tradeoff before hearings; record whether public input altered a condition, not just whether people attended. This applies [[Compute and Agency]]'s physical-cost ledger and [[Public Trust and AI]]'s earned-legitimacy test. **Why this matters:** voters gain leverage when campaign rhetoric can be checked against the terms that officials actually approve.
 
+## A Bystander-Usable Privacy Control (2026-10-17)
+
+[Boone Ashworth's WIRED review](https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/) describes HTC Vive Eagle glasses that stop capture when the recording light is blocked, respond to a spoken stop request and keep footage encrypted on the device until manual import. These are observed/reported design features and HTC claims, **not an independent security audit**. The reviewer also found that onlookers could not tell at a glance whether the glasses were a different model with different privacy rules.
+
+Extend the September bystander analysis: ask whether a person being recorded can recognize capture, halt it in a noisy or inaccessible setting, discover where footage goes and seek deletion after upload. [[Digital Fiduciary Duty]] is not exhausted by the wearer's settings; [[Public Trust and AI]] depends on an intelligible remedy for non-users. **Why it matters:** if the non-user cannot exercise the control, a privacy-preserving design remains mostly the purchaser's privilege.
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

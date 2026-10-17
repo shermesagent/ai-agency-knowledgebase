@@ -88,6 +88,12 @@ Amazon now trains its AI on Twitch creators' content **unless they opt out** (Se
 
 Creator rights include the **input** (may a manuscript be uploaded?), the **output** (who approves copy that speaks for a creator?) and the **workplace process** (may workflow traces be used to replace staff?). An AI clause, a permitted tool and a disclosure to the author can answer different questions. This extends [[Digital Fiduciary Duty]] beyond training consent; [[AI Writing Partners]] explains why a human signature on an AI-drafted pitch alone does not establish authorship or care. Ask for a task-by-task approval matrix before procurement rather than a blanket ban or blanket license.
 
+## Cheaper Production, Unequal Bargaining (2026-10-17)
+
+In [Ben Thompson's October 15 conversation with Ari Emanuel](https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/), Emanuel argues that AI could lower film-production costs and open opportunities for new creators, while talent representatives would still negotiate economics, distribution and disputes. This is an interested industry participant's forecast, **not** evidence that lower costs currently reach creators. It complements the publishing and comic-attribution cases above: production capacity, ownership and bargaining power are separate variables.
+
+Before licensing AI-assisted character or performance work, document who approves reuse, who shares in savings or revenue, and who can contest synthetic changes to a voice or portrayal. Compare the terms offered to an independent creator with those negotiated for an established client rather than assuming intermediaries or direct distribution always win. [[Creativity]] covers the expressive upside and [[Digital Fiduciary Duty]] the misaligned incentives. **Why it matters:** the ability to make more work only expands creative agency if the creator can still set terms for its use.
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]

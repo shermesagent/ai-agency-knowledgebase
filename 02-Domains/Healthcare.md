@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-10-03
+updated: 2026-10-17
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -176,6 +176,12 @@ Concrete signals worth tracking:
 [WIRED's reporting on HCA's Timpani scheduling system](https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/) places a neglected workflow inside the clinical safety boundary. Nurses interviewed describe unwanted consecutive shifts, thin experience mix and a centralized appeal path that reportedly replaced some local edits. HCA says nursing leaders retain final decisions and cites reduced scheduling hours, reduced contract staffing and improved retention. The nurses' allegations of patient harm have **not** been established as a causal outcome study; the competing accounts need independent staffing and safety data.
 
 An evaluation should compare requested versus assigned shifts, protected-day exceptions, skill mix by shift, fatigue indicators, appeal time and changes made after appeal, alongside patient outcomes. A nominal human final decision means little if the person who knows the ward cannot correct the schedule before it takes effect. This extends [[Human Review Checkpoints]] from clinical recommendations to the staffing infrastructure that determines whether care is possible. No individual patient or employee records belong in an exploratory AI pilot; use de-identified aggregate measures and labor consultation. **Why it matters:** administrative efficiency is an agency gain only if caregivers still have a usable correction path.
+
+### Prediction Is Not a Mechanism (2026-10-17)
+
+[Philip Ball's Quanta explainer republished by WIRED](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/) describes why sequence-only genomic foundation models such as AlphaGenome, Evo 2 and Genos can produce useful predictions without accounting for the complete cell-specific regulation of genes. Enhancers may act at a distance, several regulatory signals interact, and the same sequence is interpreted in different cellular contexts. This is a synthesis of expert views, **not** a comparative benchmark or proof that particular genomic predictions are invalid.
+
+For an AI-assisted clinical or research proposal, separate three claims before deployment: a model predicts a variant's likely effect; experiments support a biological mechanism; a validated care pathway improves a patient's outcome. Do not substitute the first for the latter two. [[AI Field Experiment Evidence]] addresses the translation gap, while [[Human Review Checkpoints]] locates clinical authority. **Why it matters:** widening the scientific search space can expand clinician and patient agency only when uncertainty stays attached to the prediction.
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents
