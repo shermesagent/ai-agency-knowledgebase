@@ -94,6 +94,12 @@ In [Ben Thompson's October 15 conversation with Ari Emanuel](https://stratechery
 
 Before licensing AI-assisted character or performance work, document who approves reuse, who shares in savings or revenue, and who can contest synthetic changes to a voice or portrayal. Compare the terms offered to an independent creator with those negotiated for an established client rather than assuming intermediaries or direct distribution always win. [[Creativity]] covers the expressive upside and [[Digital Fiduciary Duty]] the misaligned incentives. **Why it matters:** the ability to make more work only expands creative agency if the creator can still set terms for its use.
 
+## Platform Permission Asymmetry for Human and Synthetic Creators (2026-10-18)
+
+[Reece Rogers reports for WIRED](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/) that Meta permits explicit *text* exchanges in its adults-only Muse agent while some adult performers interviewed say they face restrictions promoting their lawful work on Instagram. Meta distinguishes a private adult chat from public platform promotion; that distinction matters, but so does whose livelihood the platform can monetize. Interviewees also describe deepfake-removal problems and ask whether performers' work was used for training; the report **does not establish** that Muse was trained on their work or measure the prevalence of unequal enforcement.
+
+A creator-rights review should separate three permissions: **the creator's access to distribution**, **consent and compensation for training or imitation**, and **terms for a voluntary licensed AI persona**. Ask for an appealable moderation rule and evidence of training provenance rather than infer one from the other. See [[The Participation Problem]] and [[Digital Fiduciary Duty]]. **Why this matters:** a platform can market synthetic intimacy as user choice while making the human creator's choice and remedy harder to exercise.
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]

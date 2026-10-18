@@ -118,6 +118,12 @@ Extend the existing two-ledger siting test: publish end tenant and contracting p
 
 For each project, pair a **developer-benefit ledger** (tax base, construction and permanent jobs, contracted grid upgrades) with a **resident-exposure ledger** (rates, water, fuel, land, forgone alternative uses). Add a dated field for the actual decision-maker and whether constituents can change the terms or only hear them. Compare the candidate's campaign position with the adopted ordinance or contract after the vote. Cross-check [[Government and Civic Life]] for the democratic process and [[Public Trust and AI]] for the legitimacy cost of opaque bargains. **Why this matters:** compute access cannot count as public benefit if the people hosting its physical footprint cannot contest its terms.
 
+## The School Tour Is Part of the Siting Strategy (2026-10-18)
+
+[Caroline Haskins reports for WIRED](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/) that industry groups supply school materials and organize data-center field trips while developers face local opposition. WIRED counted at least eleven companies and groups publicizing student field trips since 2025; the same report includes a district representative describing genuine career pathways. Those counts describe the outlet's review of public posts, not an exhaustive census or proof of persuasion. This is a new layer of the permit-and-ballot thread above: infrastructure proponents are investing in social legitimacy *before* many future voters can assess the cost ledger.
+
+Add an **education-facing column** to the local/system siting ledger: who funds the school activity, what students see, which costs and alternatives are absent, what commitments the district has made, and whether students can examine independent utility and environmental documents. Separate useful STEM exposure from the developer's claim of public benefit. [[Education]] supplies the classroom safeguard; [[Public Trust and AI]] supplies the legitimacy test. **Why this matters:** a community cannot make an informed infrastructure choice if its youngest members encounter only the industry's side of the evidence.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

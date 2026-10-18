@@ -380,5 +380,11 @@ In a 10-week Drexel data-science-course study, [An and Wang](https://arxiv.org/a
 
 The new procurement failure mode is *optimization validity*: even a plausible per-turn measure can reward the wrong behavior when used for training. Pair [[AI Tutor Evaluation Checklist]]'s misconception checks with whole-session educator review and delayed, unaided learner performance. Keep any test on public or district-approved de-identified scenarios; no identifiable student work goes to an unapproved service. See [[Generative Refusal]], [[AI Field Experiment Evidence]] and [[00-Daily-Digests/2026-10-09]].
 
+## Industry Materials Are Not Neutral Curriculum (2026-10-18)
+
+[WIRED's October 18 report](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/) documents data-center trade-group coloring sheets, elementary-school materials and field trips, including a reported flag-kit distribution to 3,100 first graders at 37 Loudoun County schools. The article quotes an education-policy researcher warning that school access can function as reputation-building for a contested industry; a Quincy district representative also describes visits that offer career exposure and internships. This is reported outreach, **not** evidence that students changed their views or that every field trip is propaganda.
+
+For a district, the question is not whether students should learn how computing infrastructure works—they should—but **who frames the lesson and which claims can students test?** A teacher-led investigation can pair a site visit with independently sourced rate, water, emissions, tax and jobs data; disclose the sponsor; invite affected residents and utilities; and ask students to distinguish a technical claim from a civic tradeoff. Do not place identifiable student information in an unapproved industry tool or turn a vendor's handout into an unreviewed lesson. This joins [[Compute and Agency]]'s local-impact ledger to [[Balanced Governance]]'s requirement that evidence precede consent. **Why this matters:** real career exposure expands agency when students can question the host's incentives, not just tour the facility.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

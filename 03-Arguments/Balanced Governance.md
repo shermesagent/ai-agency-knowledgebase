@@ -387,6 +387,12 @@ For AI-generated mathematics, the [independent advisory group's release recommen
 
 **Governance test:** ask what the label claims, what the evidence establishes, who can identify an error, who owns downstream corrections and who has authority to stop use pending review. These are operational questions for [[Responsible Deployment]], not a choice between innovation and safety. See [[00-Daily-Digests/2026-10-10]].
 
+## A Draft Law Is Not a Safety Guarantee (2026-10-18)
+
+[Zvi Mowshowitz's October 17 critique](https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory) describes a *purported* Anthropic discussion draft that he and quoted commentators say would preempt some state safeguards while narrowing federal intervention powers. The same post quotes a more favorable analyst who credits continuing auditors and improved information access but finds rulemaking and emergency shutdown weaker than the FRONTIER Act. This is **commentary on a leaked draft**, not enacted legislation, a verified account of Anthropic's final position, or an independent legal construction. Do not translate its allegations into legal advice without checking the draft and legislative text.
+
+The durable governance test is independent of whose logo is on the draft: map which state protections disappear, what federal authority replaces them, what auditors may inspect, what triggers an injunction and who can actually stop a dangerous deployment. Compare that map with [[Human Review Checkpoints]]' stop rights and [[Responsible Deployment]]'s evidence-and-restart loop. Transparency that survives while effective stop authority disappears may leave affected people worse off; conversely, an overly broad stop power can be abused. **Why this matters:** governance is a distribution of enforceable authority, not a disclosure count.
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]
