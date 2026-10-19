@@ -42,6 +42,12 @@ Traditional activity metrics (calls handled, reports filed) become meaningless w
 - New accountability questions (who's responsible when AI errs?) have no settled answers
 - The framework assumes organizational willingness to fundamentally redesign — many will try to layer agents on existing structures and fail
 
+## Transformation Includes the Exit, Not Just the Launch (2026-10-19)
+
+[WIRED's review of Character.AI court filings](https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/) describes a proposed Disney arrangement to hire most staff and bid for a technology license during Chapter 11, while the startup remains the named party in litigation and investigations. The license is subject to auction and court approval; the reported IP list excludes user data. This is a proposed transaction, not a completed judicial transfer of liability. Still, it exposes a gap in this vendor-sponsored framework: an agent operating model must work when a provider fails, sells assets or moves its team—not only while the deployment grows.
+
+**Exit gate:** before procurement, record (1) custody and deletion of client/user data, (2) ownership of incident logs and safety controls, (3) a surviving human contact for complaints, (4) retention and appeal rights for affected people, and (5) the contractual transition plan if staff, model rights and obligations separate. Test the plan without real student or patient records. [[Digital Fiduciary Duty]] covers purpose limits on entrusted data; [[Public Trust and AI]] covers whether an affected person can actually get a remedy. **Why this matters:** faster service with no accountable operator after a vendor exit is not agency expansion. See [[00-Daily-Digests/2026-10-19]].
+
 ## Related Pages
 - [[Frontier Firm]] — ABT is the operating model for the Frontier Firm concept
 - [[Work]] — the workforce transformation dimension

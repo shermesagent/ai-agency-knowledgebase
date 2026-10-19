@@ -130,6 +130,12 @@ The [Working with AI design framework](https://arxiv.org/abs/2609.31793) (Lu et 
 
 **Research workflow:** attach a comprehension and correction record to each AI-assisted claim: precise statement, prior-art check, human explainer, formalization scope, independent review, dependent claims and public revision/withdrawal history. Treat publication, machine verification and scientific understanding as separate milestones. This sharpens the mechanism gate above and the evidence standard in [[The Comprehension Bottleneck]]. See [[00-Daily-Digests/2026-10-10]].
 
+## Collaboration Is a Design and Evidence Problem (2026-10-19)
+
+[Zheng, Pan and Lan's 9A Framework](https://arxiv.org/abs/2610.22948) organizes collaborative science into **organization** (Activity, Actor, Authority), **coordination** (Awareness, Accountability, Adaptability) and **evaluation** (Achievement, Attribution, Assurance). It is a design framework in an arXiv preprint, not a trial showing that nine-part workflows outperform alternatives. Its useful correction to the throughput narrative above: decide *who can authorize a consequential conclusion* before counting how many hypotheses the agent generated. Record human and agent contributions, revisions and independent assurance alongside the outcome. Compare with [[AI Research Agents]]' design/verdict split and [[The Comprehension Bottleneck]]'s demand for human-understood claims.
+
+**Why this matters:** an agent can improve proposal volume while leaving responsibility, attribution and validation ambiguous. A pilot should specify one research decision, its human owner, a correction path and a comparison against a non-agent workflow; a framework alone is not evidence of scientific benefit. See [[00-Daily-Digests/2026-10-19]].
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

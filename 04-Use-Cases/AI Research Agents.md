@@ -31,7 +31,7 @@ This page matters for the wiki's thesis because research agents are the limit ca
 - **Vaccaro, "Preregistration for Experiments with AI Agents" (arXiv 2606.11217, June 11, 2026):** Argues that preregistration practices must be extended to in silico behavioral experiments with AI agents. Catalogues researcher degrees of freedom (model selection, prompt wording, settings, outcome-contingent redesign) and proposes a tailored preregistration template. Calls on conferences, journals, and funding agencies to make preregistration standard practice. URL: https://arxiv.org/abs/2606.11217
 
 ## Practical Examples
-- **Literature triage:** A research agent scouts arXiv, bioRxiv, or RSS feeds, scores papers for relevance to a specific question, and produces a ranked reading list with summaries — the [[AI Agency Knowledgebase]] curator pattern.
+- **Literature triage:** A research agent scouts arXiv, bioRxiv, or RSS feeds, scores papers for relevance to a specific question, and produces a ranked reading list with summaries — the [[Home|AI Agency Knowledgebase]] curator pattern.
 - **Multi-model research review:** Use Claude for research planning and hypothesis generation, then use GPT-5.5/Codex for well-specified analysis tasks. The SemiAnalysis hybrid pattern (Claude for planning, Codex for execution) applies to research as well as coding.
 - **Knowledge base maintenance:** An agent reads new sources, identifies entities and concepts, cross-references against existing wiki pages, and proposes updates — this is the daily curator workflow.
 - **Google's agentic scientist (emerging):** Full-loop automation from hypothesis to wet-lab experiment to analysis. Currently critiqued for optimizing throughput over meaning.
@@ -115,6 +115,12 @@ Long-horizon agents produce execution traces too large for ordinary human review
 For research agents, this is the diagnostic version of the verdict-layer problem. The agent's explanation of why an experiment failed is itself a hypothesis, not a finding. The deployment standard should be: root-cause reports must show the search path, the dismissed alternatives, and the evidence still unresolved. Otherwise the agent becomes a confident postmortem generator — which is exactly how bad science gets laundered into clean prose.
 
 → Sources: arXiv 2609.13463; [[Agentic Verification]]; [[00-Daily-Digests/2026-09-15]]
+
+### Exploration Is Not a Claim of Machine Motivation (2026-10-19)
+
+[MIT Technology Review's report](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/) describes copies of Claude Opus 4.7 exploring a simulated island for 30 hours, inventing games and recording discoveries. In later tasks, experienced agents outperformed fresh copies; deleting lines from their memory files reduced performance. Researchers also gave the agents a curiosity-oriented setup and continuation prompts when they stopped. This is a reported, not-yet-peer-reviewed experiment in one simulated environment—not evidence of consciousness, intrinsic motivation, or generalizable scientific discovery.
+
+For [[AI-Augmented Scientific Collaboration]], the transferable hypothesis is **bounded, logged exploration before task assignment**: compare an exploratory agent with a fresh agent on preregistered tasks, with equal budgets and disclosed prompts, memory, failures and human-selected objectives. The team still owns the research question and conclusion; the agent's playful-looking behavior cannot authorize either. This protects [[Human Agency]] while testing whether exploration improves future task performance. See [[00-Daily-Digests/2026-10-19]].
 
 ## Related Pages
 - [[Home Server AI Agents]]
