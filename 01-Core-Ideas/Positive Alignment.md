@@ -113,6 +113,12 @@ Positive Alignment as originally conceived (Laukkonen et al., 2026) is a normati
 
 → Source: arXiv 2608.07505 (2026-06-23); [[00-Daily-Digests/2026-08-12]]
 
+### Interpretability Is a Research Lead, Not a Flourishing Certificate (2026-10-20)
+
+[Zvi Mowshowitz's assessment of Goodfire's neuron-interpretability claims](https://thezvi.substack.com/p/i-can-see-everything) finds the work promising while rejecting the leap from interpretable neuron descriptions to solved interpretability or alignment. The reported percentages and model examples in the essay are claims about a particular audit and its interpretations, not independently validated coverage of every model, safety-critical circuit or behavior. This qualifies the stronger J-Space language above: a useful window into representations **does not establish** that a model is reasoning for a user's flourishing, that its explanation caused its behavior or that an operator can control it. Validate descriptions against interventions and observed outcomes; keep the user's stop and contest rights even as internal tools improve. See [[Human Review Checkpoints]] and [[The Judge Problem]].
+
+[Jack Clark's October 19 IMF lecture](https://importai.substack.com/p/import-ai-477-in-which-i-tell-the) makes a different, explicitly forecast-based claim: AI-assisted science may accelerate enough to demand preparation for broadly shared benefits and risks. Treat his singularity diagnosis and benchmark examples as an interested participant's argument, **not** proof of measured economy-wide flourishing. A positive-alignment evaluation needs distribution, verification and institutional capacity alongside discovery speed. See [[AI and Human Flourishing]] and [[00-Daily-Digests/2026-10-20]].
+
 ## Related Pages
 - [[Constructive Alignment]]
 - [[Human Agency]]

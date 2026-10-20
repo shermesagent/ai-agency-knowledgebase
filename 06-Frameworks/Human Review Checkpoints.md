@@ -107,6 +107,12 @@ Perez's **Law of Stop** paper (arXiv 2609.22882) turns checkpoint placement into
 
 [Conklin, Gao and North's cyber-operations preprint](https://arxiv.org/abs/2610.02384) proposes routing AI-generated anomaly explanations to reviewers using both event risk and environmental proxies for operator workload and connectivity. It is a **reference architecture**, with maritime examples, not a field trial proving safer cyber operations. The useful challenge to this framework: a correctly placed stop is not meaningful if the assigned human cannot process the evidence or reach help. At each high-stakes checkpoint, record the decision owner, available time, current workload, connectivity, escalation path and whether the system actually stopped pending review. If capacity is inadequate, queue or halt the action rather than treating an unanswered notification as approval. This bridges [[Cognitive Surrender]] and [[Responsible Deployment]]: preserve the reviewer's capacity as well as their formal right to stop. See [[00-Daily-Digests/2026-10-05]].
 
+### Review Must Fail Differently (2026-10-20)
+
+[Amoei, Fraser and Poenaru](https://arxiv.org/abs/2610.25279) argue that a clinician-plus-LLM second check only adds protection when the two reasoners' errors do not substantially overlap. Their paper proposes a **site-specific predeployment error-overlap audit and ongoing governance**, not a measured clinical benefit. In particular, model deference to a clinician or clinician deference to a model can erode the independence on which the second check depends. For any high-stakes review workflow, sample matched cases, record human-only and AI-only judgments before either sees the other's answer, examine shared misses and repeat after workflow changes. Overall accuracy alone cannot tell whether review caught the first reasoner's errors. In clinical settings this is a governance design hypothesis, not patient-care advice or validation of a particular model.
+
+Connect the overlap test to [[Agentic Verification]] and [[Responsible Deployment]]: a reviewer's stop right matters only if the reviewer has independent evidence and enough capacity to use it. See [[00-Daily-Digests/2026-10-20]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]

@@ -140,6 +140,12 @@ An org chart can help assign responsibility, but the agent is not a human collea
 
 For a workplace buyer, require actual site-task coverage, recovery/override, safety incidents, uptime, maintenance burden and worker feedback before assigning labor savings. This is [[Task-Level AI Adoption]] applied to embodied tasks and [[The Turing Trap]] applied to substitution claims. **Why it matters:** physical AI may expand capacity, but workers' agency depends on reliable assistive tasks and a usable stop, not on humanoid appearance. See [[00-Daily-Digests/2026-10-08]].
 
+### Listening Is Not the Same as Being Heard (2026-10-20)
+
+[Tamme and Levin's research proposal](https://arxiv.org/abs/2610.25548) distinguishes the *informational* benefit of employee voice (ideas routed into improvements) from the *relational* benefit (workers experience being heard). It proposes, but has **not yet run**, a three-arm field intervention with roughly 2,000 consultants comparing no structured voice, human-led surveys and AI conversational listening. The design is useful even without results: a rollout should separately measure ideas implemented, worker-reported listening, participation by role and whether workers can challenge management's response. A high-volume AI suggestion inbox is not evidence that employee agency improved.
+
+This is the workplace version of [[The Participation Problem]]: extraction of worker ideas without response or bargaining can increase management information while shrinking worker influence. Pair any listening tool with a named human response owner, visible disposition of suggestions and a non-AI route for sensitive concerns. See [[Human Agency]] and [[00-Daily-Digests/2026-10-20]].
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]
