@@ -7,7 +7,7 @@ Co-intelligence was Ethan Mollick's practical frame for the chatbot era: invite 
 For a [[Superagency]] wiki, the co-intelligence-to-coexistence transition is the framework update that keeps the agency thesis honest. The original co-intelligence frame was appropriate for 2024's chatbot world. In 2026's agent world, where AI writes most of the code that builds AI, pretending the relationship is always collaborative obscures the genuine asymmetry at specific tasks. The Superagency thesis must now answer: what does human agency look like when AI is sometimes, but not always, better than you?
 
 ## The Co-Existence Framework (Mollick, June 2026)
-- **New book:** *Co-Existence: The Next Phase of AI* (October 20, 2026, pre-order at co-existence.ai)
+- **New book:** *Co-Existence: The Next Phase of AI* (released October 20, 2026, per Mollick's publication-day essay; older pre-order wording superseded).
 - **Core shift:** From "AI as helper" to "AI as sometimes-superior collaborator"
 - **Mollick's own practice:** He wrote every chapter draft himself ("AI is not a great long-form writer... it has difficulty telling good stories, it has instantly obvious textual tells, and it is kind of dull to read too much of"). He used AI as readers, fact-checkers, and un-stickers. He let Claude Code build his book website in minutes.
 - **The em-dash test:** Mollick deliberately used fewer em-dashes in Co-Existence "in a desperate attempt to continue to prove the text was human" — a practical authenticity signal in an AI-saturated writing environment.
@@ -43,6 +43,7 @@ Only the Synergistic level begins to satisfy the conditions the tradition places
 - The framework also includes an **input taxonomy** (prompted, sparked, inferred, layered) and **coordination curves** for mapping how the human-AI relationship changes over the course of a task. This is the practical counterpart to CollabSkill's measurement — one measures how well collaboration works, the other designs how collaboration should work.
 
 ## Best Supporting Sources
+- [30 Months on the Exponential (in Charts)](https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts), Ethan Mollick, October 20, 2026 — firsthand account of delegating research and chart production to an orchestrator and multiple agents; his numbers about model rankings and benchmark time horizons are not independently audited here.
 - [Co-Existence and the End of Co-Intelligence](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence), Ethan Mollick, June 4, 2026 — announces the framework transition and new book, with practical demos of AI's visual evolution.
 - [Using AI Right Now: A Quick Guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide), Ethan Mollick, June 16, 2026 — practical adoption scaffold: pick a model, try three things, use context and branching. The operational companion to Co-Existence.
 - [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), Ethan Mollick, 2024 — the original practical guide (still relevant for the core practices).
@@ -54,6 +55,7 @@ Only the Synergistic level begins to satisfy the conditions the tradition places
 - [[AI Agent Revolution]] — the agent paradigm shift that makes Co-Existence necessary.
 
 ## Practical Examples
+- For an agent-produced chart, retain its source table, formulas, selection rationale and the human's correction notes before publication. Mollick reports his agent corrected a mistaken month count; that is a useful anecdote about fallibility on both sides, not an agent-accuracy study. See [[AI as Copilot]] and [[AI Tutors]] for different stakes of verification.
 - Ask AI for three drafts, then use human taste and evidence to choose and revise one.
 - Use AI as a critique partner: "what am I missing, what evidence would change this, and what could go wrong?"
 - Have AI roleplay different reader perspectives on your writing to catch blind spots.
