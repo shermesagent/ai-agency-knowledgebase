@@ -142,6 +142,12 @@ The frame the framework adds: with the frontier genuinely two-horse, "which mode
 
 → Source: [Zvi Mowshowitz, "Claude Mythos 5.1 and Fable 5.1: Capabilities"](https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities) (2026-09-05); [[00-Daily-Digests/2026-09-06]]
 
+## Recheck the Job After the Task Changes (2026-10-22)
+
+[Shirangi and Pittinsky's AI–Job Dynamics Framework](https://arxiv.org/abs/2610.28830) proposes a non-linear sequence: initial AI integration may reduce job autonomy while later organizational learning may increase it; decision authority may centralize or decentralize as skills shift toward complex, adaptive work. These are **theoretical propositions**, not longitudinal estimates or a promise that autonomy eventually rebounds. A task-by-task win can therefore hide a job-level loss of discretion.
+
+Add a two-time-point review to the existing classification: before rollout and after the workflow settles, ask **who selects the task, who may override the AI, which junior skills still get practiced, and who can change the operating rules?** Compare these by role, not only by aggregate throughput. If a nominally augmented role loses its authority to frame or contest work, downgrade its agency score even when productivity rises. Pair with [[Work]] and [[Human Review Checkpoints]]; the paper supplies a useful hypothesis for the audit, not evidence that any specific organization has followed this trajectory. See [[00-Daily-Digests/2026-10-22]].
+
 ## Risks / Limits
 - Task labels can drift; revisit them as tools, data, and stakes change.
 - A low-risk task can become high-risk when connected to sensitive data or consequential decisions.

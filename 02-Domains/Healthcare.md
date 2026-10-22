@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-10-17
+updated: 2026-10-22
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -182,6 +182,12 @@ An evaluation should compare requested versus assigned shifts, protected-day exc
 [Philip Ball's Quanta explainer republished by WIRED](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/) describes why sequence-only genomic foundation models such as AlphaGenome, Evo 2 and Genos can produce useful predictions without accounting for the complete cell-specific regulation of genes. Enhancers may act at a distance, several regulatory signals interact, and the same sequence is interpreted in different cellular contexts. This is a synthesis of expert views, **not** a comparative benchmark or proof that particular genomic predictions are invalid.
 
 For an AI-assisted clinical or research proposal, separate three claims before deployment: a model predicts a variant's likely effect; experiments support a biological mechanism; a validated care pathway improves a patient's outcome. Do not substitute the first for the latter two. [[AI Field Experiment Evidence]] addresses the translation gap, while [[Human Review Checkpoints]] locates clinical authority. **Why it matters:** widening the scientific search space can expand clinician and patient agency only when uncertainty stays attached to the prediction.
+
+### Local Genomics Is Not a Clinical Green Light (2026-10-22)
+
+[WIRED reports](https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/) that Hugging Face and collaborators released Carbon-X, a 14-billion-parameter conversational DNA model intended to run locally, accepting sequence windows of roughly 50,000 base pairs. Developers say they excluded viruses from training and that local operation avoids sending queried data to Hugging Face; these are reported design claims, not an independent privacy or biosecurity audit. Most importantly, the developers told WIRED that predictions have **not yet been validated in wet-lab experiments**. Do not use conversational variant explanations to diagnose a patient or select treatment.
+
+For a research-only trial, test a public, non-identifiable sequence with a known experimental reference and log prediction, uncertainty, model version and discordance; require separate wet-lab and clinical validation before any care claim. Local execution may reduce transmission exposure but does not remove device-security, access-control or inference risks. This extends the prediction → mechanism → care ladder above and [[Digital Fiduciary Duty]]'s data-scope rule; [[AI Field Experiment Evidence]] is the next gate. No patient genome should be used for this exploratory test.
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents
