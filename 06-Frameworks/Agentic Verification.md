@@ -188,6 +188,12 @@ Two September papers sharpen this framework's evidence layer: agents need indepe
 
 → Sources: [GraphEcho, arXiv 2609.17695](https://arxiv.org/abs/2609.17695); [Publication Authority / PAC-2026, arXiv 2609.17631](https://arxiv.org/abs/2609.17631); [[00-Daily-Digests/2026-09-17]]
 
+### Community verification is a proposal, not a working oracle (2026-10-23)
+
+[AI-Native Academia Should Build a Community Verification Layer](https://arxiv.org/abs/2610.30549) proposes making routine reading and checking reusable as claim- and version-linked evidence, escalating from comprehension notes to audits, artifact execution, reproduction and replication. It proposes independent judgments before social signals, disagreement preservation and credit for verification labor. This is an infrastructure **proposal**, not a deployed evaluation or measured reduction in false claims. It extends this page's structural-evidence thesis beyond one agent's trace: verify a claim against its exact artifact/version, preserve independent origins and send scarce experts to high-impact uncertainties ([[AI-Augmented Scientific Collaboration]], [[Human Review Checkpoints]]).
+
+The companion [human–AI scientific-ideation study](https://arxiv.org/abs/2610.30568) reports that an AI judge favored AI-assisted proposals despite no corresponding significant human-rated idea-quality advantage. That makes the verification layer's proposed independence rule operationally important: blind the first human review to collaboration provenance, compare rankings rather than only mean scores, then inspect versioned evidence before credit or publication. A judge-alignment difference in one experiment does not establish bias in every deployed judge ([[AI Field Experiment Evidence]]). [[The Judge Problem]] remains an active measurement question.
+
 ## Tags
 
 #verification #agents #responsible-ai #frameworks #superagency
