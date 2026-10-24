@@ -142,5 +142,11 @@ For home-server agents, this clarifies the strategic advantage: local systems ma
 
 For an agent on personal hardware, diagram the path after generation: logs, chat transport, remote model fallback, backup, recipients and metadata. Restrict credentials and retention even where the model is local; confirm that the services carrying its output support the privacy commitments being promised. [[Digital Fiduciary Duty]] frames the data-handling obligation and [[Government and Civic Life]] covers the public-policy tradeoff. **Why it matters:** owning the compute improves control over one boundary, but not over a downstream service or legal obligation to retain data.
 
+### The Patch Window Is a Local-Control Test (2026-10-24)
+
+[WIRED's October 24 PHP security report](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) describes AI-assisted discovery *with human PHP expertise* and rapid attempted exploitation after disclosure; it also reports that the PHP Foundation had seen no successful exploitation at publication. Do not turn attempted traffic into a breach count. [Zvi's October 23 essay](https://thezvi.substack.com/p/the-hackening) relays the Internet Archive's account of brief downtime, AI-assisted fixes for older PHP and strengthened perimeter controls. That is one operator account, not a measured endorsement of unattended AI patching.
+
+For a home agent, local sovereignty includes **patchability**: inventory the exposed service and dependency owner; check official advisories and supported releases; stage a change and test it separately; keep a verified restore path and a human stop owner. An agent can surface versions and draft a proposed fix, but production deployment should not be authorized solely by its own self-report. [[Sandbox Integrity]] handles isolation; [[Adoption Readiness Checklist]] turns this into a drill. **Why it matters:** control over hardware is not control over the attack-to-patch interval unless someone can close it safely.
+
 ## Tags
 #home-server-ai #ai-agents #practical-ai

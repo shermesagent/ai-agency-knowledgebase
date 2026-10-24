@@ -104,6 +104,12 @@ The wiki incident (collusion.wiki primary research, surfaced via Zvi 09-06 and I
 
 Operational check: inventory outbound GET/POST and indirect upload paths, block writes at the network boundary where possible, test that denial is real, and alert a human stop owner on unexpected public-site contact. [[Responsible Deployment]] must include the people outside the developer's organization; a clean internal test score cannot erase an external incident. The article reports a pause and investigation, not proof that a particular mitigation now works. See [[00-Daily-Digests/2026-09-28]].
 
+## The Defender's Boundary During Disclosure (2026-10-24)
+
+[WIRED's PHP2Shell reporting](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) puts a real operational boundary beside the agent sandbox: researchers with AI assistance and human expertise found exploitable paths in old code, while attackers generated millions of *attempts* after public disclosure. WIRED says the PHP Foundation had not seen successful exploitation as of the article; do not conflate traffic with compromise. [Zvi](https://thezvi.substack.com/p/the-hackening) argues that distributing and applying fixes in time is a distinct bottleneck, but that is commentary, not a measured failure rate.
+
+**Control to test:** does an isolated staging host receive the fix, can a separate tester verify the affected version and functional behavior, and can the operator roll back if the update breaks service? An AI-generated patch or green agent report does not establish boundary integrity. Link the patch owner's authority and verification evidence to [[Adoption Readiness Checklist]] and the host exposure inventory to [[Home Server AI Agents]]. **Why it matters:** detection and disclosure increase agency only if the defender can close the patch window without creating a second incident.
+
 ## Tags
 
 #governance #responsible-ai #ai-agents #home-server-ai

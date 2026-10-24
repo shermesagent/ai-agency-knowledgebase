@@ -114,6 +114,10 @@ An [arXiv think-aloud study of 20 professionals](https://arxiv.org/abs/2610.1466
 
 For persistent or ambient systems, separately demonstrate a **physical or independently verified stop** and a data-retention off switch. [A WIRED hands-on companion review](https://www.wired.com/story/my-friend-has-no-soul/) found that the pendant kept speaking after promising silence; that single observation does not prove ongoing recording. A stop test must therefore observe actual device state and audit data behavior, not rely on a conversational assurance. See [[Family and Personal Life]].
 
+## Patch-window readiness check (2026-10-24)
+
+[WIRED's October 24 PHP report](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) shows the timing problem: AI-assisted discovery plus human expertise can expose older weaknesses, and large volumes of attempted exploitation followed disclosure. It reports **attempts**, not confirmed mass compromise; [Zvi's follow-up](https://thezvi.substack.com/p/the-hackening) argues patch distribution is the constraint. Before granting an AI agent standing maintenance authority, record (1) a service/dependency owner, (2) an authoritative advisory and affected-version check, (3) a staged test and independently observable result, (4) a human change approver, and (5) a restore route if the patch fails. If any is missing, use the agent for inventory and drafting only. A local [[Home Server AI Agents]] deployment faces the same question as a larger [[Sandbox Integrity]] program: can you close the loop without assuming the assistant's fix worked? **Why it matters:** a fast patch proposal is not a safe, applied patch.
+
 ## Quick Adoption Readiness Scorecard
 
 | Dimension | Check | Score (1-5) |
