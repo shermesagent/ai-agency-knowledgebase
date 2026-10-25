@@ -182,6 +182,12 @@ For civic AI, the constructive unit is a *project-specific public decision recor
 
 Extend the September bystander analysis: ask whether a person being recorded can recognize capture, halt it in a noisy or inaccessible setting, discover where footage goes and seek deletion after upload. [[Digital Fiduciary Duty]] is not exhausted by the wearer's settings; [[Public Trust and AI]] depends on an intelligible remedy for non-users. **Why it matters:** if the non-user cannot exercise the control, a privacy-preserving design remains mostly the purchaser's privilege.
 
+## A Permit Must Include the Displacement Option (2026-10-25)
+
+[Molly Taft's WIRED interview with Paris Marx](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/) describes an Irish sequence: constrained Dublin grid connections, developers looking elsewhere and interest in dedicated gas power. That is Marx's account, not a causal audit of every subsequent project. [WIRED's report from Germany](https://www.wired.com/story/europe-data-centers-climate-change/) describes proposed relief from obligatory waste-heat reuse when no practical heat customer exists; the change awaited parliamentary approval. Both complicate the October 11 project record: a local veto without tracking where demand goes can hide burden-shifting, while an unconditional benefit promise can depend on nonexistent municipal infrastructure.
+
+At a public hearing, require a short alternatives table: build here with stated water/power/heat contracts; build elsewhere with the receiving jurisdiction and fuel source named; reduce or defer capacity; or use smaller/local provision where the task permits. Record which option residents could alter, the agency with final authority and who verifies post-permit commitments. This joins [[Compute and Agency]] to [[Public Trust and AI]]: deliberation needs comparable choices, not a binary developer pitch. **Why it matters:** civic agency is the power to change a condition or choose an alternative, not just register opposition.
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-10-25|Daily AI Agency Digest — 2026-10-25]] (The Displacement-and-Correction Test)
 → [[00-Daily-Digests/2026-10-24|Daily AI Agency Digest — 2026-10-24]] (The Patch-Window Test)
 → [[00-Daily-Digests/2026-10-23|Daily AI Agency Digest — 2026-10-23]] (The Verification-With-People Test)
 → [[00-Daily-Digests/2026-10-22|Daily AI Agency Digest — 2026-10-22]] (The Preference-Through-Delegation Test)
@@ -98,6 +99,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-10-25 | Compute and Agency, Government and Civic Life, Reward Hacking, Articles — Pass 81, 00-Daily-Digests/2026-10-25, Home |
 | 2026-10-24 | Home Server AI Agents, Sandbox Integrity, Adoption Readiness Checklist, Articles — Pass 80, 00-Daily-Digests/2026-10-24, Home |
 | 2026-10-23 | Family and Personal Life, AI Field Experiment Evidence, Agentic Verification, Articles — Pass 79, Papers — Pass 57, 00-Daily-Digests/2026-10-23, Home |
 | 2026-10-22 | Digital Fiduciary Duty, Task-Level AI Adoption, Healthcare, Articles — Pass 78, Papers — Pass 56, 00-Daily-Digests/2026-10-22, Home |
@@ -247,15 +249,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. Counts cover 81 existing reader pages in 01–04 and 06, excluding section READMEs. Computed 2026-10-24 from latest Git commit dates, treating today's three edited durable pages as refreshed.
+Pages that need curator attention. Counts cover 81 existing reader pages in 01–04 and 06, excluding section READMEs. Computed 2026-10-25 from latest Git commit dates, treating today's three edited durable pages as refreshed.
 
 **Staleness by days since last edit:**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | 57 reader pages | The Expression Gap; Intelligence Amplification; Frontier Firm |
-| 5–7 days | 9 reader pages | Government and Civic Life; Education; Public Trust and AI |
-| < 5 days | 15 reader pages | Home Server AI Agents, Sandbox Integrity, Adoption Readiness Checklist (refreshed 10-24) |
+| 8+ days | 56 reader pages | Reasoning Trace Theft; The Expression Gap; Beyond Prompting |
+| 5–7 days | 10 reader pages | Education; Balanced Governance; AI and Creator Rights |
+| < 5 days | 15 reader pages | Compute and Agency, Government and Civic Life, Reward Hacking (refreshed 10-25) |
 
 ---
 
@@ -263,7 +265,7 @@ Pages that need curator attention. Counts cover 81 existing reader pages in 01�
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-10-24|Today's Digest]] · [[00-Daily-Digests/2026-10-23|Previous Digest]]
+- [[00-Daily-Digests/2026-10-25|Today's Digest]] · [[00-Daily-Digests/2026-10-24|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags
