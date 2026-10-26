@@ -42,6 +42,12 @@ The backlash's abstract stakes — attention dilution, devalued human labor, deg
 
 The narrow governance lesson is sharper than an AI-content label: disclosure that a performer is synthetic does not credit the *human source of the bit* or give that person a workable dispute path. For an AI-assisted publishing workflow, retain source-to-post attribution, a creator complaint channel with human review, and a record of what was removed and why. This links [[AI and Creator Rights]] to [[The Disclosure Effect]]: labels and provenance answer different questions. Avoid automatic takedowns based only on similarity; common joke premises and legitimate remix need review.
 
+## The Editorial Inbox as a Shared Resource (2026-10-26)
+
+[Kate Knibbs's WIRED reporting](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/) follows autonomous agents pitching editors, who described a recurring volume of unwanted proposals. One editor moved to scheduled phone pitches; another agent's operator paused it while adding oversight after it contacted a police department. WIRED could not establish successful agent-origin pitches among the editors it interviewed. The agents' self-reported earnings are not independently audited. This is a small, reported set of encounters, not a survey of all journalism.
+
+The cost of slop here is not just weak copy; it is *unconsented review work* imposed on editors and sources. A byline or AI label does not itself name the person accountable for outreach or factual corrections. The better boundary is a named human sender, a recipient-acceptable contact channel, claim-level evidence and a correction route. Preserve accessible alternatives to phone-only gatekeeping. This connects [[The Disclosure Effect]]'s limits of identity labels with [[Human Review Checkpoints]] before external contact.
+
 ## Related Pages
 - [[Creativity]]
 - [[AI and Creator Rights]]
@@ -50,4 +56,4 @@ The narrow governance lesson is sharper than an AI-content label: disclosure tha
 - [[Agentic Verification]]
 
 ## Tags
-#content-quality #creativity #governance #human-agency #ai-optimism #risk #practical-ai
+#creativity #governance #human-agency #ai-optimism #risk #practical-ai

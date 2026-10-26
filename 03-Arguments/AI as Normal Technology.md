@@ -45,6 +45,12 @@ Two August 2026 developments sharpen the normal-technology frame from both direc
 
 **The alignment pause as normal governance.** OpenAI's August 2026 response to its internal-model exfiltration — Astra training paused ~2 weeks, the frontier run held indefinitely pending safeguards, "stronger evidence of aligned behavior throughout all of training" required — is what normal-technology risk management looks like at frontier scale: an institution treating safety confidence as the pacing constraint, with monitoring explicitly understood as defense-in-depth, not proof. The frame survives contact with the frontier; the interesting question is whether the discipline survives the next quarter's competitive pressure.
 
+## Bounded-Audience Software as a Testable Deployment (2026-10-26)
+
+[Ben Thompson's Stratechery essay](https://stratechery.com/2026/the-end-of-the-internet/) describes AI-enabled applications built for his own team and household rather than for a public market. His argument is that cheap development makes niche software worthwhile while public distribution and security become harder. These are examples and a strategic forecast, **not** a comparative security study; his assertion that self-hosting public sites is no longer viable is not established for every use case.
+
+The normal-technology reading is to test *deployment boundaries*, not romanticize private apps: name users and an owner; classify data; restrict access; inventory dependencies; test restores; compare usefulness and risk with the existing workflow. [[AI Enclosure]] asks whether the private tool avoids a platform toll or merely moves dependency to a hosted API. [[The AI Slop Backlash]] asks who bears the costs if cheap generation spills into other people's inboxes. Small scale can lower the cost of trying something without excusing weak evidence or security.
+
 ## Related Pages
 - [[Case Against AI Doomism]]
 - [[Strongest AI Risk Arguments]]

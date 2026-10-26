@@ -69,6 +69,12 @@ The proposal is **Provenance Density** — an interface showing the density of v
 
 → Source: [Beyond "Made with AI": Visualizing Provenance Density to Mitigate the Transparency Penalty](https://arxiv.org/abs/2609.03460), arXiv, 2026-09-04
 
+## Disclosure Versus Claim-Level Warrant (2026-10-26)
+
+[Marcin Mirończuk's scholarly article](https://arxiv.org/abs/2610.32574), submitted to arXiv October 23 and announced in the October 26 feed, argues that stating where AI was used does not show whether a scholar can independently understand and defend a material claim. He distinguishes routine delegation from cognitive delegation that shapes interpretation or justification, and proposes function-appropriate evaluation. This is a conceptual argument, not an experiment measuring accuracy or a legal disclosure mandate.
+
+The distinction complements, but does not replicate, the persuasion experiment above: one tests what an audience learns about intent; the other asks what the *author* can warrant. [WIRED's editor interviews](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/) make a practical corollary visible: an agent announcing itself still may not identify who authorized its outreach or owns corrections. Before an AI-assisted report or public claim is released, pair identity/purpose disclosure with a claim-to-evidence and named-reviewer trail. See [[The AI Slop Backlash]] and [[Human Agency]].
+
 ## Related Pages
 
 - [[Cognitive Surrender]]
