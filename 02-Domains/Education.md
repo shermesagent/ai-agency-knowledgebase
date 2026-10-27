@@ -386,5 +386,11 @@ The new procurement failure mode is *optimization validity*: even a plausible pe
 
 For a district, the question is not whether students should learn how computing infrastructure works—they should—but **who frames the lesson and which claims can students test?** A teacher-led investigation can pair a site visit with independently sourced rate, water, emissions, tax and jobs data; disclose the sponsor; invite affected residents and utilities; and ask students to distinguish a technical claim from a civic tradeoff. Do not place identifiable student information in an unapproved industry tool or turn a vendor's handout into an unreviewed lesson. This joins [[Compute and Agency]]'s local-impact ledger to [[Balanced Governance]]'s requirement that evidence precede consent. **Why this matters:** real career exposure expands agency when students can question the host's incentives, not just tour the facility.
 
+## Activity-Specific Assistance, Not Generic Help (2026-10-27)
+
+[Haq's pedagogical framework](https://arxiv.org/abs/2610.33051) starts with an educator-approved specification for each project-based creative activity: cognitive/metacognitive aim, pedagogical aim, task and group artifact, and learner-owned product. Translation rules then define what the LLM may support, when it may intervene, what feedback it may offer, and what it must not do. Its Plan Brainstorming and constructed Build/PPCo examples are **worked designs**, not measured student-learning gains. This makes the existing scaffold-not-substitute principle testable: the same answer may be appropriate during revision and disallowed during idea generation.
+
+For a district pilot, have the teacher mark the *student-owned decision* before writing a prompt or configuring a tutor; trial the rule on public, teacher-authored example tasks, then ask learners to explain the decision they retained. Check multilingual and accessibility needs without entering identifiable student artifacts into an unapproved model. See [[AI Tutors]], [[Human Review Checkpoints]] and [[00-Daily-Digests/2026-10-27]]. **Why this matters:** agency is preserved by activity-specific limits, not by a generic instruction to be helpful.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

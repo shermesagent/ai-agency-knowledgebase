@@ -109,6 +109,12 @@ The warning is straightforward: once model-generated reviews enter public review
 
 For [[Agentic Verification]] and [[Human Review Checkpoints]], record the human-label overlap graph, stratum definitions, uncertainty intervals, and preregistered accept/reject threshold before choosing a grader. If the candidate sits near the threshold, collect more human overlap rather than treating 25% as a universal certification rule. This is a NeurIPS-accepted research result on evaluation matrices, not a district-specific validation of automated student grading.
 
+### Version Replacement Is a New Instrument (2026-10-27)
+
+[Zhang and Yang's preregistered frozen-weight audit](https://arxiv.org/abs/2610.32986) compares three adjacent same-family judge transitions across Qwen, Gemma and Mistral on fixed ML research proposals. Direction of severity shift differs by transition; one compresses **93% of pool scores to one value**. Giving judges identical facts did not erase the version gap, and mean recalibration did little to explain item-level dispersion. The authors propose an approximately 200-call stratified anchor audit and report frozen thresholds identifying two later API replacements. This is preprint evidence about research-proposal judging, not proof that any particular district grader shifts by the same amount.
+
+**Operational rule:** on a judge upgrade, pin old/new versions; run clean and flawed anchor submissions, compare criterion-level discrimination *and* score distributions, and suspend consequential automated decisions if resolution collapses. A mean-score correction alone cannot repair lost discrimination. Pair with independent human labels before any student-facing grading; see [[AI Field Experiment Evidence]], [[Human Review Checkpoints]] and [[00-Daily-Digests/2026-10-27]]. **Why this matters:** an apparently improved model can silently change the standard it measures.
+
 ## Related Pages
 
 - [[Agentic Verification]]

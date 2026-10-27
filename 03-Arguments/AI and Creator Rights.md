@@ -100,6 +100,12 @@ Before licensing AI-assisted character or performance work, document who approve
 
 A creator-rights review should separate three permissions: **the creator's access to distribution**, **consent and compensation for training or imitation**, and **terms for a voluntary licensed AI persona**. Ask for an appealable moderation rule and evidence of training provenance rather than infer one from the other. See [[The Participation Problem]] and [[Digital Fiduciary Duty]]. **Why this matters:** a platform can market synthetic intimacy as user choice while making the human creator's choice and remedy harder to exercise.
 
+## Publishing for Agents Without Losing the Reader (2026-10-27)
+
+[Kate Taylor's WIRED reporting](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/) describes Axios Direct feeds for subscriber agents and Every articles that include reusable prompts and, in some cases, underlying reporting databases. Axios's initial deal-focused feed has launched; a training feed and consumer feed are **planned**, not established services. Every's approach lets a subscriber ask an agent for a tailored presentation. This moves the creator-rights question from training consent alone to **distribution terms**: whose paid access is the agent using, which original reporting is attributed, and can the reader inspect the underlying evidence?
+
+The article quotes a researcher calling this market immature and uneven. Neither agent-facing feeds nor personalized versions prove revenue growth, accurate summarization or fair compensation. A publisher experiment should log licensed access, source links, edits made by the agent, human correction routes and creator compensation before measuring reader usefulness against direct reading. See [[The Disclosure Effect]], [[AI Enclosure]] and [[00-Daily-Digests/2026-10-27]]. **Why this matters:** letting a reader's agent consume work can expand access without handing the platform an unlimited right to rewrite or monetize it.
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]
