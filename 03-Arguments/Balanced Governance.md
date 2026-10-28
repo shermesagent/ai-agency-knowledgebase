@@ -393,6 +393,12 @@ For AI-generated mathematics, the [independent advisory group's release recommen
 
 The durable governance test is independent of whose logo is on the draft: map which state protections disappear, what federal authority replaces them, what auditors may inspect, what triggers an injunction and who can actually stop a dangerous deployment. Compare that map with [[Human Review Checkpoints]]' stop rights and [[Responsible Deployment]]'s evidence-and-restart loop. Transparency that survives while effective stop authority disappears may leave affected people worse off; conversely, an overly broad stop power can be abused. **Why this matters:** governance is a distribution of enforceable authority, not a disclosure count.
 
+## Access Is Not the Same as Independent Authority (2026-10-28)
+
+[Zvi Mowshowitz's October 27 essay](https://thezvi.substack.com/p/anthropic-versus-anthropic) credits Anthropic's expanded external evaluation while disputing whether its risk methods and policy posture suffice. In the [company's own account](https://www.anthropic.com/news/an-update-on-independent-evaluators), six METR staff received employee-like access. METR can publish assessments without company veto, but Anthropic retains final authority to apply predefined redaction categories; limited-access tiers have narrower publication rights. The primary announcement is evidence of *terms and access*, not proof that independent oversight has already detected every important risk. Zvi relays METR's separate view that current assessed risk is low while the report methodology might fail to identify higher risk; that is a reported evaluator judgment, not this wiki's independent risk finding.
+
+**Governance test:** for every embedded evaluator, specify access to incidents and controls, who chooses the evaluation questions, publication and redaction rights, financial/operational independence, and whether any external authority can delay or stop deployment. This adds an *assessor's usable authority* column to [[Responsible Deployment]] and [[Human Review Checkpoints]]. Embedded assessment can materially reduce information asymmetry; voluntary access alone does not create public stop rights. **Why this matters:** trustworthy optimism needs evidence that can leave the building and change a decision, not only a lab's promise to invite observers.
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

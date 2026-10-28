@@ -146,6 +146,12 @@ For a workplace buyer, require actual site-task coverage, recovery/override, saf
 
 This is the workplace version of [[The Participation Problem]]: extraction of worker ideas without response or bargaining can increase management information while shrinking worker influence. Pair any listening tool with a named human response owner, visible disposition of suggestions and a non-AI route for sensitive concerns. See [[Human Agency]] and [[00-Daily-Digests/2026-10-20]].
 
+### The party, the product, and the worker's veto (2026-10-28)
+
+[Adam Morgan's WIRED interviews](https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/) describe Macmillan's NOA workplace assistant: a celebratory rollout in 2024, staff warnings about hallucination and fact-checking, and an October 2025 sunset. Several employees said it was unreliable and little used. Macmillan disputes the article's characterization of its rollout and says it did not direct staff to use Gemini in publishing decisions. **This is reported testimony with a company rebuttal, not a measured adoption or productivity study.**
+
+The agency test is not whether leadership can launch an assistant but whether workers can decline a poor one, keep manuscripts and performance reviews within approved data boundaries, and show that any saved drafting time exceeds verification and repair time. An author's report of hallucinated quotations in marketing copy illustrates a *claimed* cost borne outside the immediate user of the tool; the article does not establish its prevalence. Pair a voluntary task-level comparison with [[AI Use Case Evaluation Rubric]]'s full-cost accounting and [[AI and Creator Rights]]'s authorization check. **Why this matters:** if deployment overrides the people whose judgment gives the work value, adoption theater can destroy trust before it creates useful capacity.
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]

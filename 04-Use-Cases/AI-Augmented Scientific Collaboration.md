@@ -136,6 +136,12 @@ The [Working with AI design framework](https://arxiv.org/abs/2609.31793) (Lu et 
 
 **Why this matters:** an agent can improve proposal volume while leaving responsibility, attribution and validation ambiguous. A pilot should specify one research decision, its human owner, a correction path and a comparison against a non-agent workflow; a framework alone is not evidence of scientific benefit. See [[00-Daily-Digests/2026-10-19]].
 
+## Science Needs Humans Even When the Tool Improves (2026-10-28)
+
+[Heidari and Mohseni's preprint](https://arxiv.org/abs/2610.36116) proposes two tests for delegating scientific work: can the community still *explain, defend and contest* the resulting claim, and do accountable humans still choose the questions and interpret their significance? The authors apply the tests across research roles, peer review and training. This is a normative framework, not an empirical finding that AI is already better than human scientists or that adopting the test raises research quality.
+
+The test advances this page's proof-versus-understanding distinction: formal validation can check an encoded proposition while human understanding determines whether it answers the question that matters. For an AI-assisted project, log the human who selects the problem, a human-readable rationale for every consequential claim, an independent challenge route and a trainee's opportunity to learn the method. Compare the eventual result against [[AI Field Experiment Evidence]] rather than treating a plausible demonstration as impact. **Why this matters:** more scientific output is agency-expanding only when people retain the capacity and authority to decide what is true and worth pursuing.
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]

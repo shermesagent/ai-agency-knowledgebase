@@ -54,6 +54,12 @@ This converts the rubric's "measurable in context" criterion from an aspiration 
 
 **Rubric amendment:** name both the people who supplied the benchmark's content and the people the deployment is supposed to serve. Before treating a vendor score as fit-for-purpose, run a small, consented local set of equivalent answers and contexts, with human review for meaning rather than exact string alone. Record the benchmark version, scoring rule, subgroup/context coverage and failures. In schools, do not upload identifiable student responses to a vendor benchmark as a shortcut; use approved, de-identified or purpose-built test items with privacy review. Cross-check [[AI and Inequality]] and [[AI Field Experiment Evidence]].
 
+## Count Escaped Defects, Not Just Minutes (2026-10-28)
+
+[Lijo's preprint](https://arxiv.org/abs/2610.35942) argues that the stopwatch alone misprices AI assistance. Its ledger pairs *time saved* with *excess escaped defects* and asks what defect cost would erase a claimed saving. Reanalysis of public METR developer-study data yields a reported slowdown of 19% or 24% depending on the estimand (34% without adjustment for a chance imbalance). In a small prespecified AI-reviewer experiment on SEC-filing briefs, telling the reviewer that the AI drafter made tenfold fewer errors led it to check seven fewer of nine figures and let a wrong figure through in 22.5% of briefs versus none in the comparison described in the abstract. These are the paper's reported results, not a universal rate for human reviewers or school workflows.
+
+**Rubric amendment:** log drafting, review, correction and post-release repair time separately. Predefine consequential error types, review a blinded sample against source material, and compute the *break-even defect cost* for each workflow. If errors can affect student placement, author reputation or public decisions, do not trade quality for seconds saved. The Macmillan staff accounts in [WIRED](https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/) are a reason to run this test, not themselves a time-savings estimate. See [[Work]] and [[AI Field Experiment Evidence]].
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[Responsible Deployment]]
