@@ -194,6 +194,12 @@ Two September papers sharpen this framework's evidence layer: agents need indepe
 
 The companion [human–AI scientific-ideation study](https://arxiv.org/abs/2610.30568) reports that an AI judge favored AI-assisted proposals despite no corresponding significant human-rated idea-quality advantage. That makes the verification layer's proposed independence rule operationally important: blind the first human review to collaboration provenance, compare rankings rather than only mean scores, then inspect versioned evidence before credit or publication. A judge-alignment difference in one experiment does not establish bias in every deployed judge ([[AI Field Experiment Evidence]]). [[The Judge Problem]] remains an active measurement question.
 
+### When Retrieval and Model Memory Disagree (2026-10-29)
+
+[Van and Tran's GRACE preprint](https://arxiv.org/abs/2610.36169) argues that a fixed rule to always favor retrieved context or model memory fails when the reliability of retrieved material changes. In their controlled benchmark, the proposed two-source selector, given the **true** prior share of correct contexts, beats same-backbone baselines across mixtures; the abstract reports scores of 45.3 versus 29.4 and 35.0 versus 27.5 for two backbones. This is a preprint on a knowledge-graph-context intervention and a preregistered secondary benchmark, not evidence that real-world agents can know the correct prior or safely resolve every source conflict.
+
+Add a **conflict gate** to the evidence protocol: record the retrieved claim and its origin, obtain an independently checkable competing account, estimate or explicitly mark the context-reliability prior as unknown, and abstain or escalate when the choice affects a consequential action. A fluent answer that chooses a winner is not a verification result. The gate joins the runtime-identity and human-approval records in [[Human Review Checkpoints]] and the source-independence test above; see [[00-Daily-Digests/2026-10-29]].
+
 ## Tags
 
 #verification #agents #responsible-ai #frameworks #superagency

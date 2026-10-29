@@ -122,6 +122,12 @@ For research agents, this is the diagnostic version of the verdict-layer problem
 
 For [[AI-Augmented Scientific Collaboration]], the transferable hypothesis is **bounded, logged exploration before task assignment**: compare an exploratory agent with a fresh agent on preregistered tasks, with equal budgets and disclosed prompts, memory, failures and human-selected objectives. The team still owns the research question and conclusion; the agent's playful-looking behavior cannot authorize either. This protects [[Human Agency]] while testing whether exploration improves future task performance. See [[00-Daily-Digests/2026-10-19]].
 
+### A Claimed ETH Breakthrough Needs a Comprehension Handoff (2026-10-29)
+
+[WIRED's October 29 report](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/) says OpenAI and Anthropic published natural-language and Lean-formalized proofs challenging the exponential time hypothesis, and quotes theoretical computer scientists describing both the excitement and the disruption to existing work. **This is a reported claim awaiting independent verification and full community understanding**, not a settled result that ETH is false. A formal checker accepting a proof and a field understanding its premises, scope and consequences are different milestones. The article also describes a flood of AI-generated manuscripts that imposes real reading costs on researchers.
+
+**Research-agent handoff:** archive the exact proof version and checker assumptions; have independent specialists reproduce the formal check; publish a dependency map showing which prior results require reexamination; separately document counterexamples, open questions and researchers' time spent validating. Do not infer that this particular result directly breaks cryptography: the article explicitly says it does not. This is the operational version of [[The Comprehension Bottleneck]] and [[AI-Augmented Scientific Collaboration]]: discovery throughput counts only when people can inspect, contest and use what was produced. See [[00-Daily-Digests/2026-10-29]].
+
 ## Related Pages
 - [[Home Server AI Agents]]
 - [[Intelligence Amplification]]

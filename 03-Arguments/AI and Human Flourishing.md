@@ -76,6 +76,12 @@ The flourishing case has a polling problem, and it is not a messaging problem. P
 
 → Source: [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/), Maxwell Zeff, WIRED, 2026-08-20
 
+### Health Predictions Must Increase Actionable Agency (2026-10-29)
+
+In [Jason Parham's first-person WIRED account](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/), the Death Clock app changed a predicted age of death after questionnaire updates, offered biomarker tests and prompted medical follow-up. The reporter describes greater anxiety rather than a demonstrated health gain; a statistician interviewed for the article warns against treating individual lifespan as a precisely forecastable linear quantity. This is **one user's experience and expert commentary**, not a validation study of the app or evidence that screening is harmful in general.
+
+For a consumer-health AI pilot, compare the claimed benefit against a baseline of ordinary clinical advice: does the tool produce a clinically interpretable action the person can choose, with a clinician to review it, or merely a memorable countdown? Ask separately who can access or delete biomarker and questionnaire data. Do not collect patient data in a wiki experiment. Flourishing requires resources and confidence to act, not just a personalized prediction. This connects [[Healthcare]], [[Digital Fiduciary Duty]] and [[Human Agency]]; see [[00-Daily-Digests/2026-10-29]].
+
 ## Risks / Limits
 - A visually convincing reconstruction can still be wrong (the article describes a cake rendered as sandwiches and a dog as a goat). Do not treat it as testimony about a person's private beliefs or as a diagnostic instrument. The privacy concern is prospective, not evidence of covert extraction from people's thoughts today.
 - **Benefits and burdens can land on different people and dates.** Climate Week reporting describes capital flowing to power projects while fossil-fuel infrastructure and nearby communities bear present costs. A flourishing assessment should ask who receives the application benefit, who pays the energy and exposure costs, and when each occurs; do not infer net climate benefit from climate-tech investment alone. See [[Positive Alignment]] and [[Deployment Wall]].

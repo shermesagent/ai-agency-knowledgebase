@@ -113,6 +113,12 @@ Perez's **Law of Stop** paper (arXiv 2609.22882) turns checkpoint placement into
 
 Connect the overlap test to [[Agentic Verification]] and [[Responsible Deployment]]: a reviewer's stop right matters only if the reviewer has independent evidence and enough capacity to use it. See [[00-Daily-Digests/2026-10-20]].
 
+### Runtime Records Before the Approval Button (2026-10-29)
+
+[Srikumar and Leibowicz's MIT Technology Review essay](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) reports their team's review of four widely used agent frameworks: persistent agent identity and records of human approval were among the observability gaps. It is an authored argument about the team's research, not an independently replicated estimate of incident frequency. A reviewer cannot exercise a meaningful stop right if the system cannot tie a proposed action to the particular agent, its current permissions, changed memory, the approving human and the time of approval.
+
+**Checkpoint design:** before a consequential action, record the authorized task, agent/run ID, tool permission state, evidence inspected, named reviewer, approval or refusal, and whether a queued action actually stopped. Recheck after a permission or memory change. Keep these records access-controlled and minimal: persistent identifiers can themselves become sensitive tracking infrastructure. OpenTelemetry agent tracing formats are being drafted, not finalized; a readable event log plus an enforced action gate is more honest than claiming standards compliance. The essay explicitly cautions that displayed chain-of-thought and confidence do not yet provide reliable explanations of why an action occurred. Connect the event record to [[Agentic Verification]] and the authority to [[Responsible Deployment]]; see [[00-Daily-Digests/2026-10-29]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]
