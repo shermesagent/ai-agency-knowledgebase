@@ -102,5 +102,10 @@ The design opportunity is to evaluate the student's *question formulation*, not 
 
 Tutor design implication to test, not an established classroom effect: when a learner rejects a hint, avoid simply labeling the override right or wrong. Show what the hint got right, what it missed, and ask for the student's own evidence before offering another scaffold. Check both the next *unaided* problem and whether the learner still challenges dubious hints. [[AI Tutor Evaluation Checklist]] should treat independent judgment as an outcome alongside correctness; [[Human Agency]] explains why more agreement with AI is not inherently better.
 
+### Measure whether the learner's questions improve (2026-10-30)
+[Abdelghani, Kaiser and Murayama](https://arxiv.org/abs/2610.38950) coded 880 substantive turns from 112 secondary-school students practicing open-ended mathematical modeling with a general-purpose Mistral LLM. Planning, monitoring and evaluation were relatively rare; as chats progressed, explicit self-regulation increased modestly but help requests became less understanding-oriented overall. Students whose help-seeking *became more understanding-oriented* performed better on a post-test **without AI**, beyond pre-test scores and aggregate interaction patterns. This is an association in this setting, not evidence that a particular tutoring prompt caused learning gains.
+
+The pilot question changes from “Did the bot answer?” to “Did the student move from asking for solutions to asking what assumption, model or step they need to test?” Compare early and late *approved, de-identified* prompt samples against an independent unaided transfer item; ask teachers to score mathematical reasoning, not just prompt style. Do not upload identifiable student conversations to an external grader. [[Education]] sets instructional boundaries and [[AI Tutor Evaluation Checklist]] supplies the review gate. **Why this matters:** student agency is visible in the trajectory of help-seeking, not merely the final chat answer.
+
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai

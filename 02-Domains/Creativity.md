@@ -200,5 +200,10 @@ Giorgio Presti's "The Aura in the Machine" (arXiv 2607.17940, July 2026) provide
 
 In [[AI Writing Partners]] and visual design alike, define the claim and audience before generation; delegate chart-code drafts or alternative layouts; then verify data, framing, and omissions against the original evidence. A polished chart can still tell the wrong story. The defensible augmentation boundary is not simply human versus machine output; it is **who owns the intended claim and who signs off on what the audience will infer**. See [[AI Use Case Evaluation Rubric]] for the corresponding pilot measure.
 
+### Put the human at the planning stage (2026-10-30)
+[Li et al.'s transmission-chain preprint](https://arxiv.org/abs/2610.37916) compares Plan → Write → Review → Revise chains using 333 participants and 427 stories. In its tested setting, all-AI chains scored higher on individual creativity but lower on across-story diversity than all-human chains. A single human *planner* in an otherwise AI chain preserved the AI-level creativity result while improving diversity that persisted through later AI stages and maintaining enjoyment. This is a task-specific comparison, not evidence that every genre or audience benefits equally.
+
+This sharpens this page's composition thesis: **the location of human contribution matters, not just the existence of a human checkpoint**. For a low-stakes writing pilot, freeze a human-written premise and constraints before generation, then compare with an AI-planned version on blind-rated quality, distinctness across a batch and author enjoyment. Protect author consent and ownership; do not use students' unpublished stories without approval. [[AI Writing Partners]] connects this to voice, and [[The AI Slop Backlash]] to aggregate sameness. **Why this matters:** a person can retain authorship of direction while an agent supplies labor, but diversity must be measured rather than presumed.
+
 ## Tags
 #creativity #augmentation #human-agency #practical-ai
