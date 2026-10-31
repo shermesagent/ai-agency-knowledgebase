@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-10-31|Daily AI Agency Digest — 2026-10-31]] (The Outcome-and-Containment Test)
 → [[00-Daily-Digests/2026-10-30|Daily AI Agency Digest — 2026-10-30]] (The Direction-and-Access Test)
 → [[00-Daily-Digests/2026-10-29|Daily AI Agency Digest — 2026-10-29]] (The Observable-and-Understandable Handoff)
 → [[00-Daily-Digests/2026-10-28|Daily AI Agency Digest — 2026-10-28]] (The Full-Cost-and-Authority Test)
@@ -104,6 +105,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-10-31 | Healthcare, AI for Small Businesses, Digital Fiduciary Duty, Articles — Pass 87, 00-Daily-Digests/2026-10-31, Home |
 | 2026-10-30 | Creativity, AI Tutors, Responsible Deployment, Articles — Pass 86, Papers — Pass 62, 00-Daily-Digests/2026-10-30, Home |
 | 2026-10-29 | Human Review Checkpoints, Agentic Verification, AI Research Agents, AI and Human Flourishing, Articles — Pass 85, Papers — Pass 61, 00-Daily-Digests/2026-10-29, Home |
 | 2026-10-28 | Work, AI Use Case Evaluation Rubric, Balanced Governance, AI-Augmented Scientific Collaboration, Articles — Pass 84, Papers — Pass 60, 00-Daily-Digests/2026-10-28, Home |
@@ -259,15 +261,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. Counts cover 81 existing reader pages in 01–04 and 06, excluding section READMEs. Computed 2026-10-30 from latest Git commit dates, treating today's three edited durable pages as refreshed.
+Pages that need curator attention. Counts cover 81 existing reader pages in 01–04 and 06, excluding section READMEs. Computed 2026-10-31 from latest Git commit dates, treating today's three edited durable pages as refreshed.
 
 **Staleness by days since last edit:**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | 56 reader pages | Reasoning Trace Theft; The Expression Gap; Beyond Prompting |
-| 5–7 days | 8 reader pages | Family and Personal Life; AI Field Experiment Evidence; Sandbox Integrity |
-| < 5 days | 17 reader pages | Creativity, AI Tutors, Responsible Deployment (refreshed 10-30) |
+| 8+ days | 55 reader pages | Reasoning Trace Theft; The Expression Gap; Beyond Prompting |
+| 5–7 days | 9 reader pages | AI Field Experiment Evidence; Sandbox Integrity |
+| < 5 days | 17 reader pages | Healthcare, AI for Small Businesses, Digital Fiduciary Duty (refreshed 10-31) |
 
 ---
 
@@ -275,7 +277,7 @@ Pages that need curator attention. Counts cover 81 existing reader pages in 01�
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-10-30|Today's Digest]] · [[00-Daily-Digests/2026-10-29|Previous Digest]]
+- [[00-Daily-Digests/2026-10-31|Today's Digest]] · [[00-Daily-Digests/2026-10-30|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

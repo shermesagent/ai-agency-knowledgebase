@@ -1,7 +1,7 @@
 ---
 title: Healthcare
 created: 2026-06-15
-updated: 2026-10-22
+updated: 2026-10-31
 type: domain
 tags: [healthcare, responsible-ai, human-agency, augmentation, practical-ai, ai-agents, calibration]
 confidence: high
@@ -188,6 +188,12 @@ For an AI-assisted clinical or research proposal, separate three claims before d
 [WIRED reports](https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/) that Hugging Face and collaborators released Carbon-X, a 14-billion-parameter conversational DNA model intended to run locally, accepting sequence windows of roughly 50,000 base pairs. Developers say they excluded viruses from training and that local operation avoids sending queried data to Hugging Face; these are reported design claims, not an independent privacy or biosecurity audit. Most importantly, the developers told WIRED that predictions have **not yet been validated in wet-lab experiments**. Do not use conversational variant explanations to diagnose a patient or select treatment.
 
 For a research-only trial, test a public, non-identifiable sequence with a known experimental reference and log prediction, uncertainty, model version and discordance; require separate wet-lab and clinical validation before any care claim. Local execution may reduce transmission exposure but does not remove device-security, access-control or inference risks. This extends the prediction → mechanism → care ladder above and [[Digital Fiduciary Duty]]'s data-scope rule; [[AI Field Experiment Evidence]] is the next gate. No patient genome should be used for this exploratory test.
+
+### The Physical Stop Path Is Part of the Experiment (2026-10-31)
+
+[WIRED's account of an agent-controlled mouse-brain injection](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/) reports a veterinarian first performing the craniotomy, human approval of the agent's injection plan, a button that disconnected the rig's motors, and a prohibition on the operating agent editing equipment code. One model refused to proceed with a live injection; the team switched models. A coordinate-system glitch then required a separate repair agent; the experiment lasted longer than a usual procedure. The founder says the mouse is recovering, but the treatment's seizure effect was not yet known. This is one reported procedure, not a safety validation or a path to human surgery.
+
+For any proposed physical clinical or research agent, separate **plan approval, instrument permissions, independent coordinate check, stop-button operator, repair authorization and measured biological outcome**. An agent's verbal confidence is not an interlock; a model refusal is not a stable control when another model can be substituted. Connect this to [[Human Review Checkpoints]] and [[Sandbox Integrity]]: the human must be able to stop the apparatus, not merely review a transcript. No live experiment should be inferred from this example without animal ethics and institutional approval. **Why it matters:** scientific capacity expands only if the physical and ethical boundaries remain enforceable during failure.
 
 ## Tags
 #responsible-ai #human-agency #augmentation #practical-ai #ai-agents

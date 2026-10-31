@@ -118,6 +118,12 @@ OpenAI's September 2026 Data agent announcement is a useful design signal for sm
 
 **The practical SMB rule:** do not buy a data agent because it promises "insights." Buy it only if it shows its evidence: data sources, definitions, permissions, queries or query lineage, dashboard assumptions, and untested caveats. Otherwise it is just spreadsheet mysticism with better typography.
 
+### Agent Commerce: Count Completed Transactions, Not Activations (2026-10-31)
+
+[Paresh Dave's WIRED survey of earnings calls and executives](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/) contrasts Meta's account of over 10 million Muse activations in the US and Canada, with more than one-quarter using it for shopping, against merchants reporting minimal agent-origin orders or bookings. DoorDash cited orders in the hundreds; Hilton called its bookings insignificant. These are **different measures from different organizations**, not a defensible shopping-to-purchase conversion rate. Chipotle said checkout exceptions involving discounts and after-hours orders impeded agents and reported a single-digit percentage lift in agentic orders after Muse's debut; that percentage has no independently supplied baseline in this account.
+
+For an owner, start with the customer's actual job: can an authorized agent obtain the correct price, apply a valid discount, complete a purchase within the buyer's stated limits, produce a receipt and reverse an error? Compare agent-origin orders, failed checkouts, disputed charges and margin **against the same-period non-agent path**, before paying an intermediary fee or redesigning the storefront. [[Digital Fiduciary Duty]] adds the buyer's consent and payment boundary; [[Task-Level AI Adoption]] separates activity from completed work. An interested executive's [Stratechery interview](https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/) argues the atomic unit is the workflow, not the individual worker. This is a useful hypothesis, not proof of return. **Why it matters:** a business gains agency when the customer can finish a trustworthy transaction and the owner can see its full cost, not when a platform reports more agent activations.
+
 ## Risks / Limits
 
 - Avoid treating one positive case study as universal proof.
