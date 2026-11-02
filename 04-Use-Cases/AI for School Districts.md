@@ -78,6 +78,10 @@ Add a five-stage record to the existing configuration record: **offered → priv
 
 The [WIRED report on Indigenous-language keyboard support](https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/) is **not an AI study**: it illustrates an upstream access condition. Community-led language representation, usable scripts and input methods must exist before a district can assume AI-based translation or literacy support works for a language. In bilingual/ESL procurement, test input, display and review with speakers and language experts instead of assuming English-language demo performance transfers.
 
+### Search is a source-selection decision (2026-11-02)
+
+[David Nield's WIRED guide](https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/) distinguishes synthesis across plentiful sources from precise quotations, recent facts, and high-stakes answers. It cites research on retrieval and authority, but is a reported consumer guide rather than a district accuracy trial. For district curriculum or policy questions, use AI to *discover candidate sources*; a staff member must open the controlling TEKS text, adopted scope and sequence, or current district policy and check the exact citation and effective version before publishing. Record the source URL, retrieval date and human approver. An attractive AI answer with a citation is not evidence that the right source was retrieved. Keep student records out of unapproved search systems. This extends [[Education]] and [[Human Review Checkpoints]] without asserting that the guide validated any specific Texas standard.
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

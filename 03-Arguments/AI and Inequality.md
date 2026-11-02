@@ -211,6 +211,12 @@ In [two audit experiments across four models](https://arxiv.org/abs/2610.14036),
 
 [WIRED's account of a Harvard survey](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/) reports over 5,400 U.S. respondents, differing rates of recognition of fictitious AI executives, and a greater willingness among women to say they did not know an answer. The reported media analysis found men were three-quarters of quoted AI experts. Self-report and headline/quotation counts do not establish individual competence or explain causation. Taken together, the sources suggest an **advice-and-voice audit**: compare equivalent career prompts while varying only the persona, and separately check who is invited to speak as an expert; never turn group averages into assumptions about a particular person. See [[Future of Work]] and [[The Participation Problem]].
 
+### Writer-model preference in automated hiring (2026-11-02)
+
+[Pagan and colleagues' preprint](https://arxiv.org/abs/2610.41866) pairs 11 LLM application writers with nine API-hosted evaluators across ten job descriptions and 50 candidates per job. Its abstract reports a writer-model preference hierarchy and evaluator self-preference even when candidate qualifications are held constant; locally hosted writers were disadvantaged in this test. In the most adverse pairing the authors estimate about 1.8 of 25 qualified applicants filtered for model mismatch. This is a controlled model-audit result, **not** a measured labor-market exclusion rate or evidence that every hiring system uses these models.
+
+The new inequality gate is tool choice: access to *some* writing AI does not mean equal treatment when another AI reads the application. A defensible hiring audit should compare the same qualifications expressed through different writer tools, blind human reviewers to provenance where permitted, and publish false-rejection rates by tool and candidate group. Do not run real applicants' documents through outside models without authority. This extends the rating arms race above and [[The Judge Problem]]: the evaluator is part of the treatment, not a neutral yardstick. **Why this matters:** agency gained in drafting can be lost at an opaque screening gate.
+
 ## Practical Examples
 - Identify bounded workflows where AI helps people make better decisions, learn faster, create more, or reduce low-value friction.
 - Prefer examples with measurable outcomes, accountable human oversight, and clear limits.
