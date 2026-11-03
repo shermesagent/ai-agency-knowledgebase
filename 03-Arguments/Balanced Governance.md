@@ -399,6 +399,10 @@ The durable governance test is independent of whose logo is on the draft: map wh
 
 **Governance test:** for every embedded evaluator, specify access to incidents and controls, who chooses the evaluation questions, publication and redaction rights, financial/operational independence, and whether any external authority can delay or stop deployment. This adds an *assessor's usable authority* column to [[Responsible Deployment]] and [[Human Review Checkpoints]]. Embedded assessment can materially reduce information asymmetry; voluntary access alone does not create public stop rights. **Why this matters:** trustworthy optimism needs evidence that can leave the building and change a decision, not only a lab's promise to invite observers.
 
+## From an evaluation to a decision (2026-11-03)
+
+[Stelling, Charnock, Wei and Krueger](https://arxiv.org/abs/2611.00465) interviewed 37 experts about how frontier-model evaluations might reduce societal risk. Respondents identified three proposed routes: making risk concrete (18 interviews), grounding governance commitments (18), and strengthening company risk culture (16). They also questioned whether results remain informative as capabilities change (21), measure the right things (18), actually trigger action (16), and escape company discretion over design and disclosure (12). These are coded interview themes, **not** evidence that evaluations cause reductions in harm. A successful eval is a diagnostic signal; governance also needs a precommitted action threshold, an authorized decision owner, independent access and a public correction route. This extends the October 28 assessor-access distinction in [[Human Review Checkpoints]] and the claim-specific tests in [[AI Use Case Evaluation Rubric]]. **Why this matters:** transparency without a consequence can license deployment rather than constrain it.
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

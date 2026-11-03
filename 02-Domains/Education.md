@@ -392,5 +392,11 @@ For a district, the question is not whether students should learn how computing 
 
 For a district pilot, have the teacher mark the *student-owned decision* before writing a prompt or configuring a tutor; trial the rule on public, teacher-authored example tasks, then ask learners to explain the decision they retained. Check multilingual and accessibility needs without entering identifiable student artifacts into an unapproved model. See [[AI Tutors]], [[Human Review Checkpoints]] and [[00-Daily-Digests/2026-10-27]]. **Why this matters:** agency is preserved by activity-specific limits, not by a generic instruction to be helpful.
 
+## Assessment Redesign Needs an Assurance Lane (2026-11-03)
+
+[Ansari's coded review](https://arxiv.org/abs/2611.01330) of 41 research/sector sources and 55 mostly UK university/sector policy documents argues for **redesign plus assurance**, rather than a detector-versus-ban binary. In the reviewed policy sample, 31 documents define named categories of AI use; among 23 that take a position on detection, 16 reject detectors and one requires them. These are counts from a purposive, single-coder sample, **not** a prevalence estimate for US or Texas K–12 schools. The paper supports a two-lane local pilot: disclose and defend AI-assisted process where appropriate, and directly observe independent skill on a separate task. Disclosure can support trust without being treated as proof of learning or misconduct.
+
+[Mamdani's WIRED interview](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/) describes a *proposed* New York City student-facing generative-AI moratorium from 2K through eighth grade; it does not document an enacted rule or evaluated learning outcome. A district can still ask the hard question it raises: where does a learner need unassisted practice before an approved tool may help? Build those boundaries with teacher input, age-appropriate access and an explicit multilingual/accessibility path, not a general prohibition inferred from one politician's position. See [[AI Tutors]], [[AI for School Districts]] and [[00-Daily-Digests/2026-11-03]]. **Why this matters:** agency requires evidence of what students can do both with and without assistance.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

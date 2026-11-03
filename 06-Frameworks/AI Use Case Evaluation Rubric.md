@@ -60,6 +60,12 @@ This converts the rubric's "measurable in context" criterion from an aspiration 
 
 **Rubric amendment:** log drafting, review, correction and post-release repair time separately. Predefine consequential error types, review a blinded sample against source material, and compute the *break-even defect cost* for each workflow. If errors can affect student placement, author reputation or public decisions, do not trade quality for seconds saved. The Macmillan staff accounts in [WIRED](https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/) are a reason to run this test, not themselves a time-savings estimate. See [[Work]] and [[AI Field Experiment Evidence]].
 
+## Time-to-act and consequence gates (2026-11-03)
+
+[Import AI 479](https://importai.substack.com/p/import-ai-479-spacewar-low-latency) summarizes the [Realtime-Bench paper](https://arxiv.org/abs/2610.22155): 50 interactive tasks (30 web, 20 game) under wall-clock, paused-clock and token-clock conditions. The newsletter reports its top model passed 36% under wall-clock conditions, while some high-reasoning models approached 70–80% when time was paused. Those are benchmark results relayed by a newsletter, not observed performance in district operations; the tasks and model mix may not match a local workflow. Add to a use-case review: time from observation to action, how rapidly state can change, whether delay increases loss, who has a manual takeover, and whether the *full workflow* passes a timed local test. A fast answer in a frozen benchmark is not evidence that the agent can act before a deadline.
+
+Pair this with [expert interviews on evaluation-based governance](https://arxiv.org/abs/2611.00465): predeclare the metric that stops or changes deployment and the person empowered to act. Log not just a score but the consequence of crossing it. Check [[Balanced Governance]], [[Human Review Checkpoints]] and [[Task-Level AI Adoption]]. **Why this matters:** an agent can be accurate too late, and an evaluation can be accurate but powerless.
+
 ## Related Pages
 - [[Agency Expansion Framework]]
 - [[Responsible Deployment]]

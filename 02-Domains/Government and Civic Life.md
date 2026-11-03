@@ -188,6 +188,12 @@ Extend the September bystander analysis: ask whether a person being recorded can
 
 At a public hearing, require a short alternatives table: build here with stated water/power/heat contracts; build elsewhere with the receiving jurisdiction and fuel source named; reduce or defer capacity; or use smaller/local provision where the task permits. Record which option residents could alter, the agency with final authority and who verifies post-permit commitments. This joins [[Compute and Agency]] to [[Public Trust and AI]]: deliberation needs comparable choices, not a binary developer pitch. **Why it matters:** civic agency is the power to change a condition or choose an alternative, not just register opposition.
 
+## A public claim is not a public cost ledger (2026-11-03)
+
+In a [WIRED interview](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/), New York City mayor Zohran Mamdani argues that residents cannot judge data-center tradeoffs without better energy-cost disclosure and says he supports a one-year New York state construction pause. Those are **his positions**; this interview does not establish measured local rate increases, a verified per-query electricity figure or an enacted moratorium. He also describes a Spanish-language WhatsApp channel for city policy updates. Reach is useful, but one-way distribution is not the same as a resident's ability to change a siting decision.
+
+Extend the existing alternatives table with a *public cost-and-response ledger*: utility-approved projected capacity and who pays for upgrades; water and heat contracts; who can inspect assumptions; comments that changed the project; a decision date and appeal/monitoring path. Provide language-accessible explanations, not just a translated announcement. Check [[Compute and Agency]] and [[Balanced Governance]] before treating either a promised benefit or a proposed pause as evidence of impact. **Why this matters:** civic agency is the power to interrogate the inputs and alter the outcome, not merely to hear a well-packaged position. See [[00-Daily-Digests/2026-11-03]].
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]
