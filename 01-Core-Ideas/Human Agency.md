@@ -413,6 +413,12 @@ The asking gap is an agency gap. The Hugging Face swarm — ~1,200 agents, 70,00
 
 → Sources: [Mollick, "Agency and Agents"](https://www.oneusefulthing.org/p/agency-and-agents) (2026-08-31); [WIRED, "You Know Who Really Hates AI? Insurance Claims Adjusters"](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/) (2026-08-31); [arXiv 2608.28420](https://arxiv.org/abs/2608.28420); [[00-Daily-Digests/2026-08-31]]
 
+### Agency Needs a Real Override, Not Just an Agency Value (2026-11-04)
+
+[Mowshowitz's reading of OpenAI's revised Model Spec](https://thezvi.substack.com/p/openai-updates-its-model-spec) describes five stated values, including facilitating human agency, and a renewed emphasis on oversight, correction and stopping. His critique is practical: examples with obviously right and wrong answers do little to teach boundary decisions, while later same-level instructions can override an earlier self-imposed limit. This is an analysis of a published specification, **not** a behavioral audit of deployed models. The governance insight is that a declared value does not establish a durable user-controlled boundary.
+
+For [[Human Review Checkpoints]] and [[Digital Fiduciary Duty]], test a concrete revocation scenario: a user sets a spending or disclosure limit, later asks the agent to cross it, and then tries to stop an in-flight action. Record which rule had authority, what confirmation occurred, whether the action was prevented, and how quickly the user could exit. A good agent can help a person reconsider without privately choosing for them. See [[00-Daily-Digests/2026-11-04]].
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

@@ -103,6 +103,12 @@ This connects directly to Meta's Muse and OpenAI's ChatGPT Work pattern: the nex
 
 → Source: [Stratechery, "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence"](https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/) (2026-09-10); [[00-Daily-Digests/2026-09-13]]
 
+## Deadline-Aware Alerts: Say Less Only When the User Knows Enough (2026-11-04)
+
+In a [preregistered monitoring-task study](https://arxiv.org/abs/2611.03976) with 114 participants, Das, Demberg and Feit compared a listener-aware alert planner with a baseline that fully specified problems in onset order. Participants resolved underspecified alerts almost as reliably and sooner, detected more problems, and more often rated the pragmatic assistant helpful, without higher reported mental demand. This is evidence in a controlled task, not proof that abbreviated alerts are safe in emergencies or for novice users.
+
+A [[Human Review Checkpoints]] copilot should reveal *what changed, what must happen now, and the deadline*, with detail available on demand. Test both experienced and first-time reviewers on simulated public-data scenarios; if either misses a critical alert or cannot restate the action, restore explicit wording. The metric is a timely correct intervention, not brevity. Pair this with [[Human Agency]] and the deadline gate in [[00-Daily-Digests/2026-11-04]].
+
 ## Risks / Limits
 - Copilot language can hide real automation; ask whether the human can understand, contest, and override the output.
 - Overreliance can deskill users if they stop practicing judgment, memory, writing, or quantitative reasoning.

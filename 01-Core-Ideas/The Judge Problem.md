@@ -115,6 +115,12 @@ For [[Agentic Verification]] and [[Human Review Checkpoints]], record the human-
 
 **Operational rule:** on a judge upgrade, pin old/new versions; run clean and flawed anchor submissions, compare criterion-level discrimination *and* score distributions, and suspend consequential automated decisions if resolution collapses. A mean-score correction alone cannot repair lost discrimination. Pair with independent human labels before any student-facing grading; see [[AI Field Experiment Evidence]], [[Human Review Checkpoints]] and [[00-Daily-Digests/2026-10-27]]. **Why this matters:** an apparently improved model can silently change the standard it measures.
 
+### Cross-Provider Agreement Is Not Human Validity (2026-11-04)
+
+[Han and Kim's preregistered judge-swap study](https://arxiv.org/abs/2611.04090) re-judged 4,000 Chatbot Arena battles involving nine systems and 33 system pairs, using five judges from three providers in both response orders. Median verdict agreement with a single human vote was low (Cohen's κ = 0.22); Kendall's τ against the human system ranking ranged from 0.17 to 0.89. Cross-provider replication with two low-cost judges improved precision against the human conclusion by 0.10 over a single-judge conclusion, but largely by excluding one poorly aligned judge. Disagreement with the human vote co-occurred more often than independent errors predict; one human vote per battle cannot distinguish shared model bias from noisy human labels.
+
+**Operational rule:** swapping providers is a useful stress test, not a substitute for human anchors. Pre-register the ranking decision, pin judge versions and response order, collect independently reviewed human comparisons on contested pairs, and report how many comparisons survive the replication filter. Do not treat the paper's chatbot-comparison results as validation for student grading. Read with [[Agentic Verification]] and [[Human Review Checkpoints]]; see [[00-Daily-Digests/2026-11-04]].
+
 ## Related Pages
 
 - [[Agentic Verification]]
