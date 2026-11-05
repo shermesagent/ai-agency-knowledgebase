@@ -118,6 +118,12 @@ For persistent or ambient systems, separately demonstrate a **physical or indepe
 
 [WIRED's October 24 PHP report](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) shows the timing problem: AI-assisted discovery plus human expertise can expose older weaknesses, and large volumes of attempted exploitation followed disclosure. It reports **attempts**, not confirmed mass compromise; [Zvi's follow-up](https://thezvi.substack.com/p/the-hackening) argues patch distribution is the constraint. Before granting an AI agent standing maintenance authority, record (1) a service/dependency owner, (2) an authoritative advisory and affected-version check, (3) a staged test and independently observable result, (4) a human change approver, and (5) a restore route if the patch fails. If any is missing, use the agent for inventory and drafting only. A local [[Home Server AI Agents]] deployment faces the same question as a larger [[Sandbox Integrity]] program: can you close the loop without assuming the assistant's fix worked? **Why it matters:** a fast patch proposal is not a safe, applied patch.
 
+## Evidence-to-reliance gate (2026-11-05)
+
+[Yorke's public-service assurance preprint](https://arxiv.org/abs/2611.06655) tests eight GPT-4o configurations on 1,200 UK parliamentary questions across 21 policy topics. Reported accuracy spans 68.2–70.3%, but 24.3% of questions change label across otherwise unchanged repeats; the share routed for human review varies from 0.9% to 41.0% under the reported extraction procedure. The author also analyzes 37 UK/EU guidance documents and argues that accuracy requirements often miss answer stability, shared error and review routing. This is a specific classification task and document sample, **not** a Texas district validation.
+
+Before trusting an AI-produced aggregate in a decision: (1) repeat a fixed, approved test set across runs and configuration changes; (2) compare against independently human-coded anchors, not just another model; (3) record how many items actually reach qualified review and why; (4) test whether category shares and the **decision** change; and (5) name who may reject the evidence before it becomes policy. These checks extend [[Human Review Checkpoints]] and [[Balanced Governance]]. **Why it matters:** a stable-looking average can conceal unstable decisions and an effectively empty appeal lane.
+
 ## Quick Adoption Readiness Scorecard
 
 | Dimension | Check | Score (1-5) |

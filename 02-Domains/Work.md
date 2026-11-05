@@ -152,6 +152,12 @@ This is the workplace version of [[The Participation Problem]]: extraction of wo
 
 The agency test is not whether leadership can launch an assistant but whether workers can decline a poor one, keep manuscripts and performance reviews within approved data boundaries, and show that any saved drafting time exceeds verification and repair time. An author's report of hallucinated quotations in marketing copy illustrates a *claimed* cost borne outside the immediate user of the tool; the article does not establish its prevalence. Pair a voluntary task-level comparison with [[AI Use Case Evaluation Rubric]]'s full-cost accounting and [[AI and Creator Rights]]'s authorization check. **Why this matters:** if deployment overrides the people whose judgment gives the work value, adoption theater can destroy trust before it creates useful capacity.
 
+### Skill retention is part of the productivity calculation (2026-11-05)
+
+[Diener and colleagues' model](https://arxiv.org/abs/2611.06346) extends an accept-or-solve framework across repeated tasks: a worker who optimizes each task's immediate payoff may stop practicing, leaving novices stuck at low skill and experts losing proficiency even while AI-assisted accuracy remains high. The authors characterize incentives for independent correct work and show conditions where practice can become self-sustaining. These are **model results**, not a measured workplace intervention or a universal payment prescription.
+
+This sharpens the junior-pathway concern above: the cost of delegation includes lost future ability to verify the system. In a bounded role, reserve a periodic unaided task and a separate AI-assisted task; track quality, error recognition and time over repeated cycles rather than assuming either route is superior. Pay for learning time and require worker consent before collecting individual performance data. Link [[Cognitive Surrender]] to [[AI Field Experiment Evidence]]: measure whether capability survives when the tool is unavailable. **Why it matters:** a workplace can look more productive this month while becoming less able to supervise its own tools next year.
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]

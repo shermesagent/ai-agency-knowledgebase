@@ -398,5 +398,11 @@ For a district pilot, have the teacher mark the *student-owned decision* before 
 
 [Mamdani's WIRED interview](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/) describes a *proposed* New York City student-facing generative-AI moratorium from 2K through eighth grade; it does not document an enacted rule or evaluated learning outcome. A district can still ask the hard question it raises: where does a learner need unassisted practice before an approved tool may help? Build those boundaries with teacher input, age-appropriate access and an explicit multilingual/accessibility path, not a general prohibition inferred from one politician's position. See [[AI Tutors]], [[AI for School Districts]] and [[00-Daily-Digests/2026-11-03]]. **Why this matters:** agency requires evidence of what students can do both with and without assistance.
 
+## State guidance is not an implementation plan (2026-11-05)
+
+[Memon and colleagues' comparative preprint](https://arxiv.org/abs/2611.06762) reviews publicly available AI guidance from 35 US states and Puerto Rico. In that document sample, data privacy and academic integrity appear in 97% of documents, equity of access in 86%, algorithmic bias in 97%, and workforce readiness in 86%; the authors report much less specificity on capacity-building and accountability. They found no parent contributors in the documents reviewed and student contributors in only five. This is a **content and citation analysis**, not a causal test of state policy or a Texas-only audit.
+
+For a Texas district, translate guidance into a one-page local implementation map: teacher-approved learning uses, identifiable-student-data boundary, multilingual and accessibility review, an unaided learning measure, a student/family feedback route, and a named decision owner. Check current TEA guidance and local policy directly before asserting compliance; this paper is not a substitute. See [[AI for School Districts]] and [[Adoption Readiness Checklist]]. **Why it matters:** policy language about equity and personalization creates no agency unless the people affected can shape, question and verify the actual classroom practice.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

@@ -130,6 +130,12 @@ Two WIRED reports make the October siting ledger more concrete. In [Molly Taft's
 
 The siting test therefore needs two additional fields beside megawatts and water: **where does displaced load or generation go when a grid connection is refused**, and **who can actually use the recovered heat (and under what contract)?** A moratorium can shift externalities to another community or private gas plant; a blanket heat-reuse rule can be infeasible without an offtaker. Give the host community an independently checkable alternatives sheet, including smaller/local compute for bounded tasks, before the decision. This links [[Government and Civic Life]]'s public decision record with [[AI Enclosure]]'s question of who pays. **Why it matters:** capability for users is not a public benefit if physical burdens are exported to hosts without an effective say.
 
+## Political scarcity is still scarcity (2026-11-05)
+
+[Ben Thompson's November 4 analysis](https://stratechery.com/2026/ai-on-the-ballot/) argues that data-center permitting and local opposition could become a longer-lived constraint than chips, memory or power. His election examples and forecast are **commentary**, not an independently verified nationwide tally here, and a permit decision alone does not establish the project's net public cost. But the mechanism matters: incumbent hyperscalers can repurpose existing sites while smaller competitors need new permissions, so a uniform siting restriction may unintentionally strengthen compute incumbents. A slower buildout might also give workers and communities more adaptation time while making useful AI more expensive to access.
+
+Extend the host-community ledger above with **incumbency effects**: compare existing permitted capacity with new entrants' options, projected user prices, the site's independent grid/water assessments and a real public contest or appeal path. Neither automatic approval nor an automatic moratorium is an agency test. See [[AI Enclosure]] and [[Government and Civic Life]]. **Why it matters:** local veto power and broad access to affordable intelligence can both be valuable; governance must account for the tradeoff rather than hiding either side.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]
