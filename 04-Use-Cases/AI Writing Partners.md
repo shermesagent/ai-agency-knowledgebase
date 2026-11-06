@@ -129,7 +129,14 @@ In a [two-session study of academic search with 36 participants](https://arxiv.o
 
 For a writing or research workflow, choose the scaffold to match the learning objective: AI can assemble a revisable evidence map, but the author should write the claim and explain how two sources relate before accepting the summary. Retain the source trail and a next-session note in the author's own words. This adds an observable handoff to the author-first rule and [[Co-Intelligence]] while resisting the mere fluency of [[Cognitive Surrender]]. In school settings, use only approved tools and non-identifiable research material for trials.
 
+## From Discussion to Revision (2026-11-06)
+
+[Favero and colleagues' Maike classroom study](https://arxiv.org/abs/2611.07792) compared a Socratic writing chatbot with a control chatbot sharing the model, interface and Think/Write modes among 65 secondary students. Around 40% of students improved essay scores across the study; the Maike group had more idea-level dialogue (56% versus 44%) and moved iteratively between talking and editing. Movement from discussed ideas into revisions was **associated** with score gains; the abstract does not show that Maike caused higher overall scores than the control. The chatbot diagnoses arguments and asks targeted questions rather than writing essay text.
+
+For a teacher-approved writing trial, collect **student-authored** before/after drafts plus a brief note identifying one claim or piece of evidence changed after dialogue. Evaluate the quality of revision and unaided explanation, not number of chatbot turns. Keep identifiable drafts out of unapproved systems. This makes the Mode B promise observable and connects [[Education]]'s learning-assurance lane to [[Cognitive Surrender]]'s warning against fluent text standing in for thought. **Why it matters:** productive conversation is a means, not the learning outcome; the revised argument is the observable handoff.
+
 ## Related Pages
+- [[00-Daily-Digests/2026-11-06]] — today's study connects dialogue to student-owned revision
 - [[Creativity]]
 - [[AI as Copilot]]
 - [[Co-Intelligence]]

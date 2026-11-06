@@ -124,5 +124,11 @@ For a digital fiduciary, a shutdown cannot silently turn a user's or worker's en
 
 A legitimate fiduciary agent must minimize session authority before inference: use narrow read-only scopes where possible, avoid ambient inbox and payment access, log exactly which third-party data crossed a connector, and make session revocation independently testable. If a token is stolen, response requires revoking sessions and changing affected credentials; asking the model to refuse a malicious prompt cannot restore the user's control. [[Sandbox Integrity]] defines the execution boundary and [[Human Review Checkpoints]] defines approval of consequential transfers. **Why it matters:** the agent's loyalty to its principal is meaningless if the platform cannot distinguish a user-authorized session from a stolen one.
 
+## Sponsored Advice Is a Loyalty Test (2026-11-06)
+
+[Paresh Dave's WIRED reporting](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/) describes an ad intermediary that says it can receive conversation context up to the ad request, including an assistant response, to choose a sponsored placement. Its CEO claims roughly 3% ad clicks and says machine-crafted ad copy gets more clicks; these are company-reported figures, **not** an independent causal test or evidence that users benefited. He declined to explain further how the firm collects and stores de-identified queries. The article also notes that none of the apps in this particular ad network yet offers an autonomous shopping agent.
+
+The fiduciary boundary is therefore specific: disclose sponsorship at the point of recommendation; keep intimate conversation history away from ad targeting by default; offer a usable nonpersonalized route; and test whether the agent can distinguish a user's instruction from a paid suggestion before any purchase. A higher click-through rate measures advertiser response, not user welfare. This extends [[Public Trust and AI]]'s contestability test and [[AI Enclosure]]'s account of who captures the value. **Why it matters:** helpful conversational context becomes a conflict of interest when it is sold as targeting context.
+
 ## Tags
 #governance #responsible-ai #human-agency #augmentation #ai-agents
