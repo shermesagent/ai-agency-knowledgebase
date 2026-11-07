@@ -124,6 +124,12 @@ OpenAI's September 2026 Data agent announcement is a useful design signal for sm
 
 For an owner, start with the customer's actual job: can an authorized agent obtain the correct price, apply a valid discount, complete a purchase within the buyer's stated limits, produce a receipt and reverse an error? Compare agent-origin orders, failed checkouts, disputed charges and margin **against the same-period non-agent path**, before paying an intermediary fee or redesigning the storefront. [[Digital Fiduciary Duty]] adds the buyer's consent and payment boundary; [[Task-Level AI Adoption]] separates activity from completed work. An interested executive's [Stratechery interview](https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/) argues the atomic unit is the workflow, not the individual worker. This is a useful hypothesis, not proof of return. **Why it matters:** a business gains agency when the customer can finish a trustworthy transaction and the owner can see its full cost, not when a platform reports more agent activations.
 
+### The accountant as a customer, not just a channel (2026-11-07)
+
+In [Ben Thompson's November 5 interview with Intuit CEO Sasan Goodarzi](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/), Goodarzi describes a strategy to make accountants direct customers of AI capabilities instead of treating them only as a way to acquire small-business users. He says Intuit expects a growing consumption-based component for agentic services, but reports that customers currently want predictable bills rather than token or outcome pricing. This is an interested executive's strategy and customer characterization, **not** measured evidence that accountants earn more or clients pay less.
+
+For an owner comparing bookkeeping products, request a fixed-price pilot and ask the accountant to show the closing packet, exceptions, source transactions and who signs off before filing or paying. Record the human review cost plus the tool's usage charge against the baseline close, rather than equating more agent activity with savings. Keep financial records in approved environments. This adds a price-predictability gate to [[Task-Level AI Adoption]] and keeps [[Digital Fiduciary Duty]] attached to transaction authority. **Why this matters:** AI that sells more services to an accountant has not necessarily expanded the business owner's financial control.
+
 ## Risks / Limits
 
 - Avoid treating one positive case study as universal proof.

@@ -115,5 +115,11 @@ For family use, distinguish **chat-stop**, **microphone-off**, **memory deletion
 
 The insurance example is also a warning. A real packet may contain health, financial and family information; the interview does not establish whether the attendee had permission to upload it or what the tool retained. For a family workshop, start with a public or redacted sample; independently check policy terms and appeals with the insurer or a qualified adviser before acting. A peer learning model is promising precisely when its members can say *do not paste that* ([[Digital Fiduciary Duty]]). The founders' invite-only, small-group format also raises a scale/access question: who gets coaching beyond the Bay Area and who can afford to experiment? See [[AI and Inequality]].
 
+### Caregiving AI: count the handoff burden (2026-11-07)
+
+[Jaclyn Greenberg's WIRED reporting](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/) describes caregiver tools with very different jobs: Medisafe reminds people about medications, Mejo consolidates a manually entered care history, and Citizen Health's beta Ari can connect records and calendars to prepare appointment questions. These are product descriptions and interviews, not evidence of reduced caregiver hours or better health outcomes. The crucial counterpoint from caregiver trainer Denise Brown is that keeping records current can add work to an already overloaded household; clinicians may not enter updates themselves.
+
+For a family trial, measure **minutes spent entering and reconciling records against minutes saved at the next handoff**. Name who checks medication changes and who may read the record; verify the app's privacy terms before uploading health or family information. A consumer-entered health record is not automatically protected by HIPAA in the way a covered provider's record is, as WIRED's quoted health-law expert cautions. An offline, invented care schedule is safer for testing a workflow. This extends [[Digital Fiduciary Duty]]'s data boundary and [[Healthcare]]'s distinction between coordination and clinical advice. **Why this matters:** a smoother handoff expands agency only when the caregiver is not made the unpaid data-entry clerk.
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai
