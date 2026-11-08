@@ -106,6 +106,12 @@ A creator-rights review should separate three permissions: **the creator's acces
 
 The article quotes a researcher calling this market immature and uneven. Neither agent-facing feeds nor personalized versions prove revenue growth, accurate summarization or fair compensation. A publisher experiment should log licensed access, source links, edits made by the agent, human correction routes and creator compensation before measuring reader usefulness against direct reading. See [[The Disclosure Effect]], [[AI Enclosure]] and [[00-Daily-Digests/2026-10-27]]. **Why this matters:** letting a reader's agent consume work can expand access without handing the platform an unlimited right to rewrite or monetize it.
 
+## The Creator-Approved Adaptation Boundary (2026-11-08)
+
+[Joe Ray's firsthand WIRED test of NYT Cooking's iOS beta](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/) provides a narrower, useful counterexample to the platform-extraction story above: the tool starts from an edited, tested recipe, consults the recipe and substitution guide before comments and model knowledge, marks changes in color, lets the reader switch back to the original and labels the adaptation as **not tested or endorsed by the original creator**. NYT says its recipe editors helped set the rules and evaluate the result. The reporter's chicken substitution nevertheless produced a noticeably worse texture after an overlong simmer. This is a journalist's limited hands-on test and a company's account of its design, not a safety or creator-compensation audit.
+
+That distinction matters: readers can get useful substitutions without silently relabeling a derivative as the author's tested recipe. But visible diffs and a disclaimer do **not** establish that every recipe creator approved adaptation, receives a share of subscription value or can withdraw it. The next creator-rights contract should distinguish permission to *display the original*, permission to *generate user-specific changes*, and the right to use those changes to train or publish new work. Readers need an unmodified version and a clear correction route. See [[Creativity]] for the expression question and [[Digital Fiduciary Duty]] for whose preferences a recommendation serves. **Why this matters:** useful personalization is not a substitute for creator authorization, but it shows how attribution and reversible edits can coexist with augmentation.
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]

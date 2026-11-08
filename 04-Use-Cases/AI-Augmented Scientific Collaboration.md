@@ -142,6 +142,12 @@ The [Working with AI design framework](https://arxiv.org/abs/2609.31793) (Lu et 
 
 The test advances this page's proof-versus-understanding distinction: formal validation can check an encoded proposition while human understanding determines whether it answers the question that matters. For an AI-assisted project, log the human who selects the problem, a human-readable rationale for every consequential claim, an independent challenge route and a trainee's opportunity to learn the method. Compare the eventual result against [[AI Field Experiment Evidence]] rather than treating a plausible demonstration as impact. **Why this matters:** more scientific output is agency-expanding only when people retain the capacity and authority to decide what is true and worth pursuing.
 
+## A Human Proof Is Not a Rejection of AI (2026-11-08)
+
+[Shalma Wegsman's WIRED story, originally published by Quanta](https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/), traces four papers resolving Graham's rearrangement conjecture for sufficiently large primes. Researchers joined small-set and large-set approaches, then Sauermann and Pham used anti-concentration and Fourier analysis to close the middle-size gap. The report explicitly says the result does **not** settle every finite prime; it is not evidence that AI cannot contribute to mathematics. It is a useful counterweight to the proof-overhang section: collaboration, failed partial methods, communication and human understanding can themselves be the scientific result, not merely slow overhead waiting to be automated.
+
+For an AI-assisted proof project, preserve the same record that lets another researcher see *which cases are settled, which hypotheses remain, and why the final method differs from earlier ones*. Compare claims with the original papers before stating a theorem's scope; an explanatory news feature is not a substitute for proof checking. [[The Comprehension Bottleneck]] names the institutional risk if proof volume outruns interpretation, and [[AI Research Agents]] addresses search versus verdict authority. **Why this matters:** scientific agency includes the ability to understand and challenge a result, even when faster generation is available.
+
 ## Related Pages
 - [[AI Research Agents]]
 - [[Democratization of Expertise]]
