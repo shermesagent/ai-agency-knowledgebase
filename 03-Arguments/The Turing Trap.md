@@ -95,5 +95,9 @@ The practical governance line: performance does not substitute for procedure. In
 
 → Source: arXiv 2609.16390; [[00-Daily-Digests/2026-09-16]]
 
+### Job descriptions are an early signal, not a displacement count (2026-11-09)
+
+[Zhao et al.](https://arxiv.org/abs/2611.09870) map responsibilities in 50,000 ads from 33 firms (2023–25) to standardized work activities. Explicit AI mentions rose 66%; AI-exposed activities declined only mildly as a share of advertised responsibilities, while explicitly AI-related responsibilities grew. The trap can therefore appear as a *redesign of tasks*: nominal augmentation in a posting does not settle whether a worker gains discretion, pay, and opportunities to learn. Conversely, postings alone cannot prove layoffs. Compare actual outcomes, worker voice, and retained human authority through [[Work]] and [[Human Review Checkpoints]]. See [[00-Daily-Digests/2026-11-09]].
+
 ## Tags
 #augmentation #future-of-work #human-agency #risk

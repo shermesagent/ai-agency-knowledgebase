@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-11-09|Daily AI Agency Digest — 2026-11-09]] (The Evidence-and-Authority Boundary)
 → [[00-Daily-Digests/2026-11-08|Daily AI Agency Digest — 2026-11-08]] (The Visible Boundary Test)
 → [[00-Daily-Digests/2026-11-07|Daily AI Agency Digest — 2026-11-07]] (The Hidden Human Work Test)
 → [[00-Daily-Digests/2026-11-06|Daily AI Agency Digest — 2026-11-06]] (The Independence-and-Intent Test)

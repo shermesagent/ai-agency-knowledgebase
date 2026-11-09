@@ -2406,3 +2406,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 
 ## [2026-11-08] lint | Sunday structural health pass
 - Validated 717 JSONL source records and unique IDs; no orphan reader pages in the scanned wiki sections. Verified today's new cross-links resolve and `git diff --check` passes. Read-only scan surfaced 269 existing unresolved wikilink occurrences (many aspirational page titles) and older non-taxonomy tags; 15 oversized reader pages sampled. These pre-existing, broad structural issues were not bulk-edited during the daily curator pass. Recommend a separately scoped repair audit prioritizing broken links, then taxonomy and oversized pages; do not confuse these counts with new errors introduced today.
+
+## [2026-11-09] ingest | Agency boundaries in jobs, delegation, youth inference, authorship, and email detection
+- Curated five sources (three arXiv preprints, two WIRED articles); appended five records to `sources/sources.jsonl`, indexed them in `05-Source-Library/Papers.md` and `05-Source-Library/Articles.md`.
+- Created `00-Daily-Digests/2026-11-09.md`; updated `01-Core-Ideas/Co-Intelligence.md`, `03-Arguments/The Turing Trap.md`, `06-Frameworks/Human Review Checkpoints.md`, `02-Domains/Work.md`, and `Home.md`.
+- Distinguished job-ad associations from employment outcomes, survey preferences from behavior, model inference from adolescent self-report, and detector labels from authorship evidence.

@@ -275,6 +275,12 @@ The deeper [[Human Agency]] question: if the assistant chooses what is worth bro
 - In consequential settings, collaboration still needs [[Responsible Deployment]] practices.
 - The frame works best when the human has enough domain knowledge to notice weak or fabricated output.
 
+### Delegation is a negotiated boundary (2026-11-09)
+
+[Wheeler et al.'s scenario survey](https://arxiv.org/abs/2611.09730) of 289 US adults with prior AI experience finds that willingness to automate varies by domain and is associated with trust, expected savings, and the desire for AI leadership. Anticipated loss of personal fulfillment predicts less automation preference; open responses favor substantial execution without automatically surrendering final authority. This is stated preference, not evidence that users behave this way in live deployments. Co-existence should ask which activities a person *wants to keep*, not only which ones an agent can do. Pair this with [[Human Review Checkpoints]] and the rights question in [[The Turing Trap]]. See [[00-Daily-Digests/2026-11-09]].
+
+The same boundary applies to authorship: [WIRED's reporting on draft-history tools](https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/) shows why creators need a way to contest AI-use allegations, but ubiquitous process capture could impose its own surveillance cost. Documented evidence is an option for a fair process, not proof that an unrecorded creator cheated.
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]

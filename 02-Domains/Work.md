@@ -158,6 +158,10 @@ The agency test is not whether leadership can launch an assistant but whether wo
 
 This sharpens the junior-pathway concern above: the cost of delegation includes lost future ability to verify the system. In a bounded role, reserve a periodic unaided task and a separate AI-assisted task; track quality, error recognition and time over repeated cycles rather than assuming either route is superior. Pay for learning time and require worker consent before collecting individual performance data. Link [[Cognitive Surrender]] to [[AI Field Experiment Evidence]]: measure whether capability survives when the tool is unavailable. **Why it matters:** a workplace can look more productive this month while becoming less able to supervise its own tools next year.
 
+### Reading the new job-ad evidence carefully (2026-11-09)
+
+[Zhao et al.'s preprint](https://arxiv.org/abs/2611.09870) analyzes 50,000 job ads at 33 firms over 2023–25: AI mentions grew 66%, but the share of advertised activities exposed to AI declined only mildly, and more ads paired those activities with AI-related responsibilities. Read this as evidence about changing *advertised work*, not observed headcount, wages, or productivity. For an agency-preserving response, track which responsibilities workers now perform with AI, who receives training, and who retains judgment; compare [[The Turing Trap]] and [[Co-Intelligence]]. See [[00-Daily-Digests/2026-11-09]].
+
 ## Related Pages
 - [[AI Executive Assistants]]
 - [[Future of Work]]

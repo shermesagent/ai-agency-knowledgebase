@@ -119,6 +119,10 @@ Connect the overlap test to [[Agentic Verification]] and [[Responsible Deploymen
 
 **Checkpoint design:** before a consequential action, record the authorized task, agent/run ID, tool permission state, evidence inspected, named reviewer, approval or refusal, and whether a queued action actually stopped. Recheck after a permission or memory change. Keep these records access-controlled and minimal: persistent identifiers can themselves become sensitive tracking infrastructure. OpenTelemetry agent tracing formats are being drafted, not finalized; a readable event log plus an enforced action gate is more honest than claiming standards compliance. The essay explicitly cautions that displayed chain-of-thought and confidence do not yet provide reliable explanations of why an action occurred. Connect the event record to [[Agentic Verification]] and the authority to [[Responsible Deployment]]; see [[00-Daily-Digests/2026-10-29]].
 
+### Check the inference before approving the action (2026-11-09)
+
+[Wheeler et al.'s survey](https://arxiv.org/abs/2611.09730) suggests that a delegation design should distinguish automated execution from human final authority; these are scenario preferences, not a tested deployment policy. [Ding et al.'s adolescent-message study](https://arxiv.org/abs/2611.08565) adds a different limit: even capable models can be weaker at subjective judgments, such as perceived support, than at more observable states. Do not allow an inferred feeling or condition to trigger a consequential student action without consent, direct human account, safeguarding, and review. [WIRED's hands-on Gmail detector report](https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/) likewise warrants a pause before automatically archiving a message on an AI-writing label: access to private mail and false positives are part of the decision. Test the actual stop right; see [[Responsible Deployment]] and [[00-Daily-Digests/2026-11-09]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]
