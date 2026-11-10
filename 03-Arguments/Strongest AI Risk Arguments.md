@@ -24,6 +24,10 @@ Today’s sources make the risk picture more concrete. State of AI 2025 points t
 - [AI Debris: Residual Risk and the Afterlife of Failed AI Systems](https://arxiv.org/abs/2606.12432), Victor Frimpong, June 2026 — decommissioned AI systems generate persistent post-withdrawal residue: workflow dependency, data contamination, capability displacement (deskilling), legitimacy erosion, and accountability breakdown. Proposes the AI Debris Decommissioning Protocol (AIDP).
 - [TRAPSBench: A Comprehensive Benchmark for Trustworthy AI Systems](https://arxiv.org/abs/2608.13167), Pramono, Cai, and Kulkarni, August 2026 — a second risk vector distinct from poisoning or misalignment: models can encode answerability while failing to express it. Best spontaneous restraint hits only 0.292 PECS; linear probes decode answerability at up to 0.91 AUROC; single-layer steering causally induces and suppresses abstention. The bottleneck is expression, not perception. See [[The Expression Gap]].
 
+### November 2026 — acceleration without false certainty
+[Mowshowitz's account of METR's Anthropic investigation](https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards) (Nov 9) argues that AI assistance is already speeding frontier AI R&D and that a further feedback loop could shorten governance response time. This is a serious scenario, not proof that recursive self-improvement or catastrophe has occurred; the analysis includes uncertainty and redacted bottleneck evidence. The risk argument worth testing is narrower and operational: can evaluation, incident reporting, and independent oversight keep pace with an increasing release cadence? See [[Automated AI R&D]] and [[Balanced Governance]]. In contrast, [Mollick's Fable 5.2 demonstrations](https://www.oneusefulthing.org/p/fable-52-and-jagged-agi) show why impressive narrow successes cannot settle general reliability or institution-level readiness.
+
+
 ## Practical Examples
 - **Overreliance:** Require source checks, uncertainty lists, and human explanation before consequential decisions.
 - **Bias:** Test systems on local cases, monitor outcomes by affected group, and provide contestability.

@@ -56,6 +56,12 @@ The ARC-AGI-3 results sharpen this: humans solve the benchmark at ceiling; front
 
 Demis Hassabis's framing adds the human dimension: the future of AI is not only a technical forecast but a question of what forms of human understanding are worth preserving and transmitting. IA, properly designed, preserves the qualitative dimension while amplifying the quantitative one.
 
+### November 2026 — capability is jagged; agency is observable
+Ethan Mollick's hands-on [Fable 5.2 essay](https://www.oneusefulthing.org/p/fable-52-and-jagged-agi) (Nov 9) describes striking one-shot creative and coding tasks while explicitly rejecting the leap from computer-based expert performance to competence across physical work, social judgment, or whole jobs. The practical IA question is not whether a model deserves an AGI label but which parts of a workflow it extends and which require a person to test the result. These are the author's demonstrations, not an independent benchmark.
+
+[Shao et al.'s conversation analysis](https://arxiv.org/abs/2611.09902) (preprint submitted Aug 17; surfaced in today's review) examines 249,834 real-world AI conversations and reports human-led collaboration as dominant, active teaching in 67% of conversations, and friction in roughly half. Longer exchanges on high-stakes work and productive recovery from friction complicate the simple story that more AI means less human thought. A conversation trace is not a causal measure of long-term learning or whether all participants retain equal authority. Pair [[Cognitive Surrender]] with [[Human Review Checkpoints]]: ask for independent reasoning and a test of the output, not just a longer chat.
+
+
 ## Practical Examples
 
 - **Small business IA:** A solo entrepreneur with Claude connected to QuickBooks, PayPal, and HubSpot operates at a scale that previously required a finance team, marketing department, and operations manager. The augmentation is not theoretical — it's 15 pre-built workflows covering finance, operations, sales, marketing, HR, and customer service.

@@ -2411,3 +2411,7 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Curated five sources (three arXiv preprints, two WIRED articles); appended five records to `sources/sources.jsonl`, indexed them in `05-Source-Library/Papers.md` and `05-Source-Library/Articles.md`.
 - Created `00-Daily-Digests/2026-11-09.md`; updated `01-Core-Ideas/Co-Intelligence.md`, `03-Arguments/The Turing Trap.md`, `06-Frameworks/Human Review Checkpoints.md`, `02-Domains/Work.md`, and `Home.md`.
 - Distinguished job-ad associations from employment outcomes, survey preferences from behavior, model inference from adolescent self-report, and detector labels from authorship evidence.
+
+## [2026-11-10] ingest | Human-after-AI evaluation across collaboration, learning, civic tools, and accelerated R&D
+- Created `00-Daily-Digests/2026-11-10.md`; updated `01-Core-Ideas/Intelligence Amplification.md`, `01-Core-Ideas/Automated AI R&D.md`, `03-Arguments/Strongest AI Risk Arguments.md`, and `Home.md`.
+- Added five source records to `sources/sources.jsonl` and entries to `05-Source-Library/Articles.md` and `05-Source-Library/Papers.md`. The Aug-submitted collaboration preprint surfaced today; forecasts about recursive improvement are distinguished from measured acceleration.
