@@ -176,5 +176,9 @@ This sharpens the junior-pathway concern above: the cost of delegation includes 
 - [[Human Agency]] — Gatekeeping Layer and ground-truth counterweight
 - [[Democratization of Expertise]] — application-layer access expansion
 
+## Policy awareness is a separate adoption measure (2026-11-11)
+
+[Verì's single-organization interview preprint](https://arxiv.org/abs/2611.14154) reports that 36 of 65 respondents using standardized instruments scored 4 or 5 on AI-use frequency, while 31 of those 36 reported no policy awareness or uncertainty about its details. Another 33 used *different response anchors*, so their scores should not be pooled as if they were comparable. Self-reported frequency is neither compliance nor effectiveness, and this case cannot estimate national adoption. In an internal, privacy-safe pilot, measure **use, policy comprehension and workflow benefit separately**; let staff describe policy uncertainty without treating it as a disciplinary admission. See [[Adoption Readiness Checklist]] and [[Human Agency]]. **Why this matters:** high tool use can coexist with weak organizational clarity.
+
 ## Tags
 #future-of-work #augmentation #practical-ai #human-agency

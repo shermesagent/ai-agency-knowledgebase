@@ -201,5 +201,9 @@ Extend the existing alternatives table with a *public cost-and-response ledger*:
 - [[The Infrastructure Layer]]
 - [[Open Questions]]
 
+## Civic AI must preserve the ability to disagree (2026-11-11)
+
+[Pačes-Wiles's EJAI preprint](https://arxiv.org/abs/2611.13525) studies a source-grounded tool for residents weighing data-center environmental impacts. Its 21-query functional benchmark reported evidence support for 98.4% of factual claims and acknowledged missing evidence in 32 of 33 cases; 15 participants then prepared for a *simulated* town hall. A corporate stakeholder persona sometimes omitted conflicting evidence. These small, context-specific evaluations do not prove representative civic participation or unbiased policy outcomes. For public use, show the underlying document, map-metric provenance, missing evidence and competing interpretation together; permit a resident to make a conditional recommendation rather than accepting the system's conclusion. See [[The Artificial State]], [[Human Agency]], and [[Agentic Verification]]. **Why this matters:** an AI interface can make evidence easier to find while still narrowing what the community is invited to question.
+
 ## Tags
 #civic-life #governance #responsible-ai #ai-agents

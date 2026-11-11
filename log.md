@@ -2415,3 +2415,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 ## [2026-11-10] ingest | Human-after-AI evaluation across collaboration, learning, civic tools, and accelerated R&D
 - Created `00-Daily-Digests/2026-11-10.md`; updated `01-Core-Ideas/Intelligence Amplification.md`, `01-Core-Ideas/Automated AI R&D.md`, `03-Arguments/Strongest AI Risk Arguments.md`, and `Home.md`.
 - Added five source records to `sources/sources.jsonl` and entries to `05-Source-Library/Articles.md` and `05-Source-Library/Papers.md`. The Aug-submitted collaboration preprint surfaced today; forecasts about recursive improvement are distinguished from measured acceleration.
+
+## [2026-11-11] ingest | Claim fidelity, civic agency, grading and workplace adoption
+- Five arXiv preprints accepted, recorded in sources/sources.jsonl and 05-Source-Library/Papers.md; findings and scoped practical experiment in 00-Daily-Digests/2026-11-11.md.
+- Updated 06-Frameworks/Agentic Verification.md, 02-Domains/Education.md, 02-Domains/Government and Civic Life.md, 02-Domains/Work.md, and Home.md.
+- Limitations: all five are preprints; civic and grading evaluations are small/context-specific, and the workplace case is single-organization self-report. No email sent.

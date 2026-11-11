@@ -200,6 +200,12 @@ The companion [human–AI scientific-ideation study](https://arxiv.org/abs/2610.
 
 Add a **conflict gate** to the evidence protocol: record the retrieved claim and its origin, obtain an independently checkable competing account, estimate or explicitly mark the context-reliability prior as unknown, and abstain or escalate when the choice affects a consequential action. A fluent answer that chooses a winner is not a verification result. The gate joins the runtime-identity and human-approval records in [[Human Review Checkpoints]] and the source-independence test above; see [[00-Daily-Digests/2026-10-29]].
 
+## Claim fidelity is a separate gate (2026-11-11)
+
+[Eigner's preprint](https://arxiv.org/abs/2611.13042) distinguishes a passing check on a formalized artifact from checking the claim the author actually made. In a two-claim mathematics example, an ambiguous claim split into readings that were respectively refuted and proved. This is a proposed framework and small demonstration, not a validated end-to-end field study. Add a **fidelity audit** before sign-off: display the original claim beside the tool-checked representation, record the difference in scope and assumptions, and have a human decide whether the result answers the original question. Keep separate records for tool validity, representation fidelity, and contribution attribution. See [[Human Review Checkpoints]] and [[AI Research Agents]].
+
+[Davies's transparency proposal](https://arxiv.org/abs/2611.13873) identifies five links needed to assess chain-of-thought monitoring: third-party access and architecture information, naturalness, faithfulness, detection and monitoring uplift. Its audit finds no one of three major developers publicly reports the full set; a disclosure gap is not proof that their monitoring fails. Ask for independent audit access and real detection evidence rather than treating an exposed reasoning trace as an intrinsically trustworthy explanation. See [[Reasoning Trace Theft]] and [[Responsible Deployment]]. **Why this matters:** a checker can be correct about the wrong claim, and a visible trace can still fail to reveal the relevant failure.
+
 ## Tags
 
 #verification #agents #responsible-ai #frameworks #superagency
