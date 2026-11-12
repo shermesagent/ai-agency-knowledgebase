@@ -74,5 +74,9 @@ Pair this with [expert interviews on evaluation-based governance](https://arxiv.
 - [[Task-Level AI Adoption]]
 - [[The Expression Gap]] — score what a system expresses, not what it claims to encode; unexpressed capability is unverifiable
 
+### Fix the baseline and watch the judge (2026-11-12)
+
+[Chen, Zheng and Zhu](https://arxiv.org/abs/2611.14333) analyze 1,260,967 blind Chatbot Arena votes from May 2023 to August 2024 on fixed model pairs. The share of votes calling *both* fixed models bad rose by 1.71 percentage points per month while the stronger model's share of decisive votes stayed flat in their comparisons. The authors' interpretation is that evaluators' absolute standard shifted; it does **not** show a specific current model improved or declined, nor does Arena measure district instructional quality. For any institutional AI pilot, keep a stable set of real, approved test cases and a versioned rubric; report absolute pass rates alongside pairwise preference, model version, reviewer and date. An apparent drop in satisfaction may reflect model changes, rater expectations or task-mix changes—investigate rather than assume. See [[AI Tutor Evaluation Checklist]] and [[Human Review Checkpoints]].
+
 ## Tags
 #practical-ai #responsible-ai #tools

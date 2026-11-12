@@ -102,5 +102,9 @@ The Hugging Face incident postmortem (OpenAI + METR, 08-26) adds a sixth debt ca
 
 This adds a concrete debt item: workflows that log a successful tool call as a successful *outcome* accumulate unverified external-effect debt. For a reversible test, log five timestamps/states: proposed → approved → dispatched → exact target read back → human acceptance; mark missing read-back as **unverified**, never as done. Pair this with [[AI Coding Agents]]' local-app trust boundary and [[Agentic Verification]]'s independent checks. A unit-test pass or agent self-report cannot clear the debt by itself.
 
+### Memory provenance debt (2026-11-12)
+
+[WikiTrace](https://arxiv.org/abs/2611.14320) links an agent's concise remembered lesson to a rationale and its original task trajectory so a later agent can inspect ambiguous or conflicting lessons before acting. The authors report better performance and less memory-induced degradation on five agent benchmarks against comparison memory methods and the same-insights-only baseline. This is benchmark evidence, not a production guarantee. **Memory provenance debt** accumulates when reusable instructions shed the evidence, context and failure conditions that justified them. To pay it down, store each lesson with its originating evidence, confidence and scope; on a consequential action, retrieve the source trace and verify that the present case fits. Retain trajectories only under appropriate access and retention controls: auditability is not permission to retain sensitive user or student information indefinitely. Connects [[Agentic Verification]] and [[Human Review Checkpoints]].
+
 ## Tags
 #ai-agents #governance #responsible-ai #future-of-work #risk

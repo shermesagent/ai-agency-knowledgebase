@@ -107,5 +107,9 @@ Tutor design implication to test, not an established classroom effect: when a le
 
 The pilot question changes from “Did the bot answer?” to “Did the student move from asking for solutions to asking what assumption, model or step they need to test?” Compare early and late *approved, de-identified* prompt samples against an independent unaided transfer item; ask teachers to score mathematical reasoning, not just prompt style. Do not upload identifiable student conversations to an external grader. [[Education]] sets instructional boundaries and [[AI Tutor Evaluation Checklist]] supplies the review gate. **Why this matters:** student agency is visible in the trajectory of help-seeking, not merely the final chat answer.
 
+### Practice a difficult chat without making the bot the judge (2026-11-12)
+
+[Lilo](https://arxiv.org/abs/2611.14260) is a simulated group-chat conflict exercise for children aged 9–11, with two AI peers and a mentor using a Stop–Think–Act scaffold. In an exploratory pre/post study of 28 children, participants reported greater self-efficacy in handling unpleasant messages. That is a *self-report after one intervention*, not demonstrated behavioral change, bullying prevention, or a classroom efficacy trial. Its agency value is a low-stakes rehearsal space; the limits are safeguarding, emotional realism, biased peer simulations, and what the system retains about children. Before any school pilot, require a counselor-reviewed scenario, accessible opt-out and human escalation, guardian notice under district policy, approved data handling, and an independent transfer task rather than satisfaction alone. See [[AI for School Districts]] and [[Human Agency]].
+
 ## Tags
 #ai-education #augmentation #practical-ai #responsible-ai

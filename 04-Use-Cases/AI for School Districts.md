@@ -82,6 +82,10 @@ The [WIRED report on Indigenous-language keyboard support](https://www.wired.com
 
 [David Nield's WIRED guide](https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/) distinguishes synthesis across plentiful sources from precise quotations, recent facts, and high-stakes answers. It cites research on retrieval and authority, but is a reported consumer guide rather than a district accuracy trial. For district curriculum or policy questions, use AI to *discover candidate sources*; a staff member must open the controlling TEKS text, adopted scope and sequence, or current district policy and check the exact citation and effective version before publishing. Record the source URL, retrieval date and human approver. An attractive AI answer with a citation is not evidence that the right source was retrieved. Keep student records out of unapproved search systems. This extends [[Education]] and [[Human Review Checkpoints]] without asserting that the guide validated any specific Texas standard.
 
+### Instructional-design tooling is not instructional evidence (2026-11-12)
+
+[Perspicacious](https://arxiv.org/abs/2611.13549) combines question generation and knowledge-component discovery for instructional designers. Its authors report a cost/time trade-off across 17 production runs and a formative, partly Wizard-of-Oz usability study with eight designers (mean SUS 78.8). This shows a potentially usable *authoring workflow*, not better student learning or correct alignment to Texas TEKS. A district pilot should map each generated question to the exact adopted TEKS student expectation and local scope and sequence, have a content expert inspect the answer key and cognitive demand, and retain the teacher's revision and approval. Do not use student records or unpublished secure assessment items in an unapproved platform. See [[AI Tutors]] and [[Human Review Checkpoints]].
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

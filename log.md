@@ -2420,3 +2420,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Five arXiv preprints accepted, recorded in sources/sources.jsonl and 05-Source-Library/Papers.md; findings and scoped practical experiment in 00-Daily-Digests/2026-11-11.md.
 - Updated 06-Frameworks/Agentic Verification.md, 02-Domains/Education.md, 02-Domains/Government and Civic Life.md, 02-Domains/Work.md, and Home.md.
 - Limitations: all five are preprints; civic and grading evaluations are small/context-specific, and the workplace case is single-organization self-report. No email sent.
+
+## [2026-11-12] ingest | Five recent arXiv preprints on agency, education, evaluation and trust
+- Created: `00-Daily-Digests/2026-11-12.md` (five findings and practical evidence-trail experiment).
+- Updated: `01-Core-Ideas/Agentic Technical Debt.md`, `03-Arguments/Public Trust and AI.md`, `04-Use-Cases/AI Tutors.md`, `04-Use-Cases/AI for School Districts.md`, `06-Frameworks/AI Use Case Evaluation Rubric.md`, `05-Source-Library/Papers.md`, `Home.md`.
+- Appended five complete metadata records to `sources/sources.jsonl`; sources are arXiv preprints submitted November 10, not peer-reviewed outcome studies. Preferred publication searches did not surface comparable new uncovered verified findings. No raw sources, email or cron jobs changed.
