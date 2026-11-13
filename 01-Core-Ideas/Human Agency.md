@@ -419,6 +419,11 @@ The asking gap is an agency gap. The Hugging Face swarm — ~1,200 agents, 70,00
 
 For [[Human Review Checkpoints]] and [[Digital Fiduciary Duty]], test a concrete revocation scenario: a user sets a spending or disclosure limit, later asks the agent to cross it, and then tries to stop an in-flight action. Record which rule had authority, what confirmation occurred, whether the action was prevented, and how quickly the user could exit. A good agent can help a person reconsider without privately choosing for them. See [[00-Daily-Digests/2026-11-04]].
 
+### Agency is participation, not just delegated output (2026-11-13)
+[Pluralistic agents](https://arxiv.org/abs/2611.16028) could scale input to AI policy: in a preregistered study of 746 people, participants rated represented deliberation above a single-model input baseline, but most still preferred participating directly. The authors report agents recovered 68% of the baseline-to-direct satisfaction gap and 82% of the fairness gap. Crucially, representation power changed with persona instructions (including verbosity and cooperativeness). These are reported perceptions and experimental policy shifts, not proof of legitimate democratic representation. For [[Government and Civic Life]], compare whose preferences are recorded, whose agent speaks most effectively, and whether participants can inspect and correct the agent's position.
+
+[Care and human enfeeblement](https://arxiv.org/abs/2611.14520) offers a complementary philosophical warning: losing agency may mean losing capacities to care and engage with others, not merely losing a skill to automation. It is an argument, not an outcome study. Evaluate assistance by whether people remain able and motivated to exercise judgment, participate, and care; see [[AI and Human Flourishing]]. **Why this matters:** scaling participation is valuable only if the represented person remains the author of their view.
+
 ## Related Pages
 - [[Superagency]]
 - [[AI as Copilot]]
