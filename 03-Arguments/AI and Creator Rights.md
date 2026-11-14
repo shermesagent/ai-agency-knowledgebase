@@ -112,6 +112,12 @@ The article quotes a researcher calling this market immature and uneven. Neither
 
 That distinction matters: readers can get useful substitutions without silently relabeling a derivative as the author's tested recipe. But visible diffs and a disclaimer do **not** establish that every recipe creator approved adaptation, receives a share of subscription value or can withdraw it. The next creator-rights contract should distinguish permission to *display the original*, permission to *generate user-specific changes*, and the right to use those changes to train or publish new work. Readers need an unmodified version and a clear correction route. See [[Creativity]] for the expression question and [[Digital Fiduciary Duty]] for whose preferences a recommendation serves. **Why this matters:** useful personalization is not a substitute for creator authorization, but it shows how attribution and reversible edits can coexist with augmentation.
 
+## AI proofs of concept: inclusion for whom? (2026-11-14)
+
+[Jason Parham's WIRED report](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/) describes Mansa's entirely AI-generated microdrama *They Left Us to Die*. Co-founder Nate Parker says the show can demonstrate demand for Black-led stories and help win backing for staffed productions; actors and commenters question why a company aiming to uplift Black talent made a show with no human roles. The promised downstream commissions are an **argument by the company**, not a verified outcome. This is more complicated than a simple pro- or anti-AI example: access to storytelling distribution can expand while paid performance opportunities contract.
+
+For a creator-centered pilot, ask upfront who authors the concept, whose work or likeness informs the generation, who is paid for the prototype, and what evidence would trigger an actual human-staffed commission. Count jobs and creator control **after** the proof of concept, not just audience engagement **during** it. [[Creativity]] tracks representational breadth; [[AI and Inequality]] tracks who receives the resulting opportunity. **Why it matters:** a more visible story is not necessarily a more empowered storyteller.
+
 ## Related Pages
 - [[Digital Fiduciary Duty]]
 - [[Creativity]]

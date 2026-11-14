@@ -2430,3 +2430,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Created: `00-Daily-Digests/2026-11-13.md` (five sourced findings, limitations and a privacy-safe practical experiment).
 - Updated: `01-Core-Ideas/Human Agency.md`, `02-Domains/Creativity.md`, `03-Arguments/AI and Inequality.md`, `05-Source-Library/Papers.md`, `Home.md`.
 - Appended five arXiv source records to `sources/sources.jsonl`. The November 13 RSS feed includes earlier-submitted preprints. Search for preferred publishers returned no usable new results; arXiv abstracts and available paper pages grounded today's claims. No email or cron changes.
+
+## [2026-11-14] ingest | Creator opportunity, connector hygiene and intervention thresholds
+- Created `00-Daily-Digests/2026-11-14.md` with five readings and a privacy-safe revocation experiment.
+- Updated `01-Core-Ideas/Digital Fiduciary Duty.md`, `03-Arguments/AI and Creator Rights.md`, `03-Arguments/Balanced Governance.md`, `05-Source-Library/Articles.md` and `Home.md`.
+- Added five article/commentary records to `sources/sources.jsonl`; dates are month-level where publication day was not confirmed. Claims about future jobs and safety thresholds are attributed, not established outcomes. No email or cron changes.

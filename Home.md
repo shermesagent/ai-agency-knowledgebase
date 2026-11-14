@@ -296,7 +296,7 @@ Pages that need curator attention. Counts cover 81 existing reader pages in 01�
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-11-13|Today's Digest]] · [[00-Daily-Digests/2026-11-12|Previous Digest]]
+- [[00-Daily-Digests/2026-11-14|Today's Digest]] · [[00-Daily-Digests/2026-11-13|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags
