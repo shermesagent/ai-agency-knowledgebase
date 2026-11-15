@@ -121,5 +121,11 @@ The insurance example is also a warning. A real packet may contain health, finan
 
 For a family trial, measure **minutes spent entering and reconciling records against minutes saved at the next handoff**. Name who checks medication changes and who may read the record; verify the app's privacy terms before uploading health or family information. A consumer-entered health record is not automatically protected by HIPAA in the way a covered provider's record is, as WIRED's quoted health-law expert cautions. An offline, invented care schedule is safer for testing a workflow. This extends [[Digital Fiduciary Duty]]'s data boundary and [[Healthcare]]'s distinction between coordination and clinical advice. **Why this matters:** a smoother handoff expands agency only when the caregiver is not made the unpaid data-entry clerk.
 
+### Objects that ask for care: a family boundary test (2026-11-15)
+
+[WIRED's report on Object Agent Twins (OATs)](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/) describes Carnegie Mellon researcher Daehwa Kim's prototype: small E Ink avatars attached to objects such as a plant, using sensors to reflect object state through an expressive character. The article reports a research demonstration and researcher intentions, **not** measured behavior change, family benefit or an available consumer product. Moving an agent off the phone may reduce screen interaction, but an avatar that looks distressed can also turn ordinary care into another demand for attention. That tradeoff is especially important for children; this source does not test effects on them.
+
+Before adopting anything like it at home, use an ordinary moisture indicator or written reminder as a comparison. Decide which object merits a prompt, who can turn it off, what sensors capture and whether any data leaves the device. A useful household assistant should help someone notice a real need without making them feel responsible for an artificial companion. This extends [[Digital Fiduciary Duty]] and [[AI and Human Flourishing]]: agency means the family sets the rhythm, not the avatar. **Why this matters:** convenience does not justify emotional pressure or unnecessary sensing in shared spaces.
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai

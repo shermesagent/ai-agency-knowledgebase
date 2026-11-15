@@ -100,5 +100,11 @@ For a consumer-health AI pilot, compare the claimed benefit against a baseline o
 - [[Education]]
 - [[Frontier Firm]]
 
+### More AI is not the same as a better day (2026-11-15)
+
+Two November 15 WIRED reports put a mundane but important limit on the flourishing case. [A reporter's AI-DJ test](https://www.wired.com/story/ai-djs-completely-kill-my-groove/) shows how optional synthetic commentary can interrupt music and supply unreliable context; [reporting on OATs](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/) describes a research prototype that gives objects expressive avatars to nudge care. Neither establishes population-level benefits or harms. Together they suggest a design question rather than a universal verdict: **does this intervention leave the user more free to attend to what matters?**
+
+For an everyday-AI trial, compare the AI feature with a silent/default or non-AI reminder. Record interruptions, corrected errors, task completion and the person's preference after a week. Make opting out as easy as opting in; for household sensing, document data flows before testing. [[AI as Copilot]] supplies the quiet-by-default rule and [[Family and Personal Life]] the shared-space and child-safety boundary. **Why this matters:** agency can be lost in small slices of attention even when a product remains technically optional.
+
 ## Tags
 #human-agency #ai-optimism #augmentation

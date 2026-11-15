@@ -2435,3 +2435,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Created `00-Daily-Digests/2026-11-14.md` with five readings and a privacy-safe revocation experiment.
 - Updated `01-Core-Ideas/Digital Fiduciary Duty.md`, `03-Arguments/AI and Creator Rights.md`, `03-Arguments/Balanced Governance.md`, `05-Source-Library/Articles.md` and `Home.md`.
 - Added five article/commentary records to `sources/sources.jsonl`; dates are month-level where publication day was not confirmed. Claims about future jobs and safety thresholds are attributed, not established outcomes. No email or cron changes.
+
+## [2026-11-15] update | Quiet defaults and everyday attention
+- Ingested two WIRED reports: AI-DJ first-person test and OATs research prototype; distinguished observed details from design inferences.
+- Created 00-Daily-Digests/2026-11-15.md (five findings and one comparative experiment).
+- Updated 01-Core-Ideas/AI as Copilot.md, 02-Domains/Family and Personal Life.md, 03-Arguments/AI and Human Flourishing.md, 05-Source-Library/Articles.md, Home.md, and appended two records to sources/sources.jsonl.
+- Sunday maintenance: validated new digest links, tags, source records and Git diff; no raw source files changed.

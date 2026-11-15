@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-11-15|Daily AI Agency Digest — 2026-11-15]] (The Quiet-Default Test)
 → [[00-Daily-Digests/2026-11-11|Daily AI Agency Digest — 2026-11-11]] (The Claim-Fidelity Test)
 → [[00-Daily-Digests/2026-11-10|Daily AI Agency Digest — 2026-11-10]] (The Human-After-AI Test)
 
@@ -116,6 +117,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-11-15 | AI as Copilot, Family and Personal Life, AI and Human Flourishing, Articles — Pass 95, 00-Daily-Digests/2026-11-15, Home |
 | 2026-11-11 | Agentic Verification, Education, Government and Civic Life, Work, Papers, 00-Daily-Digests/2026-11-11, Home |
 | 2026-11-08 | AI and Creator Rights, Home Server AI Agents, AI-Augmented Scientific Collaboration, Articles — Pass 94, 00-Daily-Digests/2026-11-08, Home |
 | 2026-11-07 | Family and Personal Life, Responsible Deployment, AI for Small Businesses, Articles — Pass 93, 00-Daily-Digests/2026-11-07, Home |
@@ -296,7 +298,7 @@ Pages that need curator attention. Counts cover 81 existing reader pages in 01�
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-11-14|Today's Digest]] · [[00-Daily-Digests/2026-11-13|Previous Digest]]
+- [[00-Daily-Digests/2026-11-15|Today's Digest]] · [[00-Daily-Digests/2026-11-14|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

@@ -144,5 +144,11 @@ Two sources converge on the relational edge of copiloting. The Tool-to-Entity Th
 
 → Sources: [The Tool-to-Entity Threshold](https://arxiv.org/abs/2608.13586), [AI Evaluation Should Work With Humans](https://arxiv.org/abs/2608.13577) — arXiv, 2026-08-17; [MIT TR, "What happens when a kid's robot best friend dies?"](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) (2026-08-17)
 
+### A copilot should know when to stay quiet (2026-11-15)
+
+[Reece Rogers's first-person test of AI DJs](https://www.wired.com/story/ai-djs-completely-kill-my-groove/) finds the opposite of an additive copilot: an optional synthetic host interrupts listening with lengthy commentary and, in the reported examples, mispronounces an artist's name and describes a remix before the service plays a different version. This is one reporter's experience with music-streaming features, not a controlled usability study. It nevertheless exposes two testable failures: interruption at the wrong moment and inaccurate context presented confidently.
+
+The copilot design rule is **ask, don't interject** for low-stakes experiences: preserve a quiet default, let users request context, and evaluate factual accuracy against the item actually served. [[Family and Personal Life]] raises a related attention cost for expressive object agents; [[AI and Human Flourishing]] asks whether the feature makes an experience richer or simply busier. **Why this matters:** keeping a person nominally in control is insufficient if the interface repeatedly captures attention that the person did not offer.
+
 ## Tags
 #augmentation #practical-ai #human-agency
