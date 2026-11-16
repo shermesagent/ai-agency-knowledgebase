@@ -72,6 +72,10 @@ The page's founding cases were about *defaults* — who is opted in, who is surv
 
 For [[Government and Civic Life]], use a disposition register: preserve the original concern, name the decision owner, state whether the proposal changed, and publish a reason for non-adoption plus a way to contest it. Do not substitute attendance or comment counts for influence. **Why this matters:** invitations to participate expand agency only when disagreement remains legible to decision-makers and can produce a different outcome. See [[00-Daily-Digests/2026-10-06]].
 
+## A representative public comment is not a synthetic comment (2026-11-16)
+
+[DOCKETBench](https://arxiv.org/abs/2611.17914) tests model-written feedback against actual federal rulemaking comments. Its authors report that only 18–30% of generated feedback aligns with real human comments; models tend toward broad criticism without specific evidence or lived experience, and the tested systems more often agree with government than with labor-union claims. These are benchmark findings, not evidence that every assisted comment is harmful. A useful participation tool should help a real stakeholder research a proposal and articulate *their own* argument, retaining the underlying comment and dissent in the record. An AI-written stand-in is not a substitute for whose voice is in the room. See [[Government and Civic Life]] and [[Agency Expansion Framework]].
+
 ## Related Pages
 
 - [[Superagency]] — the organizing idea participation makes concrete

@@ -31,6 +31,12 @@ Mollick's [[Human Agency|agency]] argument changes the unit of analysis: if an a
 - Watch for overreliance, privacy risks, bias, deskilling, labor displacement, and concentration of power.
 - Update this section whenever strong counterarguments appear.
 
+## Participation and control checks (2026-11-16)
+
+**Civic voice:** If an assistant drafts a public comment, compare it with the person's unassisted position, evidence and specific lived experience; do not score fluency as representation. [DOCKETBench](https://arxiv.org/abs/2611.17914) found 18–30% alignment between model-generated feedback and actual comments in its federal-rulemaking benchmark. Its result suggests a representation test, not a universal rate for other settings. See [[The Participation Problem]].
+
+**Memory control:** Ask users to test whether a saved memory rule permits transfer to a *different task*, not only whether it passes one allow/deny preview. [Tonni and Shahid](https://arxiv.org/abs/2611.17874) enumerate ambiguous permission previews under a specified rule vocabulary; their small 20-person pilot does not prove an improved UI works. For any deletion rule, test query-critical false drops before erasing facts: [Vinayaka's controlled study](https://arxiv.org/abs/2611.17338) found hard deletion can worsen accuracy under resolver errors. Retain an auditable, user-correctable path rather than equating automatic forgetting with user control. See [[Digital Fiduciary Duty]].
+
 ## Related Pages
 - [[Human Agency]]
 - [[AI Use Case Evaluation Rubric]]

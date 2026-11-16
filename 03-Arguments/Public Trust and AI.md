@@ -187,6 +187,10 @@ The July removal of 13 named apps showed that takedown authority exists; this in
 - **The trust gap may be generational.** Younger people may have fundamentally different relationships with AI than older generations — booing at graduations may reflect expectations, not rejection. But that distinction doesn't make the trust gap less real.
 - **Trust metrics are hard to operationalize.** Surveys capture stated preferences; actual behavior (adoption, reliance) may tell a different story. The graduation booing is a revealed preference — more powerful than survey data.
 
+## Disclosure can be narrower than exposing the entire model (2026-11-16)
+
+[Cofone and Strandburg](https://arxiv.org/abs/2611.17980) propose treating algorithmic opacity as a principal–agent problem: disclose error profiles and outcome distributions by group to identify when stronger scrutiny is warranted, even if full technical details risk gaming or trade-secret loss. This is a **proposed legal/analytical test**, not an enacted requirement or validated fairness guarantee; group disparities are triggers to investigate, not proof of misconduct. In public deployment, publish what can be measured, who may contest a decision, and what cannot yet be audited. [[Balanced Governance]] and [[Government and Civic Life]] connect transparency to recourse rather than branding.
+
 ## Related Pages
 - [[Optimism Without Naivety]]
 - [[Case for AI Optimism]]

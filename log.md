@@ -2441,3 +2441,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Created 00-Daily-Digests/2026-11-15.md (five findings and one comparative experiment).
 - Updated 01-Core-Ideas/AI as Copilot.md, 02-Domains/Family and Personal Life.md, 03-Arguments/AI and Human Flourishing.md, 05-Source-Library/Articles.md, Home.md, and appended two records to sources/sources.jsonl.
 - Sunday maintenance: validated new digest links, tags, source records and Git diff; no raw source files changed.
+
+## [2026-11-16] update | Civic voice, disclosure and memory permissions
+- Sources: DOCKETBench (2611.17914), algorithmic opacity (2611.17980), memory previews (2611.17874), agent forgetting (2611.17338), local-council audio participation (2611.18072); arXiv RSS abstracts checked.
+- Updated: 01-Core-Ideas/The Participation Problem.md, 03-Arguments/Public Trust and AI.md, 06-Frameworks/Agency Expansion Framework.md, 05-Source-Library/Papers.md, Home.md. Created: 00-Daily-Digests/2026-11-16.md. Added five records to sources/sources.jsonl.
+- Distinctions: benchmark alignment is not actual comment causality; opacity framework is proposed; memory pilot is small; local meeting share is site-limited. No email sent.
