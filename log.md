@@ -2446,3 +2446,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Sources: DOCKETBench (2611.17914), algorithmic opacity (2611.17980), memory previews (2611.17874), agent forgetting (2611.17338), local-council audio participation (2611.18072); arXiv RSS abstracts checked.
 - Updated: 01-Core-Ideas/The Participation Problem.md, 03-Arguments/Public Trust and AI.md, 06-Frameworks/Agency Expansion Framework.md, 05-Source-Library/Papers.md, Home.md. Created: 00-Daily-Digests/2026-11-16.md. Added five records to sources/sources.jsonl.
 - Distinctions: benchmark alignment is not actual comment causality; opacity framework is proposed; memory pilot is small; local meeting share is site-limited. No email sent.
+
+## [2026-11-17] update | Daily AI agency curation
+- Created 00-Daily-Digests/2026-11-17.md (five sourced findings and a privacy-safe delegation-card experiment).
+- Updated 01-Core-Ideas/Dissociative Agent Governance.md; 03-Arguments/AI as Normal Technology.md; 03-Arguments/The Turing Trap.md; 05-Source-Library/Papers.md; Home.md.
+- Appended five arXiv source records to sources/sources.jsonl; one education position paper was originally submitted in August, not November.
+- WIRED interview considered but excluded from durable claims pending independent corroboration.

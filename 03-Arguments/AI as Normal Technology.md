@@ -51,7 +51,13 @@ Two August 2026 developments sharpen the normal-technology frame from both direc
 
 The normal-technology reading is to test *deployment boundaries*, not romanticize private apps: name users and an owner; classify data; restrict access; inventory dependencies; test restores; compare usefulness and risk with the existing workflow. [[AI Enclosure]] asks whether the private tool avoids a platform toll or merely moves dependency to a hosted API. [[The AI Slop Backlash]] asks who bears the costs if cheap generation spills into other people's inboxes. Small scale can lower the cost of trying something without excusing weak evidence or security.
 
+### A moving model is a routine operations problem (2026-11-17)
+
+[Facchini's venture-screening audit](https://arxiv.org/abs/2611.20901) repeated tests across five providers and three waves over 13 months (248,400 calls) and observed changes in bias patterns under unchanged identifiers. The result does not generalize automatically from venture screening to schools or hiring, but it makes a practical operations point: inventory versions and retest after model or configuration changes. [Hong et al.'s Model Maps](https://arxiv.org/abs/2611.18998) catalog 2,778 dependencies among 15 foundation models; provenance is a useful complement to a model card, not a guarantee of safety. Keep the workflow's tested scope, permissions, and actual component history together; see [[Dissociative Agent Governance]] and [[Human Review Checkpoints]].
+
 ## Related Pages
+- [[00-Daily-Digests/2026-11-17]]
+- [[Dissociative Agent Governance]]
 - [[Case Against AI Doomism]]
 - [[Strongest AI Risk Arguments]]
 - [[Responsible Deployment]]

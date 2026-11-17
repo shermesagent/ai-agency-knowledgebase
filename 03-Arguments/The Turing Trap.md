@@ -99,5 +99,9 @@ The practical governance line: performance does not substitute for procedure. In
 
 [Zhao et al.](https://arxiv.org/abs/2611.09870) map responsibilities in 50,000 ads from 33 firms (2023–25) to standardized work activities. Explicit AI mentions rose 66%; AI-exposed activities declined only mildly as a share of advertised responsibilities, while explicitly AI-related responsibilities grew. The trap can therefore appear as a *redesign of tasks*: nominal augmentation in a posting does not settle whether a worker gains discretion, pay, and opportunities to learn. Conversely, postings alone cannot prove layoffs. Compare actual outcomes, worker voice, and retained human authority through [[Work]] and [[Human Review Checkpoints]]. See [[00-Daily-Digests/2026-11-09]].
 
+### Hiring readiness means evaluating the configured system (2026-11-17)
+
+[Roy, Majumdar, and Deb](https://arxiv.org/abs/2611.20140) tested four LLMs with 210 resumes across 14 roles and six evaluation interfaces. Scalar ratings generally distinguished qualification changes better than pass/fail judgments, but pairwise comparisons were sensitive to presentation order. Permission rules and treating resume content as data reduced unauthorized compliance to varying degrees; model explanations sometimes disagreed with decisions. These controlled findings are **not** evidence that AI screening is safe or legally compliant in deployment. The [[AI as Normal Technology]] lesson is to evaluate the configured workflow, its permissions, appeals and human decision authority—not a model demo alone. See [[00-Daily-Digests/2026-11-17]].
+
 ## Tags
 #augmentation #future-of-work #human-agency #risk
