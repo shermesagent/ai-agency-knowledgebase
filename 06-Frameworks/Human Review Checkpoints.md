@@ -123,6 +123,12 @@ Connect the overlap test to [[Agentic Verification]] and [[Responsible Deploymen
 
 [Wheeler et al.'s survey](https://arxiv.org/abs/2611.09730) suggests that a delegation design should distinguish automated execution from human final authority; these are scenario preferences, not a tested deployment policy. [Ding et al.'s adolescent-message study](https://arxiv.org/abs/2611.08565) adds a different limit: even capable models can be weaker at subjective judgments, such as perceived support, than at more observable states. Do not allow an inferred feeling or condition to trigger a consequential student action without consent, direct human account, safeguarding, and review. [WIRED's hands-on Gmail detector report](https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/) likewise warrants a pause before automatically archiving a message on an AI-writing label: access to private mail and false positives are part of the decision. Test the actual stop right; see [[Responsible Deployment]] and [[00-Daily-Digests/2026-11-09]].
 
+### Reversibility Is a Recovery Contract, Not a Tool Label (2026-11-18)
+
+[Waghmare and Sufi](https://arxiv.org/abs/2611.22075) propose five action reversibility classes with argument-sensitive rules and prior-state capture. Their registry covers 536 tools across 20 MCP servers; a session guard gated the associated action in 29 attributable attack-positive recorded runs (versus 18 using a read/write proxy), with nine added approvals across 1,209 benign runs. These are **recorded-run and controlled recovery checks**, not demonstrated production harm reduction or general registry accuracy. Recovery can fail when another person edits later, browser state is not preserved, or Git is mid-merge.
+
+**Checkpoint addition:** before approving a consequential action, record (1) what prior state is captured, (2) the actual rollback route and deadline, (3) whether a third party might observe an irreversible effect, and (4) who may stop or compensate if rollback is impossible. A draft email, a sent email and a payment are not the same permission. Test recovery on throwaway data before granting autonomy; keep the stop right in [[Responsible Deployment]] and the permission record in [[Agentic Verification]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]

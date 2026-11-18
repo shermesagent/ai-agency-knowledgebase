@@ -2452,3 +2452,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated 01-Core-Ideas/Dissociative Agent Governance.md; 03-Arguments/AI as Normal Technology.md; 03-Arguments/The Turing Trap.md; 05-Source-Library/Papers.md; Home.md.
 - Appended five arXiv source records to sources/sources.jsonl; one education position paper was originally submitted in August, not November.
 - WIRED interview considered but excluded from durable claims pending independent corroboration.
+
+## [2026-11-18] update | Oversight that can stop, check and recover
+- Created [[00-Daily-Digests/2026-11-18]] with five bounded arXiv findings and a non-sensitive purchasing experiment. Reviewed primary arXiv metadata and abstracts; four papers dated November 17, one September 15 newly reviewed.
+- Updated [[Education]] for student-built agents and simulated-stakeholder interviews; [[Human Review Checkpoints]] for action-specific reversibility; [[AI for Small Businesses]] for shopping-agent confidence versus accuracy; [[Balanced Governance]] for effective ethics oversight.
+- Updated [[05-Source-Library/Papers]] with five source entries, [[Home]] with recent activity, and appended five records to sources/sources.jsonl.
+- Caveat: all five are preprints; the educational studies do not establish K–12 effects, and the older governance study is not November incident evidence.

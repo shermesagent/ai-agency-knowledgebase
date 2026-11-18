@@ -409,6 +409,10 @@ The durable governance test is independent of whose logo is on the draft: map wh
 
 Together they suggest a governance question rather than a shared risk estimate: what measured condition stops or rolls back deployment, who has authority to act, and can an independent assessor inspect the relevant record? A successful demonstration and a published system card both provide evidence, but neither substitutes for a precommitted threshold and a tested fallback. See [[Responsible Deployment]] and [[Human Review Checkpoints]]. **Why it matters:** credible oversight needs an intervention trigger, not just reassuring documentation.
 
+## Ethics Oversight Needs Authority Under Pressure (2026-11-18)
+
+[Frimpong's comparative qualitative study](https://arxiv.org/abs/2611.21629) examines public governance documents, statements and reports concerning Google, OpenAI, Meta and Microsoft. It proposes *ethics suppression*: oversight formally exists, but its escalation power and practical influence diminish when competitive release pressure rises. This is a **2026-09-15 study newly surfaced for this wiki**, not new November corporate incident evidence or a causal estimate. Test the proposed failure mode locally: did a reviewer receive evidence before launch, could they delay or stop it, and was a dissent recorded and resolved? A policy document without an exercised stop right is not a sufficient safeguard. See [[Responsible Deployment]] and [[Human Review Checkpoints]].
+
 ## Related Pages
 - [[Responsible Deployment]]
 - [[Strongest AI Risk Arguments]]

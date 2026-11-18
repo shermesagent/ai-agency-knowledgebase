@@ -119,6 +119,7 @@ _Recent Git activity. Latest commits first._
 
 | Date | Pages Changed |
 |------|---------------|
+| 2026-11-18 | Education, Human Review Checkpoints, AI for Small Businesses, Balanced Governance, Papers, [[00-Daily-Digests/2026-11-18]], Home |
 | 2026-11-17 | AI as Normal Technology, The Turing Trap, Dissociative Agent Governance, Papers, 00-Daily-Digests/2026-11-17, Home |
 | 2026-11-16 | The Participation Problem, Agency Expansion Framework, Public Trust and AI, Papers, 00-Daily-Digests/2026-11-16, Home |
 | 2026-11-15 | AI as Copilot, Family and Personal Life, AI and Human Flourishing, Articles — Pass 95, 00-Daily-Digests/2026-11-15, Home |

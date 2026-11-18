@@ -130,6 +130,12 @@ In [Ben Thompson's November 5 interview with Intuit CEO Sasan Goodarzi](https://
 
 For an owner comparing bookkeeping products, request a fixed-price pilot and ask the accountant to show the closing packet, exceptions, source transactions and who signs off before filing or paying. Record the human review cost plus the tool's usage charge against the baseline close, rather than equating more agent activity with savings. Keep financial records in approved environments. This adds a price-predictability gate to [[Task-Level AI Adoption]] and keeps [[Digital Fiduciary Duty]] attached to transaction authority. **Why this matters:** AI that sells more services to an accountant has not necessarily expanded the business owner's financial control.
 
+### Shopping-Agent Confidence Is Not a Purchase Control (2026-11-18)
+
+[Krishnamoorthy and Han](https://arxiv.org/abs/2611.22033) benchmarked ten frontier models on three product-choice datasets drawn from WebShop, Amazon SQID and Wayfair WANDS. More reasoning effort did **not** yield a statistically meaningful improvement in choice quality across those benchmarks but did significantly raise self-reported confidence; errors were often shared across models. This preprint tests benchmark selections, **not live checkout, merchant conversion or every product category**. An owner should avoid treating confident AI purchase recommendations as verified orders or relying on a second model as independent corroboration.
+
+For a small-business purchasing pilot, have an authorized person verify SKU/specification, total landed price, seller and return terms against the source listing; cap spend, require confirmation before checkout, and track actual wrong-product returns and time saved against manual purchasing. Keep customer and payment details in approved systems. This builds on [[Human Review Checkpoints]] and [[Digital Fiduciary Duty]]: a prompt to “think harder” is not a transaction-control mechanism.
+
 ## Risks / Limits
 
 - Avoid treating one positive case study as universal proof.
