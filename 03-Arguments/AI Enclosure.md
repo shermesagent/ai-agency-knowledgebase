@@ -1,10 +1,10 @@
 ---
 title: AI Enclosure
 created: 2026-07-05
-updated: 2026-10-13
+updated: 2026-11-19
 type: concept
 tags: [governance, human-agency, risk, counterarguments]
-sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md]
+sources: [raw/articles/wired-meta-smart-glasses-subscription-2026-07.md, raw/articles/wired-summer-of-ludd-festival-2026-07.md, WIRED Anthropic IPO 2026-11-19]
 ---
 
 # AI Enclosure
@@ -246,6 +246,10 @@ Key numbers from the piece:
 [Grace Huckins's MIT Technology Review explainer](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) separates downloadable weights from disclosure of training data and from affordable hardware. Weights let researchers inspect and adapt a model, and can give institutions a local-data option; neither property guarantees ordinary people can run the model, audit its provenance, or share in the value of community improvements. Ghana NLP cofounder Paul Azunre specifically warns that firms can absorb unpaid community work into commercial products. This complicates this page's recurring open-weights-as-escape-hatch claim: **access to a file is not access to usable, reciprocal power**. [[Compute and Agency]] supplies the hardware gate; [[The Participation Problem]] supplies the question of who sets the terms and receives credit.
 
 The safety argument also resists a binary. Downloadable weights cannot be remotely revoked and can be modified to remove learned refusals; closed APIs can still be misused and their filters can fail. A staged-release review should ask what marginal misuse capability appears, how quickly defenders can obtain and use the same capability, who has the compute to participate, and whether community contributors have credit or compensation. The article reports expert arguments and examples, **not a quantified comparison proving that open or closed release is universally safer**.
+
+## Public Consent at the Infrastructure Gate (2026-11-19)
+
+[WIRED's November 19 report](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/) juxtaposes Anthropic's IPO and long-term compute commitments with local opposition to an under-construction West Virginia data center. The reported finance figures and company safety claims are journalistic reporting, not independently audited findings here; residents' land-use concerns are real stakeholder claims, not a generalizable assessment of all data centers. The enclosure test is concrete: can affected residents see projected energy, water, land, and cost impacts; influence siting; obtain enforceable benefits; and contest changed plans before construction? Without those levers, the public may bear part of the infrastructure risk while the operator controls the upside. See [[Compute and Agency]], [[Risk-Benefit Matrix]], and [[00-Daily-Digests/2026-11-19]].
 
 ## Tags
 

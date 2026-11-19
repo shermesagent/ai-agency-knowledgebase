@@ -1,10 +1,10 @@
 ---
 title: Case Against AI Doomism
 created: 2026-05-24
-updated: 2026-09-29
+updated: 2026-11-19
 type: concept
 tags: [ai-optimism, counterarguments, risk]
-sources: [arxiv 2606.06674, arxiv 2606.06572, arxiv 2606.04075, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026]
+sources: [arxiv 2606.06674, arxiv 2606.06572, arxiv 2606.04075, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026, arxiv 2611.23638, arxiv 2611.24609]
 confidence: medium
 ---
 
@@ -147,6 +147,12 @@ The week's [MIT Technology Review science-discovery analysis](https://www.techno
 - **Structural doesn't mean harmless.** The fact that a problem is structural rather than existential doesn't make it small. Value collapse could hollow out professional expertise across multiple fields within a decade. Preference flattening could produce AI systems that systematically misrepresent marginalized communities. The case against doomism is not a case for complacency.
 - **Existential risk may be real even if structural problems are more immediate.** The framing choice is not "existential vs. nothing" — it's about time horizons and leverage. Structural problems have near-term, observable consequences that can be addressed now. Existential risk work can and should continue in parallel.
 - **Some structural arguments are harder to solve than existential ones.** "Stop training frontier models" is conceptually simple (if politically impossible). "Redesign market structures so verification remains economical" is conceptually complex. Structural problems demand more sophisticated solutions, not fewer.
+
+## A Validity-and-Control Alternative to Fatalism (2026-11-19)
+
+[Zhang and Coston's preprint](https://arxiv.org/abs/2611.23638) finds that LLMs did not reliably handle decision-dependent targets without methodological guidance across the high-stakes scenarios tested. Explicit target, assumption, and estimation-procedure instructions produced 99–100% target-aligned code in those conditions; verbal recognition alone sometimes failed to translate into code. This supports an actionable alternative to both doomism and complacency: require a human analyst to specify and audit the *outcome being estimated* before optimizing a model. It does not prove safe deployment in child welfare, healthcare, or hiring. See [[Risk-Benefit Matrix]].
+
+[ALIGN](https://arxiv.org/abs/2611.24609) similarly asks whether stakeholders tasked with accountability actually have control over a high-risk AI workflow. Its railway-based method is an institutional design tool, not a tested universal fix. The optimism case is stronger when it includes named levers to stop and remedy harms, not an assurance that a nominal human is present. See [[Human Review Checkpoints]], [[Balanced Governance]], and [[00-Daily-Digests/2026-11-19]].
 
 ## Related Pages
 

@@ -96,5 +96,11 @@ Add a diagnostic gate before any tutoring or feedback pilot: on approved de-iden
 
 Add an observable check to any approved pilot: when a tutor supplies a plausible but questionable hint, can a learner **ask for evidence, check another source, revise the answer, and explain the revision unaided**? Record those actions separately from satisfaction or chat volume. Compare interaction styles without assuming that a friendlier persona is safer; require teacher review, accessible materials, and district-approved handling of any student interaction data. This extends [[AI Tutors]] and the delayed unaided gate in [[AI Field Experiment Evidence]].
 
+## Item Verification Versus Teacher Readiness (2026-11-19)
+
+[VeriMath](https://arxiv.org/abs/2611.23456) used 4,555 Vietnamese Grade 12 mathematics reference items and 50 generation requirements; its abstract reports verifier-accepted drafts for 47 of 50 requirements per run, while strict expert teacher-readiness acceptance reached **up to 56.8%**. This preprint supports a *two-gate evaluation design*, not a claim that generated items meet Texas TEKS: (1) independently verify computation, answer, format, and the **exact currently applicable TEKS expectation**; (2) ask teachers to blind-review readability, cognitive demand, misconception value, accessibility, and classroom fit. Count both gates separately. Do not put identifiable student responses in an unapproved system. See [[Education]], [[Risk-Benefit Matrix]], and [[00-Daily-Digests/2026-11-19]].
+
+[Hegeman et al.'s preregistered study](https://arxiv.org/abs/2611.23618) found a mismatch between the uncertainty display best calibrated for one 94%-accurate image classifier and the display that improved novices' later unaided calibration (N=300). The task was judging white-blood-cell images, **not** K–12 tutoring. In any approved learning pilot, test the model's own reliability and students' later independent reasoning separately; never use deliberately misleading probabilities as a classroom recommendation on this evidence alone. See [[AI Field Experiment Evidence]].
+
 ## Tags
 #ai-education #responsible-ai #practical-ai #risk

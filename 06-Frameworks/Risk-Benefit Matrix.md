@@ -1,10 +1,10 @@
 ---
 title: Risk-Benefit Matrix
 created: 2026-05-24
-updated: 2026-10-01
+updated: 2026-11-19
 type: concept
 tags: [responsible-ai, risk, governance, augmentation]
-sources: [arxiv 2606.04075, arxiv 2606.12797, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026, Import AI 460 June 2026, WIRED autonomous racing October 2026, Zvi White House accord September 2026]
+sources: [arxiv 2606.04075, arxiv 2606.12797, Anthropic RSI disclosure June 2026, OpenAI frontier governance blueprint June 2026, Import AI 460 June 2026, WIRED autonomous racing October 2026, Zvi White House accord September 2026, arxiv 2611.24609, arxiv 2611.23638]
 confidence: medium
 ---
 
@@ -170,6 +170,12 @@ If the Evidence Interface is weak, lower the Oversight Infrastructure score and 
 - [[Human Review Checkpoints]]
 - [[Agency Expansion Framework]]
 - [[Optimism Without Naivety]]
+
+## Control and Target Gates (2026-11-19)
+
+Two preprints sharpen the matrix's Oversight Infrastructure dimension. [Schneider, Boos and Grote's ALIGN](https://arxiv.org/abs/2611.24609) uses a railway use case to map *who bears responsibility against who can observe, intervene, stop, and remedy harm*. Before declaring a human accountable, document the real intervention window, access to relevant evidence, authority to halt and correct, and the party with recourse. Method development in one high-risk use case is not evidence of reduced incident rates. Connects to [[Human Review Checkpoints]] and [[Balanced Governance]].
+
+[Zhang and Coston](https://arxiv.org/abs/2611.23638) tested 11 models and seven prompting conditions for high-stakes prediction formulation. When past decisions influence observed outcomes, an LLM's plausible explanation may acknowledge this *decision dependency* while its code still estimates the wrong target. Their 99–100% target-aligned implementation under explicitly specified target, assumptions, and procedure is a result in their test conditions, not a fairness guarantee. Add a **target-validity gate** before the existing five dimensions: name what is predicted, whose prior decisions shape the observed labels, what counterfactual or estimation assumption is required, and have an independent analyst inspect the implementation. If the target is invalid, a strong score elsewhere cannot rescue deployment. See [[Case Against AI Doomism]] and [[00-Daily-Digests/2026-11-19]].
 
 ## Tags
 
