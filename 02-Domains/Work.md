@@ -180,5 +180,9 @@ This sharpens the junior-pathway concern above: the cost of delegation includes 
 
 [Verì's single-organization interview preprint](https://arxiv.org/abs/2611.14154) reports that 36 of 65 respondents using standardized instruments scored 4 or 5 on AI-use frequency, while 31 of those 36 reported no policy awareness or uncertainty about its details. Another 33 used *different response anchors*, so their scores should not be pooled as if they were comparable. Self-reported frequency is neither compliance nor effectiveness, and this case cannot estimate national adoption. In an internal, privacy-safe pilot, measure **use, policy comprehension and workflow benefit separately**; let staff describe policy uncertainty without treating it as a disciplinary admission. See [[Adoption Readiness Checklist]] and [[Human Agency]]. **Why this matters:** high tool use can coexist with weak organizational clarity.
 
+### Preserve useful colleague contact when AI answers first (2026-11-20)
+
+[Chow and colleagues' experimental vignettes](https://arxiv.org/abs/2611.25269) found lower intentions to seek colleagues' help on AI-enabled work scenarios, most clearly for brainstorming (248 knowledge workers). Visible AI use was associated with more help-seeking; these are reported intentions, not observed attrition or productivity effects. For a bounded internal workflow, compare AI-first and colleague-first brainstorming on quality, elapsed time, and whether a willing colleague's distinctive perspective was included. Keep sensitive work out of unapproved tools and never treat colleague contact as a compulsory performance target. [[Human Agency]] frames the social dimension; [[Education]] asks the parallel question for peer learning. **Why this matters:** a faster draft may have an invisible collaboration cost.
+
 ## Tags
 #future-of-work #augmentation #practical-ai #human-agency

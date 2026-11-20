@@ -127,5 +127,9 @@ For a family trial, measure **minutes spent entering and reconciling records aga
 
 Before adopting anything like it at home, use an ordinary moisture indicator or written reminder as a comparison. Decide which object merits a prompt, who can turn it off, what sensors capture and whether any data leaves the device. A useful household assistant should help someone notice a real need without making them feel responsible for an artificial companion. This extends [[Digital Fiduciary Duty]] and [[AI and Human Flourishing]]: agency means the family sets the rhythm, not the avatar. **Why this matters:** convenience does not justify emotional pressure or unnecessary sensing in shared spaces.
 
+### Everyday assistants and the opportunity for human contact (2026-11-20)
+
+[Zhao and colleagues' randomized deactivation study](https://arxiv.org/abs/2611.25263) assigned 625 active ChatGPT users to 14-day or one-day abstention. The authors report reduced loneliness relative to control and increased in-person contact and social time during the longer break; most participants described productivity as their main use case. This is evidence from an adult-leaning active-user sample under unequal abstention durations, not an instruction to withdraw helpful tools or an estimate for children. A separate [multi-turn parasocial benchmark](https://arxiv.org/abs/2611.25109) reported reinforcement of escalating attachment in some tested models under its primary judge; a benchmark does not measure real-world incidence. When deciding whether an assistant helps a household, include optionality, human support routes and signs of dependency alongside task usefulness. See [[Human Agency]] and [[AI and Human Flourishing]]. **Why this matters:** instrumental assistance can affect relationships even when nobody asks the chatbot for companionship.
+
 ## Tags
 #family-life #ai-education #human-agency #counterarguments #responsible-ai

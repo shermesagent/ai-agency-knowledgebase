@@ -414,5 +414,9 @@ For a Texas district, translate guidance into a one-page local implementation ma
 
 In a single-institution design course with eight teams (21 participants), [Mokryn and colleagues](https://arxiv.org/abs/2611.22740) found exploratory associations between the order of interviews with simulated and real stakeholders and how students used each source. Human-first groups more often used synthetic voices to revisit lived-experience insights; AI-first groups used them as an initial broad frame later reconsidered through human interviews. The design and small sample **do not establish a causal ordering rule**. For an approved, privacy-safe classroom task, have students gather a genuine human perspective first, use AI to generate *questions to test*, and label which conclusions come from actual people. This protects real stakeholder authority; see [[Human Agency]] and [[Balanced Governance]].
 
+### Peer comparison without surrendering authorship (2026-11-20)
+
+[Open Response Explorer](https://arxiv.org/abs/2611.25169) structures student open responses into purpose-labeled idea units and highlights comparable segments. A within-subjects lab study (N=12) examined usefulness, usability, and drafting/exploration practices; it did not establish learning gains in Texas classrooms. The transferable design principle is *student writes first, peers' ideas become discussable, teacher reviews the comparison*. A teacher could test a paper-based version with fictional examples before any approved classroom pilot; do not put identifiable student writing into unapproved AI services. Link to [[Human Agency]] for authorship and [[Work]] for the comparable value of human exchange. **Why this matters:** the goal is better thinking together, not merely more polished answers.
+
 ## Tags
 #ai-education #human-agency #practical-ai #responsible-ai

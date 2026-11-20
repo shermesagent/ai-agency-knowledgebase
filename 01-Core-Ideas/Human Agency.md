@@ -442,5 +442,11 @@ For [[Human Review Checkpoints]] and [[Digital Fiduciary Duty]], test a concrete
 - [[AI as Normal Technology]] — coworker framing and error detection
 - [[Dissociative Agent Governance]] — whistleblower and voice infrastructure
 
+### Relational agency and the missing contact metric (2026-11-20)
+
+Agency is not simply a faster individual answer. In [an online vignette experiment with 248 knowledge workers](https://arxiv.org/abs/2611.25269), AI-enabled tasks reduced *stated* colleague help-seeking, particularly in brainstorming; visible AI use was associated with more help-seeking. Separately, [a randomized deactivation experiment among 625 active ChatGPT users](https://arxiv.org/abs/2611.25263) reported less loneliness and more in-person interaction during a two-week abstention period compared with a one-day abstention control. Neither study demonstrates a universal causal effect of everyday AI use on relationships: the first measures intentions, the second compares different break lengths in a selected sample.
+
+The practical test for [[Work]] and [[Family and Personal Life]] is whether saved time increases the person's ability to seek advice, collaborate, and maintain relationships. Preserve optional human routes for ambiguous work and measure contact quality alongside task time; see [[AI and Human Flourishing]]. **Why this matters:** private productivity can increase while shared capacity quietly declines.
+
 ## Tags
 #human-agency #augmentation #superagency #ai-optimism #techno-humanism #governance #ai-agents

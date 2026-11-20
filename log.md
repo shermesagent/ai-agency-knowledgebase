@@ -2464,3 +2464,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Created `00-Daily-Digests/2026-11-19.md` with five findings, source qualifications, TEKS-aware non-student experiment, and page ideas.
 - Updated `06-Frameworks/AI Tutor Evaluation Checklist.md`, `06-Frameworks/Risk-Benefit Matrix.md`, `03-Arguments/Case Against AI Doomism.md`, `03-Arguments/AI Enclosure.md`, `05-Source-Library/Papers.md`, `05-Source-Library/Articles.md`, and `Home.md`.
 - Added five accepted records to `sources/sources.jsonl`; no raw source files altered. Review date is not publication date.
+
+## [2026-11-20] update | Relational agency and agent safety
+- Created 00-Daily-Digests/2026-11-20.md with five sourced findings, limits, and a privacy-safe practical experiment.
+- Updated 01-Core-Ideas/Human Agency.md, 02-Domains/Work.md, 02-Domains/Education.md, and 02-Domains/Family and Personal Life.md.
+- Indexed four preprints in 05-Source-Library/Papers.md and one WIRED report in 05-Source-Library/Articles.md; appended 5 source records to sources/sources.jsonl. Updated Home.md quick links.
+- Consider Relational Agency and Longitudinal Assistant Safety as future pages only with corroborating evidence.
