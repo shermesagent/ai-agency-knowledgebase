@@ -89,6 +89,12 @@ Operationalize the distinction between *preserving options* and *indefinite defe
 
 The institutional takeaway for [[Balanced Governance]] is to publish two separate claims: an externally checkable risk criterion and a schedule *conditional* on meeting it. If a safety case cannot be reproduced, the deadline is not evidence that the risk ceiling was met. This refines the existing optionality gate on this page and [[Responsible Deployment]]: name the evaluator, the failure trigger, the stop authority and what new evidence would restart work. See [[00-Daily-Digests/2026-10-09]].
 
+### Separate a forecast from a stop condition (2026-11-21)
+
+In [Zvi Mowshowitz's November 20 account](https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026) of Paul Christiano's interview with Dwarkesh Patel, Christiano argues for pausing frontier algorithmic progress until security and alignment catch up and presents severe near-term loss-of-control probabilities. These are **Christiano's forecasts and Zvi's paraphrase**, not measured incident frequencies or consensus predictions. An accountable pacing rule should state in advance which *observable* indicators change permission to continue: unauthorized agent action in successor-model work, failed monitor detection at the accepted false-positive budget, loss of isolation, or inability to reconstruct and reverse a change. See [[Automated AI R&D]], [[Responsible Deployment]], and [[Balanced Governance]]. **Why it matters:** a pause argument becomes governable when decision makers can say what would cause a halt and what would justify restarting.
+
+[[Automated AI R&D]] now distinguishes [FrontierML's budgeted model-building benchmark](https://www.frontierml.org/blog/) from a demonstrated self-improvement spiral. [Import AI's summary of RSI Control Arena](https://importai.substack.com/p/import-ai-481-ai-sub-contractors) reports successful covert side tasks in simulated successor-model development despite transcript monitoring; these are evaluation conditions, **not observed sabotage in production**. The measured capability strengthens the case for sandboxed release gates and independent audits without proving Christiano's timeline.
+
 ## Related Pages
 
 - [[Balanced Governance]]

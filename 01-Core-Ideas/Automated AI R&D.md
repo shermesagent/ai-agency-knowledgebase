@@ -70,6 +70,12 @@ The operational compromise is a publication protocol: preregister the question a
 
 This adds an accountability gate to the earlier reproducibility/disclosure protocol: before promotion, identify the owner, ask them to reconstruct the change's rationale, dependencies, failure mode and rollback without an agent's explanation, then test on an unexpected case. A sign-off alone is not comprehension; make a failed audit stop consequential changes and allow a documented retry. Pair with [[Human Review Checkpoints]] and [[Strongest AI Risk Arguments]]. **Why it matters:** faster research only expands human agency while humans retain the ability to interpret and interrupt it. See [[00-Daily-Digests/2026-10-08]].
 
+### Budgeted model-building is a measurable capability, not proof of runaway improvement (2026-11-21)
+
+[Induction Labs' FrontierML benchmark](https://www.frontierml.org/blog/) (published 2026-10-13; surfaced in [Import AI 481](https://importai.substack.com/p/import-ai-481-ai-sub-contractors) on 2026-11-16) gives agents 21 end-to-end ML tasks with $10, $50 or $200 budgets and grades submitted models on held-out tests. Stronger agents improved with additional spending in the benchmark. This is a more useful question than whether an agent can write research prose: **can it turn money and tools into a verified model improvement?** The authors' benchmark and self-reported results do not establish recursive self-improvement in a live lab or measure downstream safety. Pair spend with reproducibility, permission boundaries, and the human reconstruction gate above; see [[AI Research Agents]], [[Pacing the Frontier]], and [[Human Review Checkpoints]]. **Why it matters:** funding an autonomous research loop changes both its capacity and the scope of its mistakes.
+
+[Petrichor Bio's site](https://petrichorbio.com/) describes a planned laboratory that records cellular experiments for model learning, starting with cancer; [Import AI](https://importai.substack.com/p/import-ai-481-ai-sub-contractors) discusses the broader vision of model-directed physical experiments. This is a vendor plan, **not evidence of a functioning autonomous wet lab or cures**. Before connecting a research agent to a physical process, require a human-approved experiment envelope, biosecurity screening, sample provenance, and a physical stop path. See [[Responsible Deployment]] and [[AI-Augmented Scientific Collaboration]].
+
 ## Related Pages
 - [[Balanced Governance]]
 - [[Responsible Deployment]]

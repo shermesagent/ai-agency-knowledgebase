@@ -287,15 +287,15 @@ _See [[log]] for the full commit history._
 
 ## Staleness Tracker
 
-Pages that need curator attention. Counts cover 81 existing reader pages in 01–04 and 06, excluding section READMEs. Computed 2026-11-08 from latest Git commit dates, treating today's three edited durable pages as refreshed.
+Pages that need curator attention. Counts cover 81 existing reader pages in 01–04 and 06, excluding section READMEs. Computed 2026-11-21 from latest Git commit dates, treating today's three edited durable pages as refreshed.
 
 **Staleness by days since last edit:**
 
 | Age | Count | Examples |
 |-----|-------|----------|
-| 8+ days | 59 reader pages | Reasoning Trace Theft; The Expression Gap; Beyond Prompting |
-| 5–7 days | 6 reader pages | Healthcare; AI for School Districts |
-| < 5 days | 16 reader pages | AI and Creator Rights, Home Server AI Agents, AI-Augmented Scientific Collaboration (refreshed 11-08) |
+| 8+ days | 57 reader pages | Reasoning Trace Theft; The Expression Gap; Beyond Prompting |
+| 5–7 days | 7 reader pages | Digital Fiduciary Duty; AI and Creator Rights |
+| < 5 days | 17 reader pages | Automated AI R&D; Responsible Deployment; Pacing the Frontier (refreshed 11-21) |
 
 ---
 
@@ -303,7 +303,7 @@ Pages that need curator attention. Counts cover 81 existing reader pages in 01�
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-11-20|Today's Digest]] · [[00-Daily-Digests/2026-11-19|Previous Digest]]
+- [[00-Daily-Digests/2026-11-21|Today's Digest]] · [[00-Daily-Digests/2026-11-20|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

@@ -2470,3 +2470,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated 01-Core-Ideas/Human Agency.md, 02-Domains/Work.md, 02-Domains/Education.md, and 02-Domains/Family and Personal Life.md.
 - Indexed four preprints in 05-Source-Library/Papers.md and one WIRED report in 05-Source-Library/Articles.md; appended 5 source records to sources/sources.jsonl. Updated Home.md quick links.
 - Consider Relational Agency and Longitudinal Assistant Safety as future pages only with corroborating evidence.
+
+## [2026-11-21] update | Daily AI agency curation
+- Created [[00-Daily-Digests/2026-11-21]] with five findings and a no-system-change release-gate experiment.
+- Updated [[Automated AI R&D]], [[Responsible Deployment]], and [[Pacing the Frontier]] with bounded capability evidence, simulated monitor failures, patch reversibility, and explicit stop thresholds. Updated [[05-Source-Library/Articles]] and appended four accepted records to `sources/sources.jsonl`; Petrichor's undated vendor description remains contextual only, not an accepted independent source.
+- Refreshed [[Home]] quick links and Git-date staleness tracker (81 reader pages: 57 at 8+ days, 7 at 5–7 days, 17 under 5 days). Source citations and limitations checked; pre-existing broken wikilinks in Home/Articles/Responsible Deployment were not introduced by this run and are deferred to maintenance.
+- No email and no scheduler changes; Saturday source discovery used newsletters/news rather than arXiv RSS.
