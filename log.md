@@ -2476,3 +2476,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated [[Automated AI R&D]], [[Responsible Deployment]], and [[Pacing the Frontier]] with bounded capability evidence, simulated monitor failures, patch reversibility, and explicit stop thresholds. Updated [[05-Source-Library/Articles]] and appended four accepted records to `sources/sources.jsonl`; Petrichor's undated vendor description remains contextual only, not an accepted independent source.
 - Refreshed [[Home]] quick links and Git-date staleness tracker (81 reader pages: 57 at 8+ days, 7 at 5–7 days, 17 under 5 days). Source citations and limitations checked; pre-existing broken wikilinks in Home/Articles/Responsible Deployment were not introduced by this run and are deferred to maintenance.
 - No email and no scheduler changes; Saturday source discovery used newsletters/news rather than arXiv RSS.
+
+## [2026-11-22] ingest | Bank-agent restrictions and model system-card commentary
+- Created `00-Daily-Digests/2026-11-22.md` with five source-attributed findings and a no-credentials purchasing experiment.
+- Updated `01-Core-Ideas/Digital Fiduciary Duty.md`, `03-Arguments/AI Enclosure.md`, `04-Use-Cases/AI Executive Assistants.md`, and `06-Frameworks/Human Review Checkpoints.md` with credential, user-choice, and payment-gate implications.
+- Added WIRED and Zvi source records to `05-Source-Library/Articles.md` and `sources/sources.jsonl`; updated `Home.md` digest navigation.
+- Public Stratechery Nov. 17 page exposed only a teaser, so it was not used as substantive evidence. No email sent.

@@ -251,6 +251,10 @@ The safety argument also resists a binary. Downloadable weights cannot be remote
 
 [WIRED's November 19 report](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/) juxtaposes Anthropic's IPO and long-term compute commitments with local opposition to an under-construction West Virginia data center. The reported finance figures and company safety claims are journalistic reporting, not independently audited findings here; residents' land-use concerns are real stakeholder claims, not a generalizable assessment of all data centers. The enclosure test is concrete: can affected residents see projected energy, water, land, and cost impacts; influence siting; obtain enforceable benefits; and contest changed plans before construction? Without those levers, the public may bear part of the infrastructure risk while the operator controls the upside. See [[Compute and Agency]], [[Risk-Benefit Matrix]], and [[00-Daily-Digests/2026-11-19]].
 
+## Safety perimeter or captive channel? (2026-11-22)
+
+[WIRED reports](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) that multiple US banks are warning against or restricting third-party agents using customer credentials while building their own AI tools. Credential-sharing carries genuine fraud and liability risks; a ban alone does not prove anticompetitive intent. But a first-party-only route can also make the institution the gatekeeper for which assistants can act on a customer's behalf. A useful governance test is whether the bank offers revocable, auditable, limited-scope access to independent tools without requiring password sharing—and whether the consumer has a clear dispute route. This connects the loyalty standard in [[Digital Fiduciary Duty]] to the execution gate in [[Human Review Checkpoints]]. **Why it matters:** reducing unsafe access and preserving user choice must be designed together, rather than treated as mutually exclusive slogans.
+
 ## Tags
 
 #governance #human-agency #risk #counterarguments #practical-ai

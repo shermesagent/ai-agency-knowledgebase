@@ -129,6 +129,10 @@ Connect the overlap test to [[Agentic Verification]] and [[Responsible Deploymen
 
 **Checkpoint addition:** before approving a consequential action, record (1) what prior state is captured, (2) the actual rollback route and deadline, (3) whether a third party might observe an irreversible effect, and (4) who may stop or compensate if rollback is impossible. A draft email, a sent email and a payment are not the same permission. Test recovery on throwaway data before granting autonomy; keep the stop right in [[Responsible Deployment]] and the permission record in [[Agentic Verification]].
 
+### The agent-payment checkpoint (2026-11-22)
+
+[WIRED's November 22 bank-policy report](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) makes the transaction gate operational: before a shopping agent crosses from advice to payment, confirm the merchant, item, quantity, total, funding source, permitted account scope and who bears a mistake. If the only implementation needs a shared banking password, stop; a human can finish in the bank's own interface. A click-through approval is not adequate when the agent retains a standing session and can act again. This is a proposed design control from the reported policies, **not** a guarantee that banks will honor disputes. Pair with [[Digital Fiduciary Duty]] and [[AI Executive Assistants]].
+
 ## Related Pages
 - [[Agentic Workflow Patterns]]
 - [[Responsible Deployment]]
