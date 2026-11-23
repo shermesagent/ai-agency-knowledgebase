@@ -1,5 +1,9 @@
 # Articles
 
+## 2026-11-23 — Product harms and infrastructure rules
+- [States Sue SpaceX Over Grok Deepfakes](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/), Maddy Varner, WIRED (2026) — reports Oregon and Virginia allegations; not adjudicated findings. [[Responsible Deployment]]
+- [A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules](https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/), Molly Taft, WIRED (2026) — reports Williams–EPA meetings and agency recommendation, not universal permit outcomes. [[Responsible Deployment]]
+
 Curated source index for articles, research blogs, newsletters, and technical guides relevant to AI agency, Superagency, practical adoption, and responsible optimism.
 
 ## Accepted Sources

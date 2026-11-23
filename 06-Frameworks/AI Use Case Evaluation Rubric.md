@@ -3,6 +3,10 @@
 ## Core Idea
 A rubric for judging AI use cases by agency gain, user need, evidence, risk, privacy, operational fit, human oversight, cost, and learning value.
 
+## Product-evidence boundary (2026-11-23)
+
+[Palia, Gully and Brooks](https://arxiv.org/abs/2611.26923) distinguish an agent benchmark result from evidence about a *deployed product* with specific tools, permissions, safeguards and users. Their practitioner analysis and twelve illustrative contexts identify six evaluation challenges; the proposed transparency record is a reasoning aid, **not a validated safety certificate**. Add four fields to each rubric decision: exact product configuration and exposure; the harm the test actually measures; how outcomes are checked outside the test harness; and which deployment decision the evidence can support. A model score cannot by itself authorize a connected workflow. Cross-check [[Agentic Verification]] and [[Responsible Deployment]].
+
 ## Why It Matters
 Use-case selection is where responsible optimism becomes operational. A strong AI use case should expand human capability, have a clear user need, be measurable in context, and preserve accountability. Weak use cases create adoption theater: impressive demos, hidden review costs, brittle workflows, and avoidable risk.
 

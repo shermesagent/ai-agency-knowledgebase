@@ -1,5 +1,9 @@
 # Education
 
+## Standard-anchored teacher delegation (2026-11-23)
+
+[Farooq, Khan and Raza's Punjab study](https://arxiv.org/abs/2611.27533) interviewed 13 teachers, four administrators and one student and coded teachers' positions on twelve tasks. Nine teachers accepted AI drafts or substantial lesson-planning help, but none accepted AI-drafted learning objectives; teachers who accepted AI marking wanted explicit criteria. This **small, local qualitative study is not a district-wide preference estimate**. It suggests a practical school pilot: provide the actual adopted standard or assessment rubric before drafting, show output beside that standard, and budget teacher verification time. In Texas, map a draft to the exact applicable TEKS before use; the Pakistan study does **not** validate TEKS alignment. Preserve educator authority and student privacy; see [[AI Use Case Evaluation Rubric]] and [[Human Review Checkpoints]].
+
 ## Core Idea
 Education is one of the clearest domains for agency-amplifying AI: tutoring, feedback, lesson planning, accessibility, language support, classroom discussion, and administrative relief.
 

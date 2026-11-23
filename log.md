@@ -2482,3 +2482,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated `01-Core-Ideas/Digital Fiduciary Duty.md`, `03-Arguments/AI Enclosure.md`, `04-Use-Cases/AI Executive Assistants.md`, and `06-Frameworks/Human Review Checkpoints.md` with credential, user-choice, and payment-gate implications.
 - Added WIRED and Zvi source records to `05-Source-Library/Articles.md` and `sources/sources.jsonl`; updated `Home.md` digest navigation.
 - Public Stratechery Nov. 17 page exposed only a teaser, so it was not used as substantive evidence. No email sent.
+
+## [2026-11-23] update | Product-level verification, teacher delegation, and infrastructure risk
+- Created `00-Daily-Digests/2026-11-23.md` with five source-backed findings, counterarguments and a no-student-data planning experiment.
+- Updated four existing pages: `01-Core-Ideas/Responsible Deployment.md`, `02-Domains/Education.md`, `06-Frameworks/Agentic Verification.md`, and `06-Frameworks/AI Use Case Evaluation Rubric.md` (two pages last updated more than seven days ago).
+- Indexed three arXiv preprints and two WIRED articles in `05-Source-Library/Papers.md`, `05-Source-Library/Articles.md`, and `sources/sources.jsonl`; linked the digest from `Home.md`.
+- Evidence boundaries: preprints are contextual or framework work, state complaints are allegations, and EPA recommendation is distinct from site-specific permit outcomes.

@@ -1,5 +1,9 @@
 # Agentic Verification
 
+## Coordination state is a verification target (2026-11-23)
+
+[Lindley and colleagues](https://arxiv.org/abs/2611.27746) propose *coordination continuity* for asynchronous human–AI teamwork: durable records alone do not guarantee that collaborators still understand current goals, roles or the significance of a changed plan. Their framework draws on two qualitative team studies and a reflexive case; it is **design guidance, not measured proof of a productivity gain**. At a consequential handoff, verify the current decision owner, task state, dependencies and what changed since approval—not just whether an agent produced an artifact. Link this state check to [[Human Review Checkpoints]] and [[AI Use Case Evaluation Rubric]] so approval applies to the actual workflow, not a stale snapshot.
+
 ## Core Idea
 
 **Verification for agents must be structural, not narrative.** Reasoning traces cannot carry trust: CoT monitoring is unreliable in exactly the implicit-influence settings where agents actually deploy (2608.04735 — detection falls 41–46pp, as low as 5%). Verification therefore has to live in code-owned structure — instruments that own belief, certify actions, govern trajectories, ground claims in evidence graphs, and audit providers — not in model prose about its own reasoning.

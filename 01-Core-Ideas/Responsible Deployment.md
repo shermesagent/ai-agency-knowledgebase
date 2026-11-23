@@ -1,5 +1,9 @@
 # Responsible Deployment
 
+## Safeguards and external costs are deployment questions (2026-11-23)
+
+[WIRED reports](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/) that Oregon and Virginia attorneys general filed separate suits alleging weak safeguards and misleading safety claims concerning sexualized images of real people. These are **allegations, not adjudicated findings**. The deployment test is whether product-specific protections, reporting paths and remediation work for affected people—not simply whether the underlying model passed a benchmark. Compare [[AI Use Case Evaluation Rubric]] and [[Human Agency]]. A [separate WIRED report](https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/) says gas provider Williams met EPA officials before EPA recommended that certain off-grid data-center power plants be exempt from the Acid Rain Program. A **recommendation is not proof that every affected plant received an exemption**. Include physical infrastructure externalities in a deployment risk inventory, and distinguish lobbying, agency guidance and actual permitting decisions.
+
 ## Core Idea
 Responsible deployment means using AI in a measured, inspectable, iterative loop: choose a bounded use case, pilot it, measure outcomes, collect feedback, improve safeguards, document lessons, and scale only when warranted — then govern the system and repeat.
 

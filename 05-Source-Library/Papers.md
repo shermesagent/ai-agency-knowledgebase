@@ -1,5 +1,10 @@
 # Papers
 
+## 2026-11-23 — Product evidence, teacher delegation, and team coordination
+- [The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice](https://arxiv.org/abs/2611.26923), Palia, Gully and Brooks (2026) — practitioner analysis of evaluation limits for deployed agent products; [[AI Use Case Evaluation Rubric]].
+- [Standard-Anchored Delegation in Teachers’ Use of Generative AI](https://arxiv.org/abs/2611.27533), Farooq, Khan and Raza (2026) — small Punjab qualitative study of what teachers delegate when an external standard can check output; [[Education]].
+- [Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work](https://arxiv.org/abs/2611.27746), Lindley et al. (2026) — proposed framework for maintaining shared understanding in asynchronous agent work; [[Agentic Verification]].
+
 Curated source index for papers relevant to AI agency, Superagency, practical adoption, and responsible optimism.
 
 ## Accepted Sources
