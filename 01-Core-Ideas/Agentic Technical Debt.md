@@ -106,5 +106,11 @@ This adds a concrete debt item: workflows that log a successful tool call as a s
 
 [WikiTrace](https://arxiv.org/abs/2611.14320) links an agent's concise remembered lesson to a rationale and its original task trajectory so a later agent can inspect ambiguous or conflicting lessons before acting. The authors report better performance and less memory-induced degradation on five agent benchmarks against comparison memory methods and the same-insights-only baseline. This is benchmark evidence, not a production guarantee. **Memory provenance debt** accumulates when reusable instructions shed the evidence, context and failure conditions that justified them. To pay it down, store each lesson with its originating evidence, confidence and scope; on a consequential action, retrieve the source trace and verify that the present case fits. Retain trajectories only under appropriate access and retention controls: auditability is not permission to retain sensitive user or student information indefinitely. Connects [[Agentic Verification]] and [[Human Review Checkpoints]].
 
+### Verification debt is a claim-dependency problem (2026-11-24)
+
+[Celik and Al-Hashimi's commentary](https://arxiv.org/abs/2611.29434) proposes *verification debt*: AI can generate research claims faster than people can evaluate their evidence; unexamined claims carried into later decisions create outstanding validation work. The proposed remedy is a shared map from questions to claims, assumptions, sources, tests and decisions, with verification state and decision gates. This is a conceptual framework, not an empirical estimate of AI research harm or a validated intervention.
+
+Compared with agentic technical debt's stock of poorly governed workflows, verification debt is the unresolved evidence attached to *particular dependent claims*. Keep a small ledger: claim → underlying source/test → status (checked, contested, unverified) → owner → downstream decisions. If an upstream claim fails, reopen dependent decisions before promotion. [[Agentic Verification]] checks external effects; [[Human Review Checkpoints]] provides the consequential stop point. **Why this matters:** a polished synthesis can compound uncertainty as easily as knowledge unless the claim chain remains inspectable.
+
 ## Tags
 #ai-agents #governance #responsible-ai #future-of-work #risk

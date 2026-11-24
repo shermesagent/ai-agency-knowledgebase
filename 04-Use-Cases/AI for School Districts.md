@@ -86,6 +86,12 @@ The [WIRED report on Indigenous-language keyboard support](https://www.wired.com
 
 [Perspicacious](https://arxiv.org/abs/2611.13549) combines question generation and knowledge-component discovery for instructional designers. Its authors report a cost/time trade-off across 17 production runs and a formative, partly Wizard-of-Oz usability study with eight designers (mean SUS 78.8). This shows a potentially usable *authoring workflow*, not better student learning or correct alignment to Texas TEKS. A district pilot should map each generated question to the exact adopted TEKS student expectation and local scope and sequence, have a content expert inspect the answer key and cognitive demand, and retain the teacher's revision and approval. Do not use student records or unpublished secure assessment items in an unapproved platform. See [[AI Tutors]] and [[Human Review Checkpoints]].
 
+### Shadow-tool adoption is a support problem, not just a prohibition (2026-11-24)
+
+[Kelso and colleagues' educator/admin survey preprint](https://arxiv.org/abs/2611.28280) reports 375 educator and 21 administrator responses spanning K–12 and higher education. Educators named 1,373 app uses (494 unique apps); fewer than one in three reported awareness of institutional shadow-IT policy (30.3% K–12, 24.8% higher ed). These are survey reports, not an AI-only inventory, representative district prevalence estimate, or evidence of specific student-data breaches. Some educators reported continued use of tools they did not trust because alternatives were lacking.
+
+**District implication:** offer an approved-tool path and a non-punitive way to disclose an unapproved tool, then review actual data flows, contracts, accessibility, instructional purpose and alternatives before use. Measure policy comprehension and time to an approved alternative separately from seat count or warnings. Start with a hypothetical tool and no student identifiers; do not collect live classroom app histories in an unapproved AI system. Connect [[Responsible Deployment]] and [[Education]]: a ban without a workable substitute can shift risk out of sight.
+
 ## Related Pages
 - [[Education]]
 - [[AI Tutors]]

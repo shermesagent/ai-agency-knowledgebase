@@ -82,5 +82,11 @@ For a pilot, predeclare separate outcomes: blinded human-rated final quality, re
 
 Pilot rule: preregister both an independently rated task outcome and a participant-reported experience outcome, report denominators and missing responses separately, and do not collapse the two into one success score. A structured question list may improve the *visit handoff* while clinical benefit remains untested. Apply this measurement distinction to [[Healthcare]] and [[AI Use Case Evaluation Rubric]]; never copy private patient conversations into a district or unapproved evaluation system. **Why this matters:** agency means arriving with better questions, but confidence and clinical effect are different claims.
 
+## Reliability Withdrawal and Team Assistance (2026-11-24)
+
+[Liu's resilience framework](https://arxiv.org/abs/2611.28006), originally submitted September 7 and newly reviewed here, reanalyzes five public human–AI studies (1,074 analytic participants) to measure functional loss and recovery as AI advice becomes unreliable. It is a proposed measurement framework using existing study data, not a new K–12 trial. Add a planned challenge condition to field pilots: compare performance before advice degrades, during the challenge, and after the participant has a chance to recover; measure error recognition separately from confidence. Never intentionally degrade live advice in a consequential setting.
+
+[Schumann and colleagues' September 8 team-forecasting preprint](https://arxiv.org/abs/2611.28009), also newly reviewed, reports a 34-baseball-game controlled task: proactive scouting agents improved winner-prediction accuracy for small teams but did not show a statistical change for run-total predictions. Domain, task and baseline skill matter; these results cannot establish benefits in school meetings or general workplace decisions. For a low-risk rehearsal, compare human-only and source-checking-agent discussions on a public-information task, recording claim accuracy, interruption burden and whether humans still catch a planted *practice-only* bad claim. [[Work]] and [[AI Use Case Evaluation Rubric]] should evaluate the team, not the bot's fluency.
+
 ## Tags
 #research #practical-ai #augmentation #responsible-ai

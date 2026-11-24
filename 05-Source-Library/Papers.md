@@ -1,5 +1,12 @@
 # Papers
 
+## 2026-11-24 — Shadow tools, decision deferral and verification debt
+- [Investigating Shadow IT Use and Adoption in Educational Institutions and their Privacy Implications](https://arxiv.org/abs/2611.28280), Kelso et al. (submitted 2026-11-20) — educator/admin survey, not an AI-only incidence estimate; [[AI for School Districts]].
+- [When AI Should Not Decide: Evidence Sufficiency and Decision Stability in Automated Job Interviews](https://arxiv.org/abs/2611.28426), Alsayed (submitted 2026-11-20) — synthetic responses and provisional references, not validated recruitment outcomes; [[Work]].
+- [Managing Verification Debt: A Framework for Responsible Human-AI Research Partnerships](https://arxiv.org/abs/2611.29434), Celik and Al-Hashimi (submitted 2026-11-22) — conceptual claim-dependency framework; [[Agentic Technical Debt]].
+- [Measuring Human Resilience to Unreliable AI Assistance: A Stress-Test Framework for Human-AI Interaction](https://arxiv.org/abs/2611.28006), Liu (submitted 2026-09-07; newly reviewed today) — reanalysis and proposed measure; [[AI Field Experiment Evidence]].
+- [Evaluating the Participation of Proactive Scouting Agents in Real-time Human Team Meetings](https://arxiv.org/abs/2611.28009), Schumann et al. (submitted 2026-09-08; newly reviewed today) — small-team baseball forecasting, task-specific results; [[AI Field Experiment Evidence]].
+
 ## 2026-11-23 — Product evidence, teacher delegation, and team coordination
 - [The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice](https://arxiv.org/abs/2611.26923), Palia, Gully and Brooks (2026) — practitioner analysis of evaluation limits for deployed agent products; [[AI Use Case Evaluation Rubric]].
 - [Standard-Anchored Delegation in Teachers’ Use of Generative AI](https://arxiv.org/abs/2611.27533), Farooq, Khan and Raza (2026) — small Punjab qualitative study of what teachers delegate when an external standard can check output; [[Education]].

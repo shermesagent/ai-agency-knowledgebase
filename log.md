@@ -2488,3 +2488,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Updated four existing pages: `01-Core-Ideas/Responsible Deployment.md`, `02-Domains/Education.md`, `06-Frameworks/Agentic Verification.md`, and `06-Frameworks/AI Use Case Evaluation Rubric.md` (two pages last updated more than seven days ago).
 - Indexed three arXiv preprints and two WIRED articles in `05-Source-Library/Papers.md`, `05-Source-Library/Articles.md`, and `sources/sources.jsonl`; linked the digest from `Home.md`.
 - Evidence boundaries: preprints are contextual or framework work, state complaints are allegations, and EPA recommendation is distinct from site-specific permit outcomes.
+
+## [2026-11-24] update | Daily AI agency curation
+- Added 00-Daily-Digests/2026-11-24.md (five findings, scoped experiment).
+- Updated 04-Use-Cases/AI for School Districts.md, 02-Domains/Work.md, 01-Core-Ideas/Agentic Technical Debt.md, and 06-Frameworks/AI Field Experiment Evidence.md; added five source records to sources/sources.jsonl and references in 05-Source-Library/Papers.md; linked the digest from Home.md.
+- Two reviewed preprints were submitted in September rather than newly published today. Web search returned empty earlier in this run; primary arXiv abstracts were checked directly.

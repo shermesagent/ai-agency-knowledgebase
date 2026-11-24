@@ -184,5 +184,11 @@ This sharpens the junior-pathway concern above: the cost of delegation includes 
 
 [Chow and colleagues' experimental vignettes](https://arxiv.org/abs/2611.25269) found lower intentions to seek colleagues' help on AI-enabled work scenarios, most clearly for brainstorming (248 knowledge workers). Visible AI use was associated with more help-seeking; these are reported intentions, not observed attrition or productivity effects. For a bounded internal workflow, compare AI-first and colleague-first brainstorming on quality, elapsed time, and whether a willing colleague's distinctive perspective was included. Keep sensitive work out of unapproved tools and never treat colleague contact as a compulsory performance target. [[Human Agency]] frames the social dimension; [[Education]] asks the parallel question for peer learning. **Why this matters:** a faster draft may have an invisible collaboration cost.
 
+### An interview score is not sufficient hiring evidence (2026-11-24)
+
+[Alsayed's ESDSA preprint](https://arxiv.org/abs/2611.28426) tests evidence classification, quotation traceability and stability checks on synthetic interview responses. On 216 held-out responses the integrated method reported 85.19% actionable coverage and 3.80% disagreement against *AI-assisted provisional references*; a stability gate deferred 11 previously actionable decisions, ten of which had agreed with those references. This illustrates a coverage–abstention trade-off, not validated real-world hiring accuracy, fairness or a reason to delegate employment decisions to a model.
+
+For a hiring pilot, record the job-related criterion, supporting quotation, missing evidence, reason to defer and authorized human decision-maker. Audit equivalent phrasings and disparate effects before any deployment, with employment/legal review and no applicant records in unapproved tools. [[Human Review Checkpoints]] and [[Balanced Governance]] should treat an abstention as a legitimate outcome, not a failed automation.
+
 ## Tags
 #future-of-work #augmentation #practical-ai #human-agency
