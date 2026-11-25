@@ -1,5 +1,10 @@
 # AI Tutors
 
+## November 25, 2026 — Agency and cross-session boundaries
+An [18-student co-design workshop](https://arxiv.org/abs/2611.31573) found four tensions in reflective AI support: assistance versus reflection, timing versus self-regulation, visibility versus attention, and adaptation versus learner control. This is design evidence from programming and writing, not a K–12 learning-outcome trial. Offer an optional hint or reflection prompt, let the learner choose when to use it, and check whether the learner can explain the solution independently. See [[Human Agency]] and [[AI Tutor Evaluation Checklist]].
+
+A separate [tutor disclosure study](https://arxiv.org/abs/2611.31429) tested a persistent per-learner ledger to limit answers leaked across sessions. Simulated and small live-tutor tests reduced leakage for renumbered variants, but the live tests did **not** improve split-request leakage over a per-session gate. A persistent ledger also creates student-data retention and access risks; do not deploy it without approved privacy review and a deletion policy. More guardrails do not automatically mean more learner agency.
+
 ## Core Idea
 AI tutors can give timely explanations, practice, feedback, translation, scaffolding, and confidence-building support, especially when paired with teachers and good curriculum. The highest-value design is a tutor that helps students think, not a shortcut that simply gives answers.
 

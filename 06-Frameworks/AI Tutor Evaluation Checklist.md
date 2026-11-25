@@ -1,5 +1,10 @@
 # AI Tutor Evaluation Checklist
 
+## November 25, 2026 — Test autonomy and subgroup experience
+- **Choice of help:** Can learners dismiss or delay a reflection nudge and still request assistance? An [18-student co-design workshop](https://arxiv.org/abs/2611.31573) identified timing, attention and user control as design tensions, not proven improvements in learning.
+- **Independent demonstration:** Ask learners to solve or explain a comparable item *without* AI. A [randomized university graph-algorithm interface study](https://arxiv.org/abs/2611.31899) analyzed 282 post-task questionnaires: visual structure improved unadjusted usability and perceived-effectiveness ratings, not efficiency, satisfaction or post-use emotion. Ratings do not prove learning gains or K–12 transfer. Check results by device, prior chatbot experience and accessibility needs before rollout.
+- **Cross-session data:** If the tutor tracks prior answers to avoid cumulative disclosure, specify minimum retention, access, deletion and review of false blocks. A [ledger-defense preprint](https://arxiv.org/abs/2611.31429) reports lower variant leakage in simulations and small live tests, but no added live benefit for split requests beyond a per-session gate. Do not put student work into unapproved tools. See [[AI Tutors]] and [[Education]].
+
 ## Core Idea
 An AI tutor evaluation checklist helps schools and educators decide whether a tutoring tool actually supports learning, protects students, and fits instructional goals before procurement or classroom rollout.
 

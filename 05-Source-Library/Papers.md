@@ -1,5 +1,12 @@
 # Papers
 
+## 2026-11-25 — Learner choice, interface equity, agent attention and audit authority
+- [The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered Human-AI Interactions](https://arxiv.org/abs/2611.31573) — Fan et al.; arXiv preprint, announced 2026-11-25; 18-student co-design workshop, not a learning-outcome test; [[AI Tutors]], [[Human Agency]].
+- [Beyond Average Gains: Probing the Equity--Vulnerability Tension in Structured Visual AI for Learning](https://arxiv.org/abs/2611.31899) — Li et al.; arXiv preprint, announced 2026-11-25; randomized university interface study with 282 questionnaires; exploratory subgroup differences, not established learning gains; [[AI Tutor Evaluation Checklist]].
+- [Calm Agent: Reframing Agent Interaction around Intermittent Human Attention](https://arxiv.org/abs/2611.32009) — arXiv preprint, announced 2026-11-25; design position and desktop prototype, not a controlled effectiveness trial; [[Human Agency]].
+- [Audits Need Access, Data, and Compute. But How Much?](https://arxiv.org/abs/2611.31968) — arXiv preprint, announced 2026-11-25; framework and three audit tasks; resources vary with the audit question; [[Balanced Governance]].
+- [Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense](https://arxiv.org/abs/2611.31429) — arXiv preprint, announced as a cross-list on 2026-11-25; simulated and limited live tests with an important split-request limitation; [[AI Tutors]].
+
 ## 2026-11-24 — Shadow tools, decision deferral and verification debt
 - [Investigating Shadow IT Use and Adoption in Educational Institutions and their Privacy Implications](https://arxiv.org/abs/2611.28280), Kelso et al. (submitted 2026-11-20) — educator/admin survey, not an AI-only incidence estimate; [[AI for School Districts]].
 - [When AI Should Not Decide: Evidence Sufficiency and Decision Stability in Automated Job Interviews](https://arxiv.org/abs/2611.28426), Alsayed (submitted 2026-11-20) — synthetic responses and provisional references, not validated recruitment outcomes; [[Work]].

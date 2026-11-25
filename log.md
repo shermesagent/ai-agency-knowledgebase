@@ -2493,3 +2493,8 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Added 00-Daily-Digests/2026-11-24.md (five findings, scoped experiment).
 - Updated 04-Use-Cases/AI for School Districts.md, 02-Domains/Work.md, 01-Core-Ideas/Agentic Technical Debt.md, and 06-Frameworks/AI Field Experiment Evidence.md; added five source records to sources/sources.jsonl and references in 05-Source-Library/Papers.md; linked the digest from Home.md.
 - Two reviewed preprints were submitted in September rather than newly published today. Web search returned empty earlier in this run; primary arXiv abstracts were checked directly.
+
+## 2026-11-25 — Daily curator update
+- Reviewed five arXiv preprints/cross-list; distinguish design, perception, audit and tutor-defense evidence from validated K–12 outcomes.
+- Created `00-Daily-Digests/2026-11-25.md`; updated `01-Core-Ideas/Human Agency.md`, `03-Arguments/Balanced Governance.md`, `04-Use-Cases/AI Tutors.md`, `06-Frameworks/AI Tutor Evaluation Checklist.md`, `05-Source-Library/Papers.md`, `Home.md`, and appended five records to `sources/sources.jsonl`.
+- Source discovery was arXiv-heavy; do not treat unverified newsletter items as findings. No email sent.

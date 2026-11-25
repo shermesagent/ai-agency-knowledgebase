@@ -1,5 +1,8 @@
 # Human Agency
 
+## November 25, 2026 — The attention and choice test
+Learner agency has **task, cognitive and interaction** dimensions in a [small co-design workshop](https://arxiv.org/abs/2611.31573): an AI reflection prompt can protect reasoning while still taking away control of when to think. A separate [Calm Agent position paper and desktop prototype](https://arxiv.org/abs/2611.32009) proposes Delegate → Adjust → Check for background work so a user can return, understand state and change course. Neither source measures long-term agency gains. For [[AI Tutors]] and [[Responsible Deployment]], ask whether the person can decline an interruption, inspect what happened, and resume the task without losing context; protect attention without making oversight invisible.
+
 ## Core Idea
 Human agency is the capacity of people to understand their situation, make meaningful choices, act effectively, and learn from consequences. It is the core of techno-humanism: the belief that technology is valuable when it helps people become more capable, creative, connected, and free. In this wiki, AI matters when it increases that capacity rather than replacing it.
 

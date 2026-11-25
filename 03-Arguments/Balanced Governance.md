@@ -1,5 +1,8 @@
 # Balanced Governance
 
+## November 25, 2026 — Match audit resources to audit questions
+An [arXiv audit study](https://arxiv.org/abs/2611.31968) compares how model access, data and compute jointly affect audit success across three tasks. Its abstract reports diminishing returns for some additional model access, more importance for data and compute in traditional fairness audits, and more importance for model access in manipulation and lie-detection audits. This is not a universal minimum-resource threshold. Specify the question and an independent auditor's needed authority before claiming a vendor is audited; privacy and trade-secret constraints still require a governed access agreement. Connect to [[Responsible Deployment]] and [[Human Review Checkpoints]]: a dashboard without the resources to test the relevant failure mode is not meaningful oversight.
+
 ## Core Idea
 Balanced governance enables useful deployment while reducing harm through transparency, measurement, accountability, evaluation, and proportionate regulation. It should make good AI adoption easier and risky adoption harder.
 

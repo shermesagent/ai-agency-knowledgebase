@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-11-25|Daily AI Agency Digest — 2026-11-25]] (The learner-choice and audit-authority test)
 → [[00-Daily-Digests/2026-11-24|Daily AI Agency Digest — 2026-11-24]] (Shadow tools, deferral, and verification debt)
 → [[00-Daily-Digests/2026-11-23|Daily AI Agency Digest — 2026-11-23]] (Product-level verification and standard-anchored delegation)
 → [[00-Daily-Digests/2026-11-17|Daily AI Agency Digest — 2026-11-17]] (Versioned audits and bounded delegation)
