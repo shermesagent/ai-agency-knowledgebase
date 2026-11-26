@@ -191,6 +191,10 @@ The July removal of 13 named apps showed that takedown authority exists; this in
 
 [Cofone and Strandburg](https://arxiv.org/abs/2611.17980) propose treating algorithmic opacity as a principal–agent problem: disclose error profiles and outcome distributions by group to identify when stronger scrutiny is warranted, even if full technical details risk gaming or trade-secret loss. This is a **proposed legal/analytical test**, not an enacted requirement or validated fairness guarantee; group disparities are triggers to investigate, not proof of misconduct. In public deployment, publish what can be measured, who may contest a decision, and what cannot yet be audited. [[Balanced Governance]] and [[Government and Civic Life]] connect transparency to recourse rather than branding.
 
+## Transparency needs capacity and pre-deployment access (2026-11-26)
+
+[MIT Technology Review's public-records reporting](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/) shows how cheap AI-assisted requests and commercial data collection can raise demand on small public offices; throttling responses can protect staff time yet weaken a public right. Separately, [WIRED reports](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) that a UK FCA official said Meta declined a proposed joint sandbox test of its Muse agent before rollout. Meta says it has engaged constructively with regulators, and a declined joint test is not proof of legal noncompliance or product harm. Still, inviting oversight *before* a large release, and funding the institutions expected to handle AI-enabled demand, are more meaningful trust signals than disclosure language alone. See [[Government and Civic Life]] and [[Balanced Governance]]. **Why this matters:** public legitimacy depends on an actionable ability to inspect, contest and obtain a response.
+
 ## Related Pages
 - [[Optimism Without Naivety]]
 - [[Case for AI Optimism]]

@@ -2498,3 +2498,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Reviewed five arXiv preprints/cross-list; distinguish design, perception, audit and tutor-defense evidence from validated K–12 outcomes.
 - Created `00-Daily-Digests/2026-11-25.md`; updated `01-Core-Ideas/Human Agency.md`, `03-Arguments/Balanced Governance.md`, `04-Use-Cases/AI Tutors.md`, `06-Frameworks/AI Tutor Evaluation Checklist.md`, `05-Source-Library/Papers.md`, `Home.md`, and appended five records to `sources/sources.jsonl`.
 - Source discovery was arXiv-heavy; do not treat unverified newsletter items as findings. No email sent.
+
+## 2026-11-26 — Public-service capacity, testing access and verification
+- Added [[00-Daily-Digests/2026-11-26]] with five sourced findings and a staff-only request-clarity experiment.
+- Refreshed seven-day-plus stale pages [[Government and Civic Life]], [[Public Trust and AI]] and [[AI and Inequality]]; contrasted reporting and conceptual preprints with established evidence.
+- Indexed five sources in [[Articles]], [[Papers]] and `sources/sources.jsonl`; linked the digest in [[Home]].
+- No email sent. No cron configuration changed.

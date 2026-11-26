@@ -1,5 +1,10 @@
 # Papers
 
+## 2026-11-26 — Privacy, work and verification
+- [Beyond Disclosure: Compositional Privacy Harm in AI Systems](https://arxiv.org/abs/2611.33847) — Didhiti KC, Aritra Das, Bhavesh Neekhra and Debayan Gupta; arXiv preprint, submitted 2026-11-25; reliability 3/5, relevance 5/5. Legal/conceptual argument for lifecycle privacy review, not an adjudicated violation. [[Responsible Deployment]], [[Human Agency]].
+- [How AI Is Reconfiguring Work in India: A Task-Based Framework for Understanding Augmentation, Displacement, New Roles and the Changing Structure of Jobs](https://arxiv.org/abs/2611.34065) — Balaraman Ravindran, V. S. Srividhya, K. S. Venkatraghavan and Gokul S Krishnan; arXiv preprint, submitted 2026-11-25; reliability 3/5, relevance 5/5. Selected-sector task/job framework, not a global labor-market estimate. [[AI and Inequality]], [[Work]].
+- [The Socratic PAUSE: safeguarding scientific judgement at AI speed](https://arxiv.org/abs/2611.34222) — Abdulkadir Celik and Sir Bashir M. Al-Hashimi; arXiv preprint, submitted 2026-11-25; reliability 3/5, relevance 5/5. Proposed verification protocol, not an evaluated intervention; extends earlier verification-debt coverage. [[Agentic Technical Debt]], [[Human Review Checkpoints]].
+
 ## 2026-11-25 — Learner choice, interface equity, agent attention and audit authority
 - [The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered Human-AI Interactions](https://arxiv.org/abs/2611.31573) — Fan et al.; arXiv preprint, announced 2026-11-25; 18-student co-design workshop, not a learning-outcome test; [[AI Tutors]], [[Human Agency]].
 - [Beyond Average Gains: Probing the Equity--Vulnerability Tension in Structured Visual AI for Learning](https://arxiv.org/abs/2611.31899) — Li et al.; arXiv preprint, announced 2026-11-25; randomized university interface study with 282 questionnaires; exploratory subgroup differences, not established learning gains; [[AI Tutor Evaluation Checklist]].
