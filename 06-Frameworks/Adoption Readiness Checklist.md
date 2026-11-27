@@ -180,5 +180,9 @@ Before trusting an AI-produced aggregate in a decision: (1) repeat a fixed, appr
 - [[Balanced Governance]]
 - [[Agentic Workflow Patterns]]
 
+### Audit the measurement before gating a skill (2026-11-27)
+
+[Zhang and Long's source-code audit of SkillsBench](https://arxiv.org/abs/2611.33943) reanalyzes 7,554 public trials and flags grader dependence, placeholder skill directories and extra built-in skills in a harness. After multiple-testing correction, no task-level negative effect was statistically significant in their pooled analysis; a proposed gating rule's apparent 2–3 percentage-point gain did not replicate significantly on held-out runs, and a shuffled-label control produced a larger apparent gain. This is a preprint audit of **one benchmark**, not proof every skill is useful. Before removing a team skill because one test failed, record the actual loaded instructions and tools, freeze the grader, run paired trials, report uncertainty and test the decision rule on held-out work. [[Human Review Checkpoints]] remains necessary even with a favorable benchmark. **Why this matters:** a clean dashboard of pass rates can mislead when the measurement system itself changes the outcome.
+
 ## Tags
 #practical-ai #responsible-ai #tools #governance #counterarguments

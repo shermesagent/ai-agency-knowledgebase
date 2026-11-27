@@ -1,5 +1,10 @@
 # Papers
 
+## 2026-11-27 — Intent, benchmark validity and creative breadth
+- [Agentic Waterfall: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy](https://arxiv.org/abs/2611.34407) — Yige Luo and colleagues; arXiv preprint, 2026-11-25; reliability 3/5, relevance 5/5. Replay and simulated interaction histories support benchmark performance, not a demonstrated live autonomy gain. [[AI as Copilot]], [[Digital Fiduciary Duty]].
+- [What Does Skill Lift Actually Measure? A Source-Code-Level Audit and Noise-Aware Reanalysis of SkillsBench](https://arxiv.org/abs/2611.33943) — Haozhe Zhang and Zhen Long; arXiv preprint, 2026-11-25; reliability 3/5, relevance 5/5. Reanalysis warns against inferring harm from noisy task-level negative scores or selecting a gating rule on the same trials. [[Adoption Readiness Checklist]], [[Human Review Checkpoints]].
+- [Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks](https://arxiv.org/abs/2611.33192) — Manh Hung Nguyen, Chao Wen, Sebastian Tschiatschek and Adish Singla; arXiv preprint, 2026-11-15 (surfaced in current RSS); reliability 3/5, relevance 5/5. Two creative-task settings show quality/effort gains alongside declining group-level diversity. [[Creativity]], [[Co-Intelligence]].
+
 ## 2026-11-26 — Privacy, work and verification
 - [Beyond Disclosure: Compositional Privacy Harm in AI Systems](https://arxiv.org/abs/2611.33847) — Didhiti KC, Aritra Das, Bhavesh Neekhra and Debayan Gupta; arXiv preprint, submitted 2026-11-25; reliability 3/5, relevance 5/5. Legal/conceptual argument for lifecycle privacy review, not an adjudicated violation. [[Responsible Deployment]], [[Human Agency]].
 - [How AI Is Reconfiguring Work in India: A Task-Based Framework for Understanding Augmentation, Displacement, New Roles and the Changing Structure of Jobs](https://arxiv.org/abs/2611.34065) — Balaraman Ravindran, V. S. Srividhya, K. S. Venkatraghavan and Gokul S Krishnan; arXiv preprint, submitted 2026-11-25; reliability 3/5, relevance 5/5. Selected-sector task/job framework, not a global labor-market estimate. [[AI and Inequality]], [[Work]].

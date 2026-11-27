@@ -56,6 +56,7 @@ Unresolved questions worth revisiting — what should humans keep doing, what sh
 
 ### 00-Daily-Digests
 Daily curated research digests committed to Git by the scheduled research curator. Each includes an executive summary, best sources, tensions, practical applications, and a top insight.
+→ [[00-Daily-Digests/2026-11-27|Daily AI Agency Digest — 2026-11-27]] (The two-sided agency test)
 → [[00-Daily-Digests/2026-11-26|Daily AI Agency Digest — 2026-11-26]] (The capacity behind AI's cheap outputs)
 → [[00-Daily-Digests/2026-11-25|Daily AI Agency Digest — 2026-11-25]] (The learner-choice and audit-authority test)
 → [[00-Daily-Digests/2026-11-24|Daily AI Agency Digest — 2026-11-24]] (Shadow tools, deferral, and verification debt)
@@ -307,7 +308,7 @@ Pages that need curator attention. Counts cover 81 existing reader pages in 01�
 
 - [[SCHEMA]] — naming conventions, template requirements, tag taxonomy
 - [[README]] — mission and local usage
-- [[00-Daily-Digests/2026-11-22|Today's Digest]] · [[00-Daily-Digests/2026-11-21|Previous Digest]]
+- [[00-Daily-Digests/2026-11-27|Today's Digest]] · [[00-Daily-Digests/2026-11-26|Previous Digest]]
 - [[05-Source-Library/Knowledgebase Tool Comparison|Wiki Platform Comparison]]
 
 ## Tags

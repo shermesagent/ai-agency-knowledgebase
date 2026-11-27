@@ -1,5 +1,8 @@
 # Articles
 
+## 2026-11-27 — Exceptional operator leverage
+- [The Individual Exception](https://stratechery.com/2026/the-individual-exception/) — Ben Thompson, Stratechery, 2026-11-24; reliability 3/5, relevance 5/5. First-person report of agent-enabled individual building; not a representative worker productivity study. [[The Turing Trap]], [[AI as Copilot]].
+
 ## 2026-11-26 — Public records and agent oversight
 - [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/) — Matthew King, MIT Technology Review, 2026-11-25; reliability 4/5, relevance 5/5. Reporting on vendor demand and AI-assisted public-records requests; no national AI-specific request estimate. [[Government and Civic Life]], [[AI and Inequality]].
 - [Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) — Isabella Ward, WIRED, 2026-11-26; reliability 4/5, relevance 5/5. FCA official reports proposed joint test declined; Meta says it engaged with authorities; no legal finding implied. [[Public Trust and AI]], [[Balanced Governance]].

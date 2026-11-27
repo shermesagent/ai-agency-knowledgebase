@@ -150,5 +150,9 @@ Two sources converge on the relational edge of copiloting. The Tool-to-Entity Th
 
 The copilot design rule is **ask, don't interject** for low-stakes experiences: preserve a quiet default, let users request context, and evaluate factual accuracy against the item actually served. [[Family and Personal Life]] raises a related attention cost for expressive object agents; [[AI and Human Flourishing]] asks whether the feature makes an experience richer or simply busier. **Why this matters:** keeping a person nominally in control is insufficient if the interface repeatedly captures attention that the person did not offer.
 
+### Intent is a design choice, not just a personalization score (2026-11-27)
+
+[Luo and colleagues' Agentic Waterfall preprint](https://arxiv.org/abs/2611.34407) proposes a recommendation controller that combines explicit user requests, observed browsing and persistent state. Its replay evaluation uses simulated interaction histories alongside real content metadata; the reported relative improvement of up to 16.1% on its new dataset is a benchmark result, **not** evidence that real users gained autonomy. For a copilot, require an inspectable goal, an explicit way to change or erase inferred preferences, and a measure of whether suggestions advance the person's stated purpose instead of merely increasing engagement. [[Digital Fiduciary Duty]] asks whom this ranking serves; [[Human Agency]] asks whether the person can redirect it. **Why this matters:** an agent that infers intent without giving the user meaningful correction can simply make a more persuasive feed.
+
 ## Tags
 #augmentation #practical-ai #human-agency

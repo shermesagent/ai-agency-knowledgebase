@@ -103,5 +103,9 @@ The practical governance line: performance does not substitute for procedure. In
 
 [Roy, Majumdar, and Deb](https://arxiv.org/abs/2611.20140) tested four LLMs with 210 resumes across 14 roles and six evaluation interfaces. Scalar ratings generally distinguished qualification changes better than pass/fail judgments, but pairwise comparisons were sensitive to presentation order. Permission rules and treating resume content as data reduced unauthorized compliance to varying degrees; model explanations sometimes disagreed with decisions. These controlled findings are **not** evidence that AI screening is safe or legally compliant in deployment. The [[AI as Normal Technology]] lesson is to evaluate the configured workflow, its permissions, appeals and human decision authority—not a model demo alone. See [[00-Daily-Digests/2026-11-17]].
 
+### The individual exception is not a workforce forecast (2026-11-27)
+
+In [The Individual Exception](https://stratechery.com/2026/the-individual-exception/), Ben Thompson describes building several personal apps, hardware prototypes and a multi-computer agent harness in a few days. This is a first-person account of a highly skilled operator with substantial infrastructure, not a representative productivity experiment. The agency gain is real **for the author**; its distribution is unresolved. For any proposed one-person workflow, ask who can reproduce it with ordinary training, access and time, who verifies and maintains the resulting systems, and whether displaced team members receive new decision rights or opportunities. [[AI as Copilot]] describes the capability; [[Work]] and [[AI and Inequality]] keep the distributional question open. **Why this matters:** exceptional individual leverage can coexist with a narrower path into skilled work.
+
 ## Tags
 #augmentation #future-of-work #human-agency #risk

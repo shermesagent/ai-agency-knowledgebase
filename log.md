@@ -2504,3 +2504,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Refreshed seven-day-plus stale pages [[Government and Civic Life]], [[Public Trust and AI]] and [[AI and Inequality]]; contrasted reporting and conceptual preprints with established evidence.
 - Indexed five sources in [[Articles]], [[Papers]] and `sources/sources.jsonl`; linked the digest in [[Home]].
 - No email sent. No cron configuration changed.
+
+## [2026-11-27] update | Two-sided agency test in daily curation
+- Created `00-Daily-Digests/2026-11-27.md` with five sourced findings and a public-data-only agency-and-variety experiment.
+- Refreshed four durable pages: `01-Core-Ideas/AI as Copilot.md`, `03-Arguments/The Turing Trap.md`, `06-Frameworks/Adoption Readiness Checklist.md`, and `02-Domains/Creativity.md`; bounded claims to first-person reporting and preprint study settings.
+- Indexed one Stratechery article and three arXiv preprints in `05-Source-Library/Articles.md`, `05-Source-Library/Papers.md`, and `sources/sources.jsonl`; linked digest in `Home.md`.
+- No email sent. No cron configuration changed.
