@@ -1,5 +1,9 @@
 # Papers
 
+## 2026-11-28 — Scientific calibration and hardware-aware optimization
+- [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541) — Brian T. Weston, Alondra Torres Contreras and Aldair E. Gongora; arXiv preprint, 2026-11-16; reliability 3/5, relevance 5/5. In a bounded simulated physics task, nominal 95% intervals are severely miscalibrated for many models when simulator physics is missing. [[The Judge Problem]], [[Superagency]].
+- [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621) — AscendGYM research team; arXiv preprint, 2026-11-20; reliability 3/5, relevance 4/5. Proposes 48 real-workload-shaped optimization tasks and a speedup/token-cost metric; no deployment-level savings established. [[Compute and Agency]], [[The Judge Problem]].
+
 ## 2026-11-27 — Intent, benchmark validity and creative breadth
 - [Agentic Waterfall: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy](https://arxiv.org/abs/2611.34407) — Yige Luo and colleagues; arXiv preprint, 2026-11-25; reliability 3/5, relevance 5/5. Replay and simulated interaction histories support benchmark performance, not a demonstrated live autonomy gain. [[AI as Copilot]], [[Digital Fiduciary Duty]].
 - [What Does Skill Lift Actually Measure? A Source-Code-Level Audit and Noise-Aware Reanalysis of SkillsBench](https://arxiv.org/abs/2611.33943) — Haozhe Zhang and Zhen Long; arXiv preprint, 2026-11-25; reliability 3/5, relevance 5/5. Reanalysis warns against inferring harm from noisy task-level negative scores or selecting a gating rule on the same trials. [[Adoption Readiness Checklist]], [[Human Review Checkpoints]].

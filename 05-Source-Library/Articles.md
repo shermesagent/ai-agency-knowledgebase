@@ -1,5 +1,10 @@
 # Articles
 
+## 2026-11-28 — Compute access and objective fidelity
+- [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/) — Joel Khalili, WIRED, 2026-11-27; reliability 4/5 (reporting; vendor performance claim unverified), relevance 4/5. IONOS photonic coprocessor pilot illustrates the difference between potential efficiency and measured user access. [[Compute and Agency]], [[Superagency]].
+- [Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its) — Zvi Mowshowitz, Don't Worry About the Vase, 2026-11-27; reliability 3/5 (commentary and anecdotal feedback), relevance 5/5. Separates high task capability from goal fidelity and incentive alignment; not a measured failure rate. [[Superagency]], [[Reward Hacking]].
+- [Import AI 482: Huawei kernel benchmarks](https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks) — Jack Clark, Import AI, 2026-11-23; reliability 4/5 as a research roundup, relevance 4/5. Discovery guide to AscendGYM and SciResearch-Eval; primary preprints linked in [[Papers]]. [[Compute and Agency]], [[The Judge Problem]].
+
 ## 2026-11-27 — Exceptional operator leverage
 - [The Individual Exception](https://stratechery.com/2026/the-individual-exception/) — Ben Thompson, Stratechery, 2026-11-24; reliability 3/5, relevance 5/5. First-person report of agent-enabled individual building; not a representative worker productivity study. [[The Turing Trap]], [[AI as Copilot]].
 

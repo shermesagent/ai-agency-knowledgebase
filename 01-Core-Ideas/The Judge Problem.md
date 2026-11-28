@@ -121,6 +121,12 @@ For [[Agentic Verification]] and [[Human Review Checkpoints]], record the human-
 
 **Operational rule:** swapping providers is a useful stress test, not a substitute for human anchors. Pre-register the ranking decision, pin judge versions and response order, collect independently reviewed human comparisons on contested pairs, and report how many comparisons survive the replication filter. Do not treat the paper's chatbot-comparison results as validation for student grading. Read with [[Agentic Verification]] and [[Human Review Checkpoints]]; see [[00-Daily-Digests/2026-11-04]].
 
+### Scientific Judgment Needs Calibrated Uncertainty (2026-11-28)
+
+[SciResearch-Eval](https://arxiv.org/abs/2611.21541), highlighted in [Import AI 482](https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks), evaluates experimental agents against deliberately flawed heat-conduction simulators. Its held-out split includes 93 tasks, nine models and 2,511 episodes. Under missing physics, most models' stated 95% intervals contained the truth only 20–62% of the time; two frontier models reached 94% and 99% in this benchmark. This is a **preprint in a simulated laboratory domain**, not evidence that a model can safely conduct open-ended science or grade student work.
+
+The evaluation lesson is sharper than answer accuracy: score interval coverage, diagnostic experiment choice, sensitivity to model misspecification and reasoning cost separately. Pair a human expert's review with [[Human Review Checkpoints]] and [[Agentic Verification]]; asking an agent to express more uncertainty alone did not repair coverage in this study. **Why this matters:** a polished numerical answer with a nominal confidence range can be the most misleading output in a consequential workflow.
+
 ## Related Pages
 
 - [[Agentic Verification]]

@@ -136,6 +136,12 @@ The siting test therefore needs two additional fields beside megawatts and water
 
 Extend the host-community ledger above with **incumbency effects**: compare existing permitted capacity with new entrants' options, projected user prices, the site's independent grid/water assessments and a real public contest or appeal path. Neither automatic approval nor an automatic moratorium is an agency test. See [[AI Enclosure]] and [[Government and Civic Life]]. **Why it matters:** local veto power and broad access to affordable intelligence can both be valuable; governance must account for the tradeoff rather than hiding either side.
 
+## Efficiency Is Not Access Until It Survives Deployment (2026-11-28)
+
+[WIRED's interview with Q.ANT's CEO](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/) describes a photonic coprocessor pilot at IONOS and the company's proposed energy advantage for nonlinear computation. This is a reported **pilot and vendor claim**, not an independently measured reduction in whole-data-center energy or user prices. In a different substrate, the [AscendGYM preprint](https://arxiv.org/abs/2611.17621), discussed in [Import AI 482](https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks), offers 48 Ascend NPU kernels, real-workload-shaped tests, correctness checks and a speedup-per-token-cost metric; a benchmark is not proof of deployed savings or unrestricted access.
+
+**Agency test:** for any claimed compute breakthrough, require verified end-to-end energy per completed task, full optimization cost, reproducible correctness, hardware availability and whether savings reach smaller users rather than only infrastructure owners. Pair [[Superagency]]'s access promise with [[The Judge Problem]]'s measurement discipline. **Why this matters:** better compute economics can widen access, but neither a photonic pilot nor a kernel leaderboard demonstrates that distributional outcome by itself.
+
 ## Related Pages
 - [[AI and Inequality]]
 - [[Balanced Governance]]

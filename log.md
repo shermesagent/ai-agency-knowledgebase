@@ -2510,3 +2510,9 @@ Web tools: Tavily web_search RETURNED (day 31 — first working day since ~07-27
 - Refreshed four durable pages: `01-Core-Ideas/AI as Copilot.md`, `03-Arguments/The Turing Trap.md`, `06-Frameworks/Adoption Readiness Checklist.md`, and `02-Domains/Creativity.md`; bounded claims to first-person reporting and preprint study settings.
 - Indexed one Stratechery article and three arXiv preprints in `05-Source-Library/Articles.md`, `05-Source-Library/Papers.md`, and `sources/sources.jsonl`; linked digest in `Home.md`.
 - No email sent. No cron configuration changed.
+
+## [2026-11-28] update | Capability, calibration and access
+- Created `00-Daily-Digests/2026-11-28.md` with five source-backed findings and a public-material-only goal-fidelity experiment.
+- Refreshed three durable pages: `01-Core-Ideas/Superagency.md`, `01-Core-Ideas/The Judge Problem.md`, and `03-Arguments/Compute and Agency.md` (all last committed over seven days ago).
+- Indexed three articles and two primary preprints in `05-Source-Library/Articles.md`, `05-Source-Library/Papers.md`, and `sources/sources.jsonl`; linked the digest from `Home.md`.
+- Bounded commentary, preprints and vendor claims to their evidence; no email sent and no cron changes.
